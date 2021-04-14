@@ -1,0 +1,120 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2016-11-14
+layout: post,12,FALSE,NA,NA,unid,2016-11-14
+title: Issue 25,15,FALSE,NA,NA,unid,2016-11-14
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2016-11-14
+---,3,FALSE,NA,NA,unid,2016-11-14
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-11-14
+*Digested by R Weekly Members*,30,FALSE,NA,## Highlight,unid,2016-11-14
++ [Dot map of the 2016 presidential election in Dallas-Fort Worth](http://personal.tcu.edu/kylewalker/maps/dfw_election.html) - source code on [GitHub](https://github.com/walkerke/dfw-election-dot-map),201,FALSE,NA,## Highlight,link,2016-11-14
++ [One-page R Survival Guides](http://onepager.togaware.com/),61,FALSE,NA,## Highlight,link,2016-11-14
+<!--Mapping Election Results in Utah](http://juliasilge.com/blog/Election-Mapping/)-->,86,FALSE,NA,#### R & Election  - After,unid,2016-11-14
+<!--Mapping Election Results in Utah](https://cdn.rawgit.com/juliasilge/juliasilge.github.io/76e8a970a7259fe88e92ab4f37405ed5eda7b8de/figs/2016-11-11-Election-Mapping/unnamed-chunk-7-1.png)-->,192,FALSE,NA,#### R & Election  - After,unid,2016-11-14
++ [Not all forecasters got it wrong: Nate Silver does it again (again)](http://simplystatistics.org/2016/11/09/not-all-forecasters-got-it-wrong/),145,FALSE,NA,#### R & Election  - After,link,2016-11-14
++ [Dot map of the 2016 presidential election in Dallas-Fort Worth](http://personal.tcu.edu/kylewalker/maps/dfw_election.html) - source code on [GitHub](https://github.com/walkerke/dfw-election-dot-map),201,FALSE,NA,#### R & Election  - After,link,2016-11-14
+"<video width=""600"" controls autoplay loop preload=""auto"" poster=""https://cdn.rawgit.com/rweekly/image/master/2016-11-14/election.jpg"">",134,FALSE,NA,#### R & Election  - After,unid,2016-11-14
+"  <source src=""https://pbs.twimg.com/tweet_video/CxAWHpoVQAAHeCO.mp4"" type=""video/mp4"">",87,FALSE,NA,#### R & Election  - After,unid,2016-11-14
+Your browser does not support the video tag.,44,FALSE,NA,#### R & Election  - After,unid,2016-11-14
+</video>,8,FALSE,NA,#### R & Election  - After,unid,2016-11-14
++ [Deceit in Politics; An Analysis of PolitiFact Data](https://ntguardian.wordpress.com/2016/11/07/deceit-politics-analysis-politifact-data/),141,FALSE,NA,#### R & Election  - Before,link,2016-11-14
+"+ [A Bayesian election prediction, implemented with R and Stan](http://blog.revolutionanalytics.com/2016/11/a-bayesian-election-forecast.html)",142,FALSE,NA,#### R & Election  - Before,link,2016-11-14
++ [2016 US Presidential Election Forecast](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/safe_model_summary.md),134,FALSE,NA,#### R & Election  - Before,link,2016-11-14
++ [Analyzing Emotions using Facial Expressions in Video with Microsoft AI and R](https://blog.exploratory.io/analyzing-emotions-using-facial-expressions-in-video-with-microsoft-ai-and-r-8f7585dd0780#.pldvl457o),210,FALSE,NA,#### R & Election  - Before,link,2016-11-14
++ [Sentiment Analysis of the Three 2016 Presidential Debates](http://rpubs.com/ww44ss/Presidential_Debates_2016),112,FALSE,NA,#### R & Election  - Before,link,2016-11-14
+![Sentiment Analysis of the Three 2016 Presidential Debates](https://pbs.twimg.com/media/CvebcXaVMAAVTU_.jpg),109,FALSE,NA,#### R & Election  - Before,image,2016-11-14
++ [Election 2016: Tracking Emotions with R and Python](http://blog.revolutionanalytics.com/2016/10/debate-emotions.html),120,FALSE,NA,#### R & Election  - Before,link,2016-11-14
++ [The Polls of the Future Are Reproducible and Open Source](http://www.slate.com/articles/technology/future_tense/2016/11/the_polls_of_the_future_will_be_reproducible_and_open_source.html),189,FALSE,NA,#### R & Election  - Before,link,2016-11-14
++ [R resources for Election Night](http://www.computerworld.com/article/3139884/data-analytics/r-resources-for-election-night.html?nsdr=true),141,FALSE,NA,#### R & Election  - Before,link,2016-11-14
++ [Election 2016 — Debate Three on Twitter](https://medium.com/@swainjo/election-2016-debate-three-on-twitter-4fc5723a3872#.15db8s2gg),134,FALSE,NA,#### R & Election  - Before,link,2016-11-14
+![Election 2016 — Debate Three on Twitter](https://d262ilb51hltx0.cloudfront.net/max/2000/1*nlQqvuWaapexKVumGi0DBw.jpeg),120,FALSE,NA,#### R & Election  - Before,image,2016-11-14
++ [State and National Poll Aggregation](http://www.slate.com/features/pkremp_forecast/report.html),98,FALSE,NA,#### R & Election  - Before,link,2016-11-14
++ [You should re-encode high cardinality categorical variables](http://www.win-vector.com/blog/2016/11/you-should-re-encode-high-cardinality-categorical-variables/),164,FALSE,NA,#### Tutorials,link,2016-11-14
++ [Hierarchical models with RStan (Part 1)](https://biologyforfun.wordpress.com/2016/11/10/hierarchical-models-with-rstan-part-1/),130,FALSE,NA,#### Tutorials,link,2016-11-14
++ [Laplace noising versus simulated out of sample methods (cross frames)](http://www.win-vector.com/blog/2016/11/laplace-noising-versus-simulated-out-of-sample-methods-cross-frames/),182,FALSE,NA,#### Tutorials,link,2016-11-14
++ [Conditional Formatting of a Table in R](http://labrtorian.com/2016/11/07/conditional-formatting-of-a-table-in-r/),116,FALSE,NA,#### Tutorials,link,2016-11-14
+"<table class=""table table-condensed"">",37,FALSE,NA,#### Tutorials,unid,2016-11-14
+<thead>,7,FALSE,NA,#### Tutorials,unid,2016-11-14
+<tr>,4,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<th style=""text-align:left;"">   </th>",37,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<th style=""text-align:right;""> CPOE </th>",41,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<th style=""text-align:right;""> Verbal </th>",43,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<th style=""text-align:right;""> Written </th>",44,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<th style=""text-align:right;""> Cosigned </th>",45,FALSE,NA,#### Tutorials,unid,2016-11-14
+</tr>,5,FALSE,NA,#### Tutorials,unid,2016-11-14
+</thead>,8,FALSE,NA,#### Tutorials,unid,2016-11-14
+<tbody>,7,FALSE,NA,#### Tutorials,unid,2016-11-14
+<tr>,4,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:left;""> Med </td>",39,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #7dff7d"">49.3</span> </td>",140,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #ffbfbf"">8.7</span> </td>",139,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #ff6969"">42.0</span> </td>",140,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; border-radius: 4px; padding-right: 4px; color: darkorange; background-color: yellow"">75.30 (rank: 02)</span> </td>",174,FALSE,NA,#### Tutorials,unid,2016-11-14
+</tr>,5,FALSE,NA,#### Tutorials,unid,2016-11-14
+<tr>,4,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:left;""> Surg </td>",40,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #baffba"">30.0</span> </td>",140,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff"">4.0</span> </td>",139,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #ff0b0b"">66.0</span> </td>",140,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; border-radius: 4px; padding-right: 4px; color: darkorange; background-color: yellow"">52.00 (rank: 03)</span> </td>",174,FALSE,NA,#### Tutorials,unid,2016-11-14
+</tr>,5,FALSE,NA,#### Tutorials,unid,2016-11-14
+<tr>,4,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:left;""> ER </td>",38,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #00ff00"">89.5</span> </td>",140,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #ffd6d6"">7.0</span> </td>",139,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff"">3.5</span> </td>",139,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; border-radius: 4px; padding-right: 4px; color: darkgreen; background-color: lightgreen"">88.50 (rank: 01)</span> </td>",177,FALSE,NA,#### Tutorials,unid,2016-11-14
+</tr>,5,FALSE,NA,#### Tutorials,unid,2016-11-14
+<tr>,4,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:left;""> Orth </td>",40,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff"">8.0</span> </td>",139,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #ff0000"">23.0</span> </td>",140,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; padding: 0 4px; border-radius: 4px; background-color: #ff0000"">69.0</span> </td>",140,FALSE,NA,#### Tutorials,unid,2016-11-14
+"<td style=""text-align:right;""> <span style=""display: block; border-radius: 4px; padding-right: 4px; color: red; background-color: pink"">13.00 (rank: 04)</span> </td>",165,FALSE,NA,#### Tutorials,unid,2016-11-14
+</tr>,5,FALSE,NA,#### Tutorials,unid,2016-11-14
+</tbody>,8,FALSE,NA,#### Tutorials,unid,2016-11-14
+</table>,8,FALSE,NA,#### Tutorials,unid,2016-11-14
++ [Reproducible Finance with R: The Sharpe Ratio](https://www.rstudio.com/rviews/2016/11/09/reproducible-finance-with-r-the-sharpe-ratio/),138,FALSE,NA,#### Tutorials,link,2016-11-14
++ [Filled Chord Diagram in R using Plotly](http://moderndata.plot.ly/filled-chord-diagram-in-r-using-plotly/),109,FALSE,NA,#### Tutorials,link,2016-11-14
++ [Creating figures like the paper ‘Completeness of Digital Accessible Knowledge of Plants of Ghana’ Part 2](https://vijaybarve.wordpress.com/2016/11/08/creating-figures-like-the-paper-completeness-of-digital-accessible-knowledge-of-plants-of-ghana-part-2/),257,FALSE,NA,#### Tutorials,link,2016-11-14
++ [variance of an exponential order statistics](https://xianblog.wordpress.com/2016/11/10/variance-of-an-exponential-order-statistics/),135,FALSE,NA,#### Tutorials,link,2016-11-14
++ [sparklyr: a test drive on YARN](http://www.nodalpoint.com/sparklyr-on-yarn/),79,FALSE,NA,#### Tutorials,link,2016-11-14
++ [Raccoon Ch 2.2 – 2 sample t-test and paired t](http://www.quantide.com/raccoon-ch-2-2-2-sample-t-test-and-paired-t/),119,FALSE,NA,#### Tutorials,link,2016-11-14
++ [Image Classification in R using trained TensorFlow models](http://randomthoughtsonr.blogspot.com/2016/11/image-classification-in-r-using-trained.html),153,FALSE,NA,#### Tutorials,link,2016-11-14
++ [Webscraping with rvest: So Easy Even An MBA Can Do It!](http://www.programmingr.com/content/webscraping-rvest-easy-mba-can/),127,FALSE,NA,#### Tutorials,link,2016-11-14
++ [A Simple Guide to S3 Methods](http://njtierney.github.io/r/missing%20data/rbloggers/2016/11/06/simple-s3-methods/),117,FALSE,NA,#### Tutorials,link,2016-11-14
++ [Timeseries forecasting using extreme gradient boosting](http://ellisp.github.io/blog/2016/11/06/forecastxgb),111,FALSE,NA,#### Tutorials,link,2016-11-14
+![Timeseries forecasting using extreme gradient boosting](https://ellisp.github.io/img/0066-tcomp.png),102,FALSE,NA,#### Tutorials,image,2016-11-14
++ [I’ve started writing a ‘book’: Functional programming and unit testing for data munging with R](http://www.brodrigues.co/blog/2016-11-04-ive-started-writing-a-book-functional-programming-and-unit-testing-for-data-munging-with-r/),232,FALSE,NA,#### Tutorials,link,2016-11-14
++ [How the Ghana Floods animation was created](http://datascience-africa.org/2016/11/ghana-floods-animation-created/),117,FALSE,NA,#### R in the Real World,link,2016-11-14
++ [AirBnB grows by sharing data scientist knowledge](http://blog.revolutionanalytics.com/2016/11/airbnb-growth.html),116,FALSE,NA,#### R in Organization,link,2016-11-14
+![AirBnB grows by sharing data scientist knowledge](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb09515462970d-pi),134,FALSE,NA,#### R in Organization,image,2016-11-14
++ [R Views – a new perspective on R and RStudio](https://blog.rstudio.org/2016/11/08/r-views-a-new-perspective-on-r-and-rstudio/),129,FALSE,NA,#### R in Organization,link,2016-11-14
++ [Data Manipulation with sparklyr on Azure HDInsight](http://blog.revolutionanalytics.com/2016/11/data-manipulation-with-sparklyr-on-azure-hdinsight.html),155,FALSE,NA,#### R in Organization,link,2016-11-14
++ [New Course Series: Applied Finance with R](http://www.datacamp.com/community/blog/new-course-series-applied-finance-with-r),126,FALSE,NA,#### R in Organization,link,2016-11-14
++ [A Free Interactive Plotly R Tutorial](http://www.datacamp.com/community/blog/a-free-interactive-plotly-r-tutorial),117,FALSE,NA,#### R in Organization,link,2016-11-14
+"+ [New paper: “SPLASH, a hashed identifier for mass spectra”](http://chem-bla-ics.blogspot.com/2016/11/new-paper-splash-hashed-identifier-for.html)",147,FALSE,NA,#### R in Academia,link,2016-11-14
++ [Presenting Weighted Effect Coding](http://www.rensenieuwenhuis.nl/presenting-weighted-effect-coding/),104,FALSE,NA,#### R in Academia,link,2016-11-14
++ [7th MilanoR Meeting: download presentations](http://www.milanor.net/blog/7th-milanor-meeting-download-presentations/),120,FALSE,NA,## Resources,link,2016-11-14
++ [One-page R Survival Guides](http://onepager.togaware.com/),61,FALSE,NA,## Resources,link,2016-11-14
++ [rms 5.0-0](https://www.r-bloggers.com/major-update-to-rms-package-5-0-0/) - Regression Modeling Strategies.,110,FALSE,NA,## New Releases,link,2016-11-14
+"+ [anytime 0.1.0](http://dirk.eddelbuettel.com/blog/2016/11/07#anytime_0.1.0) - anytime aims to convert anything in integer, numeric, character, factor, ordered, ... format to POSIXct (or Date) objects.",202,FALSE,NA,## New Releases,link,2016-11-14
++ [gettz 0.0.3](http://dirk.eddelbuettel.com/blog/2016/11/07#gettz_0.0.3) - gettz provides a possible fallback in situations where Sys.timezone() fails to determine the system timezone.,185,FALSE,NA,## New Releases,link,2016-11-14
++ [DOM 0.4](http://stattech.wordpress.fos.auckland.ac.nz/2016-14-dom-version-0-4/) - The main change in this version is the addition of new functions that allow control over the Cascading Style Sheet (CSS) content of a web page.,228,FALSE,NA,## New Releases,link,2016-11-14
++ [Shiny Server (Pro) 1.5](https://blog.rstudio.org/2016/11/04/shiny-server-pro-1-5/),85,FALSE,NA,## New Releases,link,2016-11-14
++ [pkgKitten 0.1.4](http://dirk.eddelbuettel.com/blog/2016/11/13#pkgKitten_0.1.4) - Creating R Packages that purr,113,FALSE,NA,## New Releases,link,2016-11-14
++ [USA.county.data](https://github.com/Deleetdk/USA.county.data) - Open dataset of counties from the United States,114,FALSE,NA,## New Packages & Tools,link,2016-11-14
++ [knowledge-repo](https://github.com/airbnb/knowledge-repo) -  A next-generation curated knowledge sharing platform for data scientists and other technical professions from AirBnB.,181,FALSE,NA,## New Packages & Tools,link,2016-11-14
++ [packagedocs](http://ryanhafen.com/blog/packagedocs) - Build an R Package Documentation Website.,98,FALSE,NA,## New Packages & Tools,link,2016-11-14
++ [BelgiumMaps.StatBel](http://www.bnosac.be/index.php/blog/61-belgiummaps-statbel-r-package-with-administrative-boundaries-of-belgium) - R package with Administrative boundaries of Belgium.,190,FALSE,NA,## New Packages & Tools,link,2016-11-14
+"+ [regtools](https://matloff.wordpress.com/2016/11/07/my-regtools-package-is-now-on-cran/) - Tools for linear, nonlinear and nonparametric regression and classification.",169,FALSE,NA,## New Packages & Tools,link,2016-11-14
++ [crul](http://ropensci.org/blog/technotes/2016/11/09/crul-release) - an HTTP client.,86,FALSE,NA,## New Packages & Tools,link,2016-11-14
++ [trump](https://github.com/romainfrancois/trump) - Instantly segfault your R session.,87,FALSE,NA,## New Packages & Tools,link,2016-11-14
+![trump](https://cdn.rawgit.com/romainfrancois/trump/8f57e8831cec15002ec96267ea750ee10ffd5341/images/trump.png),111,FALSE,NA,## New Packages & Tools,image,2016-11-14
++ [ggloop](https://github.com/seasmith/ggloop) - Create 'ggplot2' Plots in a Loop,81,FALSE,NA,## New Packages & Tools,link,2016-11-14
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,## R Project Updates,unid,2016-11-14
+"+ The JIT byte code compiler is now enabled by default at level 3. This means functions will be compiled on first sue and top level loops will be compiled and then run. Thanks to Tomas Kalibera for extensive work to make this possible. For now, the compiler will not compile code containing explicit calls to `browser()`. This is to support single stepping from the `browser()` call. The JIT can be disabled using `compiler::enableJIT()`.",438,FALSE,NA,## R Project Updates,unid,2016-11-14
++ `R CMD check --no-stop-on-test-error` now continues running tests (in `tests/`) even if they give errors.,107,FALSE,NA,## R Project Updates,unid,2016-11-14
+"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>",93,FALSE,NA,## Upcoming Events,link,2016-11-14
+The conference about all things R and RStudio.<br />,52,FALSE,NA,## Upcoming Events,unid,2016-11-14
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">R-devel now has &quot;level 3&quot; byte-compiling, and e.g. &quot;empty&quot; nested loops run about twice as fast.<a href=""https://t.co/bnNo8XrI6F"">https://t.co/bnNo8XrI6F</a> <a href=""https://t.co/VFjNbnYZGB"">pic.twitter.com/VFjNbnYZGB</a></p>&mdash; Dirk Eddelbuettel (@eddelbuettel) <a href=""https://twitter.com/eddelbuettel/status/796375465149792256""></a></blockquote>",446,FALSE,NA,## Quote of the Week,unid,2016-11-14
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Here&#39;s a list of <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> packages, catered to those doing statistics in sports <a href=""https://t.co/UqMcrojEoL"">pic.twitter.com/UqMcrojEoL</a></p>&mdash; Michael Lopez (@StatsbyLopez) <a href=""https://twitter.com/StatsbyLopez/status/796014026094481408""></a></blockquote>",405,FALSE,NA,## Quote of the Week,unid,2016-11-14

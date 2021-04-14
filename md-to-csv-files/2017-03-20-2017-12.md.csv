@@ -1,0 +1,123 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2017-03-20
+layout: post,12,FALSE,NA,NA,unid,2017-03-20
+title: R Weekly 2017 Issue 12,29,FALSE,NA,NA,unid,2017-03-20
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-03-20
+is_podcast: true,16,FALSE,NA,NA,unid,2017-03-20
+podcast_title: 2017:12 Learning to learn,40,FALSE,NA,NA,unid,2017-03-20
+podcast_permalink: https://cloud.rweekly.org/2017-12.mp3,56,FALSE,NA,NA,unid,2017-03-20
+podcast_description: |,22,FALSE,NA,NA,unid,2017-03-20
+  <![CDATA[,11,FALSE,NA,NA,unid,2017-03-20
+"  <p>About the levels of data science class, learning to learn programming languages, hexagon sticker with R and more.</p>",122,FALSE,NA,NA,unid,2017-03-20
+  <ul>,6,FALSE,NA,NA,unid,2017-03-20
+"  <li>Read <a href=""https://www.rweekly.org/2017-12.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 12</a></li>",116,FALSE,NA,NA,unid,2017-03-20
+  </ul>,7,FALSE,NA,NA,unid,2017-03-20
+  <p></p>,9,FALSE,NA,NA,unid,2017-03-20
+  <ul> ,7,FALSE,NA,NA,unid,2017-03-20
+"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,NA,unid,2017-03-20
+  </ul> ,8,FALSE,NA,NA,unid,2017-03-20
+  <ul>   ,9,FALSE,NA,NA,unid,2017-03-20
+"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>   ",80,FALSE,NA,NA,unid,2017-03-20
+  </ul>,7,FALSE,NA,NA,unid,2017-03-20
+  <ul> ,7,FALSE,NA,NA,unid,2017-03-20
+"  <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>  ",75,FALSE,NA,NA,unid,2017-03-20
+  </ul>,7,FALSE,NA,NA,unid,2017-03-20
+  <ul>,6,FALSE,NA,NA,unid,2017-03-20
+"  <li><a href=""http://freemusicarchive.org/music/gillicuddy/Plays_Guitar_Again/01-adventure-darling"">Music by Gillicuddy</a></li>",129,FALSE,NA,NA,unid,2017-03-20
+  </ul>,7,FALSE,NA,NA,unid,2017-03-20
+  ]]>,5,FALSE,NA,NA,unid,2017-03-20
+podcast_size: 8445849,21,FALSE,NA,NA,unid,2017-03-20
+"podcast_duration: ""5:42""",24,FALSE,NA,NA,unid,2017-03-20
+"podcast_summary: About the levels of data science class, learning to learn programming languages, hexagon sticker with R and more.",130,FALSE,NA,NA,unid,2017-03-20
+"podcast_keywords: "", ggplot2""",29,FALSE,NA,NA,unid,2017-03-20
+podcast_subtitle: Learning to learn,35,FALSE,NA,NA,unid,2017-03-20
+---,3,FALSE,NA,NA,unid,2017-03-20
++ [On Programming Languages; Why My Dad Went From Programming to Driving a Bus](https://ntguardian.wordpress.com/2017/03/13/on-programming-languages-why-my-dad-went-from-programming-to-driving-a-bus/),200,FALSE,NA,### Highlight,link,2017-03-20
++ [slickR in Bookdown: Rendering Canonical Interactive User Manuals](https://metrumresearchgroup.github.io/slickR/),115,FALSE,NA,### Highlight,link,2017-03-20
++ [hexSticker](https://github.com/GuangchuangYu/hexSticker) - Hexagon sticker with R and ggplot2.,97,FALSE,NA,### Highlight,link,2017-03-20
++ [Exploring 2017 Retail Store Closings with R](https://rud.is/b/2017/03/19/exploring-2017-retail-store-closings-with-r/),121,FALSE,NA,### R in the Real World,link,2017-03-20
+![Exploring 2017 Retail Store Closings with R](https://raw.githubusercontent.com/rweekly/image/master/2017-03/12-closing-all.png),129,FALSE,NA,### R in the Real World,image,2017-03-20
++ [Because its Friday… The IKEA Billy index](https://longhowlam.wordpress.com/2017/03/17/because-its-friday-the-ikea-billy-index/),130,FALSE,NA,### R in the Real World,link,2017-03-20
++ [Looking at Biopics of Hollywood using #fivethirtyeight #ggplot2 #ggraph](https://pradeepadhokshaja.wordpress.com/2017/03/17/looking-at-biopics-of-hollywood-using-fivethirtyeight-ggplot2-ggraph/),197,FALSE,NA,### R in the Real World,link,2017-03-20
++ [Puts as Protection](http://timelyportfolio.blogspot.com/2017/03/puts-as-protection.html),91,FALSE,NA,### R in the Real World,link,2017-03-20
++ [Mapping Housing Data with R](https://realdataweb.wordpress.com/2017/03/16/mapping-housing-data-with-r/),106,FALSE,NA,### R in the Real World,link,2017-03-20
++ [Ingest and visualise Nomad Passport Index data](https://github.com/adamhsparks/Import_and_Visualise_Data_from_PDF_Using_R),125,FALSE,NA,### R in the Real World,link,2017-03-20
+![Ingest and visualise Nomad Passport Index data](https://raw.githubusercontent.com/rweekly/image/master/2017-03/12-plot-1.png),127,FALSE,NA,### R in the Real World,image,2017-03-20
++ [How many digits into pi do you need to go to find your birthday?](http://www.decisionsciencenews.com/2017/03/17/many-digits-pi-need-go-find-birthday/),153,FALSE,NA,### R in the Real World,link,2017-03-20
++ [Learning to learn - R Weekly Podcast 2017:12](https://www.youtube.com/watch?v=2aU8oFDul_w) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml),165,FALSE,NA,### Videos and Podcasts,link,2017-03-20
+"<iframe style=""margin-bottom: 20px;"" width=""560"" height=""315"" src=""https://www.youtube.com/embed/2aU8oFDul_w"" frameborder=""0"" allowfullscreen></iframe>",151,FALSE,NA,### Videos and Podcasts,unid,2017-03-20
+"+ [NSSD 34 F Dist](https://soundcloud.com/nssd-podcast/episode-34-f-dist) - Hilary and Roger discuss Stitch Fix's massive Algorithms Tour, reproducibility from a physical scientist perspective, and interpretability in machine learning.",235,FALSE,NA,### Videos and Podcasts,link,2017-03-20
++ [R and data journalism in New Zealand - Ihaka Lecture Series 2017](https://www.youtube.com/watch?v=hLVlZpi4azw),113,FALSE,NA,### Videos and Podcasts,link,2017-03-20
++ [The levels of data science class](http://simplystats.github.io/2017/03/16/evo-ds-class/),91,FALSE,NA,### Insights,link,2017-03-20
++ [Why I love R Notebooks](https://www.rstudio.com/rviews/2017/03/15/why-i-love-r-notebooks/),93,FALSE,NA,### Insights,link,2017-03-20
++ [Spatial Modeling Using Statistical Learning Techniques](http://r-spatial.org//r/2017/03/13/sperrorest-update.html),117,FALSE,NA,### Insights,link,2017-03-20
++ [What does more efficient Monte Carlo mean?](https://xianblog.wordpress.com/2017/03/17/what-is-more-efficient-monte-carlo/),125,FALSE,NA,### Insights,link,2017-03-20
++ [On Programming Languages; Why My Dad Went From Programming to Driving a Bus](https://ntguardian.wordpress.com/2017/03/13/on-programming-languages-why-my-dad-went-from-programming-to-driving-a-bus/),200,FALSE,NA,### Insights,link,2017-03-20
++ [Data Science at StitchFix](http://blog.revolutionanalytics.com/2017/03/data-science-at-stitchfix.html),105,FALSE,NA,### R in Organizations,link,2017-03-20
++ [Running R on Amazon Athena](https://aws.amazon.com/cn/blogs/big-data/running-r-on-amazon-athena/),100,FALSE,NA,### R in Organizations,link,2017-03-20
++ [Graphical and Latent Variable Modeling](https://m-clark.github.io/docs/sem),78,FALSE,NA,### Resources,link,2017-03-20
++ [Introduction to Generalized Additive Model](https://m-clark.github.io/docs/GAM.html),87,FALSE,NA,### Resources,link,2017-03-20
++ [slickR in Bookdown: Rendering Canonical Interactive User Manuals](https://metrumresearchgroup.github.io/slickR/),115,FALSE,NA,### Resources,link,2017-03-20
+"<video width=""600"" controls autoplay loop preload=""auto"" mute>",62,FALSE,NA,### Resources,unid,2017-03-20
+"  <source src=""https://raw.githubusercontent.com/rweekly/image/master/2017-03/12-C7JUd2kVAAA4Zl2.mp4"" type=""video/mp4"">",119,FALSE,NA,### Resources,unid,2017-03-20
+</video> ,9,FALSE,NA,### Resources,unid,2017-03-20
+"+ [Code, data & slides for 3-day network analysis workshop](http://eiko-fried.com/network-workshop/)",100,FALSE,NA,### Resources,link,2017-03-20
++ [Intro to Spatial Analysis in R](https://jafflerbach.github.io/spatial-analysis-R/intro_spatial_data_R.html),110,FALSE,NA,### Resources,link,2017-03-20
+"+ [1 dataset, 10 visualisations with R](http://colinfay.me/1-dataset-10-dataviz-with-r/)",88,FALSE,NA,### Tutorials,link,2017-03-20
++ [Quandl and Forecasting](https://www.rstudio.com/rviews/2017/03/17/quandl-and-forecasting/),93,FALSE,NA,### Tutorials,link,2017-03-20
+"+ [R + D3, A powerful and beautiful combo](http://rmnppt.com/2017/03/16/htmlwidget-example.html)",96,FALSE,NA,### Tutorials,link,2017-03-20
++ [Improved Python-style Logging in R](http://mazamascience.com/WorkingWithData/?p=1759),88,FALSE,NA,### Tutorials,link,2017-03-20
++ [AUC Meets the Wilcoxon-Mann-Whitney U-Statistic](http://blog.revolutionanalytics.com/2017/03/auc-meets-u-stat.html),118,FALSE,NA,### Tutorials,link,2017-03-20
++ [Bar bar plots but not Babar plots](http://www.masalmon.eu/2017/02/19/babarplot/),83,FALSE,NA,### Tutorials,link,2017-03-20
++ [K-means clustering demonstrated ](http://eranraviv.com/understanding-k-means-clustering/),92,FALSE,NA,### Tutorials,link,2017-03-20
++ [How Reproducible Data Analysis Scripts Can Help You Route Around Data Sharing Blockers](https://blog.ouseful.info/2017/03/14/how-reproducible-data-analysis-scripts-can-help-you-route-around-data-sharing-blockers/),216,FALSE,NA,### Tutorials,link,2017-03-20
+"+ [Writing manuscripts in Rstudio, easy citations](http://rmhogervorst.nl/cleancode/blog/2017/03/14/writing-manuscripts-in-rstudio.html)",136,FALSE,NA,### Tutorials,link,2017-03-20
++ [Ensemble Methods are Doomed to Fail in High Dimensions](http://andrewgelman.com/2017/03/15/ensemble-methods-doomed-fail-high-dimensions/),140,FALSE,NA,### Tutorials,link,2017-03-20
++ [How To Set Up R on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-r-on-ubuntu-14-04),117,FALSE,NA,### Tutorials,link,2017-03-20
++ [Plotting trees from Random Forest models with ggraph](https://shiring.github.io/machine_learning/2017/03/16/rf_plot_ggraph),126,FALSE,NA,### Tutorials,link,2017-03-20
+![Plotting trees from Random Forest models with ggraph](https://raw.githubusercontent.com/rweekly/image/master/2017-03/12-tree.png),131,FALSE,NA,### Tutorials,image,2017-03-20
++ [2D contours of several penalty functions in statistics as GIF images](http://www.alexejgossmann.com/contours_of_statistical_penalty_functions_as_GIFs/),154,FALSE,NA,### Tutorials,link,2017-03-20
++ [Another R [Non-]Standard Evaluation Idea](http://www.win-vector.com/blog/2017/03/another-r-non-standard-evaluation-idea/),124,FALSE,NA,### Tutorials,link,2017-03-20
+"+ [Neural Networks: How they work, and how to train them in R](http://blog.revolutionanalytics.com/2017/03/neural-networks-r.html)",130,FALSE,NA,### Tutorials,link,2017-03-20
++ [Benchmarking rxNeuralNet for OCR](http://blog.revolutionanalytics.com/2017/03/benchmarking-rxneuralnet.html),111,FALSE,NA,### Tutorials,link,2017-03-20
++ [Native support for candlestick charts in Plotly and R](http://moderndata.plot.ly/native-support-for-candlestick-charts-in-plotly-and-r/),139,FALSE,NA,### Tutorials,link,2017-03-20
++ [Simulations to explore excessive lagged X variables in time series modelling](http://ellisp.github.io/blog/2017/03/12/stepwise-timeseries),141,FALSE,NA,### Tutorials,link,2017-03-20
++ [Experimenting With Sankey Diagrams in R and Python](https://blog.ouseful.info/2017/03/17/experimenting-with-sankey-diagrams-in-r-and-python/),144,FALSE,NA,### Tutorials,link,2017-03-20
+![Experimenting With Sankey Diagrams in R and Python](https://raw.githubusercontent.com/rweekly/image/master/2017-03/12-dropbox_parlidata_rdemos_sankeyflow_html4.png),166,FALSE,NA,### Tutorials,image,2017-03-20
++ [Book Review: Testing R Code](http://blog.revolutionanalytics.com/2017/03/review-testing-r-code.html),103,FALSE,NA,### Tutorials,link,2017-03-20
++ [Unit Testing in R](http://www.rblog.uni-freiburg.de/2017/03/14/unit-testing-in-r/),85,FALSE,NA,### Tutorials,link,2017-03-20
+"+ [Adding figure labels (A, B, C, …) in the top left corner of the plotting region](https://logfc.wordpress.com/2017/03/15/adding-figure-labels-a-b-c-in-the-top-left-corner-of-the-plotting-region/)",197,FALSE,NA,### Tutorials,link,2017-03-20
+"+ [The R qgraph Package: Using R to Visualize Complex Relationships Among Variables in a Large Dataset, Part One](https://dmwiig.net/2017/03/10/the-r-qgraph-package-using-r-to-visualize-complex-relationships-among-variables-in-a-large-dataset-part-one/)",253,FALSE,NA,### Tutorials,link,2017-03-20
+"+ [R, GIS, and fuzzyjoin to reconstruct demographic data for NUTS regions of Denmark](https://ikashnitsky.github.io/2017/denmark-nuts-reconstruction/)",150,FALSE,NA,### Tutorials,link,2017-03-20
+"+ [4 tricks for working with R, Leaflet and Shiny](http://www.r-graph-gallery.com/2017/03/14/4-tricks-for-working-with-r-leaflet-and-shiny/)",140,FALSE,NA,### Tutorials,link,2017-03-20
++ [Data Visualization – Part 1](https://www.stoltzmaniac.com/data-visualization-part-1/),88,FALSE,NA,### Tutorials,link,2017-03-20
++ [mathpix](https://github.com/jonocarroll/mathpix) - Convert images of mathematical equations to LaTeX for inclusion in rmarkdown documents ,141,FALSE,NA,### New Packages & Tools,link,2017-03-20
++ [PWFSLSmoke](http://mazamascience.com/WorkingWithData/?p=1755) - Utilities for Working with Air Quality Monitoring Data,121,FALSE,NA,### New Packages & Tools,link,2017-03-20
++ [mlrMBO](https://mlr-org.github.io/First_release_of_mlrMBO_the_toolbox_for_Bayesian_Black_Box_Optimization/) - the toolbox for (Bayesian) Black-Box Optimization,162,FALSE,NA,### New Packages & Tools,link,2017-03-20
++ [hexSticker](https://github.com/GuangchuangYu/hexSticker) - Hexagon sticker with R and ggplot2.,97,FALSE,NA,### New Packages & Tools,link,2017-03-20
+"<p><img style=""border: initial; -webkit-border-radius: initial; box-shadow: initial; height: 300px;"" src=""https://raw.githubusercontent.com/GuangchuangYu/hexSticker/21c7e4b8a6ddbbea83c95bcc93eeb37eb5400191/inst/figures/lattice.png"" alt=""hexSticker""></p>",253,FALSE,NA,### New Packages & Tools,unid,2017-03-20
+"+ [iheatmapr](https://github.com/AliciaSchep/iheatmapr) -  Complex, interactive heatmaps in R",93,FALSE,NA,### New Packages & Tools,link,2017-03-20
++ [ncaa_bball_data](https://github.com/mkearney/ncaa_bball_data) - NCAA basketball team level data with tourney outcomes,120,FALSE,NA,### New Packages & Tools,link,2017-03-20
++ [unit](https://edzer.github.io/units/articles/measurement_units_in_R.html) - Measurement units in R,101,FALSE,NA,### New Packages & Tools,link,2017-03-20
++ [Rcpp 0.12.10](http://dirk.eddelbuettel.com/blog/2017/03/19/#rcpp_0.12.10) - Provides C++ classes that greatly facilitate interfacing C or C++ code in R.,155,FALSE,NA,### New Releases,link,2017-03-20
++ [RcppEigen 0.3.2.9.1](http://dirk.eddelbuettel.com/blog/2017/03/15#rcppeigen_0.3.2.9.1) - Rcpp Integration for the 'Eigen' Templated Linear Algebra Library,157,FALSE,NA,### New Releases,link,2017-03-20
++ [imager 0.40.1](https://cran.r-project.org/web/packages/imager/vignettes/pixsets.html) - Image Processing Library Based on `CImg`,131,FALSE,NA,### New Releases,link,2017-03-20
+"+ [doFuture 0.4.0](http://www.jottr.org/2017/03/dofuture-universal-foreach-adapator.html) - doFuture: A universal foreach adaptor ready to be used by 1,000+ packages",165,FALSE,NA,### New Releases,link,2017-03-20
++ [future 1.4.0](https://cran.r-project.org/package=future) - future: Unified Parallel and Distributed Processing in R for Everyone,131,FALSE,NA,### New Releases,link,2017-03-20
++ [future.BatchJobs 0.14.0](https://cran.r-project.org/package=future.BatchJobs) - future.BatchJobs: A Future API for Parallel and Distributed Processing using BatchJobs,169,FALSE,NA,### New Releases,link,2017-03-20
++ [canvasXpress 0.14.7](https://github.com/neuhausi/canvasXpress) - canvasXpress was developed as the core visualization component for bioinformatics and systems biology analysis at Bristol-Myers Squibb.,203,FALSE,NA,### New Releases,link,2017-03-20
+"<p><img style=""height:300px;"" src=""https://raw.githubusercontent.com/rweekly/image/master/2017-03/12-C6wMjJ0VoAAwsZv.jpeg"" alt=""canvasXpress 0.14.7""></p>",153,FALSE,NA,### New Releases,unid,2017-03-20
++ [R Google Summer of Code 2017](https://github.com/rstats-gsoc/gsoc2017/wiki/table%20of%20proposed%20coding%20projects) - [Organization Page](https://summerofcode.withgoogle.com/organizations/4947241283354624/) - Students will contribute to free/open-source R packages for 3 months during the summer. Mentors get code written for their project.,345,FALSE,NA,### Call for Participation,link,2017-03-20
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,### R Project Updates,unid,2017-03-20
+"+ When the condition `code` in `if(.)` or `while(.)` is not of length one, an error instead of a warning may be triggered by setting an environment variable, see the help page. ",177,FALSE,NA,### R Project Updates,unid,2017-03-20
+"+ `sample()` now uses two uniforms for added precision when the uniform generator is `Knuth-TAOCP`, `Knuth-TAOCP-2002`, or a user-defined generator and the population size is 2^25 or greater. ",192,FALSE,NA,### R Project Updates,unid,2017-03-20
++ There is support for compiling C++14 or C++17 code in packages on suitable platforms: see `Writing R Extensions` for how to request this.,139,FALSE,NA,### R Project Updates,unid,2017-03-20
++ `configure` tests for a C++17-compliant compiler. The tests are experimental and subject to change in the future.,115,FALSE,NA,### R Project Updates,unid,2017-03-20
++ `strwrap()` reduces `indent` if it is more than half `width` rather than giving an error.,91,FALSE,NA,### R Project Updates,unid,2017-03-20
+"+ `R CMD config` gains a `--all` option for printing names and values of all basic configure variables. It now knows about all the variables used for the C++98, C++11 and C++14 standards.",187,FALSE,NA,### R Project Updates,unid,2017-03-20
+"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,NA,### Upcoming Events,link,2017-03-20
+"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance. ",177,FALSE,NA,### Upcoming Events,unid,2017-03-20
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,### Upcoming Events,link,2017-03-20
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,### Upcoming Events,unid,2017-03-20
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,### Upcoming Events,unid,2017-03-20
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">We wanted the readxl logo to capture that special feeling you get when you hear: &quot;We keep all our data in Excel&quot;. <a href=""https://twitter.com/hadleywickham"">@hadleywickham</a> <a href=""https://t.co/pBI4EFWhCj"">pic.twitter.com/pBI4EFWhCj</a></p>&mdash; Jenny Bryan (@JennyBryan) <a href=""https://twitter.com/JennyBryan/status/841709176699011072""></a></blockquote>",445,FALSE,NA,### Quotes of the Week,unid,2017-03-20

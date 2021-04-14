@@ -1,0 +1,65 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-08-13
+"title: R Weekly 2018-33 Diversity, Books",40,FALSE,NA,NA,unid,2018-08-13
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-08-13
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-08-13
+---,3,FALSE,NA,NA,unid,2018-08-13
++ [rstudio::conf(2019) diversity scholarships](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/),125,FALSE,NA,###  Highlight,link,2018-08-13
++ [The best books on Computer Science for Data Scientists recommended by Hadley Wickham](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/),168,FALSE,NA,###  Highlight,link,2018-08-13
++ [scales 1.0.0](https://www.tidyverse.org/articles/2018/08/scales-1-0-0/) - Scale Functions for Visualization,110,FALSE,NA,###  Highlight,link,2018-08-13
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-08-13
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-08-13
++ [GeomMLBStadiums](https://github.com/bdilday/GeomMLBStadiums) - Geoms to draw MLB stadiums in ggplot2,103,FALSE,NA,###  New Packages,link,2018-08-13
+![GeomMLBStadiums](https://raw.githubusercontent.com/bdilday/GeomMLBStadiums/ff99230441837d2cc6f1d55c01e284d7c53106a9/README_files/figure-markdown_github/unnamed-chunk-15-1.png),177,FALSE,NA,###  New Packages,image,2018-08-13
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-08-13
++ [causalpie](https://github.com/malcolmbarrett/causalpie) - An R Package for easily creating and visualizing sufficient-component causal models,144,FALSE,NA,###  New Packages,link,2018-08-13
++ [fitur 0.6.0](https://roh.engineering/post/fitur-0-6-0-release/) - Fit Univariate Distributions,97,FALSE,NA,### Package Releases,link,2018-08-13
+"+ [RQuantLib 0.4.5](http://dirk.eddelbuettel.com/blog/2018/08/10#rquantlib_0.4.5) -  Windows is back, and small updates",119,FALSE,NA,### Package Releases,link,2018-08-13
++ [scales 1.0.0](https://www.tidyverse.org/articles/2018/08/scales-1-0-0/) - Scale Functions for Visualization,110,FALSE,NA,### Package Releases,link,2018-08-13
++ [The best books on Computer Science for Data Scientists recommended by Hadley Wickham](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/),168,FALSE,NA,### Insights,link,2018-08-13
++ [rstudio::conf(2019) diversity scholarships](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/),125,FALSE,NA,###  R in Organizations,link,2018-08-13
++ [August 2018 ISC Call for Proposals](https://www.r-consortium.org/announcement/2018/08/07/august-2018-isc-call-for-proposals),127,FALSE,NA,###  R in Organizations,link,2018-08-13
++ [The Trillion Dollar Question](https://simplystatistics.org/2018/08/09/the-trillion-dollar-question/),103,FALSE,NA,### R in the Real World,link,2018-08-13
+"+ [Redmonk Language Rankings, June 2018](http://blog.revolutionanalytics.com/2018/08/redmonk-language-rankings-june-2018.html)",126,FALSE,NA,### R in the Real World,link,2018-08-13
++ [IEEE Language Rankings 2018](http://blog.revolutionanalytics.com/2018/08/ieee-language-rankings-2018.html),109,FALSE,NA,### R in the Real World,link,2018-08-13
+![IEEE Language Rankings 2018](https://revolution-computing.typepad.com/.a/6a010534b1db25970b022ad3a6d422200b-800wi),116,FALSE,NA,### R in the Real World,image,2018-08-13
++ [Wrangling Wikileaks DMs](https://colinfay.me/wikileaks/),59,FALSE,NA,### R in the Real World,link,2018-08-13
++ [Digging into mbox details: A tale of tm & reticulate](https://rud.is/b/2018/08/04/digging-into-mbox-details-a-tale-of-tm-reticulate/),136,FALSE,NA,### R in the Real World,link,2018-08-13
++ [Time to Accept It: publishing in the Journal of Statistical Software](https://ntguardian.wordpress.com/2018/08/05/time-to-accept-it-publishing-in-the-journal-of-statistical-software/),186,FALSE,NA,### R in the Real World,link,2018-08-13
++ [Write a Book with bookdown and Publish with Chapman & Hall](https://yihui.name/en/2018/08/bookdown-crc/),107,FALSE,NA,### R in the Real World,link,2018-08-13
+"+ [Reflections on 25+ Years of ""50 Years of Data Science""](https://yihui.name/en/2018/08/25-years-of-data-science/)",115,FALSE,NA,### R in the Real World,link,2018-08-13
++ [Hotels vs Airbnb - Barcelona case study (proof of concept)](https://nycdatascience.com/blog/student-works/web-scraping/hotels-vs-airbnb-barcelona-case-study-proof-of-concept/),178,FALSE,NA,### R in the Real World,link,2018-08-13
+![Hotels vs Airbnb - Barcelona case study (proof of concept)](https://nycdatascience.com/blog/wp-content/uploads/2018/08/main_picture.png),138,FALSE,NA,### R in the Real World,image,2018-08-13
++ [In case you missed it: July 2018 roundup](http://blog.revolutionanalytics.com/2018/08/in-case-you-missed-it-july-2018-roundup.html),134,FALSE,NA,###  Resources,link,2018-08-13
++ [Everything I know about R subsetting](https://hughjonesd.github.io/subsetting.html),86,FALSE,NA,###  Tutorials,link,2018-08-13
++ [ggplot2 stat_summary problem](https://coolbutuseless.github.io/2018/08/06/ggplot2-stat_summary-problem/),107,FALSE,NA,###  Tutorials,link,2018-08-13
++ [Collecting Expressions in R](http://www.win-vector.com/blog/2018/08/collecting-expressions-in-r/),100,FALSE,NA,###  Tutorials,link,2018-08-13
++ [Home sweet dome](https://uncmbbtrivia.netlify.com/post/2018/08/05/home-sweet-dome/),86,FALSE,NA,###  Tutorials,link,2018-08-13
++ [Guidelines For Ab Testing](https://robinsones.github.io/Guidelines-for-AB-Testing/),86,FALSE,NA,###  Tutorials,link,2018-08-13
+"+ [Meta-packages, nails in CRAN's coffin](http://www.win-vector.com/blog/2018/08/meta-packages-nails-in-crans-coffin/)",118,FALSE,NA,###  Tutorials,link,2018-08-13
++ [Extracting and Processing eBird Data](https://ropensci.org/blog/2018/08/07/auk/),83,FALSE,NA,###  Tutorials,link,2018-08-13
+![Extracting and Processing eBird Data](https://d33wubrfki0l68.cloudfront.net/765ae7917c7fdabc2b1905148756b679de1692c0/cd89a/img/blog-images/2018-08-07-auk/loc-map-1.png),170,FALSE,NA,###  Tutorials,image,2018-08-13
++ [What they forgot to teach you about R](https://blog.rstudio.com/2018/08/07/what-they-forgot-to-teach-you-about-r/),117,FALSE,NA,###  Tutorials,link,2018-08-13
++ [phylotaR: Retrieve Orthologous Sequences from GenBank](https://ropensci.org/technotes/2018/08/08/phylotar/),110,FALSE,NA,###  Tutorials,link,2018-08-13
++ [MODIStsp approved on rOpenSci!](https://lbusett.netlify.com/post/modistsp-approved-on-ropensci/),99,FALSE,NA,###  Tutorials,link,2018-08-13
++ [Leading indicators of economic growth](http://freerangestats.info/blog/2018/08/10/leading-indicators),104,FALSE,NA,###  Tutorials,link,2018-08-13
+![Leading indicators of economic growth](https://cdn.rawgit.com/rweekly/image/95658f59/2018/0128-pairs.png),107,FALSE,NA,###  Tutorials,image,2018-08-13
++ [Installation of R 3.5 on Ubuntu 18.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/blog/installation-of-r-3-5-on-ubuntu-18-04-lts-and-tips-for-spatial-packages/),178,FALSE,NA,###  Tutorials,link,2018-08-13
++ [Beyond Basic R - Plotting with ggplot2 and Multiple Plots in One Figure](https://owi.usgs.gov/blog/beyond-basic-plotting/),125,FALSE,NA,###  Tutorials,link,2018-08-13
++ [Because it's Friday: A data center under the sea](http://blog.revolutionanalytics.com/2018/08/because-its-friday-a-turbine-under-the-sea.html),145,FALSE,NA,###  Tutorials,link,2018-08-13
++ [How to (quickly) enrich a map with natural and anthropic details](http://www.francescobailo.net/2018/08/how-to-quickly-enrich-a-map-with-natural-and-anthropic-details/),171,FALSE,NA,###  Tutorials,link,2018-08-13
++ [Double Negatives](https://yihui.name/en/2018/08/double-negatives/),69,FALSE,NA,###  Tutorials,link,2018-08-13
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-08-13
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-08-13
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-08-13
++ [SatRday](https://amsterdam2018.satrdays.org/) **Aug 31-Sept 1**<br />,72,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-08-13
+"Amsterdam, the Netherlands.",27,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-08-13
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-08-13
+"Buenos Aires, Argentina.",24,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-08-13
++ [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />,134,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-08-13
+"Lisbon, Portugal.",17,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-08-13
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-08-13
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-08-13
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-08-13
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Made this with mapdeck while working on some project. Thought sharing a video is more compelling than sharing an image. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/8vB5fY2ZNW"">pic.twitter.com/8vB5fY2ZNW</a></p>&mdash; Samuel Wong (@SamueL_WonG_) <a href=""https://twitter.com/SamueL_WonG_/status/1025763225277612032?ref_src=twsrc%5Etfw"">August 4, 2018</a></blockquote>",507,FALSE,NA,###  Quotes of the Week,unid,2018-08-13
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Visualize the vertical change of your 🚴‍♀️ bike/running routes with 🕶️<a href=""https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw"">#rayshader</a>! Proof of concept: <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/tkNt7S4WSw"">pic.twitter.com/tkNt7S4WSw</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href=""https://twitter.com/tylermorganwall/status/1024996007094968320?ref_src=twsrc%5Etfw"">August 2, 2018</a></blockquote>",584,FALSE,NA,###  Quotes of the Week,unid,2018-08-13

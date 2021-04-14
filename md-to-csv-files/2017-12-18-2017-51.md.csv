@@ -1,0 +1,106 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2017-12-18
+"title: R Weekly 2017-51 Workflow, Epidemics, Mappers",52,FALSE,NA,NA,unid,2017-12-18
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-12-18
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2017-12-18
+---,3,FALSE,NA,NA,unid,2017-12-18
++ [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/),93,FALSE,NA,###  Highlight,link,2017-12-18
+"+ [RECON learn: a free, open platform for training material on epidemics analysis](https://reconlearn.netlify.com/)",115,FALSE,NA,###  Highlight,link,2017-12-18
++ [University of Edinburgh's coding club R tutorials](https://ourcodingclub.github.io/tutorials/),97,FALSE,NA,###  Highlight,link,2017-12-18
++ [A Crazy Little Thing Called {purrr} - Part 4: mappers](http://colinfay.me/purrr-mappers/),92,FALSE,NA,###  Highlight,link,2017-12-18
++ [How to develop good R packages (for open science)](http://www.masalmon.eu/2017/12/11/goodrpackages/),103,FALSE,NA,### Insights,link,2017-12-18
+"+ [Milestone: 12,000 packages on CRAN](https://stat.ethz.ch/pipermail/r-devel/2017-December/075231.html)",104,FALSE,NA,### Insights,link,2017-12-18
++ [How I Learned R](https://yihui.name/en/2017/12/how-i-learned-r/),67,FALSE,NA,### Insights,link,2017-12-18
++ [When a Tweet Turns Into an R Package](http://blog.sellorm.com/2017/12/10/when-a-tweet-turns-into-an-r-package/),114,FALSE,NA,### Insights,link,2017-12-18
++ [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/),93,FALSE,NA,### Insights,link,2017-12-18
++ [Personal note on joining the Microsoft Cloud Advocates team](http://blog.revolutionanalytics.com/2017/12/cloud-advocate.html),128,FALSE,NA,### Insights,link,2017-12-18
+"+ [`nrow`, references and copies ](https://statisfaction.wordpress.com/2017/12/10/nrow-references-and-copies/)",110,FALSE,NA,### Insights,link,2017-12-18
++ [R in the Windows Subsystem for Linux](http://blog.revolutionanalytics.com/2017/12/r-in-the-windows-subsystem-for-linux.html),127,FALSE,NA,### Insights,link,2017-12-18
++ [#12: Know and Customize your OS and Work Environment](http://dirk.eddelbuettel.com/blog/2017/12/09#012_know_and_customize_your_operating_system),147,FALSE,NA,### Insights,link,2017-12-18
++ [Philippines Dengvaxia Vaccine Scam](https://brennonborbon.wordpress.com/2017/12/12/philippines-dengvaxia-vaccine-scam/),122,FALSE,NA,### R in the Real World,link,2017-12-18
+![Philippines Dengvaxia Vaccine Scam](https://brennonborbon.files.wordpress.com/2017/12/ggridgesnewslength.png),111,FALSE,NA,### R in the Real World,image,2017-12-18
++ [Using rtweet to Create a tidyverse Twitterbot](https://www.wjakethompson.com/post/tidyverse-tweets/),103,FALSE,NA,### R in the Real World,link,2017-12-18
++ [Example Shiny App - Interest Rate Walk](https://www.tychobra.com/posts/2017-11-28-interest-rate-walk/),105,FALSE,NA,### R in the Real World,link,2017-12-18
++ [Winning an argument by extracting and visualizing pop singers vocal range](http://giorasimchoni.com/2017/12/10/2017-12-10-ave-mariah/),137,FALSE,NA,### R in the Real World,link,2017-12-18
++ [Using the tuber package to analyse a YouTube channel](https://insightr.wordpress.com/2017/12/11/using-the-tuber-package-to-analyse-a-youtube-channel/),153,FALSE,NA,### R in the Real World,link,2017-12-18
++ [Where to live in Poland or where to move](http://t-k.blue/blog/where-to-live-in-poland-or-where-to-move/),108,FALSE,NA,### R in the Real World,link,2017-12-18
+"+ [Vince Guaraldi’s Music from ""A Charlie Brown Christmas"", A Festive Analysis](https://petemiksza.com/2017/12/13/vince-guaraldis-music-from-a-charlie-brown-christmas/)",168,FALSE,NA,### R in the Real World,link,2017-12-18
+"![Vince Guaraldi’s Music from ""A Charlie Brown Christmas"", A Festive Analysis](https://petemiksza.files.wordpress.com/2017/12/cbprediction3.jpg?w=1168)",151,FALSE,NA,### R in the Real World,image,2017-12-18
++ [Color palettes derived from the Dutch masters](https://edwinth.github.io/blog/dutch-masters/),96,FALSE,NA,### R in the Real World,link,2017-12-18
++ [Inter-operate with 'MQTT' Message Brokers With R (a.k.a. Live! BBC! Subtitles!)](https://rud.is/b/2017/12/14/inter-operate-with-mqtt-message-brokers-with-r-a-k-a-live-bbc-subtitles/),185,FALSE,NA,### R in the Real World,link,2017-12-18
++ [Image Classification on Small Datasets with Keras](https://tensorflow.rstudio.com/blog/keras-image-classification-on-small-datasets.html),140,FALSE,NA,### R in the Real World,link,2017-12-18
++ [Monitoring hybrid open access with Crossref and oa-intact metadata](https://subugoe.github.io/hybrid_oa_dashboard/about.html),128,FALSE,NA,###  R in Academia,link,2017-12-18
+![Monitoring hybrid open access with Crossref and oa-intact metadata](https://raw.githubusercontent.com/rweekly/image/master/2017-03/hybird.png),144,FALSE,NA,###  R in Academia,image,2017-12-18
++ [What the world is data science education? Looking back on #dsetonline](https://jrosen48.github.io/blog/what-the-world-is-data-science-education-looking-back-on-dsetonline/),175,FALSE,NA,###  R in Academia,link,2017-12-18
+"+ [Dashboard from from a dissertation research with the title 'Interactions 3 : Language, demographics, and personality; an in-depth analysis of German tweets.' ](https://primesty.shinyapps.io/diss_dashboard/)",209,FALSE,NA,###  R in Academia,link,2017-12-18
++ [Data acquisition in R (3/4): Demographic data sources](https://ikashnitsky.github.io/2017/data-acquisition-three/),117,FALSE,NA,###  R in Academia,link,2017-12-18
+![Data acquisition in R (3/4): Demographic data sources](https://ikashnitsky.github.io/images/171210/hmd.png),109,FALSE,NA,###  R in Academia,image,2017-12-18
+"<!-- <p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->",151,FALSE,NA,###  New Packages,unid,2017-12-18
++ [BRRR](https://github.com/brooke-watson/BRRR) - Rap adlibs in R.,66,FALSE,NA,###  New Packages,link,2017-12-18
++ [nipals](https://cran.r-project.org/web/packages/nipals/index.html) - Principal components via Nonlinear Partial Least Squares.,129,FALSE,NA,###  New Packages,link,2017-12-18
++ [snowflakes](https://cran.r-project.org/web/packages/snowflakes/index.html) - Random Snowflake Generator,106,FALSE,NA,###  New Packages,link,2017-12-18
++ [cablecuttr](https://github.com/bearloga/cablecuttr) - An R wrapper for CanIStream.It API,91,FALSE,NA,###  New Packages,link,2017-12-18
++ [styler 1.0.0](https://cran.r-project.org/web/packages/styler/index.html),75,FALSE,NA,### Package Releases,link,2017-12-18
+"+ [europepmc 0.2](https://cran.r-project.org/web/packages/europepmc/vignettes/evergreenreviewgraphs.html) - new vignette ""Making proper trend graphs""",149,FALSE,NA,### Package Releases,link,2017-12-18
+![europepmc 0.2](https://raw.githubusercontent.com/rweekly/image/master/2017-03/pmc.png),88,FALSE,NA,### Package Releases,image,2017-12-18
++ [mgcViz 0.1](https://mfasiolo.github.io/mgcViz/) - visual tools for Generalized Additive Models,97,FALSE,NA,### Package Releases,link,2017-12-18
++ [RVowpalWabbit 0.0.10](http://dirk.eddelbuettel.com/blog/2017/12/13#rvowpalwabbit_0.0.10) - connects R to Vowpal Wabbit fast out-of-core learning system.,155,FALSE,NA,### Package Releases,link,2017-12-18
++ [Shiny Server (Pro) 1.5.6](https://blog.rstudio.com/2017/12/11/shiny-server-pro-1-5-6/),89,FALSE,NA,### Package Releases,link,2017-12-18
++ [Lots of Package News](http://appliedpredictivemodeling.com/blog/2017/11/15/some-package-updates),99,FALSE,NA,### Package Releases,link,2017-12-18
++ [Imagenes de los tweets mencionando a la DuraznoConf](https://github.com/d4tagirl/DuraznoConfMentions),104,FALSE,NA,###  R Internationally,link,2017-12-18
++ [Airbnb legt im Kanton Zürich weiter zu](https://statistik.zh.ch/internet/justiz_inneres/statistik/de/aktuell/mitteilungen/2017/airbnb2017.html),146,FALSE,NA,###  R Internationally,link,2017-12-18
+"+ [RECON learn: a free, open platform for training material on epidemics analysis](https://reconlearn.netlify.com/)",115,FALSE,NA,###  Resources,link,2017-12-18
++ [University of Edinburgh's coding club R tutorials](https://ourcodingclub.github.io/tutorials/),97,FALSE,NA,###  Resources,link,2017-12-18
+"+ [formula.tools](https://github.com/decisionpatterns/formula.tools), Utilities for working with formulas, expressions, calls and other R objects",145,FALSE,NA,###  Resources,link,2017-12-18
+"+ [here](https://krlmlr.github.io/here/), A Simpler Way to Find Your Files",74,FALSE,NA,###  Resources,link,2017-12-18
+"+ [margins](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html) - Marginal Effects for Model Objects, An R Port of Stata's `margins` Command",165,FALSE,NA,###  Resources,link,2017-12-18
++ [Introduction to Queueuing Theory in R](https://roh.engineering/post/mmc-queues/),83,FALSE,NA,###  Tutorials,link,2017-12-18
++ [Connecting R to Keras and TensorFlow ](https://rviews.rstudio.com/2017/12/11/r-and-tensorflow/),98,FALSE,NA,###  Tutorials,link,2017-12-18
++ [Recording and replaying plots with the `recordPlot` function](http://clarkrichards.org/r/graphics/plot/rmd/2017/12/11/recording-plots/),138,FALSE,NA,###  Tutorials,link,2017-12-18
++ [Using `rtweet` to Create a tidyverse Twitterbot](https://www.wjakethompson.com/post/tidyverse-tweets/),105,FALSE,NA,###  Tutorials,link,2017-12-18
+"+ [When there's a fork in the road, take it. Or, taking a look at marginal structural models.](https://www.rdatagen.net/post/when-a-covariate-is-a-confounder-and-a-mediator/)",174,FALSE,NA,###  Tutorials,link,2017-12-18
++ [styler - A non-invasive source code formatter for R](https://lorenzwalthert.github.io/stylerpost/),101,FALSE,NA,###  Tutorials,link,2017-12-18
++ [How to Use googlesheets to Connect R to Google Sheets](http://rforjournalists.com/2017/12/12/how-to-use-googlesheets-to-connect-r-to-google-sheets/),151,FALSE,NA,###  Tutorials,link,2017-12-18
++ [A Workaround For When Anti-DDoS Also Means Anti-Data](https://rud.is/b/2017/12/10/a-workaround-for-when-anti-ddos-also-means-anti-data/),139,FALSE,NA,###  Tutorials,link,2017-12-18
++ [What the SATs Taught Us about Finding the Perfect Fit](http://multithreaded.stitchfix.com/blog/2017/12/13/latentsize/),121,FALSE,NA,###  Tutorials,link,2017-12-18
+![What the SATs Taught Us about Finding the Perfect Fit](https://raw.githubusercontent.com/rweekly/image/master/2017-03/fit.gif),128,FALSE,NA,###  Tutorials,image,2017-12-18
++ [Random walking](http://www.decisionsciencenews.com/2017/12/11/random-walking/),81,FALSE,NA,###  Tutorials,link,2017-12-18
++ [A minimal Project Tree in R](https://talesofr.wordpress.com/2017/12/12/a-minimal-project-tree-in-r/),103,FALSE,NA,###  Tutorials,link,2017-12-18
++ [Leveraging pipeline in Spark trough scala and Sparklyr](https://r-posts.com/leveraging-pipeline-in-spark-trough-scala-and-sparklyr/),135,FALSE,NA,###  Tutorials,link,2017-12-18
++ [Point Pattern Analysis using Ecological Methods in R](http://spatial.ly/2017/12/pointpatterns/),98,FALSE,NA,###  Tutorials,link,2017-12-18
++ [A Crazy Little Thing Called {purrr} - Part 4: mappers](http://colinfay.me/purrr-mappers/),92,FALSE,NA,###  Tutorials,link,2017-12-18
++ [Stock-Recruitment Graphing Questions](http://derekogle.com/fishR/2017-12-12-Stock-Recruitment-Graphing-Questions),116,FALSE,NA,###  Tutorials,link,2017-12-18
++ [Explaining Predictions of Machine Learning Models with LIME - Münster Data Science Meetup](https://shirinsplayground.netlify.com/2017/12/lime_sketchnotes/),158,FALSE,NA,###  Tutorials,link,2017-12-18
++ [A chart of Bechdel Test scores](http://blog.revolutionanalytics.com/2017/12/a-chart-of-bechdel-test-scores.html),115,FALSE,NA,###  Tutorials,link,2017-12-18
++ [Introduction to Skewness](https://rviews.rstudio.com/2017/12/13/introduction-to-skewness/),93,FALSE,NA,###  Tutorials,link,2017-12-18
+![Introduction to Skewness](https://rviews.rstudio.com/post/2017-12-13-introduction-to-skewness_files/figure-html/unnamed-chunk-8-1.png),136,FALSE,NA,###  Tutorials,image,2017-12-18
++ [#13: (Much) Faster Package (Re-)Installation via Binaries](http://dirk.eddelbuettel.com/blog/2017/12/13#013_faster_package_installation_two),143,FALSE,NA,###  Tutorials,link,2017-12-18
++ [Team Rtus wins Munich Re Datathon with mlr](https://mlr-org.github.io/Team-Rtus-wins-MunichRe-Datathon/),107,FALSE,NA,###  Tutorials,link,2017-12-18
++ [Getting started with seplyr](http://www.win-vector.com/blog/2017/12/getting-started-with-seplyr/),100,FALSE,NA,###  Tutorials,link,2017-12-18
++ [Comparing smooths in factor-smooth interactions II](https://www.fromthebottomoftheheap.net/2017/12/14/difference-splines-ii/),128,FALSE,NA,###  Tutorials,link,2017-12-18
+"+ [Purrr'ific 😺 way to do parallelized random grid-search of hyperparameters w/ K-fold CV error rate for Random Forest🌲🎄 (or any other algo) using purrr, rsample, & Henrik Bengtsson's future](https://gist.github.com/mrecos/aefc33da150e442d6574578666204b8c)",256,FALSE,NA,### Gist & Cookbook,link,2017-12-18
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,### Gist & Cookbook,unid,2017-12-18
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-12-18
++ `removeSource()` no longer erroneously removes ‘NULL’ in certain cases.,73,FALSE,NA,###  R Project Updates,unid,2017-12-18
++ RStudio conf 2018 **January 31 to February 3** <br />,55,FALSE,NA,###  Upcoming Events,unid,2017-12-18
+[rstudio::conf](https://www.rstudio.com/conference/) is about all things R and RStudio!,87,FALSE,NA,###  Upcoming Events,unid,2017-12-18
++ satRday Cape Town 2018 **March 17** <br />,44,FALSE,NA,###  Upcoming Events,unid,2017-12-18
+[satRday Cape Town](http://capetown2018.satrdays.org/),54,FALSE,NA,###  Upcoming Events,unid,2017-12-18
+<!-- + R/Finance 2018 **June 1 and 2** <br />,45,FALSE,NA,###  Upcoming Events,unid,2017-12-18
+[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,NA,###  Upcoming Events,unid,2017-12-18
+"+ [CascadiaRConf](https://cascadiarconf.com/) **June 2, 2018**",62,FALSE,NA,###  Upcoming Events,link,2017-12-18
+"Portland, OR, US",16,FALSE,NA,###  Upcoming Events,unid,2017-12-18
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **5 & 6 July 2018** <br />,89,FALSE,NA,###  Upcoming Events,link,2017-12-18
+Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events,unid,2017-12-18
+"+ useR! 2018 **July 10, 2018** <br />",37,FALSE,NA,###  Upcoming Events,unid,2017-12-18
+The annual useR! conference is the main meeting of the international R user and developer community. -->,104,FALSE,NA,###  Upcoming Events,unid,2017-12-18
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-12-18
++ [satRday Cape Town 2018](http://capetown2018.satrdays.org/#callforpapers) - Call for papers,93,FALSE,NA,###  Call for Participation,link,2017-12-18
+"+ [eRum 2018 May 14-16, Budapest, Hungary](http://2018.erum.io/#cfp) - Call for papers",86,FALSE,NA,###  Call for Participation,link,2017-12-18
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2017-12-18
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> PSA: CRAN submissions will be closed from Dec 22 to Jan 3rd for well-deserved vacation of volunteers and (would be) disruptive maintenance of check farm</p>&mdash; Gabe Becker (@groundwalkergmb) <a href=""https://twitter.com/groundwalkergmb/status/939922115007954944?ref_src=twsrc%5Etfw"">10 de desembre de 2017</a></blockquote>",488,FALSE,NA,###  Quotes of the Week,unid,2017-12-18
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">“If the current trends continue, R will overtake SPSS to become the #1 software for scholarly data science use by the end of 2018” <a href=""https://t.co/YgMCgTEHYr"">https://t.co/YgMCgTEHYr</a> <a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a> <a href=""https://t.co/58tfhhuAeC"">pic.twitter.com/58tfhhuAeC</a></p>&mdash; Dan Quintana (@dsquintana) <a href=""https://twitter.com/dsquintana/status/941238459863322624?ref_src=twsrc%5Etfw"">December 14, 2017</a></blockquote>",579,FALSE,NA,###  Quotes of the Week,unid,2017-12-18
+"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,NA,###  Quotes of the Week,unid,2017-12-18
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">We are <a href=""https://twitter.com/hashtag/coding?src=hash&amp;ref_src=twsrc%5Etfw"">#coding</a> our way towards an R package which downloads gridded datasets for a specified spatial and temporal extent, which datasets would you like to have easy access to? So far we have CHELSA, Bioclim, Hansen, Halpern, CRU, MODIS <a href=""https://twitter.com/hashtag/EAB2017?src=hash&amp;ref_src=twsrc%5Etfw"">#EAB2017</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/BritishEcolSoc?ref_src=twsrc%5Etfw"">@BritishEcolSoc</a> <a href=""https://t.co/wAcFaxm53d"">pic.twitter.com/wAcFaxm53d</a></p>&mdash; Gergana Daskalova (@gndaskalova) <a href=""https://twitter.com/gndaskalova/status/940214825778667522?ref_src=twsrc%5Etfw"">11 de desembre de 2017</a></blockquote>",893,FALSE,NA,###  Quotes of the Week,unid,2017-12-18
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Partner: hey is the second Bridget Jones movie available for us to stream?<br>Me: IDK BUT I MADE AN R PACKAGE FOR EXACTLY THIS MOMENT<br><br>cablecuttr 📦 for interfacing with the CanIStream.It API within <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a>: <a href=""https://t.co/4YVkvu2uMH"">https://t.co/4YVkvu2uMH</a> <a href=""https://t.co/XCa5DFuyPB"">pic.twitter.com/XCa5DFuyPB</a></p>&mdash; Mikhail Popov (@bearloga) <a href=""https://twitter.com/bearloga/status/940732131738664960?ref_src=twsrc%5Etfw"">12 de desembre de 2017</a></blockquote>",655,FALSE,NA,###  Quotes of the Week,unid,2017-12-18
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Couple of tools for making figures more accessible:<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> tool to check your figures for colourblind friendliness: <a href=""https://t.co/Lxi56T1TCe"">https://t.co/Lxi56T1TCe</a><br><br>The viridis <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> package for perceptually uniform colour palettes: <a href=""https://t.co/ciST4TuXtq"">https://t.co/ciST4TuXtq</a><a href=""https://twitter.com/hashtag/EAB2017?src=hash&amp;ref_src=twsrc%5Etfw"">#EAB2017</a> <a href=""https://t.co/uoQgHdfRFL"">https://t.co/uoQgHdfRFL</a></p>&mdash; Mike Whitfield (@mgwhitfield) <a href=""https://twitter.com/mgwhitfield/status/940551088054439936?ref_src=twsrc%5Etfw"">12 de desembre de 2017</a></blockquote>",874,FALSE,NA,###  Quotes of the Week,unid,2017-12-18

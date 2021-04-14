@@ -1,0 +1,74 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2019-08-05
+"title: R Weekly 2019-31 recover(), Facebook political ads, TokyoR",65,FALSE,NA,NA,unid,2019-08-05
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-08-05
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-08-05
+---,3,FALSE,NA,NA,unid,2019-08-05
+"This week's release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.",140,FALSE,NA,NA,unid,2019-08-05
+Release Date: 2019-08-05,24,FALSE,NA,NA,unid,2019-08-05
++ [stop() - breathe - recover(): Debugging Techniques in R!](https://www.youtube.com/watch?v=M5n_2jmdJ_8),105,FALSE,NA,### Highlight,link,2019-08-05
++ [The Use of Political Ads on Facebook in the Run-up to the European Parliament Elections 2019 in Austria](http://rpubs.com/zoowalk/FB_EP2019/),144,FALSE,NA,### Highlight,link,2019-08-05
+"+ [80th TokyoR Meetup Roundup: Econometrics vs. ML, Python with R, & Translating tidyverse.org into Japanese!](https://ryo-n7.github.io/2019-08-02-tokyoR-80-roundup/)",166,FALSE,NA,### Highlight,link,2019-08-05
++ [Rmd first: When development starts with documentation](https://rtask.thinkr.fr/when-development-starts-with-documentation/),126,FALSE,NA,### Insights,link,2019-08-05
++ [dependency parsing with {udpipe}](http://bnosac.be/index.php/blog/93-dependency-parsing-with-udpipe/),104,FALSE,NA,### Insights,link,2019-08-05
+![dependency parsing with udpipe](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/udpipe1.png),112,FALSE,NA,### Insights,image,2019-08-05
+"+ [80th TokyoR Meetup Roundup: Econometrics vs. ML, Python with R, & Translating tidyverse.org into Japanese!](https://ryo-n7.github.io/2019-08-02-tokyoR-80-roundup/)",166,FALSE,NA,### Insights,link,2019-08-05
++ [Rant about Dependencies: Reflection on #tinyverse vs #tidyverse and #rstats vs #python](https://www.ddrive.no/post/rant-about-dependencies/),143,FALSE,NA,### Insights,link,2019-08-05
++ [Data Chats: An Interview with Avision Ho](https://martinctc.github.io/blog/data-chats-an-interview-with-avision-ho/),119,FALSE,NA,### Insights,link,2019-08-05
++ [The Use of Political Ads on Facebook in the Run-up to the European Parliament Elections 2019 in Austria](http://rpubs.com/zoowalk/FB_EP2019/),144,FALSE,NA,### R in the Real World,link,2019-08-05
+![fbaustria](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/FBaustria.png),93,FALSE,NA,### R in the Real World,image,2019-08-05
++ [Burden of roof: revisiting housing costs with {tidycensus}](https://austinwehrwein.com/data-visualization/housing/),118,FALSE,NA,### R in the Real World,link,2019-08-05
++ [Estimating important things with public data](http://www.datalorax.com/post/estimating-important-things-with-public-data/),125,FALSE,NA,### R in the Real World,link,2019-08-05
++ [All Road Lead to Rome](https://datawookie.netlify.com/blog/2019/07/all-roads-lead-to-rome/),94,FALSE,NA,### R in the Real World,link,2019-08-05
++ [Visualizing Locke and Mill: A {tidytext} analysis](https://sethdobson.netlify.com/2019/07/24/visualizing-locke-and-mill-a-tidytext-analysis/),144,FALSE,NA,### R in the Real World,link,2019-08-05
+![lockemill](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/jsmill-locke.png),96,FALSE,NA,### R in the Real World,image,2019-08-05
++ [{mlr3} (Machine Learning in R) - Initial release](https://mlr-org.com/docs/mlr3-0-1-0/),90,FALSE,NA,###  R in Organizations,link,2019-08-05
+"+ [Simulating pluralism: the language of democracy in hegemonic authoritarianism - Maerz, S. F. (2019)](https://www.tandfonline.com/doi/full/10.1080/2474736X.2019.1605834)",171,FALSE,NA,###  R in Academia,link,2019-08-05
+"+ [{revtools}: An R package to support article screening for evidence synthesis - Westgate, M. J. (2019)](https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1374)",164,FALSE,NA,###  R in Academia,link,2019-08-05
++ [Shiny app: Teaching sampling from distributions with R](http://shiny.psy.gla.ac.uk/debruine/simulate/),105,FALSE,NA,###  Resources,link,2019-08-05
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-08-05
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-08-05
+"+ [{mlr3 0.1.1}: Efficient, Object-oriented Programming on the Building Blocks of Machine Learning](https://cran.r-project.org/web/packages/mlr3/index.html)",156,FALSE,NA,###  New Packages,link,2019-08-05
++ [{mlr3misc 0.1.1}: Helper Functions for {mlr3}](https://cran.r-project.org/web/packages/mlr3misc/index.html),110,FALSE,NA,###  New Packages,link,2019-08-05
++ [{paradox 0.1.0}: Define and Work with Parameter Spaces for Complex Algorithms](https://cran.r-project.org/web/packages/paradox/index.html),141,FALSE,NA,###  New Packages,link,2019-08-05
++ [{idmodelr 0.3.0}: Infectious Disease Model Library and Utilities](https://cran.r-project.org/package=idmodelr/),114,FALSE,NA,###  New Packages,link,2019-08-05
+![idmodelr - Infectious Disease Model Library and Utilities](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/idmodelr.png),140,FALSE,NA,###  New Packages,image,2019-08-05
++ [{gitignore 0.1.3}: Provides a simple R Interface to the gitignore.io API](https://github.com/ropensci/gitignore),115,FALSE,NA,###  New Packages,link,2019-08-05
++ [{apexcharter 0.1.1}: htmlwidget for apexcharts.js](https://github.com/dreamRs/apexcharter/),94,FALSE,NA,###  New Packages,link,2019-08-05
++ [{stplanr}: Sustainable Transport Planning with R](https://cran.r-project.org/web/packages/stplanr/index.html),112,FALSE,NA,###  New Packages,link,2019-08-05
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-08-05
++ [{demoR}: Code highlighting in presentations](https://web.calpoly.edu/~kbodwin/demoR/articles/demoR.html),107,FALSE,NA,###  New Packages,link,2019-08-05
++ [{bunny}: Useful helper functions for {magick}](https://github.com/dmi3kno/bunny/),84,FALSE,NA,###  New Packages,link,2019-08-05
++ [{armacmp}: Create a DSL to formulate linear algebra code in R that is compiled to C++ using the ARmadillo Template Library](https://github.com/dirkschumacher/armacmp),169,FALSE,NA,###  New Packages,link,2019-08-05
++ [{titanicon}: Titanic animated icons to Shiny and Rmarkdown](https://github.com/JohnCoene/titanicon/),103,FALSE,NA,###  New Packages,link,2019-08-05
++ [{udpipe 0.8.3}](http://bnosac.be/index.php/blog/92-update-of-udpipe/),72,FALSE,NA,### Updated Packages,link,2019-08-05
++ [{RSQLite 2.1.2}](https://github.com/r-dbi/RSQLite/),54,FALSE,NA,### Updated Packages,link,2019-08-05
++ [{tidytext 0.2.2}](https://cran.r-project.org/web/packages/tidytext/index.html),81,FALSE,NA,### Updated Packages,link,2019-08-05
++ [{hrbraddins}](https://gitlab.com/hrbrmstr/hrbraddins/),57,FALSE,NA,### Updated Packages,link,2019-08-05
++ [stop() - breathe - recover(): Debugging Techniques in R!](https://www.youtube.com/watch?v=M5n_2jmdJ_8),105,FALSE,NA,###  Videos and Podcasts,link,2019-08-05
+"+ [R-Podcast Episode 31 - Data Science Education with R](https://r-podcast.org/31): Eric shares insights gained from the JSM 2019 conference and is joined by RStudio's education team members Alison Hill & Mine Cetinkaya-Rundel to discuss new ideas for teaching data science effectively, as well as how tools like R-Markdown are opening many new possibilities for both students and teachers.",390,FALSE,NA,###  Videos and Podcasts,link,2019-08-05
++ [Beyond Plot Labels: Hacking {gganimate}'s Frame Variables](https://data-chronicler.netlify.com/2019/07/24/2019-07-24-beyond-plot-labels-hacking-gganimate-s-frame-variables/),176,FALSE,NA,###  Tutorials,link,2019-08-05
++ [How to embed Excel-like Spreadsheet Table in RMarkdown with {excelR}](https://www.programmingwithr.com/how-to-embed-excel-like-spreadsheet-table-in-rmarkdown/),162,FALSE,NA,###  Tutorials,link,2019-08-05
++ [Validating Type I and II Errors in A/B Tests in R](https://rviews.rstudio.com/2019/07/31/validating-type-i-and-ii-errors-in-a-b-tests-in-r/),143,FALSE,NA,###  Tutorials,link,2019-08-05
++ [Introducing the {funneljoin} package](https://hookedondata.org/introducing-the-funneljoin-package/),102,FALSE,NA,###  Tutorials,link,2019-08-05
++ [A History of Polar Area / Coxcomb / Rose charts & how to make them in R's {ggplot2}](https://www.sportschord.com/post/polar_area_charts_tutorial/),149,FALSE,NA,###  Tutorials,link,2019-08-05
+![radarplot](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/radarplot.png),93,FALSE,NA,###  Tutorials,image,2019-08-05
++ [Miracles with {magick} and {bunny}](https://www.ddrive.no/post/miracles-with-magick-and-bunny/),98,FALSE,NA,###  Tutorials,link,2019-08-05
++ [From H2O to POJO Models: Getting Started with a Minimal Example](https://www.onceupondata.com/2019/07/13/h2o-pojo-models/),125,FALSE,NA,###  Tutorials,link,2019-08-05
+"+ [Textures and geometric shapes (12 Months of aRt, July)](https://www.williamrchase.com/post/textures-and-geometric-shapes-12-months-of-art-july/)",147,FALSE,NA,###  Tutorials,link,2019-08-05
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-08-05
+"n></div><div class=""post-more-end""></div>-->",44,FALSE,NA,###  Tutorials,unid,2019-08-05
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-08-05
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-08-05
+"+ [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools",166,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-05
+"+ [R/Pharma Conference 2019, August 21 - 23](http://rinpharma.com/)",67,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-05
+"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)",63,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-05
+"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-05
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-05
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-05
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-08-05
+"+ [""Women in Parliament"" data set](https://github.com/saghirb/Women-in-Parliament-Hex-Sticker)",94,FALSE,NA,### Datasets,link,2019-08-05
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-08-05
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">I’m so excited to see my friend and colleague <a href=""https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw"">@hadleywickham</a> honored with the 2019 COPSS award at <a href=""https://twitter.com/hashtag/JSM2019?src=hash&amp;ref_src=twsrc%5Etfw"">#JSM2019</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> 👏👏👏 <a href=""https://t.co/sqc2nBqoXt"">pic.twitter.com/sqc2nBqoXt</a></p>&mdash; Jenny Bryan (@JennyBryan) <a href=""https://twitter.com/JennyBryan/status/1156704920495513600?ref_src=twsrc%5Etfw"">July 31, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",716,FALSE,NA,###  Quotes of the Week,unid,2019-08-05
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">This is wild. Solomon Kurz has “ported” <a href=""https://twitter.com/rlmcelreath?ref_src=twsrc%5Etfw"">@rlmcelreath</a> _Statistical Rethinking_ to use brms &amp; Tidyverse. And made the ported book open source. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/NcklzifvDH"">https://t.co/NcklzifvDH</a> Statistical Rethinking with brms, ggplot2, and the tidyverse - bookdown</p>&mdash; JD Long (@CMastication) <a href=""https://twitter.com/CMastication/status/1155451998373896192?ref_src=twsrc%5Etfw"">July 28, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",734,FALSE,NA,###  Quotes of the Week,unid,2019-08-05
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Windows <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> users: did you know make screenshots directly from R on Windows using image_read(&quot;screenshot:&quot;) in the magick package? Make them extra fancy with the new image_shadow() function. <a href=""https://t.co/ZxakavszRL"">pic.twitter.com/ZxakavszRL</a></p>&mdash; Jeroen Ooms (@opencpu) <a href=""https://twitter.com/opencpu/status/1155078546102083584?ref_src=twsrc%5Etfw"">July 27, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",645,FALSE,NA,###  Quotes of the Week,unid,2019-08-05

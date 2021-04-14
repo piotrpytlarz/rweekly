@@ -1,0 +1,78 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-11-05
+"title: R Weekly 2018-45 Version, Communicating, Certification",61,FALSE,NA,NA,unid,2018-11-05
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-11-05
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-11-05
+---,3,FALSE,NA,NA,unid,2018-11-05
++ [What R version do you really need for a package?](https://www.jumpingrivers.com/blog/what-r-version-do-you-really-need-for-a-package/),137,FALSE,NA,###  Highlight,link,2018-11-05
++ [Communicating results with R Markdown](https://rviews.rstudio.com/2018/11/01/r-markdown-a-better-approach/),110,FALSE,NA,###  Highlight,link,2018-11-05
++ [RConsortium — Building an R Certification](https://rtask.thinkr.fr/blog/rconsortium-building-an-r-certification/),116,FALSE,NA,###  Highlight,link,2018-11-05
++ [RStudio IDE Custom Theme Support](https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/),107,FALSE,NA,### Insights,link,2018-11-05
+![RStudio IDE Custom Theme Support](https://raw.githubusercontent.com/rweekly/image/master/2018/2018-10-29-candy-brights.png),125,FALSE,NA,### Insights,image,2018-11-05
++ [Thoughts on the NHS-R conference](https://www.johnmackintosh.com/2018-10-31-thoughts-on-the-nhs-r-conference/),113,FALSE,NA,### Insights,link,2018-11-05
++ [What R version do you really need for a package?](https://www.jumpingrivers.com/blog/what-r-version-do-you-really-need-for-a-package/),137,FALSE,NA,### Insights,link,2018-11-05
++ [The role of academia in data science education](https://simplystatistics.org/2018/11/01/the-role-of-academia-in-data-science-education/),139,FALSE,NA,### Insights,link,2018-11-05
++ [The Data Person as Project Manager](https://jenthompson.me/2018/10/31/data-person-as-pm/),92,FALSE,NA,### Insights,link,2018-11-05
++ [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/),83,FALSE,NA,### Insights,link,2018-11-05
++ [Election Hacking: Exploring 10 Million Tweets from the Russian Internet Research Agency Dataset](https://ellocke.github.io/post/election-hacking-exploring-2-million-tweets-from-the-russian-internet-research-agency-dataset-pt-1/),231,FALSE,NA,### R in the Real World,link,2018-11-05
+![Election Hacking: Exploring 10 Million Tweets from the Russian Internet Research Agency Dataset](https://raw.githubusercontent.com/rweekly/image/master/2018/IRA_Tweets_Dates.png),180,FALSE,NA,### R in the Real World,image,2018-11-05
++ [RConsortium — Building an R Certification](https://rtask.thinkr.fr/blog/rconsortium-building-an-r-certification/),116,FALSE,NA,### R in the Real World,link,2018-11-05
++ [Celebrate Halloween with Creepy Computer Games in R](https://lucidmanager.org/creepy-computer-games-in-r/),109,FALSE,NA,### R in the Real World,link,2018-11-05
++ [In Support of Open Seeding in the NBA](https://www.markhw.com/blog/open-seeding-pt2),87,FALSE,NA,### R in the Real World,link,2018-11-05
++ [Fringe FM conversation on AI Ethics](https://blog.revolutionanalytics.com/2018/10/fringe-fm-podcast.html),108,FALSE,NA,### R in the Real World,link,2018-11-05
+"+ [Neural networks, the Lee-Carter Model and Large Scale Mortality  Forecasting](http://ronaldrichman.co.za/2018/10/28/neural-networks-the-lee-carter-model-and-large-scale-mortality-forecasting/)",195,FALSE,NA,### R in the Real World,link,2018-11-05
++ [R-users & Community: give us your feedback on a R Certification to teach & verify skilled R Professionals](https://www.r-consortium.org/announcement/2018/11/02/r-users-community-give-us-your-feedback-on-a-r-certification-to-teach-verify-skilled-r-professionals),264,FALSE,NA,###  R in Organizations,link,2018-11-05
++ [Sharing the Recipe for rOpenSci's Unconf Ice Breaker](https://ropensci.org/blog/2018/11/01/icebreaker/),106,FALSE,NA,###  R in Organizations,link,2018-11-05
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-11-05
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-11-05
++ [crfsuite for natural language processing](http://bnosac.be/index.php/blog/83-crfsuite-for-natural-language-processing),121,FALSE,NA,###  New Packages,link,2018-11-05
+![crfsuite app](https://raw.githubusercontent.com/bnosac/crfsuite/master/vignettes/app-screenshot.png),102,FALSE,NA,###  New Packages,image,2018-11-05
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-11-05
++ [shinipsum](https://github.com/ThinkR-open/shinipsum) - Lorem-Ipsum-like Helpers for fast Shiny Prototyping,109,FALSE,NA,###  New Packages,link,2018-11-05
++ [RcppAnnoy 0.0.11](http://dirk.eddelbuettel.com/blog/2018/11/01#rcppannoy_0.0.11) -,85,FALSE,NA,### Package Releases,link,2018-11-05
+"Annoy is a small, fast and lightweight library for Approximate Nearest Neighbours.",82,FALSE,NA,### Package Releases,unid,2018-11-05
++ [RcppTOML 0.1.5](http://dirk.eddelbuettel.com/blog/2018/10/31#rcpptoml_0.1.5) - Small extensions,98,FALSE,NA,### Package Releases,link,2018-11-05
++ [RcppRedis 0.1.9](http://dirk.eddelbuettel.com/blog/2018/10/27#rcppredis_0.1.9) - Provide R with read and write access to the Redis key-value store.,150,FALSE,NA,### Package Releases,link,2018-11-05
++ [Azure ML Studio now supports R 3.4](https://blog.revolutionanalytics.com/2018/11/azure-ml-studio-r-34.html),110,FALSE,NA,### Package Releases,link,2018-11-05
+"+ [Análise do discurso dos candidatos, Fernando Haddad e Jair Bolsonaro](https://education.meumesmo.com.br/analise-do-discurso-dos-candidatos-fernando-haddad-e-jair-bolsonaro/)",176,FALSE,NA,### R Internationally,link,2018-11-05
++ [Manuel d’analyse spatiale — Théorie et mise en oeuvre pratique avec R](https://www.insee.fr/fr/information/3635442),118,FALSE,NA,### R Internationally,link,2018-11-05
++ [Visualising scheduled tasks on Windows with R](https://medium.com/@benmoretti/visualising-scheduled-tasks-on-windows-with-r-4829249623e7),140,FALSE,NA,###  Tutorials,link,2018-11-05
+"+ [How to perform merges (joins) on two or more data frames with base R, tidyverse and data.table](https://jozefhajnala.gitlab.io/r/r006-merge/)",144,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Communicating results with R Markdown](https://rviews.rstudio.com/2018/11/01/r-markdown-a-better-approach/),110,FALSE,NA,###  Tutorials,link,2018-11-05
+![Communicating results with R Markdown](https://raw.githubusercontent.com/rweekly/image/master/2018/r4ds-com.png),114,FALSE,NA,###  Tutorials,image,2018-11-05
++ [alternatives to bar charts for multiple observations](https://luisdva.github.io/rstats/barplot-nonsense/),108,FALSE,NA,###  Tutorials,link,2018-11-05
+"+ [Use the collateral package 📦 to automatically map complex operations safely or quietly, and quickly see the captured side effects!](https://rensa.co/projects/collateral/)",173,FALSE,NA,###  Tutorials,link,2018-11-05
+"+ [Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document](https://joshuamrosenberg.com/blog/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/)",185,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Scatterplot matrices (pair plots) with cdata and ggplot2](http://www.win-vector.com/blog/2018/10/scatterplot-matrices-pair-plots-with-cdata-and-ggplot2/),156,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Conway's Game of Life in R: Or On the Importance of Vectorizing Your R Code](http://www.win-vector.com/blog/2018/10/conways-game-of-life-in-r-or-on-the-importance-of-vectorizing-your-r-code/),194,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Play with spatial tools on 3D cells images](https://statnmap.com/2018-10-28-play-with-spatial-tools-on-3d-cells-images/),123,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Is the answer to everything Gaussian?](http://staff.math.su.se/hoehle/blog/2018/10/29/gauss.html),100,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Bootstrap Testing with MCHT](https://ntguardian.wordpress.com/2018/10/29/bootstrap-testing-mcht/),100,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Analysis essentials: An example directory structure for an analysis using R](https://aosmith.rbind.io/2018/10/29/an-example-directory-structure/),148,FALSE,NA,###  Tutorials,link,2018-11-05
++ [carbonate](https://yonicd.netlify.com/post/carbonate/),57,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Machine Learning Basics - Random Forest](https://shirinsplayground.netlify.com/2018/10/ml_basics_rf/),104,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Creating fractals with ggplot2 and patchwork](https://coolbutuseless.github.io/2018/10/30/creating-fractals-with-ggplot2-and-patchwork/),139,FALSE,NA,###  Tutorials,link,2018-11-05
++ [reprex-ing with {datapasta} 🍝](https://maraaverick.rbind.io/2018/10/reprex-with-datapasta/),94,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Use Pseudo-Aggregators to Add Safety Checks to Your Data-Wrangling Workflow](http://www.win-vector.com/blog/2018/10/use-pseudo-aggregators-to-add-safety-checks-to-your-data-wrangling-workflow/),196,FALSE,NA,###  Tutorials,link,2018-11-05
++ [How to Create a Correlation Matrix in R](https://www.displayr.com/how-to-create-a-correlation-matrix-in-r/?utm_medium=Feed&utm_source=Syndication),149,FALSE,NA,###  Tutorials,link,2018-11-05
+![How to Create a Correlation Matrix in R](https://raw.githubusercontent.com/rweekly/image/master/2018/corrplot-2018.png),121,FALSE,NA,###  Tutorials,image,2018-11-05
+"+ [namer, Automatic Labelling of R Markdown Chunks](https://itsalocke.com/blog/namer-automatic-labelling-of-r-markdown-chunks/)",127,FALSE,NA,###  Tutorials,link,2018-11-05
++ [facet_inception()](https://coolbutuseless.github.io/2018/10/31/facet_inception/),83,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Spooky! Gravedigger in R](https://blog.revolutionanalytics.com/2018/10/gravedigger-in-r.html),96,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Quick overview on the new Bioconductor 3.8 release](http://research.libd.org/rstatsclub/2018/11/02/quick-overview-on-the-new-bioconductor-3-8-release/),154,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Automated Email Reports with R](https://blog.journeyofanalytics.com/automated-email-reports-with-r/),103,FALSE,NA,###  Tutorials,link,2018-11-05
++ [From webscraping data to releasing it as an R package to share with the world: a full tutorial with data from NetHack](http://www.brodrigues.co/blog/2018-11-01-nethack/),172,FALSE,NA,###  Tutorials,link,2018-11-05
++ [Feature Selection with the Boruta Algorithm](http://gradientmetrics.com/feature-selection-with-the-boruta-algorithm),119,FALSE,NA,###  Tutorials,link,2018-11-05
++ [The blocks and rows theory of data shaping](http://www.win-vector.com/blog/2018/11/the-blocks-and-rows-theory-of-data-shaping/),130,FALSE,NA,###  Tutorials,link,2018-11-05
++ [collateral](https://rensa.co/projects/collateral/),53,FALSE,NA,###  Tutorials,link,2018-11-05
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-11-05
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-11-05
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-11-05
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-11-05
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-11-05
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-11-05
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-11-05
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-11-05
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">What does this <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> code do if you run it in your head? (i.e. predict the result without using R or looking at the docs)<br><br>switch(&quot;b&quot;, a = 1, b = , c = 3)</p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/1058105829986107398?ref_src=twsrc%5Etfw"">November 1, 2018</a></blockquote>",494,FALSE,NA,###  Quotes of the Week,unid,2018-11-05
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Visualizing interstate migration for 2018-Q1 with <a href=""https://twitter.com/hashtag/mapdeck?src=hash&amp;ref_src=twsrc%5Etfw"">#mapdeck</a>. <br>Hit this link to play &gt;&gt; <a href=""https://t.co/5go820muLO"">https://t.co/5go820muLO</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/p3xqMvFWQx"">pic.twitter.com/p3xqMvFWQx</a></p>&mdash; Samuel Wong (@SamueL_WonG_) <a href=""https://twitter.com/SamueL_WonG_/status/1057592377525727232?ref_src=twsrc%5Etfw"">October 31, 2018</a></blockquote>",629,FALSE,NA,###  Quotes of the Week,unid,2018-11-05
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">🧐Trying out ggplot 3.1.0&#39;s new features in my own, spatial way. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a><br><br>(just built facet support into 🕶️<a href=""https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw"">#rayshader</a>&#39;s 3D ggplots) <a href=""https://t.co/Kjk0dz2irA"">pic.twitter.com/Kjk0dz2irA</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href=""https://twitter.com/tylermorganwall/status/1057246277006774272?ref_src=twsrc%5Etfw"">October 30, 2018</a></blockquote>",623,FALSE,NA,###  Quotes of the Week,unid,2018-11-05

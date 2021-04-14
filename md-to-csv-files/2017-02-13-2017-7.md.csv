@@ -1,0 +1,83 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2017-02-13
+layout: post,12,FALSE,NA,NA,unid,2017-02-13
+title: R Weekly 2017 Issue 7,28,FALSE,NA,NA,unid,2017-02-13
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-02-13
+---,3,FALSE,NA,NA,unid,2017-02-13
++ [Diving Into Dynamic Website Content with splashr](https://rud.is/b/2017/02/09/diving-into-dynamic-website-content-with-splashr/),131,FALSE,NA,### Highlight,link,2017-02-13
++ [A Litany of Problems With p-values](http://www.fharrell.com/2017/02/a-litany-of-problems-with-p-values.html),111,FALSE,NA,### Highlight,link,2017-02-13
++ [Update on R Consortium Projects](http://blog.revolutionanalytics.com/2017/02/update-on-r-consortium-projects.html) - Many great R projects coming out of R Consortium.,169,FALSE,NA,### Highlight,link,2017-02-13
++ [Hello Ninja! Crafting a browser-based presentation and how I got (re)started with R](http://lenkiefer.com/2017/02/04/hello-ninja),132,FALSE,NA,### Highlight,link,2017-02-13
++ [Book - Biostatistics for Biomedical Research by Frank Harrell](http://biostat.mc.vanderbilt.edu/tmp/bbr.pdf),111,FALSE,NA,### Highlight,link,2017-02-13
+"+ [Large data, feature hashing and online learning (part 1)](http://dsnotes.com/post/2017-01-27-lessons-learned-from-outbrain-click-prediction-kaggle-competition/) - Lessons learned from Kaggle Outbrain competition",214,FALSE,NA,### Highlight,link,2017-02-13
++ [Visualizing vehicle accidents using gganimate and ggplot2](https://pradeepadhokshaja.wordpress.com/2017/02/02/nyc-vehicle-accidents/),136,FALSE,NA,### R in the Real World,link,2017-02-13
++ [Analysis of 100 Million Taxi Trips in Chicago Shows Usage Declining 35% Per Year](http://toddwschneider.com/posts/chicago-taxi-data/),136,FALSE,NA,### R in the Real World,link,2017-02-13
+![Analysis of 100 Million Taxi Trips in Chicago Shows Usage Declining 35% Per Year](https://cdn.rawgit.com/toddwschneider/chicago-taxi-data/2b264440/graphs/monthly_taxi_trips.png),179,FALSE,NA,### R in the Real World,image,2017-02-13
+"+ [Large data, feature hashing and online learning (part 1)](http://dsnotes.com/post/2017-01-27-lessons-learned-from-outbrain-click-prediction-kaggle-competition/) - Lessons learned from Kaggle Outbrain competition",214,FALSE,NA,### R in the Real World,link,2017-02-13
++ [Job trends for R and Python](http://blog.revolutionanalytics.com/2017/02/job-trends-for-r-and-python.html),109,FALSE,NA,### R in the Real World,link,2017-02-13
++ [Reproducible Finance with R: ETF Country Exposure](https://www.rstudio.com/rviews/2017/02/08/reproducible-finance-with-r-etf-country-exposure/),146,FALSE,NA,### R in the Real World,link,2017-02-13
++ [Science of The Super Bowl](http://jessepiburn.com/2017/02/science-of-the-super-bowl/),88,FALSE,NA,### R in the Real World,link,2017-02-13
++ [Hubway Bike Share: Ridership Patterns](http://blog.nycdatascience.com/student-works/r-visualization/hubway-bike-share-ridership-patterns/),141,FALSE,NA,### R in the Real World,link,2017-02-13
++ [Using R to study the evolution of Tennis](http://msperlin.github.io/2017-02-05-R-and-Tennis/),96,FALSE,NA,### R in the Real World,link,2017-02-13
++ [Making a Beautiful Map of Spain in ggplot2](http://blog.manugarri.com/making-a-beautiful-map-of-spain-in-ggplot2/),117,FALSE,NA,### R in the Real World,link,2017-02-13
+![Making a Beautiful Map of Spain in ggplot2](https://i.imgur.com/MrNL3bE.png),78,FALSE,NA,### R in the Real World,image,2017-02-13
++ [What Programming Languages Are Used Most on Weekends?](https://stackoverflow.blog/2017/02/What-Programming-Languages-Weekends/),130,FALSE,NA,### R in the Real World,link,2017-02-13
+![What Programming Languages Are Used Most on Weekends?](https://i.stack.imgur.com/Hz3mt.png),93,FALSE,NA,### R in the Real World,image,2017-02-13
++ [Any Forward Progress on p-Values?](https://matloff.wordpress.com/2017/02/09/any-forward-progress-on-p-values/),113,FALSE,NA,### Insights,link,2017-02-13
++ [A Litany of Problems With p-values](http://www.fharrell.com/2017/02/a-litany-of-problems-with-p-values.html),111,FALSE,NA,### Insights,link,2017-02-13
++ [Interactive Statistical Graphics: Showing More By Showing Less ](http://www.fharrell.com/2017/02/interactive-statistical-graphics.html),138,FALSE,NA,### Insights,link,2017-02-13
++ [Three Tips for Training Excel Users in R](https://www.rstudio.com/rviews/2017/02/10/three-tips-for-training-excel-users-in-r/),129,FALSE,NA,### Insights,link,2017-02-13
++ [tm ou tidytext ? Introduction au text-mining avec R](http://www.thinkr.fr/tm-ou-tidytext-introduction-au-text-mining-avec-r/) — [English - Autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/tm-ou-tidytext-introduction-au-text-mining-avec-r/),285,FALSE,NA,### R Internationally,link,2017-02-13
+"+ [Emily Robinson, from Social Scientist to Data Scientist](http://forwards.github.io/blog/2017/02/07/emily-robinson-from-social-scientist-to-data-scientist/)",158,FALSE,NA,### R in Organization,link,2017-02-13
++ [How successful can an R meetup be? meet(R) in Tricity! – RSelenium and Big Data processing](http://r-addict.com/2017/02/06/trigeR.html),138,FALSE,NA,### R in Organization,link,2017-02-13
++ [Update on R Consortium Projects](http://blog.revolutionanalytics.com/2017/02/update-on-r-consortium-projects.html) - Many great R projects coming out of R Consortium.,169,FALSE,NA,### R in Organization,link,2017-02-13
++ [Deep Learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/),87,FALSE,NA,### Tutorials,link,2017-02-13
++ [Diving Into Dynamic Website Content with splashr](https://rud.is/b/2017/02/09/diving-into-dynamic-website-content-with-splashr/),131,FALSE,NA,### Tutorials,link,2017-02-13
+![Diving Into Dynamic Website Content with splashr](https://pbs.twimg.com/media/C4OgvWaXAAAWFY7.jpg),100,FALSE,NA,### Tutorials,image,2017-02-13
++ [Hello Ninja! Crafting a browser-based presentation and how I got (re)started with R](http://lenkiefer.com/2017/02/04/hello-ninja),132,FALSE,NA,### Tutorials,link,2017-02-13
++ [Scratching the Surface of Gender Biases](https://shiring.github.io/shiny/2017/02/06/WGS_final),97,FALSE,NA,### Tutorials,link,2017-02-13
++ [R Tutorial: Visualizing Multivariate Relationships in Large Datasets](https://dmwiig.net/2017/02/06/r-tutorial-visualizing-multivariate-relationships-in-large-datasets/),172,FALSE,NA,### Tutorials,link,2017-02-13
++ [How to create a loop to run multiple regression models](https://datascienceplus.com/how-to-create-a-loop-to-run-multiple-regression-models/),143,FALSE,NA,### Tutorials,link,2017-02-13
++ [Comparing (Fancy) Survival Curves with Weighted Log-rank Tests](http://r-addict.com/2017/02/09/Fancy-Survival-Plots.html),124,FALSE,NA,### Tutorials,link,2017-02-13
++ [An Introduction to Spatial Econometrics in R](https://ignaciomsarmiento.github.io/2017/02/07/An-Introduction-to-Spatial-Econometrics-in-R.html),146,FALSE,NA,### Tutorials,link,2017-02-13
++ [Percentile Calculations in Water Quality Regulations](http://r.prevos.net/percentile-calculations/),102,FALSE,NA,### Tutorials,link,2017-02-13
++ [Finding Optimal Number of Clusters](https://datascienceplus.com/finding-optimal-number-of-clusters/),103,FALSE,NA,### Tutorials,link,2017-02-13
++ [Twitter sentiment analysis with Machine Learning in R using doc2vec approach](http://analyzecore.com/2017/02/08/twitter-sentiment-analysis-doc2vec/),151,FALSE,NA,### Tutorials,link,2017-02-13
+![Twitter sentiment analysis with Machine Learning in R using doc2vec approach](https://i1.wp.com/analyzecore.com/wp-content/uploads/2017/02/tweets_sentiment_rate_1.png?zoom=3&resize=750%2C410),193,FALSE,NA,### Tutorials,image,2017-02-13
++ [Factor Analysis Introduction with the Principal Component Method and R](http://www.aaronschlegel.com/factor-analysis-introduction-principal-component-method-r/),163,FALSE,NA,### Tutorials,link,2017-02-13
++ [Nice graphic? Are they taking the p…](https://nsaunders.wordpress.com/2017/02/04/nice-graphic-are-they-taking-the-p/),120,FALSE,NA,### Tutorials,link,2017-02-13
++ [Naming Uncertainty by the Bootstrap](http://staff.math.su.se/hoehle/blog/2017/02/06/onomastics.html),103,FALSE,NA,### Tutorials,link,2017-02-13
++ [R and SQL Server articles](https://tomaztsql.wordpress.com/2017/02/08/r-and-sql-server-articles/),100,FALSE,NA,### Tutorials,link,2017-02-13
++ [an accurate variance approximation](https://xianblog.wordpress.com/2017/02/07/an-accurate-variance-approximation/),117,FALSE,NA,### Tutorials,link,2017-02-13
++ [From a million nested `ifelse`s to the plater package](http://ropensci.org/blog/blog/2017/02/06/plater-blog-post),116,FALSE,NA,### Tutorials,link,2017-02-13
++ [Generate correlation matrices with complex survey data in R](https://www.jacob-long.com/post/survey-correlation/),116,FALSE,NA,### Tutorials,link,2017-02-13
++ [Strung Out On String Ops – A Brief Comparison of stringi and stringr](https://rud.is/b/2017/02/06/strung-out-on-string-ops-a-brief-comparison-of-stringi-and-stringr/),169,FALSE,NA,### Tutorials,link,2017-02-13
++ [Introduction to ggraph](http://www.data-imaginist.com/2017/ggraph-introduction-nodes/) - [Nodes](http://www.data-imaginist.com/2017/ggraph-introduction-nodes/) and [Layouts](http://www.data-imaginist.com/2017/ggraph-introduction-layouts/),241,FALSE,NA,### Tutorials,link,2017-02-13
+![Introduction to ggraph](https://cdn.rawgit.com/thomasp85/thomasp85.github.io/e9b36ed6/assets/images/2017-02-06-ggraph-introduction-layouts/unnamed-chunk-14-1.png),164,FALSE,NA,### Tutorials,image,2017-02-13
++ [The R-Podcast Episode 21: Talking Rcpp and more with Dirk Eddelbuettel](https://www.r-podcast.org/posts/the-r-podcast-episode-21-talking-rcpp-and-more-with-dirk-eddelbuettel.html) - The R-Podcast concludes its coverage of rstudio::conf by chatting with R Foundation member and Rcpp author Dirk Eddelbuettel!,310,FALSE,NA,### Videos and Podcasts,link,2017-02-13
+"+ [NSSD 32: You Have to Reinvent the Wheel a Few Times](https://soundcloud.com/nssd-podcast/episode-32-you-have-to-reinvent-the-wheel-a-few-times) - Hilary and Roger discuss training in PhD programs, estimating the variance vs. the standard deviation, the bias variance tradeoff, and explainable machine learning.",313,FALSE,NA,### Videos and Podcasts,link,2017-02-13
++ [Book - Biostatistics for Biomedical Research by Frank Harrell](http://biostat.mc.vanderbilt.edu/tmp/bbr.pdf) - sources on [GitHub](https://github.com/harrelfe/bbr),166,FALSE,NA,### Resources,link,2017-02-13
++ [A introduction to purrr](https://github.com/cwickham/purrr-tutorial),71,FALSE,NA,### Resources,link,2017-02-13
++ [splashr](https://github.com/hrbrmstr/splashr)  - Tools to Work with the 'Splash' JavaScript Rendering Service in R,117,FALSE,NA,### New Packages and Tools,link,2017-02-13
++ [FTRL](https://github.com/dselivanov/FTRL) -  R/Rcpp implementation of the 'Follow-the-Regularized-Leader' algorithm,118,FALSE,NA,### New Packages and Tools,link,2017-02-13
++ [mfe](https://github.com/rivolli/mfe) - Extracts meta-features from datasets to support the design of recommendation systems based on Meta-Learning.,150,FALSE,NA,### New Packages and Tools,link,2017-02-13
++ [anytime 0.2.1](http://dirk.eddelbuettel.com/blog/2017/02/10#anytime_0.2.1) -  Anything to POSIXct or Date Converter,118,FALSE,NA,### New Releases,link,2017-02-13
++ [random 0.2.6](http://dirk.eddelbuettel.com/blog/2017/02/05#random_0.2.6) - random provides GNU R with easy access to the true random numbers provided by random.org,166,FALSE,NA,### New Releases,link,2017-02-13
++ [RcppArmadillo 0.7.700.0.0](http://dirk.eddelbuettel.com/blog/2017/02/08#rcpparmadillo_0.7.700.0.0) -  RcppArmadillo provides an interface from R to and from Armadillo.,170,FALSE,NA,### New Releases,link,2017-02-13
+"+ [Apply to attend rOpenSci unconf 2017!](https://ropensci.org/blog/blog/2017/02/02/unconf2017) - For a fourth year running, rOpenSci is excited to announce another unconference in 2017 with a new venue in ☀ Downtown LA. We're organizing this event to bring together scientists, developers, and open data enthusiasts from academia, industry, government, and non-profit to get together for a few days and hack on various projects.",429,FALSE,NA,### Call for Participation,link,2017-02-13
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,### R Project Updates,unid,2017-02-13
++ The maximum number of DLLs that can be loaded into R e.g. via dyn.load can now be increased by setting the environment variable `R_MAX_NUM_DLLS` before starting R.,165,FALSE,NA,### R Project Updates,unid,2017-02-13
++ The version of LAPACK included in the sources has been updated to 3.7.0: no new routines have been added to R.,112,FALSE,NA,### R Project Updates,unid,2017-02-13
++ Matrix products now consistently bypass BLAS when the inputs have NaN/Inf values. Performance of the check of inputs has been improved. Performance when BLAS is used is improved for matrix/vector and vector/matrix multiplication (DGEMV is now used instead of DGEMM).,268,FALSE,NA,### R Project Updates,unid,2017-02-13
+"+ Loading the `parallel` package namespace no longer sets or changes the `.Random.seed`, even if `R_PARALLEL_PORT` is unset.",124,FALSE,NA,### R Project Updates,unid,2017-02-13
+"+ The `configure` check for the `zlib` version is now robust to versions longer than 5 characters, including `1.2.10`.",118,FALSE,NA,### R Project Updates,unid,2017-02-13
++ Package `tools` has a new function `package_native_routine_registration_skeleton()` to assist adding native-symbol registration to a package. See its help and §5.4.1 of `Writing R Extensions` for how to use it.,212,FALSE,NA,### R Project Updates,unid,2017-02-13
+"+ Assigning to an element of a vector beyond the current length now over-allocates by a small fraction. The new vector is marked internally as growable, and the true length of the new vector is stored in the `truelength` field.",227,FALSE,NA,### R Project Updates,unid,2017-02-13
+"+  If a reference class has a validity method, `validObject` will be called automatically from the default initialization method for reference classes.",151,FALSE,NA,### R Project Updates,unid,2017-02-13
+"+ [SatRday #2 Conference - Cape Town, South Africa](http://capetown2017.satrdays.org/) **18 Feb, 2017** <br />",110,FALSE,NA,### Upcoming Events,link,2017-02-13
+The R community and some of South Africa's most forward thinking companies have come together to bring satRday to Cape Town.,124,FALSE,NA,### Upcoming Events,unid,2017-02-13
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,### Upcoming Events,link,2017-02-13
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,### Upcoming Events,unid,2017-02-13
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,### Upcoming Events,unid,2017-02-13
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">R 3.3.3 scheduled for March 6. Based on prior years, R 3.4.0 is likely to follow a few weeks after <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://t.co/mElRzOqOtR"">https://t.co/mElRzOqOtR</a></p>&mdash; David Smith (@revodavid) <a href=""https://twitter.com/revodavid/status/828703196084334592"">February 6, 2017</a></blockquote>",434,FALSE,NA,### Quotes of the Week,unid,2017-02-13
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Announcing the release of my e-book! &quot;Introduction to Empirical Bayes: Examples from Baseball Statistics&quot; <a href=""https://t.co/Rkbr8uWVoE"">https://t.co/Rkbr8uWVoE</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://t.co/YKjfaDfj7r"">pic.twitter.com/YKjfaDfj7r</a></p>&mdash; David Robinson (@drob) <a href=""https://twitter.com/drob/status/829054289603657728"">February 7, 2017</a></blockquote>",509,FALSE,NA,### Quotes of the Week,unid,2017-02-13

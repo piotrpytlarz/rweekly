@@ -1,0 +1,75 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2016-6-20
+layout: post,12,FALSE,NA,NA,unid,2016-6-20
+title: Issue 4,14,FALSE,NA,NA,unid,2016-6-20
+description: Weekly News in R Community.,40,FALSE,NA,NA,unid,2016-6-20
+---,3,FALSE,NA,NA,unid,2016-6-20
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-6-20
+*Digested by R Weekly Members*,30,FALSE,NA,## Highlight,unid,2016-6-20
++ [America’s Public Bible](http://americaspublicbible.org/) - Biblical Quotations in U.S. Newspapers.,101,FALSE,NA,## Highlight,link,2016-6-20
++ [Improving Season on Season](http://rpubs.com/jalapic/sbs) - [`engsoccerdata`](https://github.com/jalapic/engsoccerdata) contains complete historical soccer results of major European leagues. How many teams have had runs of six seasons or more of successively improving their league position?,294,FALSE,NA,## Highlight,link,2016-6-20
++ [Using Statcast Data to Predict Hits](http://www.hardballtimes.com/using-statcast-data-to-predict-hits/) - Model/predict batted ball outcomes with Statcast data.,163,FALSE,NA,## Highlight,link,2016-6-20
++ [Linear model with time series random component - 2015 post](https://ellisp.github.io/blog/2015/11/15/linear-model-timeseries),128,FALSE,NA,#### Tutorials,link,2016-6-20
+[![Linear model with time series random component - 2015 post](https://ellisp.github.io/img/0017-timeseries.gif)](https://ellisp.github.io/blog/2015/11/15/linear-model-timeseries),179,FALSE,NA,#### Tutorials,unid,2016-6-20
++ [Handling missing data with MICE package; a simple approach](http://datascienceplus.com/handling-missing-data-with-mice-package-a-simple-approach/),149,FALSE,NA,#### Tutorials,link,2016-6-20
++ [Docker - a Lovestory](https://heidiseibold.github.io/r/2016/06/13/Docker/),77,FALSE,NA,#### Tutorials,link,2016-6-20
++ [Connecting R with Amazon Redshift - 2015 post](http://blogs.aws.amazon.com/bigdata/post/Tx1G8828SPGX3PK/Connecting-R-with-Amazon-Redshift),141,FALSE,NA,#### Tutorials,link,2016-6-20
++ [Radar charts in R using Plotly](http://moderndata.plot.ly/radar-charts-in-r-using-plotly/),93,FALSE,NA,#### Tutorials,link,2016-6-20
++ [R Hero saves Backup City with archivist and GitHub](http://r-addict.com/2016/06/13/RHero-Saves-Backup-City-With-archivist-github.html),137,FALSE,NA,#### Tutorials,link,2016-6-20
++ [Intro to The data.table Package](https://rollingyours.wordpress.com/2016/06/14/fast-aggregation-of-large-data-with-the-data-table-package/),142,FALSE,NA,#### Tutorials,link,2016-6-20
++ [Reading and combining many tidy data files in R](http://serialmentor.com/blog/2016/6/13/reading-and-combining-many-tidy-data-files-in-R),139,FALSE,NA,#### Tutorials,link,2016-6-20
++ [Common R Programming Errors Faced by Beginners](http://www.quantinsti.com/blog/common-errors-r/),99,FALSE,NA,#### Tutorials,link,2016-6-20
+"+ [Hyperparameter Optimization in H2O: Grid Search, Random Search and the Future](http://blog.h2o.ai/2016/06/hyperparameter-optimization-in-h2o-grid-search-random-search-and-the-future/)",186,FALSE,NA,#### Tutorials,link,2016-6-20
++ [America’s Public Bible](http://americaspublicbible.org/) - Biblical Quotations in U.S. Newspapers.,101,FALSE,NA,#### R in the Real World,link,2016-6-20
+"+ [Gender ratios of programmers, by language](http://blog.revolutionanalytics.com/2016/06/programmers-gender.html)",114,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [Improving Season on Season](http://rpubs.com/jalapic/sbs) -  [`engsoccerdata`](https://github.com/jalapic/engsoccerdata) contains complete historical soccer results of major European leagues. How many teams have had runs of six seasons or more of successively improving their league position?,295,FALSE,NA,#### R in the Real World,link,2016-6-20
+[![Improving Season on Season](https://cdn.rawgit.com/rweekly/image/master/2016-06-20/football.png)](http://rpubs.com/jalapic/sbs),130,FALSE,NA,#### R in the Real World,unid,2016-6-20
++ [The R Packages of UseR! 2016](http://blog.revolutionanalytics.com/2016/06/the-r-packages-of-user-2016.html),110,FALSE,NA,#### R in the Real World,link,2016-6-20
+[![The R Packages of UseR! 2016](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c86dfbf2970b-800wi)](http://blog.revolutionanalytics.com/2016/06/the-r-packages-of-user-2016.html),197,FALSE,NA,#### R in the Real World,unid,2016-6-20
++ [Visualizing obesity across United States by using data from Wikipedia](http://datascienceplus.com/visualizing-obesity-across-united-states-by-using-data-from-wikipedia/),172,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [Your data vis “Spidey-sense” & the need for a robust “utility belt”](https://rud.is/b/2016/06/16/your-data-vis-spidey-sense-the-need-for-a-robust-utility-belt/),163,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [Mapping US Counties in R with FIPS](https://www.datascienceriot.com/mapping-us-counties-in-r-with-fips/kris/),112,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [Set up a twitter filter stream before a conference to properly check out the zeitgeist!](https://thomas-keller.github.io/articles/using-streamr-tidytext-to-conferences-with-twitter/),185,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [Monthly Regional Tourism Estimates](https://ellisp.github.io/blog/2016/06/16/mrtes),86,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [Euro 2016 Squads](https://gjabel.wordpress.com/2016/06/15/euro-2016-squads/),79,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [Monthly patterns in Scottish snow (1946-2006)](https://scottishsnow.wordpress.com/2016/04/24/monthly-snow/),110,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [Living longer is the new norm](http://www.swissinfo.ch/eng/by-the-numbers_a-greying-planet-from-north-to-south/42207298),123,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [How to Cut Your Planks with R](http://sumsar.net/blog/2016/06/how-to-cut-your-planks-with-r/),96,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [Germany most likely to win Euro 2016](http://www.r-bloggers.com/germany-most-likely-to-win-euro-2016/),105,FALSE,NA,#### R in the Real World,link,2016-6-20
+[![Germany most likely to win Euro 2016](https://grollchristian.files.wordpress.com/2016/06/em_results_tree.png)](http://www.r-bloggers.com/germany-most-likely-to-win-euro-2016/),178,FALSE,NA,#### R in the Real World,unid,2016-6-20
++ [On Whether Y-axis Labels Are Always Necessary](http://rud.is/b/2016/06/12/on-whether-y-axis-labels-are-always-necessary/),124,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [Exploring Spatial Patterns and Coexistance](https://biologyforfun.wordpress.com/2016/06/11/exploring-spatial-patterns-and-coexistance/),138,FALSE,NA,#### R in the Real World,link,2016-6-20
++ [Using Statcast Data to Predict Hits](http://www.hardballtimes.com/using-statcast-data-to-predict-hits/) - Model/predict batted ball outcomes with Statcast data.,163,FALSE,NA,#### R in the Real World,link,2016-6-20
+[![Using Statcast Data to Predict Hits](https://cdn.rawgit.com/rweekly/image/master/2016-06-20/angle_speed_pred.png)](http://www.hardballtimes.com/using-statcast-data-to-predict-hits/),184,FALSE,NA,#### R in the Real World,unid,2016-6-20
++ [Renjin June 2016 newsletter](http://us7.campaign-archive1.com/?u=d15c4a781ddc4b9bdcec62993&id=0e189b562e),108,FALSE,NA,#### R in Organization,link,2016-6-20
++ [Flexible expressed region analysis for RNA-seq with derfinder](http://ht.ly/outJ301ko9b),91,FALSE,NA,#### R in Academia,link,2016-6-20
+"+ [R, Reporting Services and some notifications for Power BI - Roundup #49](https://www.youtube.com/watch?v=BCbosbFBpfM&feature=youtu.be)",137,FALSE,NA,### Videos & Podcasts,link,2016-6-20
++ [MOOC - Master Statistics with R from Duke](https://www.coursera.org/specializations/statistics) - June 20,108,FALSE,NA,### Resources,link,2016-6-20
++ [Eric Zivot's notes for time series handling in R](https://faculty.washington.edu/ezivot/econ424/Working%20with%20Time%20Series%20Data%20in%20R.pdf),150,FALSE,NA,### Resources,link,2016-6-20
++ [Beamer's template to Write in English and Chinese](http://pacha.hk/2016-06-16_latex_beamer_template.html),108,FALSE,NA,### Resources,link,2016-6-20
++ [Learn R online – A detailed list of online courses on R](http://bafflednerd.com/learn-r-online/),99,FALSE,NA,### Resources,link,2016-6-20
++ [tidyr 0.5.0](https://blog.rstudio.org/2016/06/13/tidyr-0-5-0/) - Easily Tidy Data with `spread()` and `gather()` Functions.,126,FALSE,NA,### New Releases,link,2016-6-20
++ [jsonlite 0.9.22](https://www.opencpu.org/posts/jsonlite-0-9-22/) - Distinguish between double and integer.,109,FALSE,NA,### New Releases,link,2016-6-20
++ [geojsonlint](https://cran.rstudio.com/web/packages/geojsonlint/vignettes/geojsonlint_vignette.html) - Tools for Validating `GeoJSON`.,136,FALSE,NA,### New Packages & Tools,link,2016-6-20
++ [githubinstall](http://mockquant.blogspot.com.au/2016/06/githubinstall-new-r-package-for-easy-to.html) - a more helpful way to install or query R packages hosted on GitHub.,174,FALSE,NA,### New Packages & Tools,link,2016-6-20
++ [lazyrmd](http://ryanhafen.com/blog/lazyrmd) - make the R Markdown-generated html faster by lazily loading htmlwidgets plots.,127,FALSE,NA,### New Packages & Tools,link,2016-6-20
++ [xda](https://ujjwalkarn.me/2016/06/17/introducing-xda-r-package-for-exploratory-data-analysis/) - Introducing xda: R package for exploratory data analysis.,158,FALSE,NA,### New Packages & Tools,link,2016-6-20
++ [listviewer](https://github.com/timelyportfolio/listviewer) - R htmlwidget to view lists.,91,FALSE,NA,### New Packages & Tools,link,2016-6-20
++ [assertr](https://github.com/ropenscilabs/assertr) - Assertive programming for R analysis pipelines.,102,FALSE,NA,### New Packages & Tools,link,2016-6-20
++ [SnakeCharmR](https://asieira.github.io/introducing-snakecharmr.html) - A modern #rstats package that allows you to call Python code from R .,143,FALSE,NA,### New Packages & Tools,link,2016-6-20
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,## R Project Updates,unid,2016-6-20
++ `sessionInfo()` has been updated for Apple's change in OS naming as from 	`10.12` (`macOS Sierra`).,101,FALSE,NA,## R Project Updates,unid,2016-6-20
++ `toLatex()` method now includes the `running` component.,58,FALSE,NA,## R Project Updates,unid,2016-6-20
++ `as<-()` avoids an infinite loop when a virtual class is interposed between a subclass and an actual superclass.,114,FALSE,NA,## R Project Updates,unid,2016-6-20
++ Fix level propagation in `unlist()` when the list contains zero-length lists or factors.,90,FALSE,NA,## R Project Updates,unid,2016-6-20
++ Fix S3 dispatch on S4 objects when the `methods` package is not attached.,75,FALSE,NA,## R Project Updates,unid,2016-6-20
++ Internal S4 dispatch sets `.Generic` in the method frame for consistency with `standardGeneric()` (PR#16929).,111,FALSE,NA,## R Project Updates,unid,2016-6-20
+"+ Fix `order(x, decreasing=TRUE)` when `x` is an integer vector containing `MAX_INT`. Ported from a fix Matt Dowle made to ‘data.table’.",136,FALSE,NA,## R Project Updates,unid,2016-6-20
++ [2016 useR! Stanford](http://user2016.org/) - The R User Conference 2016<br /> **June 27 - June 30** <br>,107,FALSE,NA,## Upcoming Events,link,2016-6-20
+  + [Video Stream](https://aka.ms/user2016conference),53,FALSE,NA,## Upcoming Events,unid,2016-6-20
+  + [Schedule](http://schedule.user2016.org),44,FALSE,NA,## Upcoming Events,unid,2016-6-20
+  + [Twitter #user2016](https://twitter.com/hashtag/user2016),61,FALSE,NA,## Upcoming Events,unid,2016-6-20
++ [8 new R jobs from all over the world (2016-06-13)](http://www.r-bloggers.com/8-new-r-jobs-from-all-over-the-world-2016-06-13/),129,FALSE,NA,## Jobs,link,2016-6-20
+[Twitter @ Urban Demographics](https://twitter.com/UrbanDemog/status/742828444292124672),88,FALSE,NA,## Quote of the Week,unid,2016-6-20
+"> Unintentionally creating abstract art in #rstats #ggplot2 If I fail my PhD, I'll try to sell my plots to an art gal.",118,FALSE,NA,## Quote of the Week,unid,2016-6-20
+[![r-art](https://pbs.twimg.com/media/Ck8Oh7XWEAIZar2.jpg)](https://twitter.com/UrbanDemog/status/742828444292124672),117,FALSE,NA,## Quote of the Week,unid,2016-6-20

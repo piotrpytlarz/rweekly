@@ -1,0 +1,88 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-4-16
+"title: R Weekly 2018-16 Questions, Readings, Inferences",55,FALSE,NA,NA,unid,2018-4-16
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-4-16
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-4-16
+---,3,FALSE,NA,NA,unid,2018-4-16
++ [Stack Overflow questions around the world](https://juliasilge.com/blog/stack-questions-cities/),98,FALSE,NA,###  Highlight,link,2018-4-16
++ [Readings in applied data science](https://github.com/hadley/stats337),72,FALSE,NA,###  Highlight,link,2018-4-16
++ [Statistical Inference: A Tidy Approach](https://ismayc.github.io/talks/ness-infer/slide_deck.html) - Slides for short course at the New England Statistical Symposium.,169,FALSE,NA,###  Highlight,link,2018-4-16
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-4-16
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-4-16
++ [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming,131,FALSE,NA,###  New Packages,link,2018-4-16
++ [pkgnet](https://cran.r-project.org/web/packages/pkgnet/index.html) - Get Network Representation of an R Package,114,FALSE,NA,###  New Packages,link,2018-4-16
+![pkgnet](https://raw.githubusercontent.com/rweekly/image/master/2018/devtools.png),83,FALSE,NA,###  New Packages,image,2018-4-16
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-4-16
+"+ [klrfome](https://github.com/mrecos/klrfome) - Kernel Logistic Regression on Focal Mean Embeddings, for solving the distribution regresion problem",148,FALSE,NA,###  New Packages,link,2018-4-16
+![klrfome](https://raw.githubusercontent.com/rweekly/image/master/2018/KLRfome_dataflow.png),92,FALSE,NA,###  New Packages,image,2018-4-16
++ [future 1.8.0](https://www.jottr.org/2018/04/12/future-results/) - Unified Parallel and Distributed Processing in R for Everyone,130,FALSE,NA,### Package Releases,link,2018-4-16
++ [tint 0.1.0](http://dirk.eddelbuettel.com/blog/2018/04/08#tint_0.1.0) - Styles provided by the tufte package.,111,FALSE,NA,### Package Releases,link,2018-4-16
++ [Shiny Server (Pro) 1.5.7](https://blog.rstudio.com/2018/04/11/shiny-server-pro-1-5-7/),89,FALSE,NA,### Package Releases,link,2018-4-16
++ [CRANalerts: Get email alerts when a CRAN package gets updated](https://deanattali.com/blog/cranalerts/),106,FALSE,NA,### Package Releases,link,2018-4-16
++ [Readings in applied data science](https://github.com/hadley/stats337),72,FALSE,NA,###  Resources,link,2018-4-16
++ [Developing Your First R Package: A Case Study with esvis](http://www.dandersondata.com/talks/eugene_rug/),108,FALSE,NA,###  Resources,link,2018-4-16
++ [Turning your PhD (or other research project) into an R package](https://htmlpreview.github.io/?https://raw.githubusercontent.com/r-oxford/r-oxford.github.io/master/slides/2018_04_PhD_to_package.html),202,FALSE,NA,###  Resources,link,2018-4-16
++ [The Little Book of LDA - An Overview of Latent Dirichlet Allocation](https://ldabook.com/),93,FALSE,NA,###  Resources,link,2018-4-16
++ [Statistical Inference: A Tidy Approach](https://ismayc.github.io/talks/ness-infer/slide_deck.html) - Slides for short course at the New England Statistical Symposium.,169,FALSE,NA,###  Resources,link,2018-4-16
++ [R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - Data Carpentry R lessons on ecology.,110,FALSE,NA,###  Resources,link,2018-4-16
++ [.rprofile: Noam Ross](https://ropensci.org/blog/2018/04/13/rprofile-noam-ross/),82,FALSE,NA,### Insights,link,2018-4-16
+"+ [Dissecting R Package ""Utility Belts""](https://rud.is/b/2018/04/08/dissecting-r-package-utility-belts/)",105,FALSE,NA,### Insights,link,2018-4-16
+"![Dissecting R Package ""Utility Belts""](https://raw.githubusercontent.com/rweekly/image/master/2018/util-ratio.png)",115,FALSE,NA,### Insights,image,2018-4-16
++ [Package Licensing: Would the R Community like some help? Feedback from the trenches](https://www.r-consortium.org/blog/2018/04/12/package-licensing-would-the-r-community-like-some-help-feedback-from-the-trenches),215,FALSE,NA,###  R in Organizations,link,2018-4-16
++ [Does Congress Really Care About Your Privacy?](https://rud.is/b/2018/04/13/does-congress-really-care-about-your-privacy/),124,FALSE,NA,### R in the Real World,link,2018-4-16
++ [Exploring the Relationship Between Dog Names and Breeds](http://kaylinwalker.com/dog-names-tfidf/),101,FALSE,NA,### R in the Real World,link,2018-4-16
++ [Where aRe the Rufous Hummingbirds?](https://github.com/stephhazlitt/ruhu-ebird-observations/blob/master/R/ruhu-ebird-observations.md),136,FALSE,NA,### R in the Real World,link,2018-4-16
++ [Analysis of sleep data with R.](http://www.seanlnguyen.com/post/analyzing-sleep-data-with-r/),96,FALSE,NA,### R in the Real World,link,2018-4-16
++ [Web scraping from Wikipedia with rvest and topic modelling  with LDA](http://annamarbut.blogspot.com/2018/04/scraping-wikipedia-and-topic-modelling.html),156,FALSE,NA,### R in the Real World,link,2018-4-16
+"+ [My first Shiny app, scaling ingredients for buttermilk pancakes](https://snewns92.shinyapps.io/BestButtermilkPancakes/)",122,FALSE,NA,### R in the Real World,link,2018-4-16
++ [Exploring Tuberculosis Monitoring Indicators in England; Using Dimension Reduction and Clustering (with `fingertipsR`)](https://www.samabbott.co.uk/post/cluster-england-tb/),176,FALSE,NA,### R in the Real World,link,2018-4-16
+![Storyboard of Tuberculosis Clustering analysis](https://raw.githubusercontent.com/rweekly/image/master/2018/storyboard-fingertips-tb-clust.png),145,FALSE,NA,### R in the Real World,image,2018-4-16
++ [Extending DT child rows example](http://www.reigo.eu/2018/04/extending-dt-child-row-example/),96,FALSE,NA,### R in the Real World,link,2018-4-16
++ [How do the different character-to-datetime convertors in R perform?](http://rsangole.netlify.com/post/performance-benchmarking-for-date-time-conversions/),157,FALSE,NA,### R in the Real World,link,2018-4-16
++ [Stack Overflow questions around the world](https://juliasilge.com/blog/stack-questions-cities/),98,FALSE,NA,### R in the Real World,link,2018-4-16
+![Stack Overflow questions around the world](https://raw.githubusercontent.com/rweekly/image/master/2018/stack-map.png),119,FALSE,NA,### R in the Real World,image,2018-4-16
++ [Struggle with Harry Potter Data](http://www.questionflow.org/2018/04/09/struggle-with-harry-potter-data/),108,FALSE,NA,### R in the Real World,link,2018-4-16
++ [Regular Expressions Every R programmer Should Know](https://blog.jumpingrivers.com/posts/2018/top_regular_expressions_r_stringr/),132,FALSE,NA,###  Tutorials,link,2018-4-16
++ [A short tutorial on how to create interactive maps with popup images using leaflet. ](https://peerchristensen.netlify.com/post/mapping-street-art-with-leaflet-and-r/),169,FALSE,NA,###  Tutorials,link,2018-4-16
++ [Convert epub to Text for Processing in R](https://rud.is/b/2018/04/12/convert-epub-to-text-for-processing-in-r/),115,FALSE,NA,###  Tutorials,link,2018-4-16
++ [Forcing Yourself to Make Your Life Easier](https://ropensci.org/blog/2018/04/12/ijtiff/),91,FALSE,NA,###  Tutorials,link,2018-4-16
++ [In case you missed it: March  2018 roundup](http://blog.revolutionanalytics.com/2018/04/in-case-you-missed-it-march-2018-roundup.html),137,FALSE,NA,###  Tutorials,link,2018-4-16
++ [How to use dplyr's mutate in R without a vectorized function](https://deanattali.com/blog/mutate-non-vectorized/),116,FALSE,NA,###  Tutorials,link,2018-4-16
++ [Solving the 8 queens problem](https://coolbutuseless.bitbucket.io/2018/04/10/solving-the-8-queens-problem/),110,FALSE,NA,###  Tutorials,link,2018-4-16
++ [R Tip: Use match_order() to Align Data](http://www.win-vector.com/blog/2018/04/r-tip-use-match_order-to-align-data/),119,FALSE,NA,###  Tutorials,link,2018-4-16
++ [Get basic summary statistics for all the variables in a data frame](http://www.brodrigues.co/blog/2018-04-10-brotools_describe/),131,FALSE,NA,###  Tutorials,link,2018-4-16
+"+ [Weighted survey data with Power BI compared to dplyr, SQL or survey](http://freerangestats.info/blog/2018/04/11/weighted-survey-data-with-power-bi)",150,FALSE,NA,###  Tutorials,link,2018-4-16
++ [Neglected R Super Functions](http://www.win-vector.com/blog/2018/04/neglected-r-super-functions/),100,FALSE,NA,###  Tutorials,link,2018-4-16
++ [Introduction to Fama French](https://rviews.rstudio.com/2018/04/11/introduction-to-fama-french/),99,FALSE,NA,###  Tutorials,link,2018-4-16
++ [Generating Executable ASCII art](https://coolbutuseless.bitbucket.io/2018/04/12/generating-executable-ascii-art/),116,FALSE,NA,###  Tutorials,link,2018-4-16
+"+ [The case for R, for AI developers](http://blog.revolutionanalytics.com/2018/04/the-case-for-r-for-ai-developers.html)",120,FALSE,NA,###  Tutorials,link,2018-4-16
++ [An R vlookup? Not so silly idea](https://www.daeconomist.com/post/2018-04-08-an-r-vlookup-not-so-silly-idea/),112,FALSE,NA,###  Tutorials,link,2018-4-16
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-4-16
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-4-16
++ `dput()` and `dump()` are no longer truncating when `options(deparse.max.lines = *)` is set.,94,FALSE,NA,###  R Project Updates,unid,2018-4-16
++ Interrupts can be suspended while evaluating an expression using `suspendInterrupts`. Subexpression can be evaluated with interrupts enabled using `allowInterrupts`. These functions can be used to make sure cleanup handlers cannon be interrupted.,248,FALSE,NA,###  R Project Updates,unid,2018-4-16
+"+ R 3.5.0 includes a framework that allows packages to provide alternate representations of basic R objects (`ALTREP`). The framework is still experimental and may undergo changes in future R releases as more experience is gained. For now, [documentation](https://svn.r-project.org/R/branches/ALTREP/ALTREP.html) is provided.",325,FALSE,NA,###  R Project Updates,unid,2018-4-16
+"+ `mantelhaen.test()` no longer suffers from integer overflow in largish cases, thanks to Ben Bolker's PR#17383.",112,FALSE,NA,###  R Project Updates,unid,2018-4-16
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
++ New York R conference **Aprl 20-21** <br />,45,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
+"[New York R conference](https://www.rstats.nyc/), Discount Code : rladies",73,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
++ [eRum 2018](http://2018.erum.io) **May 14-16** <br />,55,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-16
+"European R Users Meeting @ Budapest, Hungary",44,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
+[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
++ [CascadiaRConf](https://cascadiarconf.com/) **June 2**,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-16
+"Portland, OR, US",16,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-16
+Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
++ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-16
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
+<!--,4,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-16
+"Buenos Aires, Argentina.",24,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
+-->,3,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-16
++ [CarpentryCon](http://www.carpentrycon.org/) -,48,FALSE,NA,###  Call for Participation,link,2018-4-16
+May 30 - June 1 at University College Dublin. Conference about how to teach and communicate ideas effectively.,110,FALSE,NA,###  Call for Participation,unid,2018-4-16
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-4-16
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Today in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> things I should have figured out sooner: automatic text wrapping in the <a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a> script editor is a thing! For all your obnoxiously long comment reminders to yourself... <a href=""https://t.co/FX8tm9zGRr"">pic.twitter.com/FX8tm9zGRr</a></p>&mdash; Angela Li (@CivicAngela) <a href=""https://twitter.com/CivicAngela/status/983759892887625730?ref_src=twsrc%5Etfw"">April 10, 2018</a></blockquote>",623,FALSE,NA,###  Quotes of the Week,unid,2018-4-16
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Today in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> things I should have figured out sooner: automatic text wrapping in the <a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a> script editor is a thing! For all your obnoxiously long comment reminders to yourself... <a href=""https://t.co/FX8tm9zGRr"">pic.twitter.com/FX8tm9zGRr</a></p>&mdash; Angela Li (@CivicAngela) <a href=""https://twitter.com/CivicAngela/status/983759892887625730?ref_src=twsrc%5Etfw"">April 10, 2018</a></blockquote>",623,FALSE,NA,###  Quotes of the Week,unid,2018-4-16

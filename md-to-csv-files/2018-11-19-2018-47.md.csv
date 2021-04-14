@@ -1,0 +1,65 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-11-19
+"title: R Weekly 2018-47 Vulnerability, Tables",45,FALSE,NA,NA,unid,2018-11-19
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-11-19
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-11-19
+---,3,FALSE,NA,NA,unid,2018-11-19
++ [Use GitHub Vulnerability Alerts to Keep Users of Your R Packages Safe](https://rud.is/b/2018/11/14/use-github-vulnerability-alerts-to-keep-users-of-your-r-packages-safe/),173,FALSE,NA,###  Highlight,link,2018-11-19
++ [Make Beautiful Tables with the Formattable Package](https://www.displayr.com/formattable/?utm_medium=Feed&utm_source=Syndication),132,FALSE,NA,###  Highlight,link,2018-11-19
++ [Rcpp now used by 1500 CRAN packages](http://dirk.eddelbuettel.com/blog/2018/11/15/#rcpp_1500_packages),105,FALSE,NA,### Insights,link,2018-11-19
++ [Use GitHub Vulnerability Alerts to Keep Users of Your R Packages Safe](https://rud.is/b/2018/11/14/use-github-vulnerability-alerts-to-keep-users-of-your-r-packages-safe/),173,FALSE,NA,### Insights,link,2018-11-19
++ [Surf Check - Automating Weather Forecast Emails in R](https://deanmarchiori.github.io/posts/2018/11/automated-surf-forecasts/),129,FALSE,NA,### R in the Real World,link,2018-11-19
++ [Teaching Toronto elementary school students about data analysis: Data + Art STEAM Project](https://www.littlemissdata.com/blog/steam-data-art2),146,FALSE,NA,### R in the Real World,link,2018-11-19
+![Data + Art STEAM Project](https://raw.githubusercontent.com/rweekly/image/master/2018/Data%2BArt.png),103,FALSE,NA,### R in the Real World,image,2018-11-19
++ [Security issues with installing bioconductor](https://www.jumpingrivers.com/blog/security-r-hacking-bioconductor/),117,FALSE,NA,### R in the Real World,link,2018-11-19
++ [Getting Census data from multiple years using tidycensus and purrr](https://mattherman.info/blog/tidycensus-mult-year/),122,FALSE,NA,### R in the Real World,link,2018-11-19
++ [Rcpp now used by 1500 CRAN packages](http://dirk.eddelbuettel.com/blog/2018/11/15#rcpp_1500_packages),104,FALSE,NA,### R in the Real World,link,2018-11-19
++ [Utilizing K-means to Extract Colours from Your Favourite Images](https://chichacha.netlify.com/2018/11/12/utilizing-k-means-to-extract-colours-from-your-favourite-images/),174,FALSE,NA,### R in the Real World,link,2018-11-19
+![Utilizing K-means to Extract Colours from Your Favourite Images](https://raw.githubusercontent.com/rweekly/image/master/2018/treemap_clustered_colour-1.png),158,FALSE,NA,### R in the Real World,image,2018-11-19
++ [A Mathematician's Perspective on Topological Data Analysis and R](https://rviews.rstudio.com/2018/11/14/a-mathematician-s-perspective-on-topological-data-analysis-and-r/),173,FALSE,NA,### R in the Real World,link,2018-11-19
++ [Dimensionality Reduction Methods Using Fifa 18 Player Data ](http://blog.schochastics.net/post/dimensionality-reduction-methods/),132,FALSE,NA,### R in the Real World,link,2018-11-19
++ [Make Beautiful Tables with the Formattable Package](https://www.displayr.com/formattable/?utm_medium=Feed&utm_source=Syndication),132,FALSE,NA,### R in the Real World,link,2018-11-19
+![Make Beautiful Tables with the Formattable Package](https://raw.githubusercontent.com/rweekly/image/master/2018/finalhtmlwidgettable.png),139,FALSE,NA,### R in the Real World,image,2018-11-19
++ [Report from the Enterprise Applications of the R Language conference   ](https://blog.revolutionanalytics.com/2018/11/report-from-earl-seattle.html),151,FALSE,NA,###  R in Organizations,link,2018-11-19
++ [The Antarctic/Southern Ocean rOpenSci community](https://ropensci.org/blog/2018/11/13/antarctic/),100,FALSE,NA,###  R in Organizations,link,2018-11-19
+![The Antarctic/Southern Ocean rOpenSci community](https://raw.githubusercontent.com/rweekly/image/master/2018/antanym2-1.png),126,FALSE,NA,###  R in Organizations,image,2018-11-19
++ [tidyevaluation with rlang](https://github.com/rstudio/cheatsheets/blob/master/tidyeval.pdf),94,FALSE,NA,###  Resources,link,2018-11-19
++ [In case you missed it: October 2018 roundup](https://blog.revolutionanalytics.com/2018/11/in-case-you-missed-it-october-2018-roundup.html),141,FALSE,NA,###  Resources,link,2018-11-19
++ [The vtreat data preparation system](https://cran.r-project.org/web/packages/vtreat/vignettes/vtreat_article.pdf),115,FALSE,NA,###  Resources,link,2018-11-19
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-11-19
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-11-19
++ [Shiny 1.2.0](https://blog.rstudio.com/2018/11/13/shiny-1-2-0/) - Plot caching,80,FALSE,NA,###  New Packages,link,2018-11-19
++ [RcppGetconf 0.0.3](http://dirk.eddelbuettel.com/blog/2018/11/16#rcppgetconf_0.0.3) - package for reading system configuration,128,FALSE,NA,###  New Packages,link,2018-11-19
++ [Easy time-series prediction with R: a tutorial with air traffic data from Lux Airport](https://www.brodrigues.co/blog/2018-11-14-luxairport/),144,FALSE,NA,###  Tutorials,link,2018-11-19
+"+ [Interchanging RMarkdown and ""spinnable"" R](https://webbedfeet.netlify.com/post/interchanging-rmarkdown-and-spinnable-r/)",123,FALSE,NA,###  Tutorials,link,2018-11-19
++ [How to get Twitter data with rtweet in R](http://www.storybench.org/get-twitter-data-rtweet-r/),98,FALSE,NA,###  Tutorials,link,2018-11-19
++ [Installing RStudio & Shiny Servers](https://datawookie.netlify.com/blog/2018/11/installing-rstudio--shiny-servers/),118,FALSE,NA,###  Tutorials,link,2018-11-19
++ [Quoting in R](http://www.win-vector.com/blog/2018/11/quoting-in-r/),70,FALSE,NA,###  Tutorials,link,2018-11-19
++ [Reporting data in big tables with huxtable 4.3.0](https://hughjonesd.github.io/reporting-data-with-huxtable-4.3.0.html),122,FALSE,NA,###  Tutorials,link,2018-11-19
++ [How to de-Bias Standard Deviation Estimates](http://www.win-vector.com/blog/2018/11/how-to-de-bias-standard-deviation-estimates/),132,FALSE,NA,###  Tutorials,link,2018-11-19
++ [threed - drawing a cube in ggplot2](https://coolbutuseless.github.io/2018/11/12/threed-drawing-a-cube-in-ggplot2/),117,FALSE,NA,###  Tutorials,link,2018-11-19
+![threed - drawing a cube in ggplot2](https://coolbutuseless.github.io/post/2018-11-12-drawing-a-cube-with-ggplot2-threed_files/figure-html/unnamed-chunk-11-1.png),163,FALSE,NA,###  Tutorials,image,2018-11-19
++ [Time Series and MCHT](https://ntguardian.wordpress.com/2018/11/12/time-series-and-mcht/),91,FALSE,NA,###  Tutorials,link,2018-11-19
++ [Asking for help is challenging but is typically worth it](http://feedproxy.google.com/~r/FellgernonBit-rstats/~3/rstVxZu9uIo/),129,FALSE,NA,###  Tutorials,link,2018-11-19
++ [ggthreed - 3d pie charts](https://coolbutuseless.github.io/2018/11/13/ggthreed-3d-pie-charts/),97,FALSE,NA,###  Tutorials,link,2018-11-19
+"+ [Data Science Blog: My Experiences with Data Science, Blogging, and R](https://support.rbind.io/2018/11/12/data-science-blog/)",128,FALSE,NA,###  Tutorials,link,2018-11-19
++ [AI for Good: slides and notebooks from the ODSC workshop](https://blog.revolutionanalytics.com/2018/11/workshop-ai-for-good.html),132,FALSE,NA,###  Tutorials,link,2018-11-19
++ [Easy time-series prediction with R: a tutorial with air traffic data from Lux Airport](http://www.brodrigues.co/blog/2018-11-14-luxairport/),143,FALSE,NA,###  Tutorials,link,2018-11-19
+![Easy time-series prediction with R: a tutorial with air traffic data from Lux Airport](https://raw.githubusercontent.com/rweekly/image/master/2018/unnamed-chunk-24-1.png),172,FALSE,NA,###  Tutorials,image,2018-11-19
++ [A Mathematician's Perspective on Topological Data Analysis and R](https://rviews.rstudio.com/2018/11/14/a-mathematician-s-perspective-on-topological-data-analysis-and-r/),173,FALSE,NA,###  Tutorials,link,2018-11-19
++ [More on Bias Corrected Standard Deviation Estimates](http://www.win-vector.com/blog/2018/11/more-on-bias-corrected-standard-deviation-estimates/),148,FALSE,NA,###  Tutorials,link,2018-11-19
++ [Searching for the optimal hyper-parameters of an ARIMA model in parallel: the tidy gridsearch approach](http://www.brodrigues.co/blog/2018-11-15-tidy_gridsearch/),165,FALSE,NA,###  Tutorials,link,2018-11-19
++ [Using a genetic algorithm for the hyperparameter optimization of a SARIMA model](http://www.brodrigues.co/blog/2018-11-16-rgenoud_arima/),140,FALSE,NA,###  Tutorials,link,2018-11-19
++ [How to plot fitted lines with ggplot2](https://aosmith.rbind.io/2018/11/16/plot-fitted-lines/),97,FALSE,NA,###  Tutorials,link,2018-11-19
++ [Example of Overfitting](https://matloff.wordpress.com/2018/11/16/example-of-overfitting/),92,FALSE,NA,###  Tutorials,link,2018-11-19
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-11-19
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-11-19
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-11-19
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-11-19
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-11-19
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-11-19
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-11-19
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">A lesser-known <a href=""https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw"">#dplyr</a> 🔧 function: lag().  Use lag() to get the previous value in a vector. The equivalent for getting the next value is lead(). I&#39;ve not used them often, but when I have they&#39;ve saved me from writing horrible workarounds! <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw"">#tidyverse</a> <a href=""https://t.co/b29Bwbymzr"">pic.twitter.com/b29Bwbymzr</a></p>&mdash; Nic Crane (@nic_crane) <a href=""https://twitter.com/nic_crane/status/1063325797031862272?ref_src=twsrc%5Etfw"">November 16, 2018</a></blockquote>",805,FALSE,NA,###  Quotes of the Week,unid,2018-11-19
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">TIL tidyr::uncount(), which does the opposite of dplyr::count()<a href=""https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw"">#RStats</a> <a href=""https://t.co/ePoOgYlX8b"">pic.twitter.com/ePoOgYlX8b</a></p>&mdash; Colin Fay 🤘 (@_ColinFay) <a href=""https://twitter.com/_ColinFay/status/1063359236149784576?ref_src=twsrc%5Etfw"">November 16, 2018</a></blockquote>",447,FALSE,NA,###  Quotes of the Week,unid,2018-11-19
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> folks: did you know enclosing assignments inside parentheses will also print the object&#39;s value to the console? One area this can be useful is when assigning <a href=""https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot2</a> objects: Eg:<br><br>(p &lt;- ggplot(...) + ...) <br><br>will assign and display your plot in one line.</p>&mdash; John Lewis (@_jrlewi) <a href=""https://twitter.com/_jrlewi/status/1063071235758682112?ref_src=twsrc%5Etfw"">November 15, 2018</a></blockquote>",671,FALSE,NA,###  Quotes of the Week,unid,2018-11-19
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">What are your favourite non-tidyverse <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> packages? I ❤️ <a href=""https://twitter.com/hashtag/kableExtra?src=hash&amp;ref_src=twsrc%5Etfw"">#kableExtra</a> by <a href=""https://twitter.com/haozhu233?ref_src=twsrc%5Etfw"">@haozhu233</a>. It allows you to get a really fine degree of customisation on both LaTeX and HTML tables, and wins bonus points for having excellent documentation! 😻<a href=""https://t.co/H3urFGgZYh"">https://t.co/H3urFGgZYh</a> <a href=""https://t.co/5tGrrWejAj"">pic.twitter.com/5tGrrWejAj</a></p>&mdash; We are R-Ladies (@WeAreRLadies) <a href=""https://twitter.com/WeAreRLadies/status/1063458924395786240?ref_src=twsrc%5Etfw"">November 16, 2018</a></blockquote>",835,FALSE,NA,###  Quotes of the Week,unid,2018-11-19

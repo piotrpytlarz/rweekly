@@ -1,0 +1,88 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-5-21
+"title: R Weekly 2018-21 purrr, furrr",36,FALSE,NA,NA,unid,2018-5-21
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-5-21
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-5-21
+---,3,FALSE,NA,NA,unid,2018-5-21
++ [To purrr or not to purrr](https://www.mango-solutions.com/blog/to-purrr-or-not-to-purrr),91,FALSE,NA,###  Highlight,link,2018-5-21
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-5-21
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-5-21
++ [furrr](https://cran.r-project.org/web/packages/furrr/index.html) - Apply Mapping Functions in Parallel using Futures,119,FALSE,NA,###  New Packages,link,2018-5-21
+"+ [bench](http://bench.r-lib.org/) - The goal of bench is to benchmark code, tracking execution time, memory allocations and garbage collections.",145,FALSE,NA,###  New Packages,link,2018-5-21
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-5-21
++ [fryingpane](https://github.com/ColinFay/fryingpane) - Serve datasets from a package inside the RStudio Connection Pane,121,FALSE,NA,###  New Packages,link,2018-5-21
++ [getTBinR 0.5.4](https://www.samabbott.co.uk/post/gettbinr-5-4/) - get WHO Tuberculosis data,94,FALSE,NA,### Package Releases,link,2018-5-21
+![getTBinR example plots](https://raw.githubusercontent.com/rweekly/image/master/2018/binr-0821.png),100,FALSE,NA,### Package Releases,image,2018-5-21
++ [icon](https://ropensci.org/technotes/2018/05/15/icon/) - web icons for rmarkdown,83,FALSE,NA,### Package Releases,link,2018-5-21
++ [sparklyr 0.8](https://blog.rstudio.com/2018/05/14/sparklyr-0-8/) - R Interface to Apache Spark,97,FALSE,NA,### Package Releases,link,2018-5-21
+"+ [inline 0.3.15](http://dirk.eddelbuettel.com/blog/2018/05/18#inline-0.3.15) - Functions to Inline C, C++, Fortran Function Calls from R",137,FALSE,NA,### Package Releases,link,2018-5-21
++ [wrapr 1.4.1](http://www.win-vector.com/blog/2018/05/wrapr-1-4-1-now-up-on-cran/) - Wrap R Tools for Debugging and Parametric Programming,139,FALSE,NA,### Package Releases,link,2018-5-21
++ [R/exams 2.3-1](http://www.R-exams.org/general/cran_release_231/) - Automatic Generation of Exams in R,104,FALSE,NA,### Package Releases,link,2018-5-21
++ [The Wikidata Concepts Monitor: R in Action Across Big Wikidata](https://commons.wikimedia.org/wiki/File:GMilovanovic_eRum2018.pdf),133,FALSE,NA,### R in the Real World,link,2018-5-21
+![The Wikidata Concepts Monitor: R in Action Across Big Wikidata](https://raw.githubusercontent.com/rweekly/image/master/2018/wikidata.png),139,FALSE,NA,### R in the Real World,image,2018-5-21
++ [Throwing Shade at the Cartographer Illuminati: Raytracing the Washington Monument in R](http://www.tylermw.com/throwing-shade/),130,FALSE,NA,### R in the Real World,link,2018-5-21
++ [Adjusting for Batch Effects in the Star Wars Trilogies](https://erle.io/blog/adjusting-for-batch-effects-in-the-star-wars-trilogies/),136,FALSE,NA,### R in the Real World,link,2018-5-21
+"+ [""LMX ot NOSJ!"" Interchanging Classic Data Formats With Single blackmagic Incantations](https://rud.is/b/2018/05/18/lmx-ot-nosj-interchanging-classic-data-formats-with-single-blackmagic-incantations/)",202,FALSE,NA,### R in the Real World,link,2018-5-21
++ [How the distribution of the popular vote has been shared between Britain's main political parties since the 1950s](https://flother.is/2018/british-party-support/),165,FALSE,NA,### R in the Real World,link,2018-5-21
+![How the distribution of the popular vote has been shared between Britain's main political parties since the 1950s](https://raw.githubusercontent.com/rweekly/image/master/2018/tory-labour-1955-2017%402x.png),208,FALSE,NA,### R in the Real World,image,2018-5-21
++ [AphA Scotland - it's a thing](https://www.johnmackintosh.com/2018-05-13-apha-scotland-it-s-a-thing/),103,FALSE,NA,### R in the Real World,link,2018-5-21
++ [Understanding PCA using Stack Overflow data](https://raw.githubusercontent.com/rweekly/image/master/2018/pc12.png),117,FALSE,NA,### R in the Real World,link,2018-5-21
++ [Building a package that lasts — eRum2018 Workshop](https://github.com/ColinFay/erum2018),91,FALSE,NA,###  Resources,link,2018-5-21
++ [R in Power BI](https://taraskaduk.com/talk/sql-sat-759-r-pbi/),65,FALSE,NA,###  Resources,link,2018-5-21
++ [Tooling for R package development](https://recology.info/2017/06/package-dev/),81,FALSE,NA,###  Resources,link,2018-5-21
++ [Rethinking Academic Data Sharing](https://simplystatistics.org/2018/05/15/rethinking-academic-data-sharing/),111,FALSE,NA,### Insights,link,2018-5-21
++ [Navigating Statistical Modeling and Machine Learning](http://fharrell.com/post/stat-ml2/),92,FALSE,NA,### Insights,link,2018-5-21
++ [To purrr or not to purrr](https://www.mango-solutions.com/blog/to-purrr-or-not-to-purrr),91,FALSE,NA,### Insights,link,2018-5-21
++ [Let me tell you what you missed at BUILD](http://blog.revolutionanalytics.com/2018/05/let-me-tell-you-what-you-missed-at-build.html),135,FALSE,NA,###  R in Organizations,link,2018-5-21
++ [Fifteen New Zealand government Shiny web apps](http://freerangestats.info/blog/2018/05/13/nz-govt-shinyapps),111,FALSE,NA,###  R in Organizations,link,2018-5-21
++ [Como hacer un stat genérico en ggplot2](https://eliocamp.github.io/codigo-r/2018/05/como-hacer-un-stat-generico-en-ggplot2/),127,FALSE,NA,### R Internationally,link,2018-5-21
++ [tidying old functions](http://data-chips.com/2018/05/11/tidying-old-functions/) - Code samples for introduction the tidyverse to old functions,145,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Installation to connect Spark and H2O in R](https://rtask.thinkr.fr/blog/installation-to-connect-spark-and-h2o-in-r/),120,FALSE,NA,###  Tutorials,link,2018-5-21
++ [A Package template to design a prod-ready Shiny application](https://rtask.thinkr.fr/blog/our-shiny-template-to-design-a-prod-ready-app/),140,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Deploying a secure Shiny Server and RStudio Server on a free Google Cloud virtual machine](http://www.simoncoulombe.com/2018/05/07/protected_free_shiny/),156,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Introduction to vectorization with code snippet in both R and python](http://enhancedatascience.com/2018/05/07/machine-learning-explained-vectorization-matrix-operations/),174,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Reproducing a Bostock d3.js Speciality in ggplot](https://daranzolin.github.io//articles/2018-05/ages-ggplot),112,FALSE,NA,###  Tutorials,link,2018-5-21
+![Reproducing a Bostock d3.js Speciality in ggplot](https://raw.githubusercontent.com/rweekly/image/master/2018/bostockage.png),127,FALSE,NA,###  Tutorials,image,2018-5-21
++ [Multivariate dot-density maps in R with sf and ggplot2](https://www.cultureofinsight.com/blog/2018/05/02/2018-04-08-multivariate-dot-density-maps-in-r-with-sf-ggplot2/),171,FALSE,NA,###  Tutorials,link,2018-5-21
++ [General gems of comperes: examples of exported functions from {comperes} package that could be useful for general tasks](http://www.questionflow.org/2018/05/17/general-gems-of-comeres/),188,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Working with spreadsheets in R](https://luisdva.github.io/rstats/excel-trivia/),82,FALSE,NA,###  Tutorials,link,2018-5-21
+"+ [Benchmark mutate - vector, matrix, data.frame](https://coolbutuseless.github.io/2018/05/12/benchmark-mutate---vector-matrix-data.frame/)",139,FALSE,NA,###  Tutorials,link,2018-5-21
++ [PSM Non-Linear Mixed-Effects Modelling using Stochastic DifferentialEquations](https://cran.r-project.org/package=PSM),121,FALSE,NA,###  Tutorials,link,2018-5-21
++ [automaton: Interpretation of Automaton Diagrams (Using TikZ)](http://www.R-exams.org/templates/automaton/),109,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Is non-inferiority on par with superiority?](https://www.rdatagen.net/post/are-non-inferiority-trials-inferior/),115,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Sketchnotes from TWiML&AI: Adversarial Attacks Against Reinforcement Learning Agents with Ian Goodfellow & Sandy Huang](https://shirinsplayground.netlify.com/2018/05/twimlai121/),181,FALSE,NA,###  Tutorials,link,2018-5-21
++ [fruit2: Image-Based Systems of Linear Equations (Single-Choice)](http://www.R-exams.org/templates/fruit2/),109,FALSE,NA,###  Tutorials,link,2018-5-21
++ [The design of my logo](https://mvaugoyeau.netlify.com/post/the-design-of-my-logo/),85,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Mind Bytes: Solving Societal Challenges with Artificial Intelligence](http://blog.revolutionanalytics.com/2018/05/mind-bytes.html),133,FALSE,NA,###  Tutorials,link,2018-5-21
+"+ [Insert images in blogdown post, static directory, and xaringan](https://uncmbbtrivia.netlify.com/post/2018/05/17/insert-images-in-blogdown-post/)",148,FALSE,NA,###  Tutorials,link,2018-5-21
++ [How to make a generic stat in ggplot2](https://eliocamp.github.io/codigo-r/2018/05/how-to-make-a-generic-stat-in-ggplot2/),125,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Enterprise Dashboards with R Markdown](https://rviews.rstudio.com/2018/05/16/replacing-excel-reports-with-r-markdown-and-shiny/),131,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Beautiful and Powerful Correlation Tables in R](https://neuropsychology.github.io/psycho.R//2018/05/18/correlation.html),123,FALSE,NA,###  Tutorials,link,2018-5-21
+![Beautiful and Powerful Correlation Tables in R](https://raw.githubusercontent.com/rweekly/image/master/2018/tables-0821.png),126,FALSE,NA,###  Tutorials,image,2018-5-21
++ [logic: Interpretation of Logic Gates (Using TikZ)](http://www.R-exams.org/templates/logic/),94,FALSE,NA,###  Tutorials,link,2018-5-21
+"+ [Insert images in blogdown post, static directory, and xaringan](https://uncmbbtrivia.netlify.com/post/2018/05/17/insert-images-in-blogdown-post/)",148,FALSE,NA,###  Tutorials,link,2018-5-21
++ [fruit: Image-Based Systems of Linear Equations (Numeric)](http://www.R-exams.org/templates/fruit/),101,FALSE,NA,###  Tutorials,link,2018-5-21
++ [treeio: Phylogenetic data integration](https://ropensci.org/blog/2018/05/17/treeio/),87,FALSE,NA,###  Tutorials,link,2018-5-21
++ [drake's improved high-performance computing power](https://ropensci.org/technotes/2018/05/18/drake-hpc/),107,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Ready Made Plots make Work Easier](http://www.win-vector.com/blog/2018/05/ready-made-plots-make-work-easier/),112,FALSE,NA,###  Tutorials,link,2018-5-21
++ [Rstudio + Selenium + AWS: Deep in Docker Hell](https://www.daeconomist.com/post/2018-04-29-deep-in-docker-hell/),115,FALSE,NA,###  Tutorials,link,2018-5-21
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-5-21
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-21
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-21
+[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-21
++ [CascadiaRConf](https://cascadiarconf.com/) **June 2**,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-21
+"Portland, OR, US",16,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-21
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-21
+Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-21
++ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-21
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-21
+<!--,4,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-21
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-21
+"Buenos Aires, Argentina.",24,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-21
+-->,3,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-21
+More upcoming events the week of May 21 at [community.rstudio.com](https://community.rstudio.com/t/upcoming-r-community-events-week-of-2018-05-21/8506).,152,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-21
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-21
++ [Awesome postdoc opportunities in computational genomics at JHU](https://simplystatistics.org/2018/05/17/awesome-postdoc-opportunities-in-computational-genomics-at-jhu/),171,FALSE,NA,###  Call for Participation,link,2018-5-21
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-5-21
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Hear me, oh people! Stop using nested `ifelse()` functions and start using `dplyr::case_when()` !<br>It&#39;s easier AND faster! <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw"">#tidyverse</a></p>&mdash; Zachary Burchill (@zachburchill) <a href=""https://twitter.com/zachburchill/status/997240069885964294?ref_src=twsrc%5Etfw"">May 17, 2018</a></blockquote>",549,FALSE,NA,###  Quotes of the Week,unid,2018-5-21
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">I was recently asked to give a stats talk in my department on how to analyse zero-inflated count data, which is a common problem in ecology (and especially behavioural ecology). I came up with this flowchart and thought I&#39;d share it in case it&#39;s useful for any of you <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/8zhEzQFuIV"">pic.twitter.com/8zhEzQFuIV</a></p>&mdash; Natalie Pilakouta (@NPilakouta) <a href=""https://twitter.com/NPilakouta/status/995982320585920512?ref_src=twsrc%5Etfw"">May 14, 2018</a></blockquote>",662,FALSE,NA,###  Quotes of the Week,unid,2018-5-21

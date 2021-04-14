@@ -1,0 +1,60 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-12-03
+"title: R Weekly 2018-49 parsnip, Validation",43,FALSE,NA,NA,unid,2018-12-03
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-12-03
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-12-03
+---,3,FALSE,NA,NA,unid,2018-12-03
++ [Community Call Summary - Code Review in the Lab](https://ropensci.org/blog/2018/11/29/codereview/),101,FALSE,NA,###  Highlight,link,2018-12-03
++ [parsnip](https://www.tidyverse.org/articles/2018/11/parsnip-0-0-1/),70,FALSE,NA,###  Highlight,link,2018-12-03
++ [A tutorial on tidy cross-validation with R](http://www.brodrigues.co/blog/2018-11-25-tidy_cv/),97,FALSE,NA,###  Highlight,link,2018-12-03
++ [Coming soon: tibble 2.0.0](https://www.tidyverse.org/articles/2018/11/tibble-2.0.0-pre-announce/),100,FALSE,NA,### Insights,link,2018-12-03
+"+ [The new pqR parser, and R’s “else” problem](https://radfordneal.wordpress.com/2018/11/27/the-new-pqr-parser-and-rs-else-problem/)",132,FALSE,NA,### Insights,link,2018-12-03
++ [The Case Against Precision as a Model Selection Criterion](https://www.datascienceblog.net/post/machine-learning/specificity-vs-precision/),142,FALSE,NA,### Insights,link,2018-12-03
+![The Case Against Precision as a Model Selection Criterion](https://raw.githubusercontent.com/rweekly/image/master/2018/precision.png),135,FALSE,NA,### Insights,image,2018-12-03
++ [Faster garbage collection in pqR](https://radfordneal.wordpress.com/2018/11/29/faster-garbage-collection-in-pqr/),116,FALSE,NA,### Insights,link,2018-12-03
++ [Co-localization analysis of fluorescence microscopy images](https://ropensci.org/blog/2018/11/27/colocr/),108,FALSE,NA,### R in the Real World,link,2018-12-03
+![Co-localization analysis of fluorescence microscopy images](https://raw.githubusercontent.com/rweekly/image/master/2018/colo.png),131,FALSE,NA,### R in the Real World,image,2018-12-03
+"+ [How Do We Judge a Probabilistic Model? Or, How Did FiveThirtyEight Do in Forecasting the 2018 Midterms?](https://www.markhw.com/blog/fivethirtyeight-midterms)",161,FALSE,NA,### R in the Real World,link,2018-12-03
++ [Number of births in the twentieth century](http://freerangestats.info/blog/2018/12/01/number-births),103,FALSE,NA,### R in the Real World,link,2018-12-03
+![Number of births in the twentieth century](https://raw.githubusercontent.com/rweekly/image/master/2018/people-source.png),123,FALSE,NA,### R in the Real World,image,2018-12-03
++ [Holiday Designs in R and Using R in Industry](https://rladies-baltimore.github.io/post/using-r-in-industry/),111,FALSE,NA,### R in the Real World,link,2018-12-03
++ [NYC buses: Cubist regression with more predictors](https://datascienceplus.com/nyc-buses-cubist-regression-with-more-predictors/),132,FALSE,NA,### R in the Real World,link,2018-12-03
+![NYC buses: Cubist regression with more predictors](https://raw.githubusercontent.com/rweekly/image/master/2018/cubist.png),124,FALSE,NA,### R in the Real World,image,2018-12-03
++ [Community Call Summary - Code Review in the Lab](https://ropensci.org/blog/2018/11/29/codereview/),101,FALSE,NA,###  R in Organizations,link,2018-12-03
++ [Tidyverse developer day 2019](https://www.tidyverse.org/articles/2018/11/tidyverse-developer-day-2019/),106,FALSE,NA,###  R in Organizations,link,2018-12-03
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-12-03
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-12-03
++ [parsnip](https://www.tidyverse.org/articles/2018/11/parsnip-0-0-1/) - A tidy unified interface to models,107,FALSE,NA,###  New Packages,link,2018-12-03
+"+ [October 2018: ""Top 40"" New Packages ](https://rviews.rstudio.com/2018/11/29/october-2018-top-40-new-packages/)",113,FALSE,NA,###  New Packages,link,2018-12-03
++ [AzureRMR](https://blog.revolutionanalytics.com/2018/11/azurermr-azure-resource-manager.html) - an R interface to Azure Resource Manager,138,FALSE,NA,###  New Packages,link,2018-12-03
++ [styler 1.1.0](https://lorenzwalthert.netlify.com/posts/styler-v1.1),70,FALSE,NA,### Updated Packages,link,2018-12-03
++ [RcppEigen 0.3.3.5.0](http://dirk.eddelbuettel.com/blog/2018/11/24#rcppeigen_0.3.3.5.0),89,FALSE,NA,### Updated Packages,link,2018-12-03
+"+ [RQuantLib 0.4.6: Updated upstream, and calls for help](http://dirk.eddelbuettel.com/blog/2018/11/25#rquantlib_0.4.6)",119,FALSE,NA,### Updated Packages,link,2018-12-03
++ [tidymodels package updates](https://www.tidyverse.org/articles/2018/11/tidymodels-update-nov-18/),100,FALSE,NA,### Updated Packages,link,2018-12-03
+![tidymodels package updates](https://raw.githubusercontent.com/rweekly/image/master/2018/tidym.png),100,FALSE,NA,### Updated Packages,image,2018-12-03
++ [How to improve your visualizations in R ](http://www.thinkingondata.com/6-tips-to-make-your-visualizations-look-professional/),129,FALSE,NA,###  Tutorials,link,2018-12-03
++ [How to work with strings in base R - An overview of 20+ methods for daily use.](https://jozefhajnala.gitlab.io/r/r007-string-manipulation/),142,FALSE,NA,###  Tutorials,link,2018-12-03
++ [Neural Network Embedding of the Over-Dispersed Poisson Reserving Model](http://ronaldrichman.co.za/2018/11/25/neural-network-embedding-of-the-over-dispersed-poisson-reserving-model/),185,FALSE,NA,###  Tutorials,link,2018-12-03
++ [A tutorial on tidy cross-validation with R](http://www.brodrigues.co/blog/2018-11-25-tidy_cv/),97,FALSE,NA,###  Tutorials,link,2018-12-03
++ [Introducing compareAreas: Area Polygons for Humans](http://daranzolin.github.io/2018-11-26-compareAreas/),108,FALSE,NA,###  Tutorials,link,2018-12-03
+"+ [Slack and Plumber, Part Two](https://rviews.rstudio.com/2018/11/27/slack-and-plumber-part-two/)",98,FALSE,NA,###  Tutorials,link,2018-12-03
+"+ [Horses for courses, or to each model its own (causal effect)](https://www.rdatagen.net/post/different-models-estimate-different-causal-effects-part-ii/)",155,FALSE,NA,###  Tutorials,link,2018-12-03
++ [R now supported in Azure SQL Database](https://blog.revolutionanalytics.com/2018/11/r-support-in-azure-sql-database.html),124,FALSE,NA,###  Tutorials,link,2018-12-03
++ [Radar plots](https://www.datascienceblog.net/post/data-visualization/radar-plot/),84,FALSE,NA,###  Tutorials,link,2018-12-03
++ [plotting traditional colours of japan](https://chichacha.netlify.com/2018/11/29/plotting-traditional-colours-of-japan/),122,FALSE,NA,###  Tutorials,link,2018-12-03
+![plotting traditional colours of japan](https://raw.githubusercontent.com/rweekly/image/master/2018/japan-color.png),117,FALSE,NA,###  Tutorials,image,2018-12-03
++ [Machine Learning Basics - Gradient Boosting & XGBoost](https://shirinsplayground.netlify.com/2018/11/ml_basics_gbm/),119,FALSE,NA,###  Tutorials,link,2018-12-03
+"+ [Simulating dinosaur populations, with R](https://blog.revolutionanalytics.com/2018/11/jurassic-park.html)",108,FALSE,NA,###  Tutorials,link,2018-12-03
++ [Because it's Friday: If planets were as close as the moon](https://blog.revolutionanalytics.com/2018/11/because-its-friday-if-planets-were.html),147,FALSE,NA,###  Tutorials,link,2018-12-03
++ [Creating and saving multiple plots to  Powerpoint](https://www.johnmackintosh.com/2018-11-30-multiple-plots-to-powerpoint/),126,FALSE,NA,###  Tutorials,link,2018-12-03
++ [How to create automated analysis using r](http://nandeshwar.info/data-science-2/how-to-create-automated-analysis-using-r/),125,FALSE,NA,###  Tutorials,link,2018-12-03
++ [Sleek & Shiny](http://statistica.it/gianluca/post/2018-07-16-sleek-shiny/),77,FALSE,NA,###  Tutorials,link,2018-12-03
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-12-03
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-12-03
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-12-03
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-12-03
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-12-03
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-12-03
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-12-03
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Ladies, if he:<br><br>- wastes your money<br>- makes it hard to work with others<br>- locks you into long term contracts <br>- patronizes you with point-and-click GUIs that don’t preserve data lineage <br><br>He’s not your man. He’s legacy enterprise stats software. Dump him for some <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Emily Riederer (@EmilyRiederer) <a href=""https://twitter.com/EmilyRiederer/status/1068289681803104258?ref_src=twsrc%5Etfw"">November 29, 2018</a></blockquote>",615,FALSE,NA,###  Quotes of the Week,unid,2018-12-03
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">1/4‼️rayshader 0.8.0 feature preview! Tired of rectangular maps? Want to mix things up with a circle? Or a hexagon? Or how about any shape you want🤯? No problem! Arbitrary map shapes coming in the next version of <a href=""https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw"">#rayshader</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/VJuWzAKqbe"">pic.twitter.com/VJuWzAKqbe</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href=""https://twitter.com/tylermorganwall/status/1068486091454455809?ref_src=twsrc%5Etfw"">November 30, 2018</a></blockquote>",711,FALSE,NA,###  Quotes of the Week,unid,2018-12-03

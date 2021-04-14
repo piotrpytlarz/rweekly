@@ -1,0 +1,74 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2019-12-23
+"title: R Weekly 2019-51 R-hub, reticulate",41,FALSE,NA,NA,unid,2019-12-23
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-12-23
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-12-23
+---,3,FALSE,NA,NA,unid,2019-12-23
++ [R-hub usage in a few figures](https://blog.r-hub.io/2019/12/19/r-hub-usage/),79,FALSE,NA,###  Highlight,link,2019-12-23
++ [reticulate 1.14](https://blog.rstudio.com/2019/12/20/reticulate-1-14/) - a comprehensive set of tools for interoperability between Python and R,146,FALSE,NA,###  Highlight,link,2019-12-23
++ [R vs. Python: What's the best language for Data Science?](https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/),156,FALSE,NA,### Insights,link,2019-12-23
++ [Thanks for Reviewing Bug Reports](https://developer.r-project.org/Blog/public/2019/12/16/thanks-for-reviewing-bug-reports/),126,FALSE,NA,### Insights,link,2019-12-23
+![Thanks for Reviewing Bug Reports](https://raw.githubusercontent.com/rweekly/image/master/2019/bug-report-cran.png),116,FALSE,NA,### Insights,image,2019-12-23
++ [R-hub usage in a few figures](https://blog.r-hub.io/2019/12/19/r-hub-usage/),79,FALSE,NA,### Insights,link,2019-12-23
+![R-hub usage in a few figures](https://raw.githubusercontent.com/rweekly/image/master/2019/rhub-week.png),106,FALSE,NA,### Insights,image,2019-12-23
++ [Gabriela de Queiroz steps down from the R-Ladies Global Leadership Team](https://blog.rladies.org/post/gdq-departure/),121,FALSE,NA,### Insights,link,2019-12-23
++ [Most Recurring Word on each Country's Wikipedia Page](http://felixluginbuhl.com/leaflet-map/),96,FALSE,NA,### R in the Real World,link,2019-12-23
++ [Exploring Eu Wide Data on New Car Registrations and Co2 Efficiency](https://skranz.github.io//r/2019/12/17/EU_Cars_CO2.html),127,FALSE,NA,### R in the Real World,link,2019-12-23
++ [Collecting and Analyzing Twitter Data Using R](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/collecting-and-analyzing-twitter-using-r.knit/),159,FALSE,NA,### R in the Real World,link,2019-12-23
++ [Christmas Gifting with R](https://myfanwy.github.io/Blog/2019/12/17/Christmas-Gifting-With-R.html),101,FALSE,NA,### R in the Real World,link,2019-12-23
++ [Are We in Kansas Anymore? Judging the State of Hollywood Film with Data from Wikipedia](https://datadiarist.github.io/post/are-we-in-kansas-anymore/),152,FALSE,NA,### R in the Real World,link,2019-12-23
++ [Print Beautiful City Street Maps with R](https://taraskaduk.com/2019/12/20/print-maps/),90,FALSE,NA,### R in the Real World,link,2019-12-23
+![Most Recurring Word on each Country's Wikipedia Page](https://raw.githubusercontent.com/rweekly/image/master/2019/print-maps.png),131,FALSE,NA,### R in the Real World,image,2019-12-23
+"<!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->",101,FALSE,NA,### R in the Real World,unid,2019-12-23
++ [NHS-R Community Conference II](https://nhsrcommunity.com/blog/nhs-r-community-conference-ii/),96,FALSE,NA,###  R in Organizations,link,2019-12-23
+"+ [2 Months in 2 Minutes - rOpenSci News, December 2019](https://ropensci.org/blog/2019/12/20/news-dec2019/)",108,FALSE,NA,###  R in Organizations,link,2019-12-23
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-12-23
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-12-23
+"+ [November 2019: ""Top 40"" New R Packages](https://rviews.rstudio.com/2019/12/20/november-2019-top-40-new-r-packages/)",118,FALSE,NA,###  New Packages,link,2019-12-23
++ [hardhat 0.1.0](https://www.tidyverse.org/blog/2019/12/hardhat-0-1-0/),72,FALSE,NA,###  New Packages,link,2019-12-23
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-12-23
++ [{claremontrun 0.1.0}: Data package that provides data from the Claremont Run project. This project collects data on Chris Claremont’s iconic run on Uncanny X-Men.](https://github.com/malcolmbarrett/claremontrun),214,FALSE,NA,###  New Packages,link,2019-12-23
++ [BH 1.72.0-2](http://dirk.eddelbuettel.com/blog/2019/12/17#bh_1.72.0-2),73,FALSE,NA,### Updated Packages,link,2019-12-23
++ [Paletteer 1.0.0](https://www.hvitfeldt.me/blog/paletteer-version-1-0-0/),75,FALSE,NA,### Updated Packages,link,2019-12-23
+![Paletteer 1.0.0](https://raw.githubusercontent.com/rweekly/image/master/2019/prismatic1.png),94,FALSE,NA,### Updated Packages,image,2019-12-23
++ [RSAGA 1.0.0](https://www.r-spatial.org//r/2019/12/20/RSAGA-1.0.0.html),73,FALSE,NA,### Updated Packages,link,2019-12-23
++ [reticulate 1.14](https://blog.rstudio.com/2019/12/20/reticulate-1-14/),73,FALSE,NA,### Updated Packages,link,2019-12-23
++ [Intro to {nflscrapR} in the Tidyverse (Live Coding Screencast!)](https://www.youtube.com/watch?v=30RerZLFgUQ),112,FALSE,NA,###  Videos and Podcasts,link,2019-12-23
++ [Letter To A Young Maintainer - Hadley Wickham (@Monktoberfest)](https://www.youtube.com/watch?v=1K7u5hkciLI&feature=emb_logo),128,FALSE,NA,###  Videos and Podcasts,link,2019-12-23
+"+ [(Japanese) Exporting R graphs and tables to PowerPoint, Excel, and Word](http://kato-kohaku-0.hatenablog.com/entry/2019/12/19/222429)",136,FALSE,NA,### R Internationally,link,2019-12-23
++ [(Japanese) Using R and 3D printers to create a scaled model of Mount Yatsugatake](https://blog.hoxo-m.com/entry/2019/12/19/080000),133,FALSE,NA,### R Internationally,link,2019-12-23
++ [New rquery Vignette: Working with Many Columns](http://www.win-vector.com/blog/2019/12/new-rquery-vignette-working-with-many-columns/),137,FALSE,NA,###  Tutorials,link,2019-12-23
+[Using the rco package to optimise R code](https://oliverfogelin.github.io/rco-Package/),88,FALSE,NA,###  Tutorials,unid,2019-12-23
++ [Better SQL Generation via the data_algebra](http://www.win-vector.com/blog/2019/12/better-sql-generation-via-the-data_algebra/),130,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Quickly Create (Mostly) Responsive HTML Columns With {htmltools}](https://rud.is/b/2019/12/18/quickly-create-mostly-responsive-html-columns-with-htmltools/),159,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Comparison of indices of significance in the Bayesian framework](https://easystats.github.io/blog/posts/bayestestr_evidence_ani/),132,FALSE,NA,###  Tutorials,link,2019-12-23
+![Comparison of indices of significance in the Bayesian framework](https://raw.githubusercontent.com/rweekly/image/master/2019/evidence_accumulation.gif),153,FALSE,NA,###  Tutorials,image,2019-12-23
++ [Shiny Apps: Development and Deployment](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/shiny-apps/),117,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Painting Santa with Letters](https://blog.ephorie.de/painting-santa-with-letters),84,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Speeding up R Plotly web apps - R x Javascript part I](https://www.timlrx.com/2019/12/17/speeding-up-r-plotly-webapps-r-x-javascript-part-i/),144,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Converting LOBSTER demo R code into Python](http://www.thertrader.com/2019/12/18/converting-lobster-demo-r-code-into-python/),128,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Herds of statistical models](https://codingclubuc3m.rbind.io/post/2019-12-17/),81,FALSE,NA,###  Tutorials,link,2019-12-23
++ [an arithmetic mean identity](https://xianblog.wordpress.com/2019/12/19/an-arithmetic-mean-identity/),103,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Using R: Animal model with hglm and Stan (with Cholesky trick)](https://onunicornsandgenes.blog/2019/12/19/using-r-animal-model-with-hglm-and-stan-with-cholesky-trick/),171,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Base Graphics – The “Drunk Uncle”  of R ?](https://rollingyours.wordpress.com/2019/12/19/base-graphics-the-drunk-uncle-of-r/),128,FALSE,NA,###  Tutorials,link,2019-12-23
++ [We cleaned our website URLs with R!](https://ropensci.org/technotes/2019/12/19/urls-tidying/),96,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Locating parts of a string with `stringr`](https://cimentadaj.github.io/blog/2019-12-08-locating-parts-of-a-string-with-stringr/locating-parts-of-a-string-with-stringr/),172,FALSE,NA,###  Tutorials,link,2019-12-23
+"+ [""trimmer"" - trim an R object](http://smaakage85.netlify.com/2019/12/19/trimmer-trim-an-r-object/)",100,FALSE,NA,###  Tutorials,link,2019-12-23
++ [SKEWed perceptions](https://osm.netlify.com/post/skew-1/),60,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Why R? 2019 Conference - Summary](http://r-addict.com/2019/12/19/WhyR-2019-Summary.html),91,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Completeing zeroes and dates in R charts](https://www.miskatonic.org/2019/12/16/completing-dates-in-r/) (miskatonic.org),123,FALSE,NA,###  Tutorials,link,2019-12-23
++ [10 Levels of ggplot2: From Basic to Beautiful](https://medium.com/compassred-data-blog/10-levels-of-ggplot2-from-basic-to-beautiful-5ce3c4e7624f),148,FALSE,NA,###  Tutorials,link,2019-12-23
+![10 Levels of ggplot2: From Basic to Beautiful](https://raw.githubusercontent.com/rweekly/image/master/2019/ten-levels.png),124,FALSE,NA,###  Tutorials,image,2019-12-23
++ [How I built an interactive Shiny dashboard in 2 days without any experience in R](https://appsilon.com/how-i-built-an-interactive-shiny-dashboard-in-2-days-without-any-experience-in-r/),188,FALSE,NA,###  Tutorials,link,2019-12-23
++ [Merging rows in R](https://luisdva.github.io/rstats/merge-rows/),67,FALSE,NA,###  Tutorials,link,2019-12-23
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2019-12-23
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-12-23
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-12-23
+"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-23
++ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-23
+"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-23
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-23
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)More past events at [R conferences & meetups](https://conf.rweekly.org).,162,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-23
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-12-23
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">I found a really cool tool for drawing diagrams! It&#39;s called {nomnoml}. It&#39;s super easy and intuitive to use, looks pretty, has an <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> package by <a href=""https://twitter.com/javierluraschi?ref_src=twsrc%5Etfw"">@javierluraschi</a> (<a href=""https://t.co/F4YLxhSMnL"">https://t.co/F4YLxhSMnL</a>) and even a live code editor here: <a href=""https://t.co/yALBw6PflJ"">https://t.co/yALBw6PflJ</a>. <a href=""https://t.co/P67HKd2AEO"">pic.twitter.com/P67HKd2AEO</a></p>&mdash; Fabio Votta📊🦉 (@favstats) <a href=""https://twitter.com/favstats/status/1206887355329777666?ref_src=twsrc%5Etfw"">December 17, 2019</a></blockquote>",765,FALSE,NA,###  Quotes of the Week,unid,2019-12-23
+"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,NA,###  Quotes of the Week,unid,2019-12-23

@@ -1,0 +1,86 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2016-12-5
+layout: post,12,FALSE,NA,NA,unid,2016-12-5
+title: Issue 28,15,FALSE,NA,NA,unid,2016-12-5
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2016-12-5
+---,3,FALSE,NA,NA,unid,2016-12-5
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-12-5
+*Digested by R Weekly Members*,30,FALSE,NA,### Highlight,unid,2016-12-5
+"+ [Analysis of software developers in New York, San Francisco, London and Bangalore](http://varianceexplained.org/r/developers-cities/)",135,FALSE,NA,### Highlight,link,2016-12-5
++ [Announcing bookdown: Authoring Books and Technical Documents with R Markdown](https://blog.rstudio.org/2016/12/02/announcing-bookdown/),138,FALSE,NA,### Highlight,link,2016-12-5
++ [NHL shots analysis using Plotly shapes](http://moderndata.plot.ly/nhl-shots-analysis-using-plotly-shapes/),109,FALSE,NA,### Tutorials,link,2016-12-5
++ [How to write and document %special% functions in R](http://peter.solymos.org/code/2016/11/26/how-to-write-and-document-special-functions-in-r.html),150,FALSE,NA,### Tutorials,link,2016-12-5
++ [Simulation in R For AP Statistic](http://www.saturnscience.com/simulation-in-r-for-ap-statistics),100,FALSE,NA,### Tutorials,link,2016-12-5
++ [Extract Twitter Data Automatically using Scheduler R package](http://datascienceplus.com/extract-twitter-data-automatically-using-scheduler-r-package/),154,FALSE,NA,### Tutorials,link,2016-12-5
++ [Jupyter And R Markdown: Notebooks With R](https://www.datacamp.com/community/blog/jupyter-notebook-r),104,FALSE,NA,### Tutorials,link,2016-12-5
++ [How to create a ggplot Theme - Unicorn Edition](http://flovv.github.io/unicorn_ggplot_theme/),96,FALSE,NA,### Tutorials,link,2016-12-5
++ [Be careful evaluating model predictions](http://www.win-vector.com/blog/2016/12/be-careful-evaluating-model-predictions/),124,FALSE,NA,### Tutorials,link,2016-12-5
++ [Writing Good R Code and Writing Well](https://www.rstudio.com/rviews/2016/12/02/writing-good-r-code-and-writing-well/),121,FALSE,NA,### Tutorials,link,2016-12-5
++ [Creating GeoJSON out of Shapefile in R](https://blog.exploratory.io/creating-geojson-out-of-shapefile-in-r-40bc0005857d#.ykuv4dig6),134,FALSE,NA,### Tutorials,link,2016-12-5
+![Creating GeoJSON out of Shapefile in R](https://cdn.rawgit.com/rweekly/image/master/2016-12-05/map.png),105,FALSE,NA,### Tutorials,image,2016-12-5
++ [Extracting Tables from PDFs in R using the Tabulizer Package](http://datascienceplus.com/extracting-tables-from-pdfs-in-r-using-the-tabulizer-package/),154,FALSE,NA,### Tutorials,link,2016-12-5
++ [Extreme Gradient Boosting and Preprocessing in Machine Learning – Addendum to predicting flu outcome with R](https://shiring.github.io/machine_learning/2016/12/02/flu_outcome_ML_2_post),188,FALSE,NA,### Tutorials,link,2016-12-5
++ [ratio-of-uniforms [#4]](https://xianblog.wordpress.com/2016/12/02/ratio-of-uniforms-4/),90,FALSE,NA,### Tutorials,link,2016-12-5
++ [RStudio in the cloud with Amazon Lightsail and docker](https://sas-and-r.blogspot.com/2016/12/rstudio-in-cloud-with-amazon-lightsail.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SASandR+%28SAS+and+R%29),224,FALSE,NA,### Tutorials,link,2016-12-5
++ [Efficiently Saving and Sharing Data in R](http://www.econometricsbysimulation.com/2016/12/efficiently-saving-and-sharing-data-in-r_46.html),142,FALSE,NA,### Tutorials,link,2016-12-5
++ [How to send bulk email to your students using R](http://unamatematicaseltigre.blogspot.com/2016/12/how-to-send-bulk-email-to-your-students.html),147,FALSE,NA,### Tutorials,link,2016-12-5
++ [The hourly heatmap with ggplot2](http://johnmackintosh.com/2016-12-01-the-hourly-heatmap/),93,FALSE,NA,### Tutorials,link,2016-12-5
+"+ [Missing Values, Data Science and R](https://www.rstudio.com/rviews/2016/11/30/missing-values-data-science-and-r/)",116,FALSE,NA,### Tutorials,link,2016-12-5
++ [ggplot2: multiple legends for the same aesthetic](http://www.quantide.com/ggplot-multiple-legends-for-the-same-aesthetic/),125,FALSE,NA,### Tutorials,link,2016-12-5
++ [Bill and Ted Make the best out of a Shi… Stata situation: Rstudio + Rstata + Stata](https://mikejacktzen.wordpress.com/2016/11/28/bill-and-ted-make-the-best-out-of-a-shi-stata-situation-rstudio-rstata-stata/),211,FALSE,NA,### Tutorials,link,2016-12-5
++ [More about Flexible Frequency Models](https://statcompute.wordpress.com/2016/11/27/more-about-flexible-frequency-models/),124,FALSE,NA,### Tutorials,link,2016-12-5
+"+ [Error, trend, seasonality – ets and its forecast model friends](http://ellisp.github.io/blog/2016/11/27/ets-friends)",119,FALSE,NA,### Tutorials,link,2016-12-5
++ [Building a column selecter](https://edwinth.github.io/blog/column-selecter/),79,FALSE,NA,### Tutorials,link,2016-12-5
++ [How many Authors does the Prime Minister have for his speeches: A Stylometric Analysis](https://aliarsalankazmi.github.io/blog_DA/posts/r/2016/11/18/authorial_analysis_pm.html),179,FALSE,NA,### R in the Real World,link,2016-12-5
+![How many Authors does the Prime Minister have for his speeches: A Stylometric Analysis](https://cdn.rawgit.com/aliarsalankazmi/blog_DA/9facbb4dfb97f305f17d242d8dc1313f2df8f987/assets/img/nss_ba_g3.png),203,FALSE,NA,### R in the Real World,image,2016-12-5
++ [Can we predict flu deaths with Machine Learning and R?](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post),133,FALSE,NA,### R in the Real World,link,2016-12-5
+![Can we predict flu deaths with Machine Learning and R?](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post_files/figure-markdown_github/unnamed-chunk-4-1.png),183,FALSE,NA,### R in the Real World,image,2016-12-5
++ [Seasonal Analysis in EGRET](https://owi.usgs.gov/blog/seasonal-analysis),75,FALSE,NA,### R in the Real World,link,2016-12-5
++ [Daily metric tracking with ggplot2](http://johnmackintosh.com/2016-11-27-calendar-heatmaps/),95,FALSE,NA,### R in the Real World,link,2016-12-5
++ [Plotting my trips with ubeR](http://drsimonj.svbtle.com/plotting-my-trips-with-uber),87,FALSE,NA,### R in the Real World,link,2016-12-5
+![Plotting my trips with ubeR](https://i1.wp.com/svbtleusercontent.com/yekp76hxc04bea_small.png),96,FALSE,NA,### R in the Real World,image,2016-12-5
++ [An Analysis of Contributions to PubMed Commons](https://nsaunders.wordpress.com/2016/12/02/an-analysis-of-contributions-to-pubmed-commons/),142,FALSE,NA,### R in the Real World,link,2016-12-5
++ [The Effective Number of Parties in the Electorate by Year and Region](http://danielmarcelino.github.io/blog/2016/effective-number-of-parties.html),149,FALSE,NA,### R in the Real World,link,2016-12-5
++ [On the German Tank / Taxicab Problem](http://fportman.com/blog/on-the-german-tank-slash-taxicab-problem/),108,FALSE,NA,### R in the Real World,link,2016-12-5
++ [Replicating NYT Weather App](http://jkunst.com/r/replicating-nyt-weather-app/),81,FALSE,NA,### R in the Real World,link,2016-12-5
++ [Some Technical Reading](https://www.rstudio.com/rviews/2016/11/25/some-technical-reading/),93,FALSE,NA,### R in the Real World,link,2016-12-5
+"+ [Analysis of software developers in New York, San Francisco, London and Bangalore](http://varianceexplained.org/r/developers-cities/)",135,FALSE,NA,### R in the Real World,link,2016-12-5
+"![Analysis of software developers in New York, San Francisco, London and Bangalore](https://cdn.rawgit.com/dgrtwo/dgrtwo.github.com/ad860e983296047c0e8eecc02cac166470aa7823/figs/2016-12-01-developers-cities/compare_four_cities-1.png)",233,FALSE,NA,### R in the Real World,image,2016-12-5
++ [Heatmaps with Divvy Data](http://www.austinwehrwein.com/data-visualization/heatmaps-with-divvy-data/),104,FALSE,NA,### R in the Real World,link,2016-12-5
++ [:fr: R & les expressions régulière](http://www.thinkr.fr/r-les-expressions-regulieres/) — [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://www.thinkr.fr/r-les-expressions-regulieres/),224,FALSE,NA,### International R,link,2016-12-5
++ [Free online course: Analyzing big data with Microsoft R Server](http://blog.revolutionanalytics.com/2016/11/edx-microsoft-r.html),132,FALSE,NA,### R in Organization,link,2016-12-5
++ [Announcing bookdown: Authoring Books and Technical Documents with R Markdown](https://blog.rstudio.org/2016/12/02/announcing-bookdown/),138,FALSE,NA,### R in Organization,link,2016-12-5
++ [Working at RStudio](http://appliedpredictivemodeling.com/blog/2016/11/28/working-at-rstudio),95,FALSE,NA,### R in Organization,link,2016-12-5
+"+ [Russell 2000 Quantitative Stock Analysis in R: Six Stocks with Amazing, Consistent Growth](http://www.mattdancho.com/investments/2016/11/30/Russell2000_Analysis.html)",169,FALSE,NA,### R in Organization,link,2016-12-5
++ [Using R to Gain Insights into the Emotional Journeys in War and Peace](http://blog.revolutionanalytics.com/2016/12/war-and-peace.html),137,FALSE,NA,### R in Organization,link,2016-12-5
++ [vtreat data cleaning and preparation article now available on arXiv](http://www.win-vector.com/blog/2016/11/vtreat-data-cleaning-and-preparation-article-now-available-on-arxiv/),180,FALSE,NA,### R in Academia,link,2016-12-5
++ [DataChats: An interview with Garrett Grolemund](https://www.datacamp.com/community/blog/datachats-an-interview-with-garrett-grolemund#gs.fKr8In4),148,FALSE,NA,### Videos and Podcasts,link,2016-12-5
++ [PLOTCON 2016 on Youtube](https://www.youtube.com/user/plotlygraph/videos),76,FALSE,NA,### Videos and Podcasts,link,2016-12-5
++ [Learn to Analyze Big Data with R - Free Course](http://101.datascience.community/2016/11/30/learn-to-analyze-big-data-with-r-free-course/),141,FALSE,NA,### Resources,link,2016-12-5
++ [Learning R programming by reading books: A book list #rstats](http://statisticalestimation.blogspot.com/2016/11/learning-r-programming-by-reading-books.html),160,FALSE,NA,### Resources,link,2016-12-5
++ [The Hitchhiker’s Guide to Ggplot2 in R](http://pacha.hk/2017-03-23_hitchhikers_ggplot2.html),95,FALSE,NA,### Resources,link,2016-12-5
++ [pushoverr](http://bconnelly.net/2016/11/R-phone-home/) - R Phone Home: Notifications with pushoverr,102,FALSE,NA,### New Packages and Tools,link,2016-12-5
++ [fauxpas](http://ropensci.org/blog/technotes/2016/11/18/fauxpas-release) - HTTP conditions package,100,FALSE,NA,### New Packages and Tools,link,2016-12-5
++ [elasticsearchr](https://alexioannides.com/2016/11/28/elasticsearchr-a-lightweight-elasticsearch-client-for-r/) - a Lightweight Elasticsearch Client for R,156,FALSE,NA,### New Packages and Tools,link,2016-12-5
++ [subprocess](https://www.r-bloggers.com/a-new-subprocess-package-for-r) - A new subprocess package for #RStats,112,FALSE,NA,### New Packages and Tools,link,2016-12-5
++ [ggguitar](http://www.r-chart.com/2016/11/package-ggguitar-on-cran.html) - This package allows you to create guitar tablature in the style of ggplot2.,152,FALSE,NA,### New Packages and Tools,link,2016-12-5
++ [Santa’s Little Helper](https://amywhiteheadresearch.wordpress.com/2016/12/01/santas-little-helper/)  – a function for randomly assigning Secret Santa presents,161,FALSE,NA,### New Packages and Tools,link,2016-12-5
++ [datapasta](https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html) - Datapasta provides three Rstudio addins that give you complete freedom copy and paste data into your RStudio scource editor.,223,FALSE,NA,### New Packages and Tools,link,2016-12-5
+"<video width=""600"" controls autoplay loop preload=""auto"">",57,FALSE,NA,### New Packages and Tools,unid,2016-12-5
+"  <source src=""https://pbs.twimg.com/tweet_video/Cyao5tEUAAAqy7D.mp4"" type=""video/mp4"">",87,FALSE,NA,### New Packages and Tools,unid,2016-12-5
+Your browser does not support the video tag.,44,FALSE,NA,### New Packages and Tools,unid,2016-12-5
+</video>,8,FALSE,NA,### New Packages and Tools,unid,2016-12-5
++ [commonmark](http://ropensci.org/blog/blog/2016/12/02/commonmark) - High Performance CommonMark and Github Markdown Rendering in R,132,FALSE,NA,### New Packages and Tools,link,2016-12-5
++ [pdfsearch](http://educate-r.org//2016/12/02/intro_pdfsearch.html) - `pdfsearch` adds the ability to do keyword searches on pdf files.,136,FALSE,NA,### New Packages and Tools,link,2016-12-5
++ [BERT](http://www.thertrader.com/2016/11/30/bert-a-newcomer-in-the-r-excel-connection/) - a newcomer in the R Excel connection,128,FALSE,NA,### New Packages and Tools,link,2016-12-5
++ [Microsoft R Open 3.3.2](http://blog.revolutionanalytics.com/2016/11/mro-332-now-available.html) - Microsoft's distribution of open source R.,143,FALSE,NA,### New Releases,link,2016-12-5
++ [D3PartitionR 0.3.0](https://antoineguillot.wordpress.com/2016/12/02/d3partitionr-0-3-0-is-available-on-cran/) - Plotting D3 Hierarchical Plots in R and Shiny,160,FALSE,NA,### New Releases,link,2016-12-5
+"+ [anytime 0.1.1](http://dirk.eddelbuettel.com/blog/2016/11/27#anytime_0.1.1) - anytime is a very focussed package aiming to convert anything in integer, numeric, character, factor, ordered ... format to POSIXct (or Date) objects.",230,FALSE,NA,### New Releases,link,2016-12-5
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,### R Project Updates,unid,2016-12-5
++  Check customization via environment variables to detect side effects of `.Call()` and `.External()` calls which alter their arguments is described in §8 of the `R Internals` manual.,184,FALSE,NA,### R Project Updates,unid,2016-12-5
+"+ The Just In Time byte code compiler is now enabled by default at level 3. For now, the compiler will not compile code containing explicit calls to `browser()`: this is to support single stepping from the `browser()` call.",223,FALSE,NA,### R Project Updates,unid,2016-12-5
++ JIT compilation can be disabled using `compiler::enableJIT(0)` or by setting environment variable `R_ENABLE_JIT` to `0`.,122,FALSE,NA,### R Project Updates,unid,2016-12-5
+"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>",93,FALSE,NA,### Upcoming Events,link,2016-12-5
+The conference about all things R and RStudio.<br />,52,FALSE,NA,### Upcoming Events,unid,2016-12-5
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">I did a statistical study (N=2) about saving factory jobs. R^2=1. Clear evidence that we&#39;re on the right track. <a href=""https://twitter.com/hashtag/Rstats?src=hash"">#Rstats</a> <a href=""https://twitter.com/hashtag/ggplot2?src=hash"">#ggplot2</a> <a href=""https://twitter.com/hashtag/badstats?src=hash"">#badstats</a> <a href=""https://t.co/e1er8kO90Y"">pic.twitter.com/e1er8kO90Y</a></p>&mdash; Lego Grad Student (@legogradstudent) <a href=""https://twitter.com/legogradstudent/status/804757994319642624""></a></blockquote>",594,FALSE,NA,### Quote of the Week,unid,2016-12-5
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">use ggmissing and visdat to let your coauthors LITERALLY see what they are missing <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> by <a href=""https://twitter.com/nj_tierney"">@nj_tierney</a> <a href=""https://t.co/Vz8if3bG83"">pic.twitter.com/Vz8if3bG83</a></p>&mdash; Andrew MacDonald (@polesasunder) <a href=""https://twitter.com/polesasunder/status/803622070030569473""></a></blockquote>",476,FALSE,NA,### Quote of the Week,unid,2016-12-5

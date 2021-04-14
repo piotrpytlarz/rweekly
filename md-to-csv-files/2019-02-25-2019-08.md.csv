@@ -1,0 +1,81 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2019-02-25
+"title: R Weekly 2019-08 No Warranty, Weather",44,FALSE,NA,NA,unid,2019-02-25
+description: Draft of the R Weekly,34,FALSE,NA,NA,unid,2019-02-25
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-02-25
+---,3,FALSE,NA,NA,unid,2019-02-25
++ [Absolutely No Warranty](https://notstatschat.rbind.io/2019/02/18/absolutely-no-warranty/),92,FALSE,NA,###  Highlight,link,2019-02-25
++ [forcats::fct_match](https://jcarroll.com.au/2019/02/22/forcatsfct_match/),76,FALSE,NA,###  Highlight,link,2019-02-25
++ [Where are the places with the best (and the worst) weather in the United States](https://taraskaduk.com/2019/02/18/weather/),127,FALSE,NA,###  Highlight,link,2019-02-25
++ [Interview with Stephanie Hicks](https://simplystatistics.org/2019/02/18/interview-with-stephanie-hicks/),107,FALSE,NA,### Insights,link,2019-02-25
++ [Open letter to journal editors: dynamite plots must die](https://simplystatistics.org/2019/02/21/dynamite-plots-must-die/),125,FALSE,NA,### Insights,link,2019-02-25
+![Open letter to journal editor](https://cdn.jsdelivr.net/gh/rweekly/image/2019/ridge-plots-with-data-1-dynam.png),114,FALSE,NA,### Insights,image,2019-02-25
++ [Notes on porting Ruby to R](https://recology.info/2019/02/ruby-ports-to-r/),78,FALSE,NA,### Insights,link,2019-02-25
++ [Conquering Caffeinated Amazon Athena with the metis Trio of Packages](https://rud.is/b/2019/02/17/conquering-caffeinated-amazon-athena-with-the-metis-trio-of-packages/),171,FALSE,NA,### Insights,link,2019-02-25
++ [forcats::fct_match](https://jcarroll.com.au/2019/02/22/forcatsfct_match/),76,FALSE,NA,### Insights,link,2019-02-25
++ [Absolutely No Warranty](https://notstatschat.rbind.io/2019/02/18/absolutely-no-warranty/),92,FALSE,NA,### Insights,link,2019-02-25
++ [The Ultimate Infinite Moon Reader for xaringan Slides](https://yihui.name/en/2019/02/ultimate-inf-mr/),105,FALSE,NA,### Insights,link,2019-02-25
+![The Ultimate Infinite](https://cdn.jsdelivr.net/gh/rweekly/image/2019/inf-mr.gif),83,FALSE,NA,### Insights,image,2019-02-25
++ [Visualize Language Loss in Taiwan: Create an “Age-Sex Pyramid of Language” with ggplot2](https://liao961120.github.io/2019/02/17/visualize-language-loss.html),161,FALSE,NA,### R in the Real World,link,2019-02-25
++ [Where are the places with the best (and the worst) weather in the United States](https://taraskaduk.com/2019/02/18/weather/),127,FALSE,NA,### R in the Real World,link,2019-02-25
+![Where are the places](https://cdn.jsdelivr.net/gh/rweekly/image/2019/weather-19.png),86,FALSE,NA,### R in the Real World,image,2019-02-25
++ [discog-purrr](https://sharla.party/posts/discog-purrr/),58,FALSE,NA,### R in the Real World,link,2019-02-25
++ [An Empirical Analysis of RuPaul's Drag Race Contestants](http://svmiller.com/blog/2019/02/dragracer-rupauls-drag-race-analysis/),131,FALSE,NA,### R in the Real World,link,2019-02-25
++ [R for Political Data Science Week 8: Four Parties in America? Probably Not Anytime Soon.](https://www.thecrosstab.com/2019/02/22/four-parties/),146,FALSE,NA,### R in the Real World,link,2019-02-25
+![R for Political Data Science ](https://cdn.jsdelivr.net/gh/rweekly/image/2019/four-part.png),94,FALSE,NA,### R in the Real World,image,2019-02-25
++ [Seasonality in NZ voting preference?](http://freerangestats.info/blog/2019/02/20/voting-seasonality),103,FALSE,NA,### R in the Real World,link,2019-02-25
+"+ [LEGO mosaics, Part 3(D)](http://www.ryantimpe.com/post/lego-mosaic3/)",72,FALSE,NA,### R in the Real World,link,2019-02-25
+![LEGO mosaics](https://cdn.jsdelivr.net/gh/rweekly/image/2019/lego.png),72,FALSE,NA,### R in the Real World,image,2019-02-25
++ [Visualisation of Squiggle Tipsters](https://analysisofafl.netlify.com/fitzroy/2018-05-18-visualisation-of-squiggle-tipsters/),128,FALSE,NA,### R in the Real World,link,2019-02-25
++ [“Correlation is not causation”. So what is?](https://iyarlin.github.io/2019/02/08/correlation-is-not-causation-so-what-is/),126,FALSE,NA,### R in the Real World,link,2019-02-25
+"+ [Meetup API tracking in R - Analytics>Forward in RTP, NC](https://rickpackblog.wordpress.com/2019/02/13/analyticsforward-2019-meetup-api-tracking-in-r-pt-1/) - [Part 1](https://rickpackblog.wordpress.com/2019/02/13/analyticsforward-2019-meetup-api-tracking-in-r-pt-1/) and [Part 2](http://bit.ly/2GBTPjA)",306,FALSE,NA,###  R in Organizations,link,2019-02-25
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-02-25
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-02-25
+"+ [sen2r](https://luigi.ranghetti.info/post/sen2r-released/) - R toolbox to find, download and preprocess Sentinel-2 data",121,FALSE,NA,###  New Packages,link,2019-02-25
+"+ [CBRT](http://users.metu.edu.tr/etaymaz/cbrt-2019.html) - Easy access to the CBRT database, provides functions for finding, and downloading more than 22,000 time series from the Central Bank of the Republic of Turkey's database.",230,FALSE,NA,###  New Packages,link,2019-02-25
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-02-25
++ [Package for deep feature extraction from images and natural language text](https://github.com/basilica-ai/basilica-R-client),127,FALSE,NA,###  New Packages,link,2019-02-25
++ [Encryptr](https://www.datasurg.net/2019/02/21/encryptr-package-easily-encrypt-and-decrypt-columns-of-sensitive-data/) - easily encrypt and decrypt columns of sensitive data,175,FALSE,NA,###  New Packages,link,2019-02-25
++ [ssh 0.4](https://ropensci.org/technotes/2019/02/22/ssh-04/) - The ssh package provides a native ssh client for R.,116,FALSE,NA,### Updated Packages,link,2019-02-25
++ [Rblpapi 0.3.9](http://dirk.eddelbuettel.com/blog/2019/02/21#rblpapi_0.3.9) - Connecting R to Bloomberg,105,FALSE,NA,### Updated Packages,link,2019-02-25
++ [RVowpalWabbit 0.0.13](http://dirk.eddelbuettel.com/blog/2019/02/22#rvowpalwabbit_0.0.13) - RVowpalWabbit connects GNU R to the very impressive Vowpal Wabbit fast out-of-core learning system.,193,FALSE,NA,### Updated Packages,link,2019-02-25
+"+ [babynames](http://hadley.github.io/babynames/) - For each year from 1880 to 2017, the number of children of each sex given each name.",136,FALSE,NA,### Updated Packages,link,2019-02-25
++ [Tidy Tuesday screencast: tidying and analyzing US PhDs in R](https://www.youtube.com/watch?v=KzRP40PzopY),108,FALSE,NA,###  Videos and Podcasts,link,2019-02-25
++ [classify](https://lucy.shinyapps.io/classify/) - Help us classify functions from data analysis R scripts into categories,123,FALSE,NA,### Gist & Cookbook,link,2019-02-25
++ [Running your R script in Docker](https://www.statworx.com/de/blog/running-your-r-script-in-docker/),102,FALSE,NA,###  Tutorials,link,2019-02-25
++ [How to generate and plot the mysterious Recamán sequence with R](https://solmos.netlify.com/post/2019-02-20-la-secuencia-de-recaman/la-secuencia-de-recaman/),160,FALSE,NA,###  Tutorials,link,2019-02-25
+![How to generate and plot the](https://cdn.jsdelivr.net/gh/rweekly/image/2019/Recaman.png),91,FALSE,NA,###  Tutorials,image,2019-02-25
+"+ [Announcing ""Just Three Things""](https://www.njtierney.com/post/2019/02/18/announcing-jtt/)",93,FALSE,NA,###  Tutorials,link,2019-02-25
++ [omg binder!](https://kbroman.org/blog/2019/02/18/omg_binder/),64,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Finding Economic Articles with Data](http://skranz.github.io/r/2019/02/21/FindingEconomicArticles.html),106,FALSE,NA,###  Tutorials,link,2019-02-25
+"+ [An introduction to Text Analysis with tidytext, where we analyse the State of the Union Address speeches from three different Presidents!](https://markrstevenson.com/blog/wXMUdQCIfHqwTzrnProy)",195,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Vivid: Toward A Next Generation Statistical User Interface](http://blog.fellstat.com/?p=432),95,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Shiny App to access NOAA data](https://r-video-tutorial.blogspot.com/2019/02/shiny-app-to-access-noaa-data.html),115,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Descriptive/Summary Statistics with descriptr](https://blog.rsquaredacademy.com/introducing-descriptr/),106,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Use algebra and calculus with R and yacas to find Chidi's optimal level of pizza and frozen yogurt consumption](https://www.andrewheiss.com/blog/2019/02/16/algebra-calculus-r-yacas/),185,FALSE,NA,###  Tutorials,link,2019-02-25
+![Use algebra and calculus with R and yacas to ](https://cdn.jsdelivr.net/gh/rweekly/image/2019/yacas.png),106,FALSE,NA,###  Tutorials,image,2019-02-25
+"+ [Excel email address cleaner & aggregator in R (#readxl, #openxlsx)](https://rickpackblog.wordpress.com/2019/02/14/excel-email-cleaner-aggregator-r-script-readxl-stringr/)",173,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Verbose data.table and uncovering hidden cedta's data table awareness decisions](https://jozefhajnala.gitlab.io/r/r911-datatable-cedta/),139,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Query Generation in R](http://www.win-vector.com/blog/2019/02/query-generation-in-r/),88,FALSE,NA,###  Tutorials,link,2019-02-25
+"+ [A Spoonful of Hugo](https://alison.rbind.io/post/2019-02-21-hugo-page-bundles/) - [Page Bundles](https://alison.rbind.io/post/2019-02-21-hugo-page-bundles/), [The netlify.toml File](https://alison.rbind.io/post/2019-02-19-hugo-netlify-toml/), [Archetypes](https://alison.rbind.io/post/2019-02-19-hugo-archetypes/)",316,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Getting Started With rquery](http://www.win-vector.com/blog/2019/02/getting-started-with-rquery/),100,FALSE,NA,###  Tutorials,link,2019-02-25
++ [In Dev: WiGLE Your Way Into A Hotspot with wiglr](https://rud.is/b/2019/02/18/in-dev-wigle-your-way-into-a-hotspot-with-wiglr/),130,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Playing With Pipe Notations](http://www.win-vector.com/blog/2019/02/naming-pipes/),85,FALSE,NA,###  Tutorials,link,2019-02-25
++ [I Just Wanted The Data : Turning Tableau & Tidyverse Tears Into Smiles with Base R (An Encoding Detective Story)](https://rud.is/b/2019/02/20/i-just-wanted-the-data-turning-tableau-tidyverse-tears-into-smiles-with-base-r-an-encoding-detective-story/),253,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Setting Up Raspberry Pi Temperature/Humidity Sensors for Data Analysis in R](https://roh.engineering/post/setting-up-raspberry-pi-temperature-humidity-sensors-for-data-analysis-in-r/),186,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Developments in AzureR](https://blog.revolutionanalytics.com/2019/02/developments-in-azurer.html),100,FALSE,NA,###  Tutorials,link,2019-02-25
++ [Cloudy with a chance of Caffeinated Query Orchestration – New rJava Wrappers for AWS Athena SDK for Java](https://rud.is/b/2019/02/22/cloudy-with-a-chance-of-caffeinated-query-orchestration-new-rjava-wrappers-for-aws-athena-sdk-for-java/),241,FALSE,NA,###  Tutorials,link,2019-02-25
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-02-25
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2019-02-25
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-02-25
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-02-25
++ [satRday Johannesburg - 6th April](https://joburg2019.satrdays.org/),70,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-25
++ [satRday Newcastle - 6th April](https://newcastle2019.satrdays.org/),70,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-25
++ [satRday Los Angeles - 6th April](https://losangeles2019.satrdays.org/),73,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-25
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-25
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-25
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-02-25
++ [call for sessions and labs at Bay2sC0mp²⁰](https://xianblog.wordpress.com/2019/02/22/call-for-sessions-and-labs-at-bay2sc0mp/),129,FALSE,NA,###  Call for Participation,link,2019-02-25
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-02-25
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">THIS IS SO COOL!!!<br><br>Instantaneous <a href=""https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw"">#xaringan</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> slide previews! 🤩 <a href=""https://twitter.com/xieyihui?ref_src=twsrc%5Etfw"">@xieyihui</a>, you rock! <a href=""https://t.co/MEGhQCuq7e"">https://t.co/MEGhQCuq7e</a> <a href=""https://t.co/yYG5zIRM0C"">pic.twitter.com/yYG5zIRM0C</a></p>&mdash; Garrick Aden-Buie (@grrrck) <a href=""https://twitter.com/grrrck/status/1098650588169019393?ref_src=twsrc%5Etfw"">February 21, 2019</a></blockquote>",682,FALSE,NA,###  Quotes of the Week,unid,2019-02-25
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Added a Workflow section to our <a href=""https://twitter.com/hashtag/tensorflow?src=hash&amp;ref_src=twsrc%5Etfw"">#tensorflow</a> with <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> repo: <a href=""https://t.co/nT2NnevgMm"">https://t.co/nT2NnevgMm</a> It uses <a href=""https://twitter.com/wmlandau?ref_src=twsrc%5Etfw"">@wmlandau</a> awesome drake package to prepare, run and visualize the plan. Outstanding work Willl!! <a href=""https://t.co/YGphATxVdO"">https://t.co/YGphATxVdO</a> <a href=""https://t.co/SWofnrjike"">https://t.co/SWofnrjike</a> <a href=""https://t.co/G9mftzoXsB"">pic.twitter.com/G9mftzoXsB</a></p>&mdash; Edgar Ruiz (@theotheredgar) <a href=""https://twitter.com/theotheredgar/status/1098718797886865408?ref_src=twsrc%5Etfw"">February 21, 2019</a></blockquote>",886,FALSE,NA,###  Quotes of the Week,unid,2019-02-25

@@ -1,0 +1,50 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2016-7-18
+layout: post,12,FALSE,NA,NA,unid,2016-7-18
+title: Issue 8,14,FALSE,NA,NA,unid,2016-7-18
+description: Weekly News in R Community.,40,FALSE,NA,NA,unid,2016-7-18
+---,3,FALSE,NA,NA,unid,2016-7-18
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-7-18
+*Digested by R Weekly Members*,30,FALSE,NA,## Highlight,unid,2016-7-18
++ [Creating color palettes in R](https://rjbioinformatics.com/2016/07/10/creating-color-palettes-in-r/),103,FALSE,NA,## Highlight,link,2016-7-18
++ [recosystem: Recommender System Using Parallel Matrix Factorization](http://statr.me/2016/07/recommender-system-using-parallel-matrix-factorization/),151,FALSE,NA,## Highlight,link,2016-7-18
++ [Testing packages with R Travis for OS-X](https://ropensci.org/blog/2016/07/12/travis-osx),92,FALSE,NA,#### Tutorials,link,2016-7-18
+![Testing packages with R Travis for OS-X](https://ropensci.org/assets/blog-images/travis.png),94,FALSE,NA,#### Tutorials,image,2016-7-18
++ [Time Series Analysis in ArcGIS](https://r-video-tutorial.blogspot.com/2016/07/time-series-analysis-in-arcgis.html),117,FALSE,NA,#### Tutorials,link,2016-7-18
++ [Some New R Packages](http://blog.revolutionanalytics.com/2016/07/some-new-r-packages.html),93,FALSE,NA,#### Tutorials,link,2016-7-18
++ [Extending R: book review](https://xianblog.wordpress.com/2016/07/13/extending-r/),84,FALSE,NA,#### Tutorials,link,2016-7-18
++ [Creating color palettes in R](https://rjbioinformatics.com/2016/07/10/creating-color-palettes-in-r/),103,FALSE,NA,#### Tutorials,link,2016-7-18
+![Creating color palettes in R](https://rjbioinformatics.files.wordpress.com/2016/07/featurepiecharts.png?w=1200&h=0&crop=1),124,FALSE,NA,#### Tutorials,image,2016-7-18
++ [fast trie-based IPv4-in-CIDR lookups in R](https://rud.is/b/2016/07/12/slaying-cidr-orcs-with-triebeard-a-k-a-fast-trie-based-ipv4-in-cidr-lookups-in-r/),156,FALSE,NA,#### Tutorials,link,2016-7-18
+"+ [Submitting your first package to CRAN, my experience](https://rmhogervorst.github.io/cleancode/blog/2016/07/09/submtting-to-cran-first-experience.html)",154,FALSE,NA,#### Tutorials,link,2016-7-18
++ [Time series charts by the Economist in R using Plotly](http://moderndata.plot.ly/time-series-charts-by-the-economist-in-r-using-plotly/),139,FALSE,NA,#### Tutorials,link,2016-7-18
+![Immigration to Canada - Search Volume](https://cdn.rawgit.com/rweekly/image/master/2016-07-18/Immigration.png),112,FALSE,NA,#### Tutorials,image,2016-7-18
++ [An Introoduction to Portfolio Component Conditional Value At Risk](https://quantstrattrader.wordpress.com/2016/07/12/an-introoduction-to-portfolio-component-value-at-risk/),175,FALSE,NA,#### Tutorials,link,2016-7-18
++ [Rcpp now used by over 700 CRAN packages](http://dirk.eddelbuettel.com/blog/2016/07/11/#rcpp_700_packages),108,FALSE,NA,#### R in the Real World,link,2016-7-18
++ [Analyzing Mexican votes in the U.N.](http://enelmargen.org/datascience/un-voting-patterns/),94,FALSE,NA,#### R in the Real World,link,2016-7-18
++ [Analyzing the US elections with Facebook and R](http://thinktostart.com/analyzing-us-elections-facebook-r/),110,FALSE,NA,#### R in the Real World,link,2016-7-18
++ [Day Drinking with R: My first R package on CRAN](https://jasdumas.github.io/2016-07-15-day-drinking-with-R/),111,FALSE,NA,#### R in the Real World,link,2016-7-18
++ [Pokemon: visualize 'em all!](http://jkunst.com/r/pokemon-visualize-em-all/),78,FALSE,NA,#### R in the Real World,link,2016-7-18
+![Pokemon: visualize 'em all!](https://cdn.rawgit.com/rweekly/image/master/2016-07-18/pokevis.jpg),98,FALSE,NA,#### R in the Real World,image,2016-7-18
++ [Airbnb Data Analysis Using R](http://www.slideshare.net/aymansiraj/airbnb-data-analysis-using-r),99,FALSE,NA,#### R in the Real World,link,2016-7-18
++ [How R is used at Microsoft](http://blog.revolutionanalytics.com/2016/07/r-at-microsoft-user-2016.html),105,FALSE,NA,#### R in Organization,link,2016-7-18
++ [Introducing the free Microsoft R Client](http://blog.revolutionanalytics.com/2016/07/microsoft-r-client.html),112,FALSE,NA,#### R in Organization,link,2016-7-18
+"+ [SQL Server, Power BI, and R](http://blog.revolutionanalytics.com/2016/06/sql-server-power-bi-and-r.html)",107,FALSE,NA,#### R in Organization,link,2016-7-18
++ [vtreat 0.5.26](http://www.win-vector.com/blog/2016/07/vtreat-version-0-5-26-released-on-cran/) - Simple variable treatment.,126,FALSE,NA,## New Releases,link,2016-7-18
++ [RProtoBuf 0.4.4](http://dirk.eddelbuettel.com/blog/2016/07/11/#rprotobuf_0.4.4) - Google Protocol Buffers files and messages for R.,134,FALSE,NA,## New Releases,link,2016-7-18
++ [vembedr 0.1.1](https://ijlyttle.github.io/vembedr/) - Embed videos into R Markdown documents.,96,FALSE,NA,## New Releases,link,2016-7-18
++ [recosystem: Recommender System Using Parallel Matrix Factorization](http://statr.me/2016/07/recommender-system-using-parallel-matrix-factorization/),151,FALSE,NA,## New Packages & Tools,link,2016-7-18
++ [nzelect: New Zealand Election Results](https://ellisp.github.io/blog/2016/07/14/nzelect-cran),96,FALSE,NA,## New Packages & Tools,link,2016-7-18
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,## R Project Updates,unid,2016-7-18
++ There is support for compiling C++14 code in packages on suitable platforms: see `Writing R Extensions` for how to request this.,130,FALSE,NA,## R Project Updates,unid,2016-7-18
+"+ `configure` now adds a compiler switch for C++11 code, even if the compiler supports C++11 by default. (This ensures that `gcc` 6.x uses C++11 mode and not its default C++14 mode.)",182,FALSE,NA,## R Project Updates,unid,2016-7-18
+"+ `configure` now tests for a C++14-compliant compiler by testing some basic features. This by default tries flags for the compiler specified by `CXX`, but an alternative compiler, options and standard can be specified by variables `CXX1Y`, `CXX1YFLAGS` and `CXX1YSTD` (e.g., `-std=gnu++14`).",292,FALSE,NA,## R Project Updates,unid,2016-7-18
+"+ Speedup in `simplify2array()` and hence `sapply()` and `mapply()` (for the case of names and common length > 1), thanks to Suharto Anggono's PR#17118.",152,FALSE,NA,## R Project Updates,unid,2016-7-18
++ The `default` and `data.frame` methods for `stack()` preserve the names of empty elements in the levels of the `ind` column of the return value. Set the new `drop` argument to `TRUE` for the previous behavior.,211,FALSE,NA,## R Project Updates,unid,2016-7-18
+"+ [satRday! in Budapest, Hungary](http://budapest.satrdays.org/#cfp)",68,FALSE,NA,## Call for Participation,link,2016-7-18
++ [R Competition on education in South Africa](http://www.r-bloggers.com/r-competition-on-education-in-south-africa-july-and-august-2016/) **8 July - 21 August**,161,FALSE,NA,## Upcoming Events,link,2016-7-18
++ [EARL 2016 London](https://earlconf.com/)  **13 September - 15 Septemberth** <br>,83,FALSE,NA,## Upcoming Events,link,2016-7-18
+The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br />,173,FALSE,NA,## Upcoming Events,unid,2016-7-18
+"+ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **12 October - 14 October** <br>",89,FALSE,NA,## Upcoming Events,link,2016-7-18
+"European R users meeting (eRum) is an international conference that aims at integrating users of the R language. eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate. <br />",216,FALSE,NA,## Upcoming Events,unid,2016-7-18
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">When Mexico sends its scientists, they’re not sending the best. They’re bringing <a href=""https://twitter.com/hashtag/Rstats?src=hash"">#Rstats</a>. They’re bringing data. They’re Bayesians.</p>&mdash; Donald Trump, PhD (@ScientistTrump) <a href=""https://twitter.com/ScientistTrump/status/753186026391277568"">July 13, 2016</a></blockquote>",410,FALSE,NA,## Quote of the Week,unid,2016-7-18

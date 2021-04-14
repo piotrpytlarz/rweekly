@@ -1,0 +1,111 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2016-6-13
+layout: post,12,FALSE,NA,NA,unid,2016-6-13
+title: Issue 3,14,FALSE,NA,NA,unid,2016-6-13
+description: Weekly News in R Community.,40,FALSE,NA,NA,unid,2016-6-13
+---,3,FALSE,NA,NA,unid,2016-6-13
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-6-13
+*Digested by R Weekly Members*,30,FALSE,NA,## Highlight,unid,2016-6-13
++ [How to send a bunch of emails from R](https://github.com/jennybc/send-email-with-r#readme),93,FALSE,NA,## Highlight,link,2016-6-13
++ [Good Books for All Things Data](http://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/),96,FALSE,NA,## Highlight,link,2016-6-13
++ [Understanding data.table Rolling Joins](http://r-norberg.blogspot.com/2016/06/understanding-datatable-rolling-joins.html),124,FALSE,NA,#### Tutorials,link,2016-6-13
++ [Using geom_step](http://www.win-vector.com/blog/2016/06/using-geom_step/),76,FALSE,NA,#### Tutorials,link,2016-6-13
++ [Bootstrap and cross-validation for evaluating modelling strategies](https://ellisp.github.io/blog/2016/06/05/bootstrap-cv-strategies),136,FALSE,NA,#### Tutorials,link,2016-6-13
+[![Bootstrap and cross-validation for evaluating modelling strategies](https://ellisp.github.io/img/0043-boot-results.svg)](https://ellisp.github.io/blog/2016/06/05/bootstrap-cv-strategies),189,FALSE,NA,#### Tutorials,unid,2016-6-13
++ [Linking bigmemory and RcppEigen](http://casualinference.org/2016/06/04/bigmemory_rcppeigen/),95,FALSE,NA,#### Tutorials,link,2016-6-13
++ [Handling missing data with MICE package; a simple approach](http://datascienceplus.com/handling-missing-data-with-mice-package-a-simple-approach/),149,FALSE,NA,#### Tutorials,link,2016-6-13
++ [R profiling](http://ipub.com/r-profiling/),45,FALSE,NA,#### Tutorials,link,2016-6-13
++ [Analyze Face Emotions with R](http://thinktostart.com/analyze-face-emotions-r/),82,FALSE,NA,#### Tutorials,link,2016-6-13
++ [A very useful set of 254 slides on high performance computing](http://www.nimbios.org/ifiles/hpc/hpcR.pdf),109,FALSE,NA,#### Tutorials,link,2016-6-13
++ [Bayesian Optimization of Machine Learning Models](http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html),151,FALSE,NA,#### Tutorials,link,2016-6-13
++ [Static and dynamic network visualization with R](http://kateto.net/network-visualization) -  code and tutorial from Polnet 2015 workshop.,140,FALSE,NA,#### Tutorials,link,2016-6-13
++ [How to send a bunch of emails from R](https://github.com/jennybc/send-email-with-r#readme),93,FALSE,NA,#### Tutorials,link,2016-6-13
++ [The R Project for Maps](http://www.web-maps.com/gisblog/?p=2365),67,FALSE,NA,#### Tutorials,link,2016-6-13
++ [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961),136,FALSE,NA,#### Tutorials,link,2016-6-13
++ [Travis with Cron Jobs](https://docs.travis-ci.com/user/cron-jobs/) - Useful for R package developers.,104,FALSE,NA,#### Tutorials,link,2016-6-13
++ [Plotting logistic regression in R](http://www.shizukalab.com/toolkits/plotting-logistic-regression-in-r),107,FALSE,NA,#### Tutorials,link,2016-6-13
++ [Radial bar charts in R using Plotly](http://moderndata.plot.ly/radial-bar-charts-in-r-using-plotly/),103,FALSE,NA,#### Tutorials,link,2016-6-13
++ [Right or Wrong? - Validate Numbers Like a Boss](http://hoehleatsu.github.io/2016/05/22/proofCalculation.html) - How does a statistician ensure that an analysis that comprises of outputting results is correct?,211,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [When Should One Stop Testing Software?](https://hoehleatsu.github.io/2016/05/06/when2stop.html) - How long to continue testing your software before shipping.,160,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [Why is it really difficult to hire testers?](http://testingfuntime.blogspot.co.uk/2016/06/a-study-of-software-testers.html) - A Study of Software Testers.,157,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [Understanding regression through the NBA boxscores](https://412sportsanalytics.wordpress.com/2016/06/05/understanding-regression-through-the-nba-boxscores/),159,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [Dream Analysis in R](http://www-scf.usc.edu/~ursaner/DreamAnalysis.html) - Whether I can predict the number of dreams I’ll remember and how happy those dreams will be using data collected in self-tracking apps.,213,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [Oil Price Trend in South African Rands](https://bichopsuey.wordpress.com/2016/06/05/oil-price-trend-in-south-african-rands-r/),129,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [Rexer Data Science Survey: Satisfaction Results](http://r4stats.com/2016/06/06/rexer-data-science-survey-satisfaction-results/),130,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [Women in Orchestras](https://aschinchon.wordpress.com/2016/06/06/women-in-orchestras/) - The members of ten top orchestras of the world.,139,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [Time Series Analysis Using Max/Min... and some Neuroscience](http://blog.datascienceheroes.com/time-series-analysis-profiling-using-max-min/),144,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [What are the Best Machine Learning Packages in R?](http://www.r-bloggers.com/what-are-the-best-machine-learning-packages-in-r/),130,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [Building the Data Matrix for the Task at Hand and Analyzing Jointly the Resulting Rows and Columns](http://joelcadwell.blogspot.my/2016/06/building-data-matrix-for-task-at-hand.html),185,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [Exploring Quantum Gate operations with QCSimulator](https://gigadom.wordpress.com/2016/06/05/exploring-quantum-gate-operations-with-qcsimulator/),148,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [Economist Liquidity Index](http://scweiss.blogspot.my/2016/06/economist-liquidity-index.html),96,FALSE,NA,#### R in the Real World,link,2016-6-13
+"+ [Text and Sentiment Analysis with Trump, Clinton, Sanders Twitter data](https://blog.exploratory.io/sentiment-analysis-with-trump-clinton-sanders-twitter-data-cc978e91960f#.8ztpghmbg)",185,FALSE,NA,#### R in the Real World,link,2016-6-13
+"[![Text and Sentiment Analysis with Trump, Clinton, Sanders Twitter data](https://d262ilb51hltx0.cloudfront.net/max/800/1*yX8DeOvV61IMiIm5NdqxLg.png)](https://blog.exploratory.io/sentiment-analysis-with-trump-clinton-sanders-twitter-data-cc978e91960f)",251,FALSE,NA,#### R in the Real World,unid,2016-6-13
++ [Dataviz Remix: Housing Trilemma](http://lenkiefer.com/2016/06/09/Dataviz-Remix-Housing-Trilemma),99,FALSE,NA,#### R in the Real World,link,2016-6-13
+"+ [Scraping and Plotting Minneapolis Property Prices with RSelenium, ggmap and ggplots](https://thescreenshotguy.wordpress.com/2016/06/08/scraping-and-plotting-minneapolis-property-prices-rselenium-ggmap-ggplots/)",213,FALSE,NA,#### R in the Real World,link,2016-6-13
++ [Interactive network of RePEc economists on Twitter](http://io.mongeau.net/repec-twitter-network/),100,FALSE,NA,#### R in the Real World,link,2016-6-13
+[![Interactive network of RePEc economists on Twitter](https://pbs.twimg.com/media/CkoHJmGWsAAe9RI.jpg:large)](http://io.mongeau.net/repec-twitter-network/),156,FALSE,NA,#### R in the Real World,unid,2016-6-13
++ [In case you missed it: May 2016 roundup](http://blog.revolutionanalytics.com/2016/06/in-case-you-missed-it-may-2016-roundup.html),132,FALSE,NA,#### R in Organization,link,2016-6-13
++ [News: New Package Submission Process - bioconductor](https://support.bioconductor.org/p/83448/),98,FALSE,NA,#### R in Organization,link,2016-6-13
++ [IBM Invests in R Programming Language for Data Science; Joins R Consortium](https://www.r-consortium.org/announcement/2016/06/06/ibm-invests-in-r-programming-language-for-data-science-joins-r-consortium),206,FALSE,NA,#### R in Organization,link,2016-6-13
++ [Microsoft announces major commitment to Apache Spark](https://blogs.technet.microsoft.com/dataplatforminsider/2016/06/06/microsoft-announces-major-commitment-to-apache-spark/),178,FALSE,NA,#### R in Organization,link,2016-6-13
+"+ [R, Python Duel As Top Analytics, Data Science software – KDnuggets 2016 Software Poll Results](http://www.kdnuggets.com/2016/06/r-python-top-analytics-data-mining-data-science-software.html) - R remains the leading tool, with 49% share",238,FALSE,NA,#### R in Organization,link,2016-6-13
++ [This House(ing Market) is on Fire!](https://commercedataservice.github.io/tutorial_zillow_acs/) - Analysing US Housing Market with Census & Zillow Data in R,159,FALSE,NA,#### R in Organization,link,2016-6-13
++ [R Consortium and User! 2016 News](http://blog.revolutionanalytics.com/2016/06/r-news.html),93,FALSE,NA,#### R in Organization,link,2016-6-13
++ [Good Books for All Things Data](http://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/),96,FALSE,NA,#### R in Organization,link,2016-6-13
++ [camtrapR: an R package for efficient camera trap data management - Methods in Ecology and Evolution](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12600/full) - on [CRAN](https://cran.r-project.org/web/packages/camtrapR/),231,FALSE,NA,#### R in Academia,link,2016-6-13
++ [rOpenSci Biweekly 2016-06-06](https://ropensci.github.io/biweekly/update-2016-06-06/),88,FALSE,NA,#### R in Academia,link,2016-6-13
++ [R Passes SAS in Scholarly Use (finally)](http://r4stats.com/2016/06/08/r-passes-sas-in-scholarly-use-finally/) - and the comments on [Hacker News](https://news.ycombinator.com/item?id=11866810),196,FALSE,NA,#### R in Academia,link,2016-6-13
+[![R Passes SAS in Scholarly Use (finally)](https://i0.wp.com/r4stats.com/wp-content/uploads/2012/04/Fig_2d_ScholarlyImpact.png)](http://r4stats.com/2016/06/08/r-passes-sas-in-scholarly-use-finally/),199,FALSE,NA,#### R in Academia,unid,2016-6-13
++ [Rootograms a new way to assess count models](http://www.fromthebottomoftheheap.net/2016/06/07/rootograms/) - paper [link](https://arxiv.org/abs/1605.01311),158,FALSE,NA,#### R in Academia,link,2016-6-13
+[![Rootograms a new way to assess count models](https://cdn.rawgit.com/rweekly/image/master/2016-06-13/rootograms-plot.png)](http://www.fromthebottomoftheheap.net/2016/06/07/rootograms/),186,FALSE,NA,#### R in Academia,unid,2016-6-13
++ [Social problems with a paper in Social Problems](http://andrewgelman.com/2016/06/07/social-problems-with-a-paper-in-social-problems/),136,FALSE,NA,#### R in Academia,link,2016-6-13
++ [R for cats and cat lovers](http://rforcats.net/),51,FALSE,NA,#### R for Fun,link,2016-6-13
+"+ [Puppet Roger Peng ep1](https://www.youtube.com/watch?v=bvtxnXlKNZE) - Render a totally heavy metal 3d interactive skull, in R.",129,FALSE,NA,#### R for Fun,link,2016-6-13
++ [Developing Shiny Applications: Using Leaflet in R](https://www.youtube.com/watch?list=PL_LGEn4G1x8r99HkY_RfJNlDYB9LDzMj0&v=n42jsxFNXRI),138,FALSE,NA,### Videos & Podcasts,link,2016-6-13
++ [XGBoost A Scalable Tree Boosting System](https://www.youtube.com/watch?v=Vly8xGnNiWs) - blog post [link](http://datascience.la/xgboost-workshop-and-meetup-talk-with-tianqi-chen/),181,FALSE,NA,### Videos & Podcasts,link,2016-6-13
++ [JJ Allaire - What new things from RStudio are you excited for?](https://www.youtube.com/watch?v=D8yF9AtTTuQ&feature=youtu.be),128,FALSE,NA,### Videos & Podcasts,link,2016-6-13
++ [ggplot2 SparkR: Rebooting ggplot2 for Scalable Big Data Visualization](https://www.youtube.com/watch?v=yxYbiGgh-ho&feature=youtu.be),135,FALSE,NA,### Videos & Podcasts,link,2016-6-13
+"+ [Introducing Flexdashboard: an R Markdonw Format for Quick, Intelligent Dashboards](https://www.rstudio.com/resources/webinars/) by Garrett Grolemund ([@garrettgman](https://github.com/garrettgman))  - [materials](https://github.com/rstudio/webinars/tree/master/22-flexdashboard)",281,FALSE,NA,### Videos & Podcasts,link,2016-6-13
++ [NSSD Podcast](https://soundcloud.com/nssd-podcast/episode-17-diurnal-high-variance) - Diurnal High Variance,110,FALSE,NA,### Videos & Podcasts,link,2016-6-13
++ [Complex Ecological and Evolutionary Systems](https://www.tcd.ie/Zoology/research/research/theoretical/Rpodcasts.php) - A course in the R statistical computing language by video podcast.,188,FALSE,NA,### Videos & Podcasts,link,2016-6-13
++ [Book - Exploring Data Science](https://manning.com/books/exploring-data-science),83,FALSE,NA,### Resources,link,2016-6-13
++ [htmlwidgets Gallery](http://gallery.htmlwidgets.org),55,FALSE,NA,### Resources,link,2016-6-13
++ [Data Science for Political and Social Phenomena](http://chrisalbon.com/) - The motivation for this site and ongoing book project is to bridge that gap: to create a practical guide to applying data science to political and social phenomena.,242,FALSE,NA,### Resources,link,2016-6-13
++ [BetaBit](http://smarterpoland.pl/index.php/2016/06/frequency-analysis-challenge-a-console-based-game-for-rpython/) - Frequency analysis challenge console-based game,167,FALSE,NA,### New Releases,link,2016-6-13
++ [fodr](https://github.com/Tutuchan/fodr) - An R package to access French Open Data portals.,93,FALSE,NA,### New Releases,link,2016-6-13
++ [haven - Conversion semantics](http://rpubs.com/hadley/haven-semantics) - Better support for SPSS/Stata/SAS NAs + labels in haven.,132,FALSE,NA,### New Releases,link,2016-6-13
++ [sunburstR](https://github.com/timelyportfolio/sunburstR) - With more precise color control for coord.,104,FALSE,NA,### New Releases,link,2016-6-13
+[![sunburstR](https://cdn.rawgit.com/rweekly/image/master/2016-06-13/sunburstR.jpg)](https://github.com/timelyportfolio/sunburstR),130,FALSE,NA,### New Releases,unid,2016-6-13
++ [bdvis](https://vijaybarve.wordpress.com/2016/06/10/visualize-completeness-of-biodiversity-data/) - Visualize completeness of biodiversity data.,146,FALSE,NA,### New Releases,link,2016-6-13
++ [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications in shiny apps via toastr.js,103,FALSE,NA,### New Packages & Tools,link,2016-6-13
+[![shinytoastr](https://cdn.rawgit.com/MangoTheCat/shinytoastr/master/inst/shinytoastr.png)](https://github.com/MangoTheCat/shinytoastr),136,FALSE,NA,### New Packages & Tools,unid,2016-6-13
++ [idbr](http://www.arilamstein.com/blog/2016/06/06/idbr-access-us-census-bureau-international-data-base-r/) on [CRAN](https://cran.r-project.org/web/packages/idbr/) - access the US Census Bureau International Data Base in R,224,FALSE,NA,### New Packages & Tools,link,2016-6-13
+"+ [ggplot1](https://github.com/hadley/ggplot1) - ggplot1 is mostly made available out of historical interest, to illustrate how Hadley thinking about API design in R has evolved over the years.",193,FALSE,NA,### New Packages & Tools,link,2016-6-13
++ [manhattanly](https://github.com/sahirbhatnagar/manhattanly) - interactive plots for manhattan and Q-Q plots.,111,FALSE,NA,### New Packages & Tools,link,2016-6-13
+[![manhattanly](https://cdn.rawgit.com/rweekly/image/master/2016-06-13/manhattanly.gif)](https://github.com/sahirbhatnagar/manhattanly),135,FALSE,NA,### New Packages & Tools,unid,2016-6-13
++ [rbhl](https://github.com/ropensci/rbhl) - R interface to the Biodiversity Heritage Library (BHL) API.,104,FALSE,NA,### New Packages & Tools,link,2016-6-13
++ [rprev](http://stuartlacy.co.uk/08062016-rprev) - Simulating disease prevalence estimates.,92,FALSE,NA,### New Packages & Tools,link,2016-6-13
++ [gdeltr2](https://github.com/abresler/gdeltr2) - R interface to the data stores and APIs of [The GDELT Project](http://gdeltproject.org).,139,FALSE,NA,### New Packages & Tools,link,2016-6-13
++ [googleway](https://github.com/SymbolixAU/googleway) - Retrieves data from Google Maps APIs.,94,FALSE,NA,### New Packages & Tools,link,2016-6-13
+[![googleway](https://cdn.rawgit.com/SymbolixAU/googleway/master/vignettes/img/melbourne_to_sydney.png)](https://github.com/SymbolixAU/googleway),145,FALSE,NA,### New Packages & Tools,unid,2016-6-13
++ [HIBPwned](http://itsalocke.com/hibpwned-on-cran/) - Bindings for the HaveIBeenPwned.com Data Breach API.,107,FALSE,NA,### New Packages & Tools,link,2016-6-13
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,## R Project Updates,unid,2016-6-13
+"+ `diff(<difftime>)` now keeps the `""units""` attribute, as subtraction already did, [PR#16940](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16940).",155,FALSE,NA,## R Project Updates,unid,2016-6-13
++ `extSoftVersion()` now reports the version (if any) of the `readline` library in use. And some other patches about `readline` library.,136,FALSE,NA,## R Project Updates,unid,2016-6-13
++ `as<-()` avoids an infinite loop when a virtual class is interposed between a subclass and an actual superclass.,114,FALSE,NA,## R Project Updates,unid,2016-6-13
++ Fix S3 dispatch on S4 objects when the `methods` package is not attached.,75,FALSE,NA,## R Project Updates,unid,2016-6-13
+"+ Internal S4 dispatch sets `.Generic` in the method frame for consistency with `standardGeneric()`, [PR#16929](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16929).",172,FALSE,NA,## R Project Updates,unid,2016-6-13
+"+ Fix `order(x, decreasing=TRUE)` when `x` is an integer vector containing `MAX_INT`. Ported from a fix Matt Dowle made to `data.table`.",136,FALSE,NA,## R Project Updates,unid,2016-6-13
+*No tasks listed for this week.*,32,FALSE,NA,## Call for Participation,unid,2016-6-13
++ [2016 useR! Stanford](http://user2016.org/) - The R User Conference 2016<br /> **June 27 - June 30** <br>,107,FALSE,NA,## Upcoming Events,link,2016-6-13
+  + [Video Stream](https://aka.ms/user2016conference),53,FALSE,NA,## Upcoming Events,unid,2016-6-13
+  + [Schedule](http://schedule.user2016.org),44,FALSE,NA,## Upcoming Events,unid,2016-6-13
+  + [Twitter #user2016](https://twitter.com/hashtag/user2016),61,FALSE,NA,## Upcoming Events,unid,2016-6-13
+*No jobs listed for this week.*,31,FALSE,NA,## Jobs,unid,2016-6-13
+[Twitter @ Sam Firke](https://twitter.com/samfirke/status/739845326123700224),77,FALSE,NA,## Quote of the Week,unid,2016-6-13
+"> Just realized that tidyr (#rstats package for cleaning dirty data) is an anagram of ""dirty"". Whoa.",100,FALSE,NA,## Quote of the Week,unid,2016-6-13
+[![tidyr](https://pbs.twimg.com/media/CkR1ZrNWYAADgSe.jpg:large)](https://twitter.com/samfirke/status/739845326123700224),121,FALSE,NA,## Quote of the Week,unid,2016-6-13
+[Twitter @ Karl Broman](https://twitter.com/kwbroman/status/740332615555682304),79,FALSE,NA,## Quote of the Week,unid,2016-6-13
+> Summer reading. #rstats (click the link to read more),55,FALSE,NA,## Quote of the Week,unid,2016-6-13
+[Twitter @ James Curley](https://twitter.com/jalapic/status/741358160175333376),79,FALSE,NA,## Quote of the Week,unid,2016-6-13
+> CRAN submit help: 1. @hadleywickham - http://r-pkgs.had.co.nz/  2. @kwbroman - http://kbroman.org/pkg_primer/pages/cran.html 3. @xieyihui http://yihui.name/en/2009/10/50000-revisions-committed-to-r/ !,202,FALSE,NA,## Quote of the Week,unid,2016-6-13

@@ -1,0 +1,84 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2017-02-20
+layout: post,12,FALSE,NA,NA,unid,2017-02-20
+title: R Weekly 2017 Issue 8,28,FALSE,NA,NA,unid,2017-02-20
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-02-20
+---,3,FALSE,NA,NA,unid,2017-02-20
++ [rstudio::conf 2017 session recordings are now available](https://blog.rstudio.org/2017/02/15/rstudioconf-2017-session-recordings-are-now-available/),151,FALSE,NA,### Highlight,link,2017-02-20
+"+ [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components",128,FALSE,NA,### Highlight,link,2017-02-20
++ [Extracting notable deaths from Wikipedia](https://maelle.github.io/2017/02/12/wikideaths3_scraping/) - Part [1](https://maelle.github.io/2017/02/12/wikideaths3_scraping/) & [2](https://maelle.github.io/2017/02/12/wikideaths2_population/) & [3](https://maelle.github.io/2017/02/12/wikideaths1_ts/),299,FALSE,NA,### Highlight,link,2017-02-20
++ [A Graphic Look at Bay Area Bike Share](http://blog.nycdatascience.com/student-works/r-shiny/graphic-look-bay-area-bike-share/),129,FALSE,NA,### R in the Real World,link,2017-02-20
++ [Using R to study tennis players](https://msperlin.github.io/2017-02-13-R-and-Tennis-Players/),96,FALSE,NA,### R in the Real World,link,2017-02-20
++ [Venture Capital Deals in 2016 – An Overview (2/2)](http://r-blog.salvaggio.net/?p=443),89,FALSE,NA,### R in the Real World,link,2017-02-20
++ [The Steep Slide of NFL Draft Salaries](http://jessepiburn.com/2017/02/the-steep-slide-of-nfl-draft-salaries/),112,FALSE,NA,### R in the Real World,link,2017-02-20
+![The Steep Slide of NFL Draft Salaries](https://i2.wp.com/jessepiburn.com/wp-content/uploads/2017/02/rookie-salaries.png?w=900),128,FALSE,NA,### R in the Real World,image,2017-02-20
++ [Happy pbirthday class of 2016](http://staff.math.su.se/hoehle/blog/2017/02/13/bday.html),91,FALSE,NA,### R in the Real World,link,2017-02-20
++ [Creating a Mailing List in QGIS and R](https://realdataweb.wordpress.com/2017/02/15/creating-a-mailing-list-in-qgis-and-r/),126,FALSE,NA,### R in the Real World,link,2017-02-20
++ [The Tile Grid Map for Canada](http://www.maxhumber.com/2017/02/15/tile_canada.html),86,FALSE,NA,### R in the Real World,link,2017-02-20
++ [30 issues of Demographic Digest – the most frequent journals](https://ikashnitsky.github.io/2017/dd-journals-frequency/),123,FALSE,NA,### R in the Real World,link,2017-02-20
++ [Labor Market Analysis with R: Will Obama Ever be Beat?](https://www.datascienceriot.com/labor-market-analysis-with-r-will-obama-ever-be-beat/kris/),150,FALSE,NA,### R in the Real World,link,2017-02-20
++ [Extracting notable deaths from Wikipedia](https://maelle.github.io/2017/02/12/wikideaths3_scraping/) - Part [1](https://maelle.github.io/2017/02/12/wikideaths3_scraping/) & [2](https://maelle.github.io/2017/02/12/wikideaths2_population/) & [3](https://maelle.github.io/2017/02/12/wikideaths1_ts/),299,FALSE,NA,### R in the Real World,link,2017-02-20
++ [Inswinger: yorkr swings into International T20s](https://gigadom.wordpress.com/2017/02/14/inswinger-yorkr-swings-into-international-t20s/),141,FALSE,NA,### R in the Real World,link,2017-02-20
++ [Tired of doing real math 2 &mdash; grad school and coffee consumption](http://www.alexejgossmann.com/grad-school-and-coffee/),128,FALSE,NA,### R in the Real World,link,2017-02-20
+![coffee](https://cdn.rawgit.com/rweekly/image/6b607e60/2017-2-20/coffee2.png),78,FALSE,NA,### R in the Real World,image,2017-02-20
++ [The Spells of Harry Potter](http://www.austinwehrwein.com/data-visualization/the-spells-of-harry-potter/),108,FALSE,NA,### R in the Real World,link,2017-02-20
+<!-- !R spatial in 2017](https://mdsumner.github.io/2017/01/10/spatial-r-2017.html)-->,86,FALSE,NA,### Insights,unid,2017-02-20
+"+ [No more excuses: R is better than SPSS for psychology undergrads, and students agree](https://datahowler.wordpress.com/2016/09/10/no-more-excuses-r-is-better-than-spss-for-psychology-undergrads-and-students-agree/)",217,FALSE,NA,### Insights,link,2017-02-20
++ [A comparison of deep learning packages for R](http://blog.revolutionanalytics.com/2017/02/deep-learning-in-r.html),117,FALSE,NA,### Insights,link,2017-02-20
++ [Should I Learn R or Python? … It Doesn’t Matter](https://www.stoltzmaniac.com/should-i-learn-r-or-python-it-doesnt-matter/),126,FALSE,NA,### Insights,link,2017-02-20
++ [Three Tips for Training Excel Users in R](https://www.rstudio.com/rviews/2017/02/10/three-tips-for-training-excel-users-in-r/),129,FALSE,NA,### Insights,link,2017-02-20
++ [See RStudio + sparklyr for big data at Strata + Hadoop World](https://blog.rstudio.org/2017/02/13/see-rstudio-sparklyr-for-big-data-at-strata-hadoop-world/),159,FALSE,NA,### R in Organizations,link,2017-02-20
++ [Galaxy classification with deep learning and SQL Server R Services](http://blog.revolutionanalytics.com/2017/02/sql-server-galaxy.html),138,FALSE,NA,### R in Organizations,link,2017-02-20
++ [R in Open Data: Complaints in The Field of Freedom of Information data set from data.gov.rs](http://www.exactness.net/post/157147338755),139,FALSE,NA,### R in Organizations,link,2017-02-20
++ [Letting Travis keep a secret](http://dirk.eddelbuettel.com/blog/2017/02/12#letting_travis_keep_a_secret),107,FALSE,NA,### Tutorials,link,2017-02-20
++ [Tidy Text Mining of David Bowie’s Lyrics](http://www.mango-solutions.com/wp/2017/02/tidy-text-mining-of-david-bowies-lyrics/),128,FALSE,NA,### Tutorials,link,2017-02-20
++ [Using Armadillo with SuperLU](http://gallery.rcpp.org/articles/armadillo-with-superlu/),90,FALSE,NA,### Tutorials,link,2017-02-20
++ [Geom❤️](https://rud.is/b/2017/02/14/geom%E2%9D%A4%EF%B8%8F/) - ❤️ with ggplot2,81,FALSE,NA,### Tutorials,link,2017-02-20
++ [Spelunking XHRs (XMLHttpRequests) with splashr](https://rud.is/b/2017/02/14/spelunking-xhrs-xmlhttprequests-with-splashr/),125,FALSE,NA,### Tutorials,link,2017-02-20
++ [Naive Bayes Classification in R ](https://sw23993.wordpress.com/2017/02/17/naive-bayes-classification-in-r-part-1/) - Part [1](https://sw23993.wordpress.com/2017/02/17/naive-bayes-classification-in-r-part-1/) & [2](https://sw23993.wordpress.com/2017/02/17/naive-bayes-classification-in-r-part-2/),299,FALSE,NA,### Tutorials,link,2017-02-20
++ [How to perform PCA with R?](https://francoishusson.wordpress.com/2017/02/17/how-to-perform-pca-with-r/),106,FALSE,NA,### Tutorials,link,2017-02-20
++ [Moving largish data from R to H2O – spam detection with Enron emails](https://ellisp.github.io/blog/2017/02/18/svmlite),122,FALSE,NA,### Tutorials,link,2017-02-20
++ [ROPE and Equivalence Testing: Practically Equivalent?](http://daniellakens.blogspot.com/2017/02/rope-and-equivalence-testing.html),133,FALSE,NA,### Tutorials,link,2017-02-20
++ [Visualizing and wrangling MCMC output in R with `MCMCvis`](https://lynchlab.com/2017/02/10/visualizing-and-wrangling-mcmc-output-in-r-with-mcmcvis/),151,FALSE,NA,### Tutorials,link,2017-02-20
++ [Introduction to ggraph: Edges](http://www.data-imaginist.com/2017/ggraph-introduction-edges/),96,FALSE,NA,### Tutorials,link,2017-02-20
+![Introduction to ggraph: Edges](https://cdn.rawgit.com/thomasp85/thomasp85.github.io/df8a77ca/assets/images/2017-02-16-ggraph-introduction-edges/unnamed-chunk-21-1.png),169,FALSE,NA,### Tutorials,image,2017-02-20
++ [Ehlers’s Autocorrelation Periodogram](https://quantstrattrader.wordpress.com/2017/02/15/ehlerss-autocorrelation-periodogram/),128,FALSE,NA,### Tutorials,link,2017-02-20
++ [Factor Analysis with the Principal Component Method Part Two](http://www.aaronschlegel.com/factor-analysis-principal-component-method-part-two/),147,FALSE,NA,### Tutorials,link,2017-02-20
++ [Raccoon Ch 2.5 – Unbalanced Anova with one obs dropped](http://www.quantide.com/raccoon-ch-2-5-unbalanced-anova-one-obs-dropped/),132,FALSE,NA,### Tutorials,link,2017-02-20
++ [Conditional ggplot2 geoms in functions (QTL plots)](https://shiring.github.io/ggplot2/2017/02/12/qtl_plots),110,FALSE,NA,### Tutorials,link,2017-02-20
++ [R formulas in Spark and un-nesting data in SparklyR: Nice and handy!](https://longhowlam.wordpress.com/2017/02/15/r-formulas-in-spark-and-un-nesting-data-in-sparklyr-nice-and-handy/),185,FALSE,NA,### Tutorials,link,2017-02-20
++ [Multilabel classification with neuralnet package](http://www.quantide.com/multilabel-classification-neuralnet-package/),122,FALSE,NA,### Tutorials,link,2017-02-20
++ [Some Notes on the Cauchy Distribution](https://www.rstudio.com/rviews/2017/02/15/some-notes-on-the-cauchy-distribution/),123,FALSE,NA,### Tutorials,link,2017-02-20
++ [How to Find Equidistant Coordinates Between Two Locations on Earth](https://fronkonstin.com/2017/02/13/how-to-find-equidistant-coordinates-between-two-locations-on-earth/),174,FALSE,NA,### Tutorials,link,2017-02-20
++ [Writing a R book and self-publishing it in Amazon](https://msperlin.github.io/2017-02-16-Writing-a-book/),108,FALSE,NA,### Tutorials,link,2017-02-20
++ [Writing reversible jump MCMC in NIMBLE](https://r-nimble.org/writing-reversible-jump-mcmc-in-nimble),103,FALSE,NA,### Tutorials,link,2017-02-20
++ [rstudio::conf 2017 session recordings are now available](https://blog.rstudio.org/2017/02/15/rstudioconf-2017-session-recordings-are-now-available/),151,FALSE,NA,### Videos and Podcasts,link,2017-02-20
+"+ [Video Introduction to Bayesian Data Analysis, Part 1: What is Bayes?](http://www.sumsar.net/blog/2017/02/introduction-to-bayesian-data-analysis-part-one/)",157,FALSE,NA,### Videos and Podcasts,link,2017-02-20
++ [Optimization and Operations Research in R](http://www.rblog.uni-freiburg.de/2017/02/17/optimization-and-operations-research-in-r/),133,FALSE,NA,### Resources,link,2017-02-20
++ [nytimes](https://github.com/mkearney/nytimes) - R client for New York Times' article search API,98,FALSE,NA,### New Packages and Tools,link,2017-02-20
+"+ [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components",128,FALSE,NA,### New Packages and Tools,link,2017-02-20
+![hrbrthemes](https://cdn.rawgit.com/hrbrmstr/hrbrthemes/f51628b4/README_figs/README-unnamed-chunk-9-1.png),107,FALSE,NA,### New Packages and Tools,image,2017-02-20
++ [caffeR](http://www.rblog.uni-freiburg.de/2017/02/11/caffer-an-r-wrapper-for-caffe/) - an R wrapper for ‘caffe’,113,FALSE,NA,### New Packages and Tools,link,2017-02-20
++ [wrapr](http://www.win-vector.com/blog/2017/02/announcing-the-wrapr-packge-for-r/) - Announcing the wrapr packge for R,120,FALSE,NA,### New Packages and Tools,link,2017-02-20
++ [January New Data Packages](https://www.rstudio.com/rviews/2017/02/17/january-new-data-packages/),99,FALSE,NA,### New Packages and Tools,link,2017-02-20
++ [MODIStsp 1.3.1](http://lbusettspatialr.blogspot.com/2017/02/modistsp-v131-released.html) - Automatic download and preprocessing of MODIS Land Products time series,165,FALSE,NA,### New Releases,link,2017-02-20
++ [mlr 2.10](https://mlr-org.github.io/mlr-210/) - Machine Learning for R,73,FALSE,NA,### New Releases,link,2017-02-20
++ [RcppTOML 0.1.1](http://dirk.eddelbuettel.com/blog/2017/02/13#rcpptoml_0.1.1) - Rcpp bindings for TOML,104,FALSE,NA,### New Releases,link,2017-02-20
++ [littler 0.3.2](http://dirk.eddelbuettel.com/blog/2017/02/16#littler-0.3.2) - littler is the first command-line interface for R and predates Rscript.,151,FALSE,NA,### New Releases,link,2017-02-20
+"+ [ggalt 0.4.0](https://rud.is/b/2017/02/15/ggalt-0-4-0-now-on-cran/) - Extra Coordinate Systems, 'Geoms', Statistical Transformations, Scales and Fonts for 'ggplot2'",166,FALSE,NA,### New Releases,link,2017-02-20
+"+ [Apply to attend rOpenSci unconf 2017!](https://ropensci.org/blog/blog/2017/02/02/unconf2017) - For a fourth year running, rOpenSci is excited to announce another unconference in 2017 with a new venue in ☀ Downtown LA. We're organizing this event to bring together scientists, developers, and open data enthusiasts from academia, industry, government, and non-profit to get together for a few days and hack on various projects.",429,FALSE,NA,### Call for Participation,link,2017-02-20
++ [Performance improvements coming to R 3.4.0](http://blog.revolutionanalytics.com/2017/02/preview-r-340.html),110,FALSE,NA,### R Project Updates,link,2017-02-20
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,### R Project Updates,unid,2017-02-20
++ `R CMD check --as-cran` now NOTEs if the package does not register its native routines or does not declare its intentions on (native) symbol search. (This will become a WARNING in due course.),194,FALSE,NA,### R Project Updates,unid,2017-02-20
+"+  Those who use proxies should check that their settings are compatible (see `?download.file`: the most commonly used forms work for both methods `""internal""` and `""libcurl""`).",177,FALSE,NA,### R Project Updates,unid,2017-02-20
+"+ One can now choose from alternative matrix product implementations via `options(matprod = )`. The `""internal""` implementation is not optimized for speed but consistent in precision with other summations in R (uses `long double` accumulators). `""blas""` calls BLAS directly for best speed, yet usually with undefined behavior for inputs with NaN/Inf.",350,FALSE,NA,### R Project Updates,unid,2017-02-20
+"+ (Unix-alike) The default method for `download.file()` and `url()` now always chooses `""libcurl""` except for `file://` URLs. There will be small changes in the format and wording of messages, and those who use proxies should check that their settings are compatible (see `?download.file`: the most commonly used forms work for both methods `""internal""` and `""libcurl""`).",371,FALSE,NA,### R Project Updates,unid,2017-02-20
++ Three changes when redirection of a `http://` URL to a `https://` URL is encountered.,87,FALSE,NA,### R Project Updates,unid,2017-02-20
+"+ (Unix-alike) For `http://` URLs and the default method (`""auto""`), `download.file()` switches to `method = ""libcurl""` if a redirection to a `https://` URL is encountered.",172,FALSE,NA,### R Project Updates,unid,2017-02-20
+"+ For `url()` with method `""default""` and an explicit `open` argument, if opening fails because of redirection to an `https://` URL then `method = ""libcurl""` is tried.",167,FALSE,NA,### R Project Updates,unid,2017-02-20
+"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,NA,### Upcoming Events,link,2017-02-20
+"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance.",176,FALSE,NA,### Upcoming Events,unid,2017-02-20
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,### Upcoming Events,link,2017-02-20
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,### Upcoming Events,unid,2017-02-20
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,### Upcoming Events,unid,2017-02-20
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Impost-R syndrome: when you&#39;re convinced everyone but you learns R effortlessly.</p>&mdash; Moiety Mouse (@moietymouse) <a href=""https://twitter.com/moietymouse/status/832688263529893888"">February 17, 2017</a></blockquote>",298,FALSE,NA,### Quotes of the Week,unid,2017-02-20

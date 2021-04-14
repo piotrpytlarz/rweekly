@@ -1,0 +1,82 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2019-09-02
+"title: R Weekly 2019-35 feasts, Tidy Tuesday, NYT",49,FALSE,NA,NA,unid,2019-09-02
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-09-02
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-09-02
+---,3,FALSE,NA,NA,unid,2019-09-02
++ [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat),94,FALSE,NA,###  Highlight,link,2019-09-02
++ [{feasts}: Feature extraction and statistics for time series](https://www.mitchelloharawild.com/blog/feasts/),111,FALSE,NA,###  Highlight,link,2019-09-02
++ [#TidyTuesday Screencast: The Simpsons guest stars - David Robinson](https://t.co/Zw763ENYOq?amp=1),101,FALSE,NA,###  Highlight,link,2019-09-02
+"+ [R Consortium Community Grants and Sponsorships Top USD $1,000,000](https://www.r-consortium.org/announcement/2019/08/28/r-consortium-community-grants-and-sponsorships-top-usd-1000000)",186,FALSE,NA,###  Highlight,link,2019-09-02
++ [Using rOpenSci Software Peer Review Guidelines for Teaching](https://ropensci.org/blog/2019/08/27/software-peer-review-guidelines-for-teaching/),147,FALSE,NA,### Insights,link,2019-09-02
++ [It is Time for CRAN to Ban Package Ads](http://www.win-vector.com/blog/2019/08/it-is-time-for-cran-to-ban-package-ads/),122,FALSE,NA,### Insights,link,2019-09-02
++ [Why R?](http://www.win-vector.com/blog/2019/08/why-r/),57,FALSE,NA,### Insights,link,2019-09-02
+"+ [So, how come we can use TensorFlow from R?](https://blogs.rstudio.com/tensorflow/posts/2019-08-29-using-tf-from-r/)",118,FALSE,NA,### Insights,link,2019-09-02
++ [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat),94,FALSE,NA,### R in the Real World,link,2019-09-02
+![NYT-style urban heat island maps](https://raw.githubusercontent.com/rweekly/image/master/2019-09-02/nytmap.png),113,FALSE,NA,### R in the Real World,image,2019-09-02
++ [Geographic projections and transformations](https://geocompr.github.io/post/2019/crs-projections-transformations/),117,FALSE,NA,### R in the Real World,link,2019-09-02
++ [A tutorial for tidying UK Office for National Statistics data files for use in R](http://lesscrime.info/post/cleaning-ons-data/),131,FALSE,NA,### R in the Real World,link,2019-09-02
++ [How tennis has changed over time](https://rafaelmenmell.netlify.com/2019/08/28/how-tennis-has-changed-over-time/),116,FALSE,NA,### R in the Real World,link,2019-09-02
+![How tennis has changed over time](https://raw.githubusercontent.com/rweekly/image/master/2019/35/tennis.png),110,FALSE,NA,### R in the Real World,image,2019-09-02
++ [Bigram Analysis of Democratic Debates](https://rlang.io/bigram-analysis-of-democratic-debates/),98,FALSE,NA,### R in the Real World,link,2019-09-02
++ [Building a Recommender System with Beer Data](https://datadiarist.github.io/post/building-a-recommendation-system-with-beer-data/),133,FALSE,NA,### R in the Real World,link,2019-09-02
+![Building a Recommender System with Beer Data](https://raw.githubusercontent.com/rweekly/image/master/2019/35/beer.png),120,FALSE,NA,### R in the Real World,image,2019-09-02
++ [rstudio::conf(2020) Diversity and international scholarships](https://blog.rstudio.com/2019/08/30/diversity-scholarships/),125,FALSE,NA,###  R in Organizations,link,2019-09-02
+"+ [R Consortium Community Grants and Sponsorships Top USD $1,000,000](https://www.r-consortium.org/announcement/2019/08/28/r-consortium-community-grants-and-sponsorships-top-usd-1000000)",186,FALSE,NA,###  R in Organizations,link,2019-09-02
+"+ [Studying Politics on and with Wikipedia Workshop - Denis Cohen, Nick Baumann, & Simon Munzert](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/studying-politics-wikipedia/)",189,FALSE,NA,###  R in Academia,link,2019-09-02
+"+ [nflWAR: a reproducible method for offensive player evaluation in football- Yurko, R., Ventura, S. & Horowitz, M. (2019). nflWAR: a reproducible method for offensive player evaluation in football. Journal of Quantitative Analysis in Sports, 15(3), pp. 163-183.](https://www.degruyter.com/view/j/jqas.2019.15.issue-3/jqas-2018-0010/jqas-2018-0010.xml)",352,FALSE,NA,###  R in Academia,link,2019-09-02
+![nflWAR](https://raw.githubusercontent.com/rweekly/image/master/2019-09-02/nflscrapr.jpg),90,FALSE,NA,###  R in Academia,image,2019-09-02
++ [#TidyTuesday Shiny App](https://nsgrantham.shinyapps.io/tidytuesdayrocks/),77,FALSE,NA,###  Resources,link,2019-09-02
++ [R Journal July Issue](https://matloff.wordpress.com/2019/08/26/r-journal-july-issue/),88,FALSE,NA,###  Resources,link,2019-09-02
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-09-02
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-09-02
+"+ [July 2019 ""Top 40"" R Packages](https://rviews.rstudio.com/2019/08/29/july-2019-top-40-r-packages/)",101,FALSE,NA,###  New Packages,link,2019-09-02
++ [{ggrapid}: Create neat & complete ggplot visualizations with as little code as possible](https://konradsemsch.netlify.com/2019/08/2019-08-29-ggrapid-create-neat-and-complete-ggplot-visualizations-with-as-little-code-as-possible/),232,FALSE,NA,###  New Packages,link,2019-09-02
++ [{santoku}: versatile cutting tool for R](https://hughjonesd.github.io/santoku/),82,FALSE,NA,###  New Packages,link,2019-09-02
++ [{feasts}: Feature extraction and statistics for time series](https://www.mitchelloharawild.com/blog/feasts/),111,FALSE,NA,###  New Packages,link,2019-09-02
+![{feasts}: Feature extraction and statistics for time series](https://raw.githubusercontent.com/rweekly/image/master/2019/35/features-plot-feats.png),150,FALSE,NA,###  New Packages,image,2019-09-02
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-09-02
+"+ [{RecodeReorder}: RStudio addin for interactively renaming, collapsing and reordering factor levels](https://milosvilotic.netlify.com/post/recode-reorder-rstudio-addin/)",171,FALSE,NA,###  New Packages,link,2019-09-02
++ [{Polished}: adds modern authentication to Shiny](https://www.tychobra.com/posts/2019_08_27_announcing_polished/),115,FALSE,NA,###  New Packages,link,2019-09-02
++ [{gmailr 1.0.0}](https://www.tidyverse.org/articles/2019/08/gmailr-1-0-0/),76,FALSE,NA,### Updated Packages,link,2019-09-02
++ [{ggstatsplot 0.1.1}](https://cran.r-project.org/web/packages/ggstatsplot/news/news.html),91,FALSE,NA,### Updated Packages,link,2019-09-02
++ [{textdata 0.3.0}](https://github.com/emilhvitfeldt/textdata),63,FALSE,NA,### Updated Packages,link,2019-09-02
++ [{covr 3.3.1}](https://github.com/r-lib/covr/releases/tag/v3.3.1),67,FALSE,NA,### Updated Packages,link,2019-09-02
++ [{lumberjack 1.0.1}](https://cran.r-project.org/web/packages/lumberjack/index.html),85,FALSE,NA,### Updated Packages,link,2019-09-02
++ [{anytime 0.3.6}](http://dirk.eddelbuettel.com/blog/2019/08/29#anytime_0.3.6),79,FALSE,NA,### Updated Packages,link,2019-09-02
++ [{regtools}](https://matloff.wordpress.com/2019/08/25/new-version-of-regtools-package/),89,FALSE,NA,### Updated Packages,link,2019-09-02
++ [{RSwitch 1.4.0}](https://rud.is/b/2019/08/26/rswitch-1-4-0-released/),72,FALSE,NA,### Updated Packages,link,2019-09-02
++ [#TidyTuesday Screencast: The Simpsons guest stars - David Robinson](https://www.youtube.com/watch?v=EYuuAGDeGrQ),115,FALSE,NA,###  Videos and Podcasts,link,2019-09-02
++ [The TidyTuesday Podcast (Episode 1): The Simpsons data set](https://tidytuesday.fireside.fm/1),97,FALSE,NA,###  Videos and Podcasts,link,2019-09-02
++ [So You Want to Start a Podcast](https://simplystatistics.org/2019/08/27/so-you-want-to-start-a-podcast/),107,FALSE,NA,###  Videos and Podcasts,link,2019-09-02
++ [Tom’s Cookbook for Better Viz: How to improve your {nflscrapR} graphics](https://jthomasmock.github.io/nfl_plotting_cookbook/),129,FALSE,NA,### Gist & Cookbook,link,2019-09-02
+![Tom’s Cookbook for Better Viz: How to improve your {nflscrapR} graphics](https://raw.githubusercontent.com/rweekly/image/master/2019/35/nfl-plot.png),151,FALSE,NA,### Gist & Cookbook,image,2019-09-02
++ [(Japanese) Rでtweetをテキストマイニング：ワードクラウドと共起ネットワーク](https://www.medi-08-data-06.work/entry/text_mining),101,FALSE,NA,### R Internationally,link,2019-09-02
++ [Combining the power of R and Python with reticulate](https://www.programmingwithr.com/combining-the-power-of-r-and-python-with-reticulate/),142,FALSE,NA,###  Tutorials,link,2019-09-02
++ [Flipbook: Simpsons’ Guest Appearances are Growing,52,FALSE,NA,###  Tutorials,unid,2019-09-02
+"(Adaptation of Gil Henriques’ Simpsons Plot), by Evangeline Reynolds](https://evamaerey.github.io/tidytuesday_walk_through/simpsons.html#1)",139,FALSE,NA,###  Tutorials,unid,2019-09-02
+"+ [Messi and Barcelona Dataviz Walkthrough: Scoring Involvement, Goal Sequences, Evolving Pass Networks and more](https://wiscostret.wordpress.com/2019/08/25/messi-and-barcelona-dataviz-walkthrough/)",199,FALSE,NA,###  Tutorials,link,2019-09-02
++ [Practice using lubridate... THEATRICALLY](https://juliasilge.com/blog/lubridate-london-stage/),97,FALSE,NA,###  Tutorials,link,2019-09-02
++ [You can replicate almost any plot with R](https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/),133,FALSE,NA,###  Tutorials,link,2019-09-02
+![You can replicate almost any plot with R](https://raw.githubusercontent.com/rweekly/image/master/2019/35/replicate.png),121,FALSE,NA,###  Tutorials,image,2019-09-02
++ [Introducing data_algebra](http://www.win-vector.com/blog/2019/08/introducing-data_algebra/),94,FALSE,NA,###  Tutorials,link,2019-09-02
++ [Visualizing the relationship between multiple variables](https://statisticaloddsandends.wordpress.com/2019/08/24/visualizing-the-relationship-between-multiple-variables/),173,FALSE,NA,###  Tutorials,link,2019-09-02
++ [Maximum likelihood estimation from scratch](https://alemorales.info/post/mle-nonlinear/),91,FALSE,NA,###  Tutorials,link,2019-09-02
++ [RMarkdown Template that Manages Academic Affiliations – docx or PDF output](http://labrtorian.com/2019/08/26/rmarkdown-template-that-manages-academic-affiliations/),167,FALSE,NA,###  Tutorials,link,2019-09-02
++ [CASA summer school on geographic data](https://www.robinlovelace.net/2019/08/28/casa-summer-school-on-geographic-data/),122,FALSE,NA,###  Tutorials,link,2019-09-02
++ [Securing Shiny apps with AWS Cognito authentication](https://adisarid.github.io/post/2019-08-10-cognito-shiny-authentication/),129,FALSE,NA,###  Tutorials,link,2019-09-02
+"+ [R, Docker and Checkpoint: A Route to Reproducibility](https://datawookie.netlify.com/blog/2019/08/r-docker-and-checkpoint-a-route-to-reproducibility/)",153,FALSE,NA,###  Tutorials,link,2019-09-02
++ [Explaining Predictions: Random Forest Post-hoc Analysis (randomForestExplainer package)](https://notast.netlify.com/post/explaining-predictions-random-forest-post-hoc-analysis-randomforestexplainer-package/),210,FALSE,NA,###  Tutorials,link,2019-09-02
++ [Tidy time series data using tsibbles](https://robjhyndman.com/hyndsight/tsibbles/),85,FALSE,NA,###  Tutorials,link,2019-09-02
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-09-02
+"n></div><div class=""post-more-end""></div>-->",44,FALSE,NA,###  Tutorials,unid,2019-09-02
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-09-02
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-09-02
+"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)",63,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-02
+"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-02
++ [Why R? 2019 Conference - Warsaw 26-29 September 2019](http://whyr.pl/2019/),78,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-02
+"+ [rOpenSci OzUnconf (Sydney, Australia), December 11 - 13 2019](https://ozunconf19.ropensci.org/)",98,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-02
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-02
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-02
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-09-02
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-09-02

@@ -1,0 +1,119 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2017-04-10
+layout: post,12,FALSE,NA,NA,unid,2017-04-10
+title: R Weekly 2017 Issue 15,29,FALSE,NA,NA,unid,2017-04-10
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-04-10
+is_podcast: true,16,FALSE,NA,NA,unid,2017-04-10
+podcast_title: 2017:15 R Consortium Q1 2017 ISC Grants,54,FALSE,NA,NA,unid,2017-04-10
+podcast_permalink: https://cloud.rweekly.org/2017-15.mp3,56,FALSE,NA,NA,unid,2017-04-10
+podcast_description: |,22,FALSE,NA,NA,unid,2017-04-10
+  <![CDATA[,11,FALSE,NA,NA,unid,2017-04-10
+"  <p>About R Consortium Q1 2017 ISC Grants, the latest R Core updates and more.</p>",83,FALSE,NA,NA,unid,2017-04-10
+  <ul>,6,FALSE,NA,NA,unid,2017-04-10
+"  <li>Read <a href=""https://www.rweekly.org/2017-15.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 15</a></li>",116,FALSE,NA,NA,unid,2017-04-10
+  </ul>,7,FALSE,NA,NA,unid,2017-04-10
+  <p></p>,9,FALSE,NA,NA,unid,2017-04-10
+  <ul> ,7,FALSE,NA,NA,unid,2017-04-10
+"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,NA,unid,2017-04-10
+  </ul> ,8,FALSE,NA,NA,unid,2017-04-10
+  <ul>   ,9,FALSE,NA,NA,unid,2017-04-10
+"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>   ",80,FALSE,NA,NA,unid,2017-04-10
+  </ul>,7,FALSE,NA,NA,unid,2017-04-10
+  <ul> ,7,FALSE,NA,NA,unid,2017-04-10
+"  <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>  ",75,FALSE,NA,NA,unid,2017-04-10
+  </ul>,7,FALSE,NA,NA,unid,2017-04-10
+  <ul>,6,FALSE,NA,NA,unid,2017-04-10
+"  <li><a href=""http://freemusicarchive.org/music/gillicuddy/Plays_Guitar_Again/01-adventure-darling"">Music by Gillicuddy</a></li>",129,FALSE,NA,NA,unid,2017-04-10
+  </ul>,7,FALSE,NA,NA,unid,2017-04-10
+  ]]>,5,FALSE,NA,NA,unid,2017-04-10
+podcast_size: 8100158,21,FALSE,NA,NA,unid,2017-04-10
+"podcast_duration: ""5:26""",24,FALSE,NA,NA,unid,2017-04-10
+"podcast_summary: About R Consortium Q1 2017 ISC Grants, the latest R Core updates and more. https://rweekly.org/2017-15.html",124,FALSE,NA,NA,unid,2017-04-10
+"podcast_keywords: "", ggplot2""",29,FALSE,NA,NA,unid,2017-04-10
+podcast_subtitle: R Consortium Q1 2017 ISC Grants,49,FALSE,NA,NA,unid,2017-04-10
+---,3,FALSE,NA,NA,unid,2017-04-10
++ [R Consortium Q1 2017 ISC Grants](https://www.r-consortium.org/blog/2017/04/03/q1-2017-isc-grants),100,FALSE,NA,### Highlight,link,2017-04-10
++ [`purrr` Tutorial](https://jennybc.github.io/purrr-tutorial/index.html) - A functional programming toolkit for R.,115,FALSE,NA,### Highlight,link,2017-04-10
++ [#3: Follow R-devel](http://dirk.eddelbuettel.com/blog/2017/04/06#003_follow_r-devel),87,FALSE,NA,### Insights,link,2017-04-10
++ [The Importance of Interactive Data Analysis for Data-Driven Discovery](http://simplystats.github.io/2017/04/03/interactive-data-analysis/),141,FALSE,NA,### Insights,link,2017-04-10
++ [Class notes R course at Ben Gurion University](http://www.john-ros.com/Rcourse/),83,FALSE,NA,### Resources,link,2017-04-10
++ [`purrr` Tutorial](https://jennybc.github.io/purrr-tutorial/index.html) - A functional programming toolkit for R.,115,FALSE,NA,### Resources,link,2017-04-10
++ [How To Do Archaeological Science Using R](https://benmarwick.github.io/How-To-Do-Archaeological-Science-Using-R/),116,FALSE,NA,### Resources,link,2017-04-10
++ [Integrating Spark with R](http://spark.rstudio.com/),55,FALSE,NA,### Resources,link,2017-04-10
++ [Playing with #RStats and Microsoft Computer Vision API](http://colinfay.me/playing-with-rstats-and-microsoft-computer-vision-api/),133,FALSE,NA,### R in the Real World,link,2017-04-10
+"+ [Mapping Belgian geographic codes and data with R](http://mhermans.net/files/r/be_geomapping/20170226_example_mapping_postcode.html) - Walkthrough demonstrating how to recode (Belgian) postal codes and geographic classifications and make thematic maps with R, tmap & the tidyverse.",283,FALSE,NA,### R in the Real World,link,2017-04-10
+"+ [The faces of R, analyzed with R](http://blog.revolutionanalytics.com/2017/04/the-faces-of-r-analyzed-with-r.html)",116,FALSE,NA,### R in the Real World,link,2017-04-10
++ [The Most Popular Languages for Data Scientists/Engineers](http://blog.revolutionanalytics.com/2017/04/stackoverflow-developer-survey.html),141,FALSE,NA,### R in the Real World,link,2017-04-10
+![The Most Popular Languages for Data Scientists/Engineers](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb098c5a3c970d-800wi),145,FALSE,NA,### R in the Real World,image,2017-04-10
++ [Simple Offline Airport Wi-Fi Tracker in R](https://rud.is/b/2017/04/02/simple-offline-airport-wi-fi-tracker-in-r/),117,FALSE,NA,### R in the Real World,link,2017-04-10
++ [Key Phrase Extraction from Tweets](https://datascienceplus.com/key-phrase-extraction-from-tweets/),101,FALSE,NA,### R in the Real World,link,2017-04-10
++ [The Run(chart)ing Man](http://johnmackintosh.com/2017-04-06-the-run-chart-ing-man/),86,FALSE,NA,### R in the Real World,link,2017-04-10
++ [Composing reproducible manuscripts using R Markdown](https://elifesciences.org/elife-news/composing-reproducible-manuscripts-using-r-markdown) - eLife now accepts manuscripts in R Markdown,191,FALSE,NA,### R in Organizations,link,2017-04-10
++ [Google Cloud Platform for Data Scientists: Using R with Google BigQuery](https://cloud.google.com/blog/big-data/2017/04/google-cloud-platform-for-data-scientists-using-r-with-google-bigquery),194,FALSE,NA,### R in Organizations,link,2017-04-10
++ [Organizing DataFest the tidy way ](https://rviews.rstudio.com/2017/04/05/datafestorg/),89,FALSE,NA,### R in Organizations,link,2017-04-10
++ [R Consortium Q1 2017 ISC Grants](https://www.r-consortium.org/blog/2017/04/03/q1-2017-isc-grants),100,FALSE,NA,### R in Organizations,link,2017-04-10
++ [Solving Data Science's First Mile Problem](https://rviews.rstudio.com/2017/04/07/solving-data-sciences-first-mile-problem/) - Introduction to data.world website.,164,FALSE,NA,### R in Organizations,link,2017-04-10
+"+ [IDEAR in Microsoft R Server, for Big Data: Checking Missing Values, Principal Component Analysis, Numerical Variables Grouped by Categorical Variables](https://blogs.technet.microsoft.com/machinelearning/2017/04/05/latest-rev-of-utilities-for-microsoft-team-data-science-process-tdsp-now-available/)",302,FALSE,NA,### R in Organizations,link,2017-04-10
++ [Ihaka Lecture Series 2017: Statistical computing in a (more) static environment](https://www.youtube.com/watch?v=88TftllIjaY),128,FALSE,NA,### Videos and Podcasts,link,2017-04-10
++ [R Weekly Podcast 2017:15 - R Consortium Q1 2017 ISC Grants](https://youtu.be/7AJES60V9Vo) - [Podcast Feed](https://feeds.feedburner.com/rweeklypodcast?format=xml),165,FALSE,NA,### Videos and Podcasts,link,2017-04-10
++ [Visualizing relational joins](http://www.win-vector.com/blog/2017/04/visualizing-relational-joins/),102,FALSE,NA,### Tutorials,link,2017-04-10
++ [R⁶ — RStudio Server Client? Make An App For That!](https://rud.is/b/2017/04/07/r%e2%81%b6-rstudio-server-client-make-an-app-for-that/),137,FALSE,NA,### Tutorials,link,2017-04-10
++ [Visualizing the Law of Large Numbers using #gganimate](https://pradeepadhokshaja.wordpress.com/2017/04/06/visualizing-the-law-of-large-numbers-using-gganimate/),163,FALSE,NA,### Tutorials,link,2017-04-10
++ [Dealing with unbalanced data in machine learning](https://shiring.github.io/machine_learning/2017/04/02/unbalanced),118,FALSE,NA,### Tutorials,link,2017-04-10
+"+ [Understanding the CANDECOMP/PARAFAC Tensor Decomposition, aka CP; with R code](http://www.alexejgossmann.com/tensor_decomposition_CP/)",137,FALSE,NA,### Tutorials,link,2017-04-10
++ [Foreign Keys and assertr](http://www.json.blog/2017/04/foreign-keys-and-assertr),83,FALSE,NA,### Tutorials,link,2017-04-10
+<!-- !Grow grapes in R](http://wlandau.github.io/2017/04/02/grapes/)-->,71,FALSE,NA,### Tutorials,unid,2017-04-10
++ [Weighted Linear Support Vector Machine](https://datascienceplus.com/weighted-linear-support-vector-machine/),111,FALSE,NA,### Tutorials,link,2017-04-10
++ [An Introduction to Stock Market Data Analysis with R (Part 2)](https://ntguardian.wordpress.com/2017/04/03/introduction-stock-market-data-r-2/),146,FALSE,NA,### Tutorials,link,2017-04-10
+![An Introduction to Stock Market Data Analysis with R ](https://ntguardian.files.wordpress.com/2017/04/unnamed-chunk-1-1.png?w=680),132,FALSE,NA,### Tutorials,image,2017-04-10
++ [Data Visualization – Part 3](https://www.stoltzmaniac.com/data-visualization-part-3/),88,FALSE,NA,### Tutorials,link,2017-04-10
++ [Everybody talks about the weather](http://ropensci.org/blog/blog/2017/04/04/gsodr) - While the GSOD data are a valuable source of weather data with global coverage. The data files can be cumbersome and difficult to work with for research purposes.,250,FALSE,NA,### Tutorials,link,2017-04-10
++ [You can't do that in statistics](http://www.win-vector.com/blog/2017/04/you-cant-do-that-in-statistics/),107,FALSE,NA,### Tutorials,link,2017-04-10
++ [Python vs. R: The battle for data scientist mind share](http://www.infoworld.com/article/3187550/data-science/python-vs-r-the-battle-for-data-scientist-mind-share.html),171,FALSE,NA,### Tutorials,link,2017-04-10
++ [JAGS tutorial at useR! 2017](https://martynplummer.wordpress.com/2017/04/05/jags-tutorial-at-user-2017/),107,FALSE,NA,### Tutorials,link,2017-04-10
++ [Superclassing to R⁶](https://rud.is/b/2017/04/01/superclassing-to-r%e2%81%b6/),81,FALSE,NA,### Tutorials,link,2017-04-10
++ [R⁶ — Snow Day Facets](https://rud.is/b/2017/04/01/r%e2%81%b4-snow-day-facets/),81,FALSE,NA,### Tutorials,link,2017-04-10
+![R⁶ — Snow Day Facets](https://i1.wp.com/rud.is/b/wp-content/uploads/2017/04/Cursor_and___projects_snowfirst_-_master_-_RStudio-1.png?zoom=3&resize=780%2C213&ssl=1),165,FALSE,NA,### Tutorials,image,2017-04-10
++ [Publish R functions as stored procedures with the sqlrutils package](http://blog.revolutionanalytics.com/2017/04/sqlrutils.html),131,FALSE,NA,### Tutorials,link,2017-04-10
+"+ [Understanding the Tucker decomposition, and compressing tensor-valued data (with R code)](http://www.alexejgossmann.com/tensor_decomposition_tucker/)",152,FALSE,NA,### Tutorials,link,2017-04-10
+"+ [Discrete Event Simulation in R (and, Why R Is Different)](https://matloff.wordpress.com/2017/04/05/discrete-event-simulation-in-r-and-why-r-is-different/)",157,FALSE,NA,### Tutorials,link,2017-04-10
++ [Fitting a rational function in R using ordinary least-squares regression](http://blog.revolutionanalytics.com/2017/04/fitting-rational-functions-with-lm.html),161,FALSE,NA,### Tutorials,link,2017-04-10
++ [Shapefiles and GGplot2](http://www.austinwehrwein.com/tutorials/shapefiles-and-ggplot2/),91,FALSE,NA,### Tutorials,link,2017-04-10
+![Shapefiles and GGplot2](https://i1.wp.com/www.austinwehrwein.com/wp-content/uploads/2016/02/Best.png),103,FALSE,NA,### Tutorials,image,2017-04-10
++ [R with GRASS GIS – easiest Munros](https://scottishsnow.wordpress.com/2017/04/04/r-grass-munros/),100,FALSE,NA,### Tutorials,link,2017-04-10
++ [R – iteratively changing column classes](https://scottishsnow.wordpress.com/2017/04/04/col-classes/),103,FALSE,NA,### Tutorials,link,2017-04-10
++ [How to install and use the hexSticker package](https://scriptsandstatistics.wordpress.com/2017/04/04/how-to-install-and-use-the-hexsticker-package/),151,FALSE,NA,### Tutorials,link,2017-04-10
++ [Using R: Don't save your workspace](https://martinsbioblogg.wordpress.com/2017/04/02/using-r-dont-save-your-workspace/),122,FALSE,NA,### Tutorials,link,2017-04-10
++ [Plotly charts in nteract notebooks using R](http://moderndata.plot.ly/plotly-charts-in-nteract-notebooks-using-r/),117,FALSE,NA,### Tutorials,link,2017-04-10
++ [Constructing a Win Probability Graph Using plotly](https://baseballwithr.wordpress.com/2017/04/05/constructing-a-win-probability-graph-using-plotly/),152,FALSE,NA,### Tutorials,link,2017-04-10
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink""><i>Go Live for More New Pkgs</i></a></p>",138,FALSE,NA,### New Packages & Tools ,unid,2017-04-10
++ [PolYamoR](https://blog.dataiku.com/introducing-polyamor-the-two-way-translator-between-python-and-r) - Two-way translator between Python and R,145,FALSE,NA,### New Packages & Tools ,link,2017-04-10
++ [DuckduckR](https://github.com/dirkschumacher/duckduckr) - DuckDuckGo's Instant Answer API for R,98,FALSE,NA,### New Packages & Tools ,link,2017-04-10
++ [texPreview](https://github.com/metrumresearchgroup/texPreview) - Compile and Preview Snippets of 'LaTeX' in 'RStudio',120,FALSE,NA,### New Packages & Tools ,link,2017-04-10
++ [ggspatial](https://github.com/paleolimbot/ggspatial) - ,58,FALSE,NA,### New Packages & Tools ,link,2017-04-10
+Spatial data framework for ggplot2,34,FALSE,NA,### New Packages & Tools ,unid,2017-04-10
+![ggspatial](https://raw.githubusercontent.com/paleolimbot/ggspatial/master/README_files/figure-markdown_github/unnamed-chunk-4-1.png),134,FALSE,NA,### New Packages & Tools ,image,2017-04-10
++ [Shiny 1.0.1](https://blog.rstudio.org/2017/04/05/shiny-1-0-1/) - Easy interactive web applications with R,108,FALSE,NA,### New Releases,link,2017-04-10
++ [GSODR 1.0.2.1](http://ropensci.org/blog/blog/2017/04/04/gsodr) - Global Surface Summary of the Day,101,FALSE,NA,### New Releases,link,2017-04-10
++ [packcircles 0.2.0](http://lastresortsoftware.blogspot.com/2017/04/packcircles-version-020-released.html) - Simple algorithms for circle packing,146,FALSE,NA,### New Releases,link,2017-04-10
+"+ [tidyquant 0.5.0](http://www.business-science.io/code-tools/2017/04/04/tidyquant-0-5-0.html) - select, rollapply, and Quandl",126,FALSE,NA,### New Releases,link,2017-04-10
+<!-- !drake 2.1.0](http://wlandau.github.io/2017/04/02/drake_2.1.0/) - Data Frames in R for Make-->,99,FALSE,NA,### New Releases,unid,2017-04-10
++ [Microsoft R Open 3.3.3](http://blog.revolutionanalytics.com/2017/04/microsoft-r-open-333-now-available.html),111,FALSE,NA,### New Releases,link,2017-04-10
+"+ [Bio7 2.5](http://bio7.org/?p=2862) - IDE for ecological modelling and contains powerful tools for model creation, scientific image analysis and statistical analysis. ",169,FALSE,NA,### New Releases,link,2017-04-10
++ [RApiDatetime 0.0.3](http://dirk.eddelbuettel.com/blog/2017/04/02#rapidatetime_0.0.3) - C-level datetime code from R for C-level use by other packages.,153,FALSE,NA,### New Releases,link,2017-04-10
++ [Contribute to the R language track on exercism.io](https://jonmcalder.github.io/2017-04-05-r-track-on-exercism/),115,FALSE,NA,### Call for Participation,link,2017-04-10
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,### R Project Updates,unid,2017-04-10
+"+ Fix problems in command completion: Crash (PR#17222) and junk display in Windows, handling special characters in filenames on all systems.",140,FALSE,NA,### R Project Updates,unid,2017-04-10
++ `callNextMethod()` was broken when called from a method that augments the formal arguments of a primitive generic.,116,FALSE,NA,### R Project Updates,unid,2017-04-10
++ Coercion of an S4 object to a vector during sub-assignment into a vector failed to dispatch through the `as.vector()` generic (often leading to a segfault).,158,FALSE,NA,### R Project Updates,unid,2017-04-10
+"+ One can now choose from alternative matrix product implementations _via_ `options(matprod = )`. The `""internal""` implementation is not optimized for speed but consistent in precision with other summations in R (using `long double` accumulators where available). `""blas""` calls BLAS directly for best speed, but usually with undefined behavior for inputs with `NaN`/`Inf`.",373,FALSE,NA,### R Project Updates,unid,2017-04-10
+"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,NA,### Upcoming Events,link,2017-04-10
+"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance. ",177,FALSE,NA,### Upcoming Events,unid,2017-04-10
+"+ [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />",81,FALSE,NA,### Upcoming Events,link,2017-04-10
+Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.,224,FALSE,NA,### Upcoming Events,unid,2017-04-10
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,### Upcoming Events,link,2017-04-10
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,### Upcoming Events,unid,2017-04-10
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,### Upcoming Events,unid,2017-04-10
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">dplyr finally has it&#39;s own 🕸site! <a href=""https://t.co/GS6qGahGcF"">https://t.co/GS6qGahGcF</a> (still a work in progress) <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/849344488564826112"">April 4, 2017</a></blockquote>",408,FALSE,NA,### Quotes of the Week,unid,2017-04-10
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Journals be like: Figures must be EPS/TIFF<a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> be like:<br>knitr::opts_chunk$set(dev = &quot;tiff&quot;)<br>magick::image_convert(img, format = &quot;tiff&quot;) <a href=""https://t.co/sayYXQdMIs"">pic.twitter.com/sayYXQdMIs</a></p>&mdash; Nicholas Tierney (@nj_tierney) <a href=""https://twitter.com/nj_tierney/status/849180108124323840"">April 4, 2017</a></blockquote>",499,FALSE,NA,### Quotes of the Week,unid,2017-04-10
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Productive procrastination: find out who maintains the <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> packages you are currently using with thankr :) <a href=""https://t.co/llDyzM2Aw7"">https://t.co/llDyzM2Aw7</a> <a href=""https://t.co/QJZYztG4Qb"">pic.twitter.com/QJZYztG4Qb</a></p>&mdash; Dirk Schumacher (@dirk_sch) <a href=""https://twitter.com/dirk_sch/status/850435059366719489"">April 7, 2017</a></blockquote>",502,FALSE,NA,### Quotes of the Week,unid,2017-04-10

@@ -1,0 +1,60 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2019-09-30
+"title: R Weekly 2019-39 reproducible workflows, machine learning, pipe connections",82,FALSE,NA,NA,unid,2019-09-30
+description: Weekly News in the R Community,43,FALSE,NA,NA,unid,2019-09-30
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-09-30
+---,3,FALSE,NA,NA,unid,2019-09-30
+Release Date: 2019-09-30,24,FALSE,NA,NA,unid,2019-09-30
+"This week's release was curated by [Eric Nantz](https://twitter.com/thercast), with help from the RWeekly team members and contributors.",136,FALSE,NA,NA,unid,2019-09-30
++ [Community call: Reproducible workflows at scale with drake](https://ropensci.org/commcalls/2019-09-24),105,FALSE,NA,###  Highlight,link,2019-09-30
++ [(Re)Launching my supervised machine learning course](https://juliasilge.com/blog/supervised-ml-course/),106,FALSE,NA,###  Highlight,link,2019-09-30
++ [RStats tip #3 use pipe connections](https://www.jimhester.com/post/2019-09-26-pipe-connections),98,FALSE,NA,###  Highlight,link,2019-09-30
++ [Why Do We Plot Predictions on the x-axis?](http://www.win-vector.com/blog/2019/09/why-do-we-plot-predictions-on-the-x-axis/),127,FALSE,NA,### Insights,link,2019-09-30
++ [Biking in snow (smartwatch data)](https://jechave.com/post/biking-in-snow/) - (jechave.com),94,FALSE,NA,### R in the Real World,link,2019-09-30
++ [Who owns Montreal?](https://www.simoncoulombe.com/2019/09/who-owns-montreal/),80,FALSE,NA,### R in the Real World,link,2019-09-30
+"+ [Interactive globes for R, seamlessly integrated with shiny.](https://globe4r.john-coene.com/)",96,FALSE,NA,### R in the Real World,link,2019-09-30
++ [100% Stacked Chicklets](https://rud.is/b/2019/09/27/100-stacked-chicklets/),78,FALSE,NA,### R in the Real World,link,2019-09-30
+![stacked chicklets](https://raw.githubusercontent.com/rweekly/image/master/2019/dmarc-final-01-resized.png),108,FALSE,NA,### R in the Real World,image,2019-09-30
++ [Customer segmentation for R users](https://appsilon.com/customer-segmentation-leads-to-goodies),98,FALSE,NA,### R in the Real World,link,2019-09-30
++ [Super solutions for Shiny architecture 1 of 5 - using session data](https://appsilon.com/super-solutions-for-shiny-architecture-1-of-5-using-session-data/),158,FALSE,NA,###  R in Organizations,link,2019-09-30
++ [RSwitch 1.5.1 Released](https://rud.is/b/2019/09/21/rswitch-1-5-1-released/),79,FALSE,NA,###  R in Organizations,link,2019-09-30
++ [poor statistics](https://xianblog.wordpress.com/2019/09/24/poor-statistics/),79,FALSE,NA,###  R in Academia,link,2019-09-30
++ [(Re)Launching my supervised machine learning course](https://juliasilge.com/blog/supervised-ml-course/),106,FALSE,NA,###  Resources,link,2019-09-30
++ [JavaScript const in R](https://colinfay.me/js-const-r/),58,FALSE,NA,###  Resources,link,2019-09-30
++ [More exploratory plots with ggplot2 and purrr: Adding conditional elements](https://aosmith.rbind.io/2019/09/27/more-exploratory-plots/),139,FALSE,NA,###  Resources,link,2019-09-30
++ [RStudio education website](https://education.rstudio.com/blog/2019/09/welcome),81,FALSE,NA,###  Resources,link,2019-09-30
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-09-30
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-09-30
++ [{stationaRy}: Detailed Meteorological Data from Stations All Over the World](https://cran.r-project.org/package=stationaRy),126,FALSE,NA,###  New Packages,link,2019-09-30
++ [{timeperiodsR}: Simple Definition Of Time Intervals](https://cran.r-project.org/package=timeperiodsR),104,FALSE,NA,###  New Packages,link,2019-09-30
++ [{gghalves}: Compose Half-Half Plots Using Your Favourite Geoms](https://cran.r-project.org/package=gghalves),111,FALSE,NA,###  New Packages,link,2019-09-30
+![gghalves](https://raw.githubusercontent.com/rweekly/image/master/2019/gghalves-resized.png),93,FALSE,NA,###  New Packages,image,2019-09-30
++ [{CamelUp}: CamelUp Board Game as a Teaching Aid for Introductory Statistics](https://cran.r-project.org/package=CamelUp),123,FALSE,NA,###  New Packages,link,2019-09-30
++ [{fairness}: Algorithmic Fairness Metrics](https://cran.r-project.org/package=fairness),89,FALSE,NA,###  New Packages,link,2019-09-30
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-09-30
++ [Introducing the {hershey} package - raw data for the Hershey Vector Fonts](https://coolbutuseless.github.io/2019/09/24/introducing-the-hershey-package-raw-data-for-the-hershey-vector-fonts/)`,194,FALSE,NA,###  New Packages,link,2019-09-30
++ [{fledge}: Streamline the process of versioning R packages and updating NEWS](https://github.com/krlmlr/fledge),113,FALSE,NA,###  New Packages,link,2019-09-30
++ [{applicable}: Quantify extrapolation of new samples given a training set](https://github.com/tidymodels/applicable),118,FALSE,NA,###  New Packages,link,2019-09-30
+"+ [Updates to the rOpenSci image suite: {magick}, {tesseract}, and {av}](https://ropensci.org/technotes/2019/09/27/ropensci-docs/)",130,FALSE,NA,### Updated Packages,link,2019-09-30
+![rOpenSci image suite updates](https://raw.githubusercontent.com/rweekly/image/master/2019/channels.png),105,FALSE,NA,### Updated Packages,image,2019-09-30
++ [{RcppAnnoy} 0.0.13](http://dirk.eddelbuettel.com/blog/2019/09/23#rcppannoy_0.0.13),85,FALSE,NA,### Updated Packages,link,2019-09-30
++ [Community call: Reproducible workflows at scale with drake](https://ropensci.org/commcalls/2019-09-24),105,FALSE,NA,###  Videos and Podcasts,link,2019-09-30
++ [Tidy Tuesday epsisode 5 - School Diversity](https://www.tidytuesday.com/5),77,FALSE,NA,###  Videos and Podcasts,link,2019-09-30
++ [RStats tip #3 use pipe connections](https://www.jimhester.com/post/2019-09-26-pipe-connections),98,FALSE,NA,###  Videos and Podcasts,link,2019-09-30
++ [xaringan-line-focus](https://pkg.garrickadenbuie.com/xaringan-line-focus/#1),79,FALSE,NA,### Gist & Cookbook,link,2019-09-30
+"+ [Drake, Docker, and Gitlab-CI](https://www.noamross.net/2019/09/24/drake-docker-and-gitlab-ci/)",97,FALSE,NA,###  Tutorials,link,2019-09-30
+"+ [A tutorial for a more convincing Leaflet visualizations from R - customizing markers, icons, color scales & HTML popups.](https://www.jla-data.net/eng/leaflet-in-r-tips-and-tricks/index.html)",194,FALSE,NA,###  Tutorials,link,2019-09-30
++ [Spatial networks in R with sf and tidygraph](https://www.r-spatial.org//r/2019/09/26/spatial-networks.html),110,FALSE,NA,###  Tutorials,link,2019-09-30
+![spatial networks](https://raw.githubusercontent.com/rweekly/image/master/2019/spatial.png),92,FALSE,NA,###  Tutorials,image,2019-09-30
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2019-09-30
++ [GFortran Issues with LAPACK II](https://developer.r-project.org/Blog/public/2019/09/25/gfortran-issues-with-lapack-ii/),122,FALSE,NA,###  R Project Updates,link,2019-09-30
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-09-30
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-09-30
+"+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)",124,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-30
+"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/) ",72,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-30
+"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-30
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-30
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-30
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-09-30
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-09-30
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">The first hint that the next major release will be R v4.0.0<a href=""https://t.co/zn1iivJSUB"">https://t.co/zn1iivJSUB</a><a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/8wEZgURp7a"">pic.twitter.com/8wEZgURp7a</a></p>&mdash; Henrik Bengtsson (@henrikbengtsson) <a href=""https://twitter.com/henrikbengtsson/status/1177703775558983680?ref_src=twsrc%5Etfw"">September 27, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",594,FALSE,NA,###  Quotes of the Week,unid,2019-09-30

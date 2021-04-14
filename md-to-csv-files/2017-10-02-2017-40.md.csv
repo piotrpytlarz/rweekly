@@ -1,0 +1,74 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2017-10-02
+"title: R Weekly 2017-40  Release Name, Equation, Map",52,FALSE,NA,NA,unid,2017-10-02
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-10-02
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2017-10-02
+---,3,FALSE,NA,NA,unid,2017-10-02
++ [R release names](http://livefreeordichotomize.com/2017/09/28/r-release-names/) - a ✍️ post explaining each release name,122,FALSE,NA,###  Highlight,link,2017-10-02
++ [Convert hand-drawn equations to LaTeX with the mathpix package](http://blog.revolutionanalytics.com/2017/09/convert-hand-drawn-equations-to-latex-with-the-mathpix-package.html),179,FALSE,NA,###  Highlight,link,2017-10-02
++ [mapsapi](https://cran.r-project.org/web/packages/mapsapi/vignettes/intro.html) - 'sf'-Compatible Interface to 'Google Maps' APIs,131,FALSE,NA,###  Highlight,link,2017-10-02
++ [August 2017 New Package Picks](https://rviews.rstudio.com/2017/09/29/august-2017-new-package-picks/),103,FALSE,NA,###  Highlight,link,2017-10-02
++ [For the Love of Statistics: A Conversation with Hadley Wickham](https://blog.coursera.org/love-statistics-conversation-hadley-wickham/?utm_medium=social&utm_source=tw&utm_campaign=HadleyW_20170929),200,FALSE,NA,### Insights,link,2017-10-02
++ [R release names](http://livefreeordichotomize.com/2017/09/28/r-release-names/) - a ✍️ post explaining each release name,122,FALSE,NA,### Insights,link,2017-10-02
++ [SODD — StackOverflow Driven-Development](https://rud.is/b/2017/09/28/sodd-stackoverflow-driven-development/),111,FALSE,NA,###  R in the Real World,link,2017-10-02
++ [Marketing Multi-Channel Attribution model based on Sales Funnel with R](http://analyzecore.com/2017/09/28/marketing-multi-channel-attribution-model-based-on-sales-funnel-with-r/),181,FALSE,NA,###  R in the Real World,link,2017-10-02
+![Marketing Multi-Channel Attribution model based on Sales Funnel with R](https://i2.wp.com/analyzecore.com/wp-content/uploads/2017/09/pic_2_sf_viz.png?w=1944),159,FALSE,NA,###  R in the Real World,image,2017-10-02
++ [CACE closed: EM opens up exclusion restriction (among other things)](https://www.rdatagen.net/post/em-estimation-of-cace/),125,FALSE,NA,###  R in the Real World,link,2017-10-02
++ [What is the appropriate population scaling of the Affordable Care Act Funding?](https://yonicd.github.io/2017-09-26-aca/),124,FALSE,NA,###  R in the Real World,link,2017-10-02
+![What is the appropriate population scaling of the Affordable Care Act Funding?](https://raw.githubusercontent.com/yonicd/yonicd.github.io/master/img/aca/unnamed-chunk-17-1.png),178,FALSE,NA,###  R in the Real World,image,2017-10-02
++ [Twitter with 280 character limit](https://www.reddit.com/r/rstats/comments/72sf8c/in_an_article_about_twitters_new_280_character/),133,FALSE,NA,###  R in the Real World,link,2017-10-02
+![Twitter with 280 character limit](https://blog.twitter.com/content/dam/blog-twitter/official/en_us/products/2017/giving-you-more-characters-to-express-yourself/more-chars-1.png),179,FALSE,NA,###  R in the Real World,image,2017-10-02
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2017-10-02
++ [huskydown](https://github.com/benmarwick/huskydown) - An R Markdown template using the bookdown package for preparing a PhD thesis at the University of Washington,165,FALSE,NA,###  New Packages,link,2017-10-02
+![huskydown](https://pbs.twimg.com/media/DKwmu5GWsAEuPTB.jpg),61,FALSE,NA,###  New Packages,image,2017-10-02
++ [mapsapi](https://cran.r-project.org/web/packages/mapsapi/vignettes/intro.html) - 'sf'-Compatible Interface to 'Google Maps' APIs,131,FALSE,NA,###  New Packages,link,2017-10-02
++ [ciTools](https://github.com/jthaman/ciTools) - An R Package for Quick Uncertainty Intervals,94,FALSE,NA,###  New Packages,link,2017-10-02
++ [DescriptiveStats.OBeu 1.2.1](https://rpubs.com/kleanthis/DescriptiveStatsOBeuReleaseCRAN) - Εstimate and return the necessary parameters for descriptive statistics visualizations,181,FALSE,NA,### Package Releases,link,2017-10-02
++ [cartography 1.4.2](https://rgeomatic.hypotheses.org/1205) - Thematic Cartography,83,FALSE,NA,### Package Releases,link,2017-10-02
+![cartography 1.4.2](https://raw.githubusercontent.com/riatelab/cartography/ec4ee78b20b4ab35f4bbd822994a540ae2440539/img/map8.png),130,FALSE,NA,### Package Releases,image,2017-10-02
++ [RcppZiggurat 0.1.4](http://dirk.eddelbuettel.com/blog/2017/09/27#rcppziggurat_0.1.4) - Ziggurat Normal RNGs,110,FALSE,NA,### Package Releases,link,2017-10-02
++ [RcppAnnoy 0.0.10](http://dirk.eddelbuettel.com/blog/2017/09/26#rcppannoy_0.0.10) -  Rcpp-based R integration of the nifty Annoy library,138,FALSE,NA,### Package Releases,link,2017-10-02
++ [proustr 0.2.0](http://colinfay.me/proustr-0-2-0/) - Natural Language Processing in French,92,FALSE,NA,### Package Releases,link,2017-10-02
+"+ [Rcpp 0.12.13](http://dirk.eddelbuettel.com/blog/2017/09/28#rcpp_0.12.13) - Updated vignettes, and more",105,FALSE,NA,### Package Releases,link,2017-10-02
++ [August 2017 New Package Picks](https://rviews.rstudio.com/2017/09/29/august-2017-new-package-picks/),103,FALSE,NA,### Package Releases,link,2017-10-02
++ [Meet the new Microsoft R Server: Microsoft ML Server 9.2](http://blog.revolutionanalytics.com/2017/09/microsoft-ml-server-92.html),133,FALSE,NA,###  R in Organizations,link,2017-10-02
++ [R-Ladies Crossword Puzzle Challenge](https://github.com/rladies/meetup-presentations_dc/blob/master/NetworkingCrosswordPuzzle-2017/R-Ladies%20Crossword%20Puzzle%20Challenge.pdf),180,FALSE,NA,###  Resources,link,2017-10-02
+![R-Ladies Crossword Puzzle Challenge](https://raw.githubusercontent.com/rweekly/image/master/2017-03/crossword.png),116,FALSE,NA,###  Resources,image,2017-10-02
++ [Convert hand-drawn equations to LaTeX with the mathpix package](http://blog.revolutionanalytics.com/2017/09/convert-hand-drawn-equations-to-latex-with-the-mathpix-package.html),179,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Performance Benchmarking for Dummy Variable Creation](https://rsangole.netlify.com/post/dummy-variables-one-hot-encoding/),125,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Speeding Up Digital Arachnids](https://rud.is/b/2017/09/25/speeding-up-digital-arachinds/),93,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Time Series Analysis in R Part 2: Time Series Transformations](https://datascienceplus.com/time-series-analysis-in-r-part-2-time-series-transformations/),156,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Introducing Microsoft Machine Learning Server 9.2 Release](https://blogs.technet.microsoft.com/machinelearning/2017/09/25/introducing-microsoft-machine-learning-server-9-2-release/),184,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Custom Level Coding in vtreat](http://www.win-vector.com/blog/2017/09/custom-level-coding-in-vtreat/),104,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Survival Analysis with R](https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/),93,FALSE,NA,###  Tutorials,link,2017-10-02
++ [News Roundup from Microsoft Ignite](http://blog.revolutionanalytics.com/2017/09/news-from-ignite.html),105,FALSE,NA,###  Tutorials,link,2017-10-02
+"+ [Building A Book Recommender System – The Basics, kNN and Matrix Factorization](https://datascienceplus.com/building-a-book-recommender-system-the-basics-knn-and-matrix-factorization/)",186,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Microsoft Cognitive Services Vision API in R](https://www.stoltzmaniac.com/microsoft-cognitive-services-vision-api-in-r/),124,FALSE,NA,###  Tutorials,link,2017-10-02
++ [rrricanes to Access Tropical Cyclone Data](http://ropensci.org/blog/blog/2017/09/27/rrricanes),97,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Oneway ANOVA Explanation and Example in R; Part 1](https://datascienceplus.com/oneway-anova-explanation-and-example-in-r-part-1/),132,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Featurizing images: the shallow end of deep learning](http://blog.revolutionanalytics.com/2017/09/wood-knots.html),117,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Streamgraphs: Economic trade flows with R](http://austinwehrwein.com/tutorials/streams/),91,FALSE,NA,###  Tutorials,link,2017-10-02
+![Streamgraphs: Economic trade flows with R](https://raw.githubusercontent.com/rweekly/image/master/2017-03/stream-1.png),121,FALSE,NA,###  Tutorials,image,2017-10-02
++ [Blockchain & distributed ML - my report from the data2day conference](https://shirinG.github.io/conferences/data2day/2017/09/28/data2day),140,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Oneway ANOVA Explanation and Example in R; Part 2](https://datascienceplus.com/oneway-anova-explanation-and-example-in-r-part-2/),132,FALSE,NA,###  Tutorials,link,2017-10-02
++ [R 3.4.2 is released](http://blog.revolutionanalytics.com/2017/09/r-342-is-released.html),91,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Partial Pooling for Lower Variance Variable Encoding](http://www.win-vector.com/blog/2017/09/partial-pooling-for-lower-variance-variable-encoding/),150,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Multicollinearity in R](https://datascienceplus.com/multicollinearity-in-r/),79,FALSE,NA,###  Tutorials,link,2017-10-02
++ [bupaR: Business Process Analysis with R](https://businessinformatics.be/2017/09/29/bupar-business-process-analysis-with-r/),126,FALSE,NA,###  Tutorials,link,2017-10-02
++ [Because it's Friday: Big Little Songs](http://blog.revolutionanalytics.com/2017/09/because-its-friday-big-little-songs.html),127,FALSE,NA,###  Tutorials,link,2017-10-02
++ [The Kelly Criterion — Does It Work?](https://quantstrattrader.wordpress.com/2017/09/29/the-kelly-criterion-does-it-work/),124,FALSE,NA,###  Tutorials,link,2017-10-02
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-10-02
++ `glm()` and `glm.fit` get the same `singular.ok=TRUE` argument that `lm()` has had forever.,93,FALSE,NA,###  R Project Updates,unid,2017-10-02
++ `raw(0) & raw(0)` now returns `raw` again; ditto for `|`.,59,FALSE,NA,###  R Project Updates,unid,2017-10-02
+"+ A workaround has been added for the change in location of time-zone files on macOS 10.13 `High Sierra`, so the default time zone is deduced correctly from the system setting when R is configured with `--with-internal-tzcode` (the default on macOS).",250,FALSE,NA,###  R Project Updates,unid,2017-10-02
+"+ `Writing R Extensions` documents macros `MAYBE_REFERENCED`, `MAYBE_SHARED` and `MARK_NOT_MUTABLE` that should be used by package `C` code instead `NAMED` or `SET_NAMED`.",171,FALSE,NA,###  R Project Updates,unid,2017-10-02
++ The object header layout has been changed to support merging the `ALTREP` branch. This requires re-installing packages that use compiled code.,144,FALSE,NA,###  R Project Updates,unid,2017-10-02
++ RStudio conf 2018 **January 31 to February 3** <br />,55,FALSE,NA,###  Upcoming Events,unid,2017-10-02
+rstudio::conf is about all things R and RStudio! [Register & More infos](https://www.rstudio.com/conference/),109,FALSE,NA,###  Upcoming Events,unid,2017-10-02
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events,unid,2017-10-02
+Applied Finance with R. [More info](http://www.rinfinance.com),62,FALSE,NA,###  Upcoming Events,unid,2017-10-02
+"+ useR! 2018 **July 10, 2018** <br />",37,FALSE,NA,###  Upcoming Events,unid,2017-10-02
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events,unid,2017-10-02
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-10-02
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Upcoming Events,unid,2017-10-02
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Twitter logo using13 circles. <a href=""https://t.co/637bPQT3fI"">https://t.co/637bPQT3fI</a><a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot</a> <a href=""https://twitter.com/hashtag/ggforce?src=hash&amp;ref_src=twsrc%5Etfw"">#ggforce</a> <a href=""https://twitter.com/hashtag/RBirdPersons?src=hash&amp;ref_src=twsrc%5Etfw"">#RBirdPersons</a> <a href=""https://t.co/UV0WY1nI9L"">pic.twitter.com/UV0WY1nI9L</a></p>&mdash; RBirdPersons (@RBirdPersons) <a href=""https://twitter.com/RBirdPersons/status/910474652090171392?ref_src=twsrc%5Etfw"">September 20, 2017</a></blockquote>",766,FALSE,NA,###  Quotes of the Week,unid,2017-10-02

@@ -1,0 +1,85 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2017-10-09
+"title: R Weekly 2017-41 Raspberry Pi, Markdown",46,FALSE,NA,NA,unid,2017-10-09
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-10-09
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2017-10-09
+---,3,FALSE,NA,NA,unid,2017-10-09
++ [Convince me to start using R Markdown](https://community.rstudio.com/t/convince-me-to-start-using-r-markdown/1636),117,FALSE,NA,###  Highlight,link,2017-10-09
+"+ [Achoo](https://github.com/tmthyjames/Achoo) - Uses a Raspberry Pi to predict if my son will need his inhaler on any given day using weather, pollen, and air quality data",172,FALSE,NA,###  Highlight,link,2017-10-09
++ [An Introduction to R with bookdown](http://colinfay.me/intro-to-r/),70,FALSE,NA,###  Highlight,link,2017-10-09
++ [Convince me to start using R Markdown](https://community.rstudio.com/t/convince-me-to-start-using-r-markdown/1636),117,FALSE,NA,### Insights,link,2017-10-09
++ [Switching from Base R to tidyverse](http://www.significantdigits.org/2017/10/switching-from-base-r-to-tidyverse/),116,FALSE,NA,### Insights,link,2017-10-09
++ [A Dive Into Some Global Flooding Data ](https://www.blog.cultureofinsight.com/2017/10/when-it-rains-it-pours/),113,FALSE,NA,###  R in the Real World,link,2017-10-09
+![A Dive Into Some Global Flooding Data](https://www.blog.cultureofinsight.com/img/floods.png),94,FALSE,NA,###  R in the Real World,image,2017-10-09
++ [2017 New Zealand Election ](http://david.frigge.nz/election2017/),68,FALSE,NA,###  R in the Real World,link,2017-10-09
++ [A Tidy Text Analysis of Rick and Morty](http://tamaszilagyi.com/blog/a-tidy-text-analysis-of-rick-and-morty/),112,FALSE,NA,###  R in the Real World,link,2017-10-09
+"+ [Achoo](https://github.com/tmthyjames/Achoo) - Uses a Raspberry Pi to predict if my son will need his inhaler on any given day using weather, pollen, and air quality data",172,FALSE,NA,###  R in the Real World,link,2017-10-09
++ [Small multiples for the German elections 2017](https://interaktiv.morgenpost.de/analyse-bundestagswahl-2017/data/btw17_analysis.html),136,FALSE,NA,###  R in the Real World,link,2017-10-09
+![Small multiples for the German elections 2017](https://raw.githubusercontent.com/rweekly/image/master/2017-03/german2.png),124,FALSE,NA,###  R in the Real World,image,2017-10-09
++ [Whom does India`s Prime Minister Follow on Twitter? A Text Mining Exercise.](https://medium.com/@RahulxC/who-does-indias-prime-minister-follow-on-twitter-a-text-mining-exercise-d0fe258e9c28),193,FALSE,NA,###  R in the Real World,link,2017-10-09
+![Whom does India`s Prime Minister Follow on Twitter? A Text Mining Exercise.](https://cdn-images-1.medium.com/max/2000/1*bN64NrFrHGySxNzvdHxP3A.png),149,FALSE,NA,###  R in the Real World,image,2017-10-09
++ [New Zealand 2017 election results](http://ellisp.github.io/blog/2017/10/07/election-results),95,FALSE,NA,###  R in the Real World,link,2017-10-09
++ [Retrieve & process TV News chyrons with newsflash](https://rud.is/b/2017/10/01/retrieve-process-tv-news-chyrons-with-newsflash/),131,FALSE,NA,###  R in the Real World,link,2017-10-09
+![Retrieve & process TV News chyrons with newsflash](https://i2.wp.com/rud.is/b/wp-content/uploads/2017/10/chy01.png?zoom=3&resize=780%2C386&ssl=1),147,FALSE,NA,###  R in the Real World,image,2017-10-09
+"+ [The music of Les Mills Body Pump, with Spotify data](http://www.masalmon.eu/2017/10/01/bodypump/)",100,FALSE,NA,###  R in the Real World,link,2017-10-09
++ [Mapping ecosystems of software development](https://juliasilge.com/blog/tag-network/),88,FALSE,NA,###  R in the Real World,link,2017-10-09
+![Mapping ecosystems of software development](https://juliasilge.com/figs/2017-10-03-tag-network/interactive_viz.gif),117,FALSE,NA,###  R in the Real World,image,2017-10-09
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2017-10-09
++ [gghighlight](https://yutani.rbind.io/post/2017-10-06-gghighlight/) - Highlight ggplot's Lines and Points with Predicates,123,FALSE,NA,###  New Packages,link,2017-10-09
+![gghighlight](https://raw.githubusercontent.com/yutannihilation/gghighlight/9b00b79a84c6ba4866c9757110c2662aed14ff6f/man/figures/README-gghighlight-line-1.png),160,FALSE,NA,###  New Packages,image,2017-10-09
++ [rCAEDDATA](https://github.com/daranzolin/rCAEDDATA) - Data from the California Department of Education in R,110,FALSE,NA,###  New Packages,link,2017-10-09
++ [tfruns](https://tensorflow.rstudio.com/blog/tfruns.html) - Tools for TensorFlow Training Runs,96,FALSE,NA,###  New Packages,link,2017-10-09
++ [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer) - An R package that makes xgboost models fully interpretable,145,FALSE,NA,###  New Packages,link,2017-10-09
++ [remedy](https://github.com/ThinkR-open/remedy) - Addins to facilitate writing in markdown with RStudio.,106,FALSE,NA,###  New Packages,link,2017-10-09
++ [tidystringdist 0.1.0](https://cran.r-project.org/web/packages/tidystringdist/index.html) - String Distance Calculation with Tidy Data Principles,147,FALSE,NA,### Package Releases,link,2017-10-09
++ [confinterpret 1.0](https://cran.r-project.org/package=confinterpret) - Descriptive interpretations from confidence intervals with confinterpret.,147,FALSE,NA,### Package Releases,link,2017-10-09
++ [RProtoBuf 0.4.11](http://dirk.eddelbuettel.com/blog/2017/10/03#rprotobuf_0.4.11) - R bindings for the Google Protocol Buffers,128,FALSE,NA,### Package Releases,link,2017-10-09
++ [nzelect 0.4.0](http://ellisp.github.io/blog/2017/10/05/nzelect-0-4-0) - results from 2002 to 2014 and polls up to September 2017,131,FALSE,NA,### Package Releases,link,2017-10-09
++ [Text mining et topic modeling avec R](https://thinkr.fr/text-mining-et-topic-modeling-avec-r/),97,FALSE,NA,###  R Internationally,link,2017-10-09
+"+ [NSSD 46 - Uncanny Valley of Stickerness](http://nssdeviations.com/46-uncanny-valley-of-stickerness) - Hilary and Roger continue their late night contemplations about stickers, collecting new data for training machine learning algorithms, and paying for open (and closed) source software.",290,FALSE,NA,###  Videos and Podcasts,link,2017-10-09
+"+ [An introduction post for 0.1.0 of googleLanguageR, that lets you analyse language through the Google Cloud Machine Learning APIs](https://ropensci.org/blog/blog/2017/10/03/googlelanguager)",191,FALSE,NA,###  R in Organizations,link,2017-10-09
++ [R-Ladies global tour](http://www.masalmon.eu/2017/10/06/globalrladiestour/),78,FALSE,NA,###  R in Organizations,link,2017-10-09
++ [Help us build capacity of open software users and developers with Hacktoberfest](http://ropensci.org/blog/blog/2017/10/02/hacktoberfest),139,FALSE,NA,###  R in Organizations,link,2017-10-09
+"+ [Governance, Engagement, and Resistance in the Open Science Movement: A Comparative Study](http://ropensci.org/blog/blog/2017/10/06/sholler-plan)",147,FALSE,NA,###  R in Organizations,link,2017-10-09
++ [An Introduction to R with bookdown](http://colinfay.me/intro-to-r/),70,FALSE,NA,###  Resources,link,2017-10-09
++ [getSymbols and Alpha Vantage](http://blog.fosstrading.com/2017/10/getsymbols-and-alpha-vantage.html),103,FALSE,NA,###  Tutorials,link,2017-10-09
++ [WordR - A New R Package for Rendering Documents in MS Word Format](https://rviews.rstudio.com/2017/10/04/wordr---a-new-r-package-for-rendering-documents-in-ms-word-format/),175,FALSE,NA,###  Tutorials,link,2017-10-09
++ [Identify & Analyze Web Site Tech Stacks With rappalyzer](https://rud.is/b/2017/09/30/identify-analyze-web-site-tech-stacks-with-rappalyzer/),143,FALSE,NA,###  Tutorials,link,2017-10-09
++ [Creating an expository graph for a talk](https://simplystatistics.org/2017/10/02/creating-an-expository-graph-for-a-talk/),125,FALSE,NA,###  Tutorials,link,2017-10-09
++ [ggplot2 SEM models with tidygraph and ggraph](http://drsimonj.svbtle.com/ggsem-plot-sem-models-with-ggplot2),111,FALSE,NA,###  Tutorials,link,2017-10-09
++ [The Guardian Experience: heavy or light topics?](http://www.masalmon.eu/2017/10/02/guardian-experience/),107,FALSE,NA,###  Tutorials,link,2017-10-09
++ [A Gentle Introduction on Market Basket Analysis — Association Rules](https://datascienceplus.com/a-gentle-introduction-on-market-basket-analysis%e2%80%8a-%e2%80%8aassociation-rules/),185,FALSE,NA,###  Tutorials,link,2017-10-09
+"+ [Oh How I Have Failed Thee, Jupyter Notebooks…](https://blog.ouseful.info/2017/10/02/oh-how-i-have-failed-thee-jupyter-notebooks/)",132,FALSE,NA,###  Tutorials,link,2017-10-09
++ [Comparing assault death rates in the US to other advanced democracies](http://blog.revolutionanalytics.com/2017/10/assault-death-rates.html),143,FALSE,NA,###  Tutorials,link,2017-10-09
++ [Querying Zenodo.org repository with R](https://behrica.github.io//blog//2017/10/querying-zenodo-org-repository-with-r.html),126,FALSE,NA,###  Tutorials,link,2017-10-09
++ [EPL Week 7](https://www.mytinyshinys.com/2017/10/03/epl2018_wk7),67,FALSE,NA,###  Tutorials,link,2017-10-09
++ [Create Powerpoint presentations from R with the OfficeR package](http://blog.revolutionanalytics.com/2017/10/officer-powerpoint.html),136,FALSE,NA,###  Tutorials,link,2017-10-09
++ [Bayesian vs. Frequentist Statements About Treatment Efficacy](http://www.fharrell.com/2017/10/bayesian-vs-frequentist-statements.html),137,FALSE,NA,###  Tutorials,link,2017-10-09
++ [Time Series Analysis in R Part 3: Getting Data from Quandl](https://datascienceplus.com/time-series-analysis-in-r-part-3-getting-data-from-quandl/),150,FALSE,NA,###  Tutorials,link,2017-10-09
++ [Introducing the Deep Learning Virtual Machine on Azure](http://blog.revolutionanalytics.com/2017/10/deep-learning-vm.html),125,FALSE,NA,###  Tutorials,link,2017-10-09
++ [WordR - A New R Package for Rendering Documents in MS Word Format](https://rviews.rstudio.com/2017/10/04/wordr---a-new-r-package-for-rendering-documents-in-ms-word-format/),175,FALSE,NA,###  Tutorials,link,2017-10-09
+![WordR - A New R Package for Rendering Documents in MS Word Format](https://rviews.rstudio.com/post/2017-10-02-Hovorka-WordR_files/outputMTcarsPrintscreen.gif),160,FALSE,NA,###  Tutorials,image,2017-10-09
++ [In case you missed it: September 2017 roundup](http://blog.revolutionanalytics.com/2017/10/in-case-you-missed-it-september-2017-roundup.html),144,FALSE,NA,###  Tutorials,link,2017-10-09
++ [ARIMA models and Intervention Analysis](https://datascienceplus.com/arima-models-and-intervention-analysis/),111,FALSE,NA,###  Tutorials,link,2017-10-09
++ [A cRossword about R](http://blog.revolutionanalytics.com/2017/10/r-crossword.html),85,FALSE,NA,###  Tutorials,link,2017-10-09
++ [Because it's Friday: Death Risk](http://blog.revolutionanalytics.com/2017/10/because-its-friday-death-risk.html),115,FALSE,NA,###  Tutorials,link,2017-10-09
+"+ [Stan Biweekly Roundup, 6 October 2017](http://andrewgelman.com/2017/10/06/stan-biweekly-roundup-6-october-2017/)",115,FALSE,NA,###  Tutorials,link,2017-10-09
++ [Using chat emotes as signals for content themes](https://blog.twitch.tv/using-chat-emotes-as-signals-for-content-themes-13c31d4a0f74?source=rss----3ae745429979--science),172,FALSE,NA,###  Tutorials,link,2017-10-09
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2017-10-09
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-10-09
++ `intToUtf8(multiple = FALSE)` gains an argument to allow surrogate pairs to be interpreted.,93,FALSE,NA,###  R Project Updates,unid,2017-10-09
++ `isTRUE()` is more tolerant and now true in,45,FALSE,NA,###  R Project Updates,unid,2017-10-09
+"+ x <- rlnorm(99) isTRUE(median(x) == quantile(x)[""50%""])",57,FALSE,NA,###  R Project Updates,unid,2017-10-09
++ New function `isFALSE()` defined analogously to `isTRUE()`.,61,FALSE,NA,###  R Project Updates,unid,2017-10-09
++ Fix calling of methods on S4 generics that dispatch on `...` when the call contains `...`.,92,FALSE,NA,###  R Project Updates,unid,2017-10-09
++ `intToUtf8()` converts integers corresponding to surrogate code points to `NA` rather than invalid UTF-8.,107,FALSE,NA,###  R Project Updates,unid,2017-10-09
++ `aspell()` gains a filter for Markdown (`.md` and `.Rmd`) files.,66,FALSE,NA,###  R Project Updates,unid,2017-10-09
++ RStudio conf 2018 **January 31 to February 3** <br />,55,FALSE,NA,###  Upcoming Events,unid,2017-10-09
+rstudio::conf is about all things R and RStudio! [Register & More infos](https://www.rstudio.com/conference/),109,FALSE,NA,###  Upcoming Events,unid,2017-10-09
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events,unid,2017-10-09
+Applied Finance with R. [More info](http://www.rinfinance.com),62,FALSE,NA,###  Upcoming Events,unid,2017-10-09
+"+ useR! 2018 **July 10, 2018** <br />",37,FALSE,NA,###  Upcoming Events,unid,2017-10-09
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events,unid,2017-10-09
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-10-09
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2017-10-09
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Today in office hours: <br><br>Student 1: &quot;This midterm is way more fun than my other midterms&quot;<br>Student 2: &quot;My sociology teacher was so impressed I used <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> for my project, it&#39;s so nice to use something you learn in one class in another&quot; <br>Mine: 😊😊😊</p>&mdash; Mine CetinkayaRundel (@minebocek) <a href=""https://twitter.com/minebocek/status/914938117005733888?ref_src=twsrc%5Etfw"">October 2, 2017</a></blockquote>",600,FALSE,NA,###  Quotes of the Week,unid,2017-10-09

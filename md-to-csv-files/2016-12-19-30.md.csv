@@ -1,0 +1,74 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2016-12-19
+layout: post,12,FALSE,NA,NA,unid,2016-12-19
+title: Issue 30,15,FALSE,NA,NA,unid,2016-12-19
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2016-12-19
+---,3,FALSE,NA,NA,unid,2016-12-19
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-12-19
+*Digested by R Weekly Members*,30,FALSE,NA,### Highlight,unid,2016-12-19
++ [The tidyverse is the way forward for me](https://www.reddit.com/r/rstats/comments/5i8v97/the_tidyverse_is_the_way_forward_for_me/),133,FALSE,NA,### Highlight,link,2016-12-19
++ [usrR 2016 tutorial: Extracting data from the web APIs and beyond](https://github.com/ropensci/user2016-tutorial),115,FALSE,NA,### Highlight,link,2016-12-19
++ [jshinyserver](https://github.com/statsplot/jshinyserver) - jShiny Server is an alternative Shiny server.,107,FALSE,NA,### Highlight,link,2016-12-19
++ [Forecast double seasonal time series with multiple linear regression in R](https://petolau.github.io/Forecast-double-seasonal-time-series-with-multiple-linear-regression-in-R/),179,FALSE,NA,### Tutorials,link,2016-12-19
+![Forecast double seasonal time series with multiple linear regression in R](https://cdn.rawgit.com/PetoLau/petolau.github.io/0bad7ee8d58c2996f64ebcc7b1ebabd352dc0448/images/post_2/industry_4.gif),196,FALSE,NA,### Tutorials,image,2016-12-19
++ [Gene homology Part 2 - creating directed networks with igraph](https://shiring.github.io/genome/2016/12/14/homologous_genes_part2_post),138,FALSE,NA,### Tutorials,link,2016-12-19
++ [Reproducible Finance with R: Pulling and Displaying ETF Data](https://www.rstudio.com/rviews/2016/12/14/reproducible-finance-with-r-pulling-and-displaying-etf-data/),168,FALSE,NA,### Tutorials,link,2016-12-19
+<!-- !Getting started with MongoDB in R](https://cran.r-project.org/web/packages/mongolite/vignettes/intro.html)-->,115,FALSE,NA,### Tutorials,unid,2016-12-19
++ [Piping within pipes](https://nathaneastwood.github.io/2016/11/21/2016-11-21-pipes-in-pipes/),95,FALSE,NA,### Tutorials,link,2016-12-19
++ [Organize your data manipulation in terms of “grouped ordered apply”](http://www.win-vector.com/blog/2016/12/organize-your-data-manipulation-in-terms-of-grouped-ordered-apply/),178,FALSE,NA,### Tutorials,link,2016-12-19
++ [The tidyverse is the way forward for me](https://www.reddit.com/r/rstats/comments/5i8v97/the_tidyverse_is_the_way_forward_for_me/),133,FALSE,NA,### Tutorials,link,2016-12-19
+"+ [Chaos, bifurcation diagrams and Lyapunov exponents with R (2)](https://a-blog-from-sydney.blogspot.jp/2016/12/chaos-bifurcation-diagrams-and-lyapunov.html)",158,FALSE,NA,### Tutorials,link,2016-12-19
+![chaos-bifurcation-diagrams](https://cdn.rawgit.com/rweekly/image/master/2016-12-19/chaos-bifurcation-diagrams.jpg),116,FALSE,NA,### Tutorials,image,2016-12-19
++ [How to monitor Apache Zookeeper with R](https://rud.is/b/2016/12/16/minding-the-zookeeper-with-r/),101,FALSE,NA,### Tutorials,link,2016-12-19
++ [Reproducible Finance with R: A Shiny ETF Map](https://www.rstudio.com/rviews/2016/12/16/reproducible-finance-with-r-a-shiny-etf-map/),136,FALSE,NA,### Tutorials,link,2016-12-19
+"+ [How the State of Indiana uses R and Azure to forecast employment](http://blog.revolutionanalytics.com/2016/12/state-of-indiana-employment.html) - ""Big Data"" generates a lot of news these days, but sometimes small data still means big computation.",249,FALSE,NA,### Tutorials,link,2016-12-19
++ [Dynamically generated Shiny UI](http://www.mango-solutions.com/wp/2016/12/dynamically-generated-shiny-ui/),109,FALSE,NA,### Tutorials,link,2016-12-19
++ [Simultaneous intervals for smooths revisited](http://www.fromthebottomoftheheap.net/2016/12/15/simultaneous-interval-revisited/) -  correcting a silly mistake.,162,FALSE,NA,### Tutorials,link,2016-12-19
++ [interactive and styled middle earth map](http://jkunst.com/r/interactive-and-styled-middle-earth-map/),105,FALSE,NA,### R in the Real World,link,2016-12-19
++ [Visualizing taxi trips between NYC neighborhoods with Spark and Microsoft R Server](http://blog.revolutionanalytics.com/2016/12/taxi-mrs-spark.html),151,FALSE,NA,### R in the Real World,link,2016-12-19
++ [Image description with Microsoft's Cognitive Services and R](http://flovv.github.io/Roxford_extension/),106,FALSE,NA,### R in the Real World,link,2016-12-19
++ [I analyzed some world penis data - because why not](https://blog.jemu.name/post/2015/08/i-analyzed-some-world-penis-data---because-why-not/) - With a data package on GitHub [tadaadata/loldata](https://github.com/tadaadata/loldata).,234,FALSE,NA,### R in the Real World,link,2016-12-19
+![I analyzed some world penis data - because why not](https://blog.jemu.name/images/plot_length_method-1.png),109,FALSE,NA,### R in the Real World,image,2016-12-19
+"+ [Pangaea and R and open palaeo data](http://www.fromthebottomoftheheap.net/2016/12/16/pangaea-r-open-palaeo-data/) - Download data from the Pangaea, a major data repository for the earth and environmental sciences.",216,FALSE,NA,### R in the Real World,link,2016-12-19
++ [Seinfeld Characters - A Post About Nothing](https://stoltzmaniac.com/seinfeld-characters-a-post-about-nothing/) - This post is dedicated to my mother - Seinfeld's greatest fan.,179,FALSE,NA,### R in the Real World,link,2016-12-19
+![Seinfeld Characters - A Post About Nothing](https://stoltzmaniac.com/content/images/2016/12/seinfeld-characters-a-post-about-nothing/unnamed-chunk-9-1-small.PNG),163,FALSE,NA,### R in the Real World,image,2016-12-19
++ [OnePageR](http://togaware.com/onepager/) - A Survival Guide to Data Science with R.,86,FALSE,NA,### R in the Real World,link,2016-12-19
++ [:fr: Cartographier le vote pour le Brexit](http://freakonometrics.hypotheses.org/49832) - [English - Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://freakonometrics.hypotheses.org/49832),220,FALSE,NA,### International R,link,2016-12-19
++ [:fr: #RStats — languagelayeR : accéder à l’API languagelayer avec R](http://colinfay.me/rstats-languagelayer-api/) - [English - Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://colinfay.me/rstats-languagelayer-api/),248,FALSE,NA,### International R,link,2016-12-19
+"+ [R Consortium Call for Proposals](https://www.r-consortium.org/blog/2016/12/06/call-for-proposals) - The new R Consortium ""Call for Proposals"" is now open. The deadline for submissions is February 10, 2017.",208,FALSE,NA,### R in Organization,link,2016-12-19
++ [ROpenSci: Announcing our first fellowship awarded to Dr. Nick Golding](http://ropensci.org/blog/blog/2016/12/12/ropensci-fellowship-zoon.html),145,FALSE,NA,### R in Organization,link,2016-12-19
++ [Approaches to R education in Canadian universities](https://f1000research.com/articles/5-2802/v1),100,FALSE,NA,### R in Academia,link,2016-12-19
++ [Journal of Statistical Software Vol 75](https://www.jstatsoft.org/issue/view/v075),85,FALSE,NA,### R in Academia,link,2016-12-19
+"+ [An Interview With David Robinson, Data Scientist at Stack Overflow](https://www.datacamp.com/community/blog/an-interview-with-david-robinson-data-scientist-at-stack-overflow) - Learn how to build a data scientist profile.",224,FALSE,NA,### Videos and Podcasts,link,2016-12-19
+"+ [NSSD 28 - Writing is a Lot Harder Than Just Talking](https://soundcloud.com/nssd-podcast/episode-28-writing-is-a-lot-harder-than-just-talking) - About building data science products that provide a good user experience while adhering to some kind of ground truth, whether it’s in medicine, education, news, or elsewhere.",322,FALSE,NA,### Videos and Podcasts,link,2016-12-19
++ [Analyzing JSON data by taking advantage of what makes it JSON in R](https://blog.exploratory.io/analyzing-json-data-by-taking-advantage-of-the-structure-in-r-1e0508e30117#.7sxhp32yt),185,FALSE,NA,### Videos and Podcasts,link,2016-12-19
++ [What is the most useful R trick? \[closed\]](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick),124,FALSE,NA,### Resources,link,2016-12-19
++ [usrR 2016 tutorial: Extracting data from the web APIs and beyond](https://github.com/ropensci/user2016-tutorial),115,FALSE,NA,### Resources,link,2016-12-19
++ [gendeR](https://github.com/michelcaradec/gendeR) - An utility to get gender from first names using genderize.io API,118,FALSE,NA,### New Packages and Tools,link,2016-12-19
++ [xaringan](https://github.com/yihui/xaringan) - Presentation Ninja,68,FALSE,NA,### New Packages and Tools,link,2016-12-19
+"+ [RLightGBM](https://github.com/bwilbertz/RLightGBM) - RLightGBM, R interface to Light Gradient Boosting Machine library",121,FALSE,NA,### New Packages and Tools,link,2016-12-19
++ [slipper](https://github.com/jtleek/slipper) - Tidy and easy bootstrapping,76,FALSE,NA,### New Packages and Tools,link,2016-12-19
++ [bsselectR](https://walkerke.github.io/2016/12/rmd-dropdowns/) - Dropdown menus in R Markdown with bsselectR,110,FALSE,NA,### New Packages and Tools,link,2016-12-19
++ [nanotime](http://dirk.eddelbuettel.com/blog/2016/12/16/#nanotime_0.0.1) - New package for Nanosecond Resolution Time for R.,126,FALSE,NA,### New Packages and Tools,link,2016-12-19
++ [visreg](https://github.com/pbreheny/visreg) - Visualization of Regression Models,83,FALSE,NA,### New Packages and Tools,link,2016-12-19
++ [wishlist](https://github.com/RConsortium/wishlist) -  A wishlist of idea from the ISC and community,102,FALSE,NA,### New Packages and Tools,link,2016-12-19
++ [widgetframe](https://github.com/bhaskarvk/widgetframe) - Embed htmlwidgets in Responsive iframe.,99,FALSE,NA,### New Packages and Tools,link,2016-12-19
++ [thread](https://random-remarks.net/2016/12/11/a-very-experimental-threading-in-r/) - R Threads - Experimental Support.,121,FALSE,NA,### New Packages and Tools,link,2016-12-19
+"+ [otr](https://github.com/jeroen/otr) - OTR allows you to have private conversations over by providing Encryption, Authentication, Deniability, and Perfect forward secrecy.",173,FALSE,NA,### New Packages and Tools,link,2016-12-19
++ [jshinyserver](https://github.com/statsplot/jshinyserver) - jShiny Server is an alternative Shiny server.,107,FALSE,NA,### New Packages and Tools,link,2016-12-19
++ [revealjs 0.8](https://github.com/rstudio/revealjs) - R Markdown Format for reveal.js Presentations,101,FALSE,NA,### New Releases,link,2016-12-19
++ [sparklyr 0.5](https://github.com/rstudio/sparklyr/releases) -,64,FALSE,NA,### New Releases,link,2016-12-19
+R interface for Apache Spark,28,FALSE,NA,### New Releases,unid,2016-12-19
++ [xgboost 0.6](https://cran.r-project.org/web/packages/xgboost/index.html) - Extreme Gradient Boosting,103,FALSE,NA,### New Releases,link,2016-12-19
++ [stringdist 0.9.4.4](https://cran.r-project.org/web/packages/stringdist/index.html) - Approximate String Matching and String Distance Functions,145,FALSE,NA,### New Releases,link,2016-12-19
++ [anytime 0.1.2](http://dirk.eddelbuettel.com/blog/2016/12/13/#anytime_0.1.2) - Anything to 'POSIXct' or 'Date' Converter.,123,FALSE,NA,### New Releases,link,2016-12-19
++ [RcppCCTZ 0.1.0](https://cran.r-project.org/web/packages/RcppCCTZ/index.html) - Rcpp interface to CCTZ library.,113,FALSE,NA,### New Releases,link,2016-12-19
++ [RcppArmadillo 0.7.600.1.0](http://dirk.eddelbuettel.com/blog/2016/12/18#rcpparmadillo_0.7.600.1.0) - Armadillo is a powerful and expressive C++ template library for linear algebra. RcppArmadillo integrates this library with R.,229,FALSE,NA,### New Releases,link,2016-12-19
+"Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),",79,FALSE,NA,### R Project Updates,unid,2016-12-19
+"+ `print.POSIXct()` gets optional `tz` and `usetz` arguments, thanks to a report from Jennifer S. Lyon.",103,FALSE,NA,### R Project Updates,unid,2016-12-19
++ The internal methods of `download.file()` and `url()` now report if they are unable to follow the redirection of a `http://` URL to a `https://` URL (rather than failing silently).,182,FALSE,NA,### R Project Updates,unid,2016-12-19
++ `dev.capture()` using Quartz Cocoa device (macOS) returned invalid components if the back-end chose to use ARGB instead of RGBA image format. (Reported by Noam Ross.),168,FALSE,NA,### R Project Updates,unid,2016-12-19
+"+ `methods(f)` now also works for `f` `""(""` or `""{""`.",53,FALSE,NA,### R Project Updates,unid,2016-12-19
+"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 12 and 14, 2017** <br>",93,FALSE,NA,### Upcoming Events,link,2016-12-19
+The conference about all things R and RStudio.<br />,52,FALSE,NA,### Upcoming Events,unid,2016-12-19
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Free weekend. This happened.<a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://twitter.com/rstudio"">@rstudio</a> + <a href=""https://twitter.com/unity3d"">@unity3d</a> + <a href=""https://twitter.com/oculus"">@oculus</a> = <a href=""https://twitter.com/hashtag/VR?src=hash"">#VR</a> <a href=""https://twitter.com/hashtag/datatviz?src=hash"">#datatviz</a> <a href=""https://twitter.com/AirbnbEng"">@AirbnbEng</a> data<a href=""https://twitter.com/hashtag/ggplot2?src=hash"">#ggplot2</a> <a href=""https://twitter.com/thomasp85"">@thomasp85</a> <a href=""https://twitter.com/hashtag/ggforce?src=hash"">#ggforce</a> inspired <a href=""https://t.co/DO7ohv5uuN"">pic.twitter.com/DO7ohv5uuN</a></p>&mdash; Simon Jackson (@drsimonj) <a href=""https://twitter.com/drsimonj/status/808275793155530756""></a></blockquote>",894,FALSE,NA,### Quotes of the Week,unid,2016-12-19

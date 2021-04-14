@@ -1,0 +1,86 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2019-01-14
+"title: R Weekly 2019-02 leafgl, purrr, timing, docker, vitae",60,FALSE,NA,NA,unid,2019-01-14
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-01-14
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-01-14
+---,3,FALSE,NA,NA,unid,2019-01-14
++ [leafgl — An R package for fast web gl rendering of features on leaflet maps](https://github.com/r-spatial/leafgl),116,FALSE,NA,###  Highlight,link,2019-01-14
++ [Going Off the Map: Exploring purrr's Other Functions](https://hookedondata.org/going-off-the-map/),101,FALSE,NA,###  Highlight,link,2019-01-14
+"+ [Timing the Same Algorithm in R, Python, and C++](http://www.win-vector.com/blog/2019/01/timing-of-the-same-algorithm-in-r-python-and-c/)",139,FALSE,NA,###  Highlight,link,2019-01-14
++ [An Introduction to Docker for R Users](https://colinfay.me/docker-r-reproducibility/),88,FALSE,NA,###  Highlight,link,2019-01-14
++ [vitae](https://blog.mitchelloharawild.com/blog/vitae/),57,FALSE,NA,###  Highlight,link,2019-01-14
+"+ [Timing the Same Algorithm in R, Python, and C++](http://www.win-vector.com/blog/2019/01/timing-of-the-same-algorithm-in-r-python-and-c/)",139,FALSE,NA,### Insights,link,2019-01-14
++ [An even better rOpenSci website with Hugo](https://ropensci.org/technotes/2019/01/09/hugo/),94,FALSE,NA,### Insights,link,2019-01-14
++ [Who is the greatest finisher in soccer?](https://blog.revolutionanalytics.com/2019/01/best-finishers-in-football.html),121,FALSE,NA,### Insights,link,2019-01-14
++ [Friday follow-up: inspiration for an interactive look at unemployment](https://austinwehrwein.com/data-visualization/unemployment/),134,FALSE,NA,### Insights,link,2019-01-14
++ [R Tip: Use seqi() For Indexes](http://www.win-vector.com/blog/2019/01/r-tip-use-seqi-for-indexes/),101,FALSE,NA,### Insights,link,2019-01-14
++ [Updated Review: jamovi User Interface to R](http://r4stats.com/2019/01/09/updated-review-jamovi/),100,FALSE,NA,### Insights,link,2019-01-14
++ [Making R code over 100 times faster: An example](https://ssds.stanford.edu/making-r-code-over-100-times-faster-example),122,FALSE,NA,### Insights,link,2019-01-14
++ [French Baccalaureate Results](https://nycdatascience.com/blog/r/french-baccalaureate-results/),97,FALSE,NA,### Insights,link,2019-01-14
++ [Exploring the hidden beauty of multiplication tables with R](https://solmos.netlify.com/post/2018-11-06-multiplication-table/multiplication-table-with-r/),157,FALSE,NA,### Insights,link,2019-01-14
+"+ [Optimise your new year diet with >8000 scraped food nutrition and prices, crosstalk and plotly (renders slowly, lots of interactive data, best on a laptop or desktop)](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-07-food-nutrition-and-price/)",258,FALSE,NA,### Insights,link,2019-01-14
++ [Map GOOGLE PHOTOS on google maps using leaflet](https://dataplayground.netlify.com/blog/google-photos-mapping/),114,FALSE,NA,### Insights,link,2019-01-14
+"+ [Alternative approaches to scaling Shiny with RStudio Shiny Server, ShinyProxy or custom architecture.](https://appsilon.com/alternatives-to-scaling-shiny/)",158,FALSE,NA,###  R in Organizations,link,2019-01-14
++ [An Introduction to Docker for R Users](https://colinfay.me/docker-r-reproducibility/),88,FALSE,NA,###  Resources,link,2019-01-14
++ [An R course for marketing students](https://bookdown.org/content/1340/),74,FALSE,NA,###  Resources,link,2019-01-14
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-01-14
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-01-14
++ [vitae](https://blog.mitchelloharawild.com/blog/vitae/) - Automate your CV with vitae,87,FALSE,NA,###  New Packages,link,2019-01-14
++ [AzureR packages now on CRAN](https://blog.revolutionanalytics.com/2019/01/azurer-packages-now-on-cran.html),110,FALSE,NA,###  New Packages,link,2019-01-14
++ [wdpar: Interface to the World Database on Protected Areas](https://cran.r-project.org/web/packages/wdpar/index.html),119,FALSE,NA,###  New Packages,link,2019-01-14
++ [tor: Import Multiple Files From a Single Directory at Once](https://cran.r-project.org/web/packages/wdpar/index.html),120,FALSE,NA,###  New Packages,link,2019-01-14
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-01-14
++ [posterdown](https://github.com/brentthorne/posterdown) - Use RMarkdown to generate Latex PDF Conference Posters,114,FALSE,NA,###  New Packages,link,2019-01-14
+"+ [The csv files of Destatis, the Federal Statistical Office of Germany, don't comply with common standards if a tidy, ready-to-use machine-readable dataset. This package helps to jump start the data analysis by assuming time-consuming cleaning tasks.](https://github.com/cutterkom/destatiscleanr)",297,FALSE,NA,###  New Packages,link,2019-01-14
++ [leafgl — An R package for fast web gl rendering of features on leaflet maps](https://github.com/r-spatial/leafgl),116,FALSE,NA,###  New Packages,link,2019-01-14
+![](https://raw.githubusercontent.com/r-spatial/leafgl/master/readme_figs/pts_blue.png),87,FALSE,NA,###  New Packages,image,2019-01-14
++ [destatiscleanr](https://github.com/cutterkom/destatiscleanr) - Imports and cleans data from official German statistical offices to jump-start the data analysis,162,FALSE,NA,###  New Packages,link,2019-01-14
++ [pointdexter](https://cenuno.github.io/pointdexter/) - Labels longitudinal and latitudinal coordinates located inside a polygon,129,FALSE,NA,###  New Packages,link,2019-01-14
+"<a href=""https://cenuno.github.io/pointdexter/"">",48,FALSE,NA,###  New Packages,unid,2019-01-14
+"<img src=""https://github.com/cenuno/pointdexter/raw/master/man/figures/logo.png"" align=""middle"" width=""200""/>",109,FALSE,NA,###  New Packages,unid,2019-01-14
+</a>,4,FALSE,NA,###  New Packages,unid,2019-01-14
++ [doFuture](https://cran.r-project.org/package=doFuture) 0.7.0 - A Universal Foreach Parallel Adapter using the Future API of the 'future' Package ([blog post](https://www.jottr.org/2019/01/07/maintenance-updates-of-future-backends-and-dofuture/)),248,FALSE,NA,### Updated Packages,link,2019-01-14
++ [future.batchtools](https://cran.r-project.org/package=future.batchtools) 0.7.2 - A Future API for Parallel and Distributed Processing using 'batchtools' (see above 'blog post'),179,FALSE,NA,### Updated Packages,link,2019-01-14
++ [future.BatchJobs](https://cran.r-project.org/package=future.BatchJobs) 0.16.1 - A Future API for Parallel and Distributed Processing using 'BatchJobs' (see above 'blog post'),177,FALSE,NA,### Updated Packages,link,2019-01-14
++ [future.callr](https://cran.r-project.org/package=future.callr) 0.4.0 - A Future API for Parallel Processing using 'callr' (see above 'blog post'),148,FALSE,NA,### Updated Packages,link,2019-01-14
++ [Import ragged data with readr::melt_csv()](https://twitter.com/padpadpadpad/status/1082686437793894400),106,FALSE,NA,### Updated Packages,link,2019-01-14
++ [On the Road to 0.8.0 — Some Additional New Features Coming in the sergeant Package](https://rud.is/b/2019/01/09/on-the-road-to-0-8-0-some-additional-new-features-coming-in-the-sergeant-package/),197,FALSE,NA,### Updated Packages,link,2019-01-14
++ [Waffle Geoms & Other Miscellaneous In-Development Package Updates](https://rud.is/b/2019/01/10/waffle-geoms-other-miscellaneous-in-development-package-updates/),163,FALSE,NA,### Updated Packages,link,2019-01-14
++ [pinp 0.0.7: More small YAML options](http://dirk.eddelbuettel.com/blog/2019/01/11/#pinp_0.0.7),97,FALSE,NA,### Updated Packages,link,2019-01-14
++ [haven 2.0.0](https://www.tidyverse.org/articles/2019/01/haven-2-0-0/),72,FALSE,NA,### Updated Packages,link,2019-01-14
++ [Introducción a los Modelos de Regresión en R](https://medium.com/datos-y-ciencia/introducci%C3%B3n-a-los-modelos-de-regresi%C3%B3n-en-r-6ef5a4c47a8f),152,FALSE,NA,### R Internationally,link,2019-01-14
++ [Los bucles de la familia apply](https://guamandseduardo.rbind.io/post/familia-apply/),88,FALSE,NA,### R Internationally,link,2019-01-14
++ [Gérer les dates et les heures avec le package lubridate](https://statistique-et-logiciel-r.com/gerer-les-dates-et-les-heures-avec-le-package-lubridate/),155,FALSE,NA,### R Internationally,link,2019-01-14
++ [Getting started with TensorFlow Probability from R](https://blogs.rstudio.com/tensorflow/posts/2019-01-08-getting-started-with-tf-probability/),146,FALSE,NA,###  Tutorials,link,2019-01-14
++ [Visualizing the Asian Cup with R!](https://ryo-n7.github.io/2019-01-11-visualize-asian-cup/),95,FALSE,NA,###  Tutorials,link,2019-01-14
+![](https://i.imgur.com/F5TOJQP.png),36,FALSE,NA,###  Tutorials,image,2019-01-14
++ [Going Off the Map: Exploring purrr's Other Functions](https://hookedondata.org/going-off-the-map/),101,FALSE,NA,###  Tutorials,link,2019-01-14
++ [Parallelize a For-Loop by Rewriting it as an Lapply Call](https://www.jottr.org/2019/01/11/parallelize-a-for-loop-by-rewriting-it-as-an-lapply-call/),152,FALSE,NA,###  Tutorials,link,2019-01-14
++ [Using R to download missing photos from JSON files after incorrect Google Takeout. ](https://dataplayground.netlify.com/blog/google-takeout-missing-photos-download-them-on-your-own/),185,FALSE,NA,###  Tutorials,link,2019-01-14
++ [Animating shot distances in NBA games.](https://luisdva.github.io/rstats/bball-shots/),89,FALSE,NA,###  Tutorials,link,2019-01-14
+"+ [Optimise your new year diet with >8000 scraped food nutrition and prices, crosstalk and plotly (renders slowly, lots of interactive data, best on a laptop or desktop)](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-07-food-nutrition-and-price/)",258,FALSE,NA,###  Tutorials,link,2019-01-14
+![](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-07-food-nutrition-and-price/2019-01-07-food-nutrition-and-price_files/figure-html5/price-1.png),157,FALSE,NA,###  Tutorials,image,2019-01-14
++ [Map GOOGLE PHOTOS on google maps using leaflet.](https://dataplayground.netlify.com/blog/google-photos-mapping/),115,FALSE,NA,###  Tutorials,link,2019-01-14
++ [gganimation for the nation](https://www.johnmackintosh.com/2019-01-06-gganimation-for-the-nation/),101,FALSE,NA,###  Tutorials,link,2019-01-14
+![](https://www.johnmackintosh.com/img/newgganimate.gif),56,FALSE,NA,###  Tutorials,image,2019-01-14
++ [Generating sample donors & gift data for nonprofits](https://austinwehrwein.com/tutorials/gifttable/),104,FALSE,NA,###  Tutorials,link,2019-01-14
++ [How To Combine Multiple Ggplot Plots To Make Publication-Ready Plots](https://datascienceplus.com/how-to-combine-multiple-ggplot-plots-to-make-publication-ready-plots/),171,FALSE,NA,###  Tutorials,link,2019-01-14
++ [Add a static pdf vignette to an R package](http://www.markvanderloo.eu/yaRb/2019/01/11/add-a-static-pdf-vignette-to-an-r-package/),133,FALSE,NA,###  Tutorials,link,2019-01-14
++ [A Tip to Debug ggplot2](https://yutani.rbind.io/post/a-tip-to-debug-ggplot2/),80,FALSE,NA,###  Tutorials,link,2019-01-14
++ [Linguistic Signals of Album Quality: A Predictive Analysis of Pitchfork Review Scores Using Quanteda],104,FALSE,NA,###  Tutorials,unid,2019-01-14
+![](https://1.bp.blogspot.com/-o-IpnxzwS0w/W542K9dxBTI/AAAAAAAAAcI/hbc4-wh0gN8k3dnHlL_aIS7h4kVhq_CtwCLcBGAs/s1600/top_features.png),131,FALSE,NA,###  Tutorials,image,2019-01-14
+"+ [10 years of playback history on Last.FM: ""Just sit back and listen""](http://rcrastinate.blogspot.com/2019/01/10-years-of-playback-history-on-lastfm.html)",156,FALSE,NA,###  Tutorials,link,2019-01-14
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-01-14
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2019-01-14
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-01-14
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-01-14
++ [satRday Paris - 23rd february](https://paris2019.satrdays.org/),66,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-01-14
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-01-14
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-01-14
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-01-14
++ [Announcing the 1st Shiny Contest](https://blog.rstudio.com/2019/01/07/first-shiny-contest/),94,FALSE,NA,###  Call for Participation,link,2019-01-14
+"+ [Women's Package Development Workshop](https://forwards.github.io/edu/chicago/) - by R-Ladies Chicago and Forwards: Curious about package development, but not sure where to start? This workshop is for you! Run by R-Ladies Chicago, the goal of this workshop is to empower you to start contributing back to the R ecosystem with package development. Applications are now open! Deadline: 1/15/19 for out-of-town attendees, 2/2/19 for Chicago-based attendees.",456,FALSE,NA,###  Call for Participation,link,2019-01-14
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-01-14
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">‼️‼️ LOOK WHAT&#39;S COMING TO RAYSHADER! I took this video last night. Intrigued? Excited? Want to learn more? Be the first to preview the new features coming in the next few months to <a href=""https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw"">#rayshader</a> at my RStudio::conf talk next week!<br><br>📅⏰ Thursday at 4:24 PM<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw"">#rstudioconf</a> <a href=""https://t.co/qFxcc77aKv"">pic.twitter.com/qFxcc77aKv</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href=""https://twitter.com/tylermorganwall/status/1083707650792189953?ref_src=twsrc%5Etfw"">January 11, 2019</a></blockquote>",848,FALSE,NA,###  Quotes of the Week,unid,2019-01-14
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Procrastination achievement of late afternoon: automatically add letter labels before your facet labels in <a href=""https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot2</a> for helping to make publication ready plots. Works with different numbers of facets automatically. Gist here: <a href=""https://t.co/khPimunxpw"">https://t.co/khPimunxpw</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/ECRchat?src=hash&amp;ref_src=twsrc%5Etfw"">#ECRchat</a> <a href=""https://t.co/aBGrMuiZvG"">pic.twitter.com/aBGrMuiZvG</a></p>&mdash; Daniel Padfield (@padpadpadpad) <a href=""https://twitter.com/padpadpadpad/status/1082686437793894400?ref_src=twsrc%5Etfw"">January 8, 2019</a></blockquote>",855,FALSE,NA,###  Quotes of the Week,unid,2019-01-14
+"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,NA,###  Quotes of the Week,unid,2019-01-14

@@ -1,0 +1,66 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2019-11-04
+"title: R Weekly 2019-44 Mocking, skimr, shinymeta",49,FALSE,NA,NA,unid,2019-11-04
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-11-04
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-11-04
+---,3,FALSE,NA,NA,unid,2019-11-04
++ [Mocking is catching](https://blog.r-hub.io/2019/10/29/mocking/),66,FALSE,NA,###  Highlight,link,2019-11-04
++ [(Re)introducing skimr v2 - A year in the life of an open source R project](https://ropensci.org/blog/2019/10/29/skimrv2/),124,FALSE,NA,###  Highlight,link,2019-11-04
++ [shinymeta — a revolution for reproducibility](https://mail-wolf.de/?p=4407),78,FALSE,NA,###  Highlight,link,2019-11-04
++ [R as a First Programming Language](https://seankross.com/2019/10/27/R-as-a-First-Programming-Language.html),110,FALSE,NA,### Insights,link,2019-11-04
++ [Mocking is catching](https://blog.r-hub.io/2019/10/29/mocking/),66,FALSE,NA,### Insights,link,2019-11-04
++ [Reducing frictions in writing with R Markdown for html and pdf](https://blog.earo.me/2019/10/26/reduce-frictions-rmd/),121,FALSE,NA,### Insights,link,2019-11-04
++ [Are We in Kansas Anymore? Judging the State of Hollywood Film with Data from Wikipedia](https://datadiarist.github.io/post/are-we-in-kansas-anymore/),152,FALSE,NA,### Insights,link,2019-11-04
++ [Spelunking macOS 'ScreenTime' App Usage with R](https://rud.is/b/2019/10/28/spelunking-macos-screentime-app-usage-with-r/),125,FALSE,NA,### R in the Real World,link,2019-11-04
+![Spelunking macOS 'ScreenTime' App Usage with R](https://i0.wp.com/rud.is/b/wp-content/uploads/2019/10/when-used.png?w=1560&ssl=1),131,FALSE,NA,### R in the Real World,image,2019-11-04
++ [Rugby World Cup Standings](https://david.frigge.nz/posts/2019-10-rugby-world-cup/),85,FALSE,NA,### R in the Real World,link,2019-11-04
++ [Calculating (Twitter) Vocabulary Breadth of U.S. Presidential Candidates Using TTR](https://gilliganondata.github.io/twitter-ttr/twitter-ttr-refined.nb.html),160,FALSE,NA,### R in the Real World,link,2019-11-04
++ [United we Stand?](https://citizendatascientist.github.io/posts/2019-08-04-united-we-stand/),94,FALSE,NA,### R in the Real World,link,2019-11-04
++ [Race for  a family](https://www.simoncoulombe.com/2019/10/race-for-a-family/),80,FALSE,NA,### R in the Real World,link,2019-11-04
+![Race for  a family](https://raw.githubusercontent.com/rweekly/image/master/2019/rate-in-que.gif),98,FALSE,NA,### R in the Real World,image,2019-11-04
++ [Guilford Registered Voters: An R Sampler](https://www.johngoldin.com/post/geotagging_voters/),96,FALSE,NA,### R in the Real World,link,2019-11-04
++ [12 Months of restaurants](https://jechave.com/post/12-months-of-restaurants/),80,FALSE,NA,### R in the Real World,link,2019-11-04
++ [dogs of new york](https://kieranhealy.org/blog/archives/2019/10/28/dogs-of-new-york/),88,FALSE,NA,### R in the Real World,link,2019-11-04
+![dogs of new york](https://raw.githubusercontent.com/rweekly/image/master/2019/dog-new.png),92,FALSE,NA,### R in the Real World,image,2019-11-04
++ [81st TokyoR Meetup Roundup: A Special Session in {Shiny}!](http://Ryo-N7.github.io/2019-10-30-tokyoR-81-roundup/),116,FALSE,NA,###  R in Organizations,link,2019-11-04
++ [Working with New Haven Area Census Data Using R](https://www.johngoldin.com/post/new-haven-census-and-r/),108,FALSE,NA,###  R in Organizations,link,2019-11-04
+![Working with New Haven Area Census Data Using R](https://raw.githubusercontent.com/rweekly/image/master/2019/new-haven.png),125,FALSE,NA,###  R in Organizations,image,2019-11-04
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-11-04
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-11-04
++ [opendatatoronto 0.1.0 ](https://sharla.party/post/opendatatoronto-cran/),75,FALSE,NA,###  New Packages,link,2019-11-04
+"+ [Sept 2019: ""Top 40"" New R Packages](https://rviews.rstudio.com/2019/10/29/sept-2019-top-40-new-r-packages/)",110,FALSE,NA,###  New Packages,link,2019-11-04
++ [{connections 0.1.0}](https://edgararuiz.github.io/connections/),66,FALSE,NA,###  New Packages,link,2019-11-04
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-11-04
++ [{MapPalettes 0.0.2}: A set of nifty palettes and functions for maps designed by the DiSARM team at UCSF](https://github.com/disarm-platform/MapPalettes),155,FALSE,NA,###  New Packages,link,2019-11-04
++ [{unnestIfElse 0.1.0}: RStudio Addin to quickly and roughly convert nested ifelse() statements to dplyr::case_when()](https://github.com/erictleung/unnestIfElse),163,FALSE,NA,###  New Packages,link,2019-11-04
++ [{conflicted}: The goal of conflicted is to provide an alternative conflict resolution strategy](https://github.com/r-lib/conflicted),135,FALSE,NA,###  New Packages,link,2019-11-04
++ [{workflowr 1.5.0}](https://github.com/jdblischak/workflowr/releases/tag/v1.5.0),82,FALSE,NA,### Updated Packages,link,2019-11-04
++ [{AzureRMR 2.3.0}](https://blog.revolutionanalytics.com/2019/11/azurermr-230-now-on-cran.html),96,FALSE,NA,### Updated Packages,link,2019-11-04
++ [{TSstudio 0.1.5}](https://cran.r-project.org/package=TSstudio),65,FALSE,NA,### Updated Packages,link,2019-11-04
++ [MLverse: Discover and Share datasets with pins](https://www.youtube.com/watch?v=dJSfqpNBsO4),95,FALSE,NA,###  Videos and Podcasts,link,2019-11-04
++ [Forecast Combination talk](https://eranraviv.com/forecast-combination-talk/),79,FALSE,NA,###  Videos and Podcasts,link,2019-11-04
++ [Why should I use the here package when I'm already using projects?](https://malco.io/2018/11/05/why-should-i-use-the-here-package-when-i-m-already-using-projects/),166,FALSE,NA,###  Tutorials,link,2019-11-04
++ [An Amazon SDK for R!?](https://dyfanjones.me/post/an-amazon-sdk-for-r/),74,FALSE,NA,###  Tutorials,link,2019-11-04
++ [shortened iterations [code golf]](https://xianblog.wordpress.com/2019/10/29/shortened-iterations-code-golf/),111,FALSE,NA,###  Tutorials,link,2019-11-04
++ [(Re)introducing skimr v2 - A year in the life of an open source R project](https://ropensci.org/blog/2019/10/29/skimrv2/),124,FALSE,NA,###  Tutorials,link,2019-11-04
++ [Tutorial: plotting maps of Spain with ggplot2](https://github.com/aaumaitre/maps_Spain/blob/master/README.md),112,FALSE,NA,###  Tutorials,link,2019-11-04
+![Tutorial: plotting maps of Spain with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019/mapsSpain.png),123,FALSE,NA,###  Tutorials,image,2019-11-04
++ [Testing the tune package from tidymodels - analysing the relationship between the upsampling ratio and model performance](https://konradsemsch.netlify.com/2019/10/testing-the-tune-package-from-tidymodels-analysing-the-relationship-between-the-upsampling-ratio-and-model-performance/),286,FALSE,NA,###  Tutorials,link,2019-11-04
++ [A brief primer on Variational Inference](https://fabiandablander.com/r/Variational-Inference.html),101,FALSE,NA,###  Tutorials,link,2019-11-04
++ [Offensive Programming in action (part III)](https://neonira.github.io/zop3),78,FALSE,NA,###  Tutorials,link,2019-11-04
++ [shinymeta — a revolution for reproducibility](https://mail-wolf.de/?p=4407),78,FALSE,NA,###  Tutorials,link,2019-11-04
++ [New Introduction to the data_algebra](http://www.win-vector.com/blog/2019/10/new-introduction-to-the-data_algebra/),118,FALSE,NA,###  Tutorials,link,2019-11-04
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2019-11-04
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-11-04
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-11-04
+"+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)",124,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-04
+"+ [Japan.R 2019, December 7](https://japanr.connpass.com/event/154070/)",71,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-04
+"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)",71,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-04
+"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-04
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-04
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-04
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-11-04
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-11-04
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Some advice on managing your online presence if you&#39;re applying for a job or scholarship, based on my experiences reviewing rstudio::conf scholarship applications (results out soon):</p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/1189971594778681344?ref_src=twsrc%5Etfw"">October 31, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",497,FALSE,NA,###  Quotes of the Week,unid,2019-11-04
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">PCA of cocktail statistics using data from <a href=""https://twitter.com/CookingIssues?ref_src=twsrc%5Etfw"">@CookingIssues</a>&#39;s book &quot;Liquid Intelligence.&quot; Solid circle size is sugar content, hollow acid. <a href=""https://t.co/B9BwCjzF3R"">pic.twitter.com/B9BwCjzF3R</a></p>&mdash; Harold Pimentel (@hjpimentel) <a href=""https://twitter.com/hjpimentel/status/915728234783817728?ref_src=twsrc%5Etfw"">October 4, 2017</a></blockquote>",501,FALSE,NA,###  Quotes of the Week,unid,2019-11-04
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">One of my fave/most frequently used <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> commands:<br><br>options(scipen = 999)<br><br>turns off scientific notation in R, aka turns 5.3e-2 to 0.053 😇🙏🏻</p>&mdash; Dr. Gavin Jones (@ecologyofgavin) <a href=""https://twitter.com/ecologyofgavin/status/1188865515059585025?ref_src=twsrc%5Etfw"">October 28, 2019</a></blockquote>",465,FALSE,NA,###  Quotes of the Week,unid,2019-11-04

@@ -1,0 +1,54 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-09-10
+"title: R Weekly 2018-37 Shiny, tidytext",39,FALSE,NA,NA,unid,2018-09-10
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-09-10
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-09-10
+---,3,FALSE,NA,NA,unid,2018-09-10
++ [Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](http://varianceexplained.org/r/op-ed-text-analysis/),146,FALSE,NA,###  Highlight,link,2018-09-10
+"+ [How to Build a Shiny ""Truck""!](https://rviews.rstudio.com/2018/09/04/how-to-build-shiny-trucks-not-shiny-cars/)",114,FALSE,NA,###  Highlight,link,2018-09-10
++ [Save the date: tidyverse developer day](https://www.tidyverse.org/articles/2018/08/tidyverse-developer-day/),111,FALSE,NA,###  R in Organizations,link,2018-09-10
++ [Who wrote that anonymous NYT op-ed? Text similarity analyses with R](http://blog.revolutionanalytics.com/2018/09/anonymous-nyt-op-ed.html),141,FALSE,NA,### R in the Real World,link,2018-09-10
++ [Tweetable Mathematical Art With R](https://fronkonstin.com/2018/09/06/tweetable-mathematical-art-with-r/),108,FALSE,NA,### R in the Real World,link,2018-09-10
++ [Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](http://varianceexplained.org/r/op-ed-text-analysis/),146,FALSE,NA,### R in the Real World,link,2018-09-10
+![Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](https://raw.githubusercontent.com/rweekly/image/master/2018/trump-0910.png),168,FALSE,NA,### R in the Real World,image,2018-09-10
++ [The Nasa Datnauts Experience!](https://www.littlemissdata.com/blog/nasadatanauts),84,FALSE,NA,###  Resources,link,2018-09-10
++ [In case you missed it: August 2018 roundup](http://blog.revolutionanalytics.com/2018/09/in-case-you-missed-it-august-2018-roundup.html),138,FALSE,NA,###  Resources,link,2018-09-10
++ [fitur 0.6.1 Release](https://roh.engineering/post/fitur-0-6-1-release/),74,FALSE,NA,### Package Releases,link,2018-09-10
++ [processx 3.2.0](https://www.tidyverse.org/articles/2018/09/processx-3.2.0/),78,FALSE,NA,### Package Releases,link,2018-09-10
++ [Diagnosing RStudio Startup Issues](https://datawookie.netlify.com/blog/2018/09/diagnosing-rstudio-startup-issues/),117,FALSE,NA,###  Tutorials,link,2018-09-10
++ [Custom themes in ggplot2](https://www.statworx.com/de/blog/custom-themes-in-ggplot2/),88,FALSE,NA,###  Tutorials,link,2018-09-10
+![Custom themes in ggplot2](https://www.statworx.com/wp-content/uploads/customized-theme.png),93,FALSE,NA,###  Tutorials,image,2018-09-10
++ [Shiny Gadget: Fit Distributions](https://roh.engineering/post/shiny-gadget-fit-distributions/),97,FALSE,NA,###  Tutorials,link,2018-09-10
++ [R tip: How to Pass a formula to lm](http://www.win-vector.com/blog/2018/09/r-tip-how-to-pass-a-formula-to-lm/),113,FALSE,NA,###  Tutorials,link,2018-09-10
++ [What are these birds? Complement occurrence data with taxonomy and traits information](https://ropensci.org/blog/2018/09/04/birds-taxo-traits/),146,FALSE,NA,###  Tutorials,link,2018-09-10
+![What are these birds? Complement occurrence data with taxonomy and traits information](https://d33wubrfki0l68.cloudfront.net/360d92990c04cca9e188a3b82aa059eff1908a52/7f5cc/img/blog-images/2018-09-04-birds-taxo-traits/unnamed-chunk-9-1.png),241,FALSE,NA,###  Tutorials,image,2018-09-10
++ [bits and bit reversal](https://coolbutuseless.github.io/2018/09/04/bits-and-bit-reversal/),93,FALSE,NA,###  Tutorials,link,2018-09-10
+"+ [How to Build a Shiny ""Truck""!](https://rviews.rstudio.com/2018/09/04/how-to-build-shiny-trucks-not-shiny-cars/)",114,FALSE,NA,###  Tutorials,link,2018-09-10
+"![How to Build a Shiny ""Truck""](https://rviews.rstudio.com/post/2018-08-28-wolf-trucks_files/apps.png)",102,FALSE,NA,###  Tutorials,image,2018-09-10
++ [Book review: SQL Server 2017 Machine Learning Services with R](http://blog.revolutionanalytics.com/2018/09/sql-server-2017-book-review.html),143,FALSE,NA,###  Tutorials,link,2018-09-10
++ [R Tip: How to Pass a formula to lm](http://www.win-vector.com/blog/2018/09/r-tip-how-to-pass-a-formula-to-lm/),113,FALSE,NA,###  Tutorials,link,2018-09-10
++ [Being at the Center](https://simplystatistics.org/2018/09/07/being-at-the-center/),85,FALSE,NA,###  Tutorials,link,2018-09-10
++ [strict case_when](https://coolbutuseless.github.io/2018/09/06/strict-case_when/),83,FALSE,NA,###  Tutorials,link,2018-09-10
++ [xfun::pkg_attach(): A Vectorized Version of library()](https://yihui.name/en/2018/09/xfun-pkg-attach/),105,FALSE,NA,###  Tutorials,link,2018-09-10
++ [In praise of Commonmark: wrangle (R)Markdown files without regex](https://ropensci.org/technotes/2018/09/05/commonmark/),123,FALSE,NA,###  Tutorials,link,2018-09-10
++ [Rendering IPA Symbols in R Markdown](https://liao961120.github.io/2018/09/06/ipa-symbols.html),97,FALSE,NA,###  Tutorials,link,2018-09-10
++ [How to detect hatespeech in plain text #schildnvrienden](http://www.bnosac.be/index.php/blog/80-how-to-detect-hatespeech-in-plain-text-schildnvrienden),154,FALSE,NA,###  Tutorials,link,2018-09-10
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-09-10
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-09-10
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-09-10
+"+ As an experimental feature, when codeloadNamespace fails because the requested package is not available the error is initially signaled with a `retry_loadNamespace` restart available. This allows a calling handler to try to install the package and continue.",259,FALSE,NA,###  R Project Updates,unid,2018-09-10
+"+ `var(f)` and hence `sd(f)` now give an error for `factor` arguments; they gave a warning since R 3.2.3, PR#16564.",115,FALSE,NA,###  R Project Updates,unid,2018-09-10
+"+ `next(n)` now also works for larger `n` and no longer loops infinitely for e.g, `n <- 214e7`.",95,FALSE,NA,###  R Project Updates,unid,2018-09-10
++ Many package not found errors are now signaled as errors of class `packageNotFoundError`.,91,FALSE,NA,###  R Project Updates,unid,2018-09-10
++ Fork cluster could hang due to a race condition in cluster initialization (`makeCluster()`).,94,FALSE,NA,###  R Project Updates,unid,2018-09-10
+"+ `.Deprecated` now signals a warning of class `deprecatedWarning`, and `.Defunct` now signals an error of class `defunctError`.",128,FALSE,NA,###  R Project Updates,unid,2018-09-10
++ New functions `errorCondition` and `warningCondition` provide a convenient way to create structured error and warning objects.,128,FALSE,NA,###  R Project Updates,unid,2018-09-10
+"+ On Windows, `socketSelect` would hang with more than 64 sockets, and hence `parallel::clusterApplyLB` would hang with more than 64 workers.",141,FALSE,NA,###  R Project Updates,unid,2018-09-10
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-09-10
++ [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />,134,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-09-10
+"Lisbon, Portugal.",17,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-09-10
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-09-10
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-09-10
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-09-10
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">well this R=Batman, Python=Superman apparently showed up in a vendor pitch to one of my colleagues. That must make it official. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw"">#python</a> <a href=""https://t.co/pkKGB8EOHj"">pic.twitter.com/pkKGB8EOHj</a></p>&mdash; JD Long (@CMastication) <a href=""https://twitter.com/CMastication/status/1037486624500854784?ref_src=twsrc%5Etfw"">September 5, 2018</a></blockquote>",604,FALSE,NA,###  Quotes of the Week,unid,2018-09-10
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">transition_reveal is, *ahem*, revealed... <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/gganimate?src=hash&amp;ref_src=twsrc%5Etfw"">#gganimate</a> <a href=""https://t.co/9K4gT5xDyh"">pic.twitter.com/9K4gT5xDyh</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href=""https://twitter.com/thomasp85/status/1036915662025895936?ref_src=twsrc%5Etfw"">September 4, 2018</a></blockquote>",530,FALSE,NA,###  Quotes of the Week,unid,2018-09-10

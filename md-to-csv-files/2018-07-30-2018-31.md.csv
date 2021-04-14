@@ -1,0 +1,76 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-07-30
+"title: R Weekly 2018-31 Gifski, Question, Educator",50,FALSE,NA,NA,unid,2018-07-30
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-07-30
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-07-30
+---,3,FALSE,NA,NA,unid,2018-07-30
++ [Gifski](https://ropensci.org/technotes/2018/07/23/gifski-release/) - the fastest GIF encoder in the universe,111,FALSE,NA,###  Highlight,link,2018-07-30
++ [Where to get help with your R question?](https://masalmon.eu/2018/07/22/wheretogethelp/),91,FALSE,NA,###  Highlight,link,2018-07-30
++ [rOpenSci Educators Collaborative: What Educational Resources Work Well and Why?](https://ropensci.org/blog/2018/07/25/educollab-resources/),142,FALSE,NA,###  Highlight,link,2018-07-30
++ [Should R Consortium Recommend CII Best Practices Badge for R Packages: Latest Survey Results](https://www.r-consortium.org/blog/2018/07/26/should-r-consortium-recommend-cii-best-practices-badge-for-r-packages-latest-survey-results),234,FALSE,NA,###  Highlight,link,2018-07-30
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-07-30
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-07-30
++ [fpeek](https://cran.r-project.org/package=fpeek): Check Text Files Content at a Glance,89,FALSE,NA,###  New Packages,link,2018-07-30
++ [Gifski](https://ropensci.org/technotes/2018/07/23/gifski-release/) - the fastest GIF encoder in the universe,111,FALSE,NA,###  New Packages,link,2018-07-30
+![Gifski](https://raw.githubusercontent.com/rweekly/image/master/2018/Uwz4Fyi.gif),82,FALSE,NA,###  New Packages,image,2018-07-30
++ [future 1.9.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone.  A major milestone release: Standard output is now relayed back to the master R session.,213,FALSE,NA,### Package Releases,link,2018-07-30
++ [Rcpp 0.12.18: Another batch of updates](http://dirk.eddelbuettel.com/blog/2018/07/23#rcpp_0.12.18),101,FALSE,NA,### Package Releases,link,2018-07-30
++ [The Revamped bookdown.org Website](https://blog.rstudio.com/2018/07/25/revamped-bookdown-org/),97,FALSE,NA,### Insights,link,2018-07-30
++ [Where to get help with your R question?](https://masalmon.eu/2018/07/22/wheretogethelp/),91,FALSE,NA,### Insights,link,2018-07-30
++ [rOpenSci Educators Collaborative: What Educational Resources Work Well and Why?](https://ropensci.org/blog/2018/07/25/educollab-resources/),142,FALSE,NA,### Insights,link,2018-07-30
++ [rOpenSci Educators Collaborative: What Are The Challenges When Teaching Science With R?](https://ropensci.org/blog/2018/07/24/educollab-challenges/),151,FALSE,NA,### Insights,link,2018-07-30
++ [rOpenSci Educators Collaborative: How Can We Develop a Community of Innovative R Educators?](https://ropensci.org/blog/2018/07/26/educollab-community/),154,FALSE,NA,### Insights,link,2018-07-30
++ [Interview R/Medicine 2018 conference organizer Micheal Kane](https://www.r-consortium.org/blog/2018/07/23/interview-r-medicine-2018-conference-organizer-micheal-kane),169,FALSE,NA,###  R in Organizations,link,2018-07-30
++ [Hacking our way through UpSetR](http://research.libd.org/rstatsclub/2018/07/27/hacking-our-way-through-upsetr/),114,FALSE,NA,###  R in Organizations,link,2018-07-30
++ [LIBD rstats club remote useR!2018 notes](http://research.libd.org/rstatsclub/2018/07/13/libd-rstats-club-remote-user-2018-notes/),132,FALSE,NA,###  R in Organizations,link,2018-07-30
++ [Should R Consortium Recommend CII Best Practices Badge for R Packages: Latest Survey Results](https://www.r-consortium.org/blog/2018/07/26/should-r-consortium-recommend-cii-best-practices-badge-for-r-packages-latest-survey-results),234,FALSE,NA,###  R in Organizations,link,2018-07-30
++ [Announcing the 1st Bookdown Contest](https://blog.rstudio.com/2018/07/27/first-bookdown-contest/),100,FALSE,NA,###  R in Organizations,link,2018-07-30
++ [No worries! Afterthoughts from UseR 2018](http://smarterpoland.pl/index.php/2018/07/no-worries-afterthoughts-from-user-2018/),128,FALSE,NA,###  R in Organizations,link,2018-07-30
++ [autoSmry update 1 now live - autoSmry is a R tool I created that tries to find the most important sentences in an article](https://www.brucemeng.ca/project/autosmry/),169,FALSE,NA,### R in the Real World,link,2018-07-30
+![autoSmry update 1 now live](https://raw.githubusercontent.com/rweekly/image/master/2018/wiki.auto.PNG),104,FALSE,NA,### R in the Real World,image,2018-07-30
++ [Using satellite temperature data from the University of Alabama in Huntsville to look at global temperatures over the last 40 years.](https://www.davidkane.info/post/june-2018-global-temperature/),199,FALSE,NA,### R in the Real World,link,2018-07-30
++ [Really old R](https://medium.com/@davidhughjones/really-old-r-6d37549d1a88),78,FALSE,NA,### R in the Real World,link,2018-07-30
++ [A post comparing the use of bubble grids and choropleths for visual encoding of geo-spatial data (using the sf functionality of ggplot2 v3!).](https://tonyelhabr.rbind.io/posts/bubble-grid-texas-high-school/),211,FALSE,NA,### R in the Real World,link,2018-07-30
+![A post comparing the use of bubble grids](https://raw.githubusercontent.com/rweekly/image/master/2018/viz_schools_grid.png),125,FALSE,NA,### R in the Real World,image,2018-07-30
++ [future 1.9.0 - Output from The Future](https://www.jottr.org/2018/07/23/output-from-the-future/),99,FALSE,NA,###  Tutorials,link,2018-07-30
++ [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/),81,FALSE,NA,###  Tutorials,link,2018-07-30
++ [Animating the Goals of the World Cup with R: Comparing the old vs. new gganimate & tweenr API!](https://ryo-n7.github.io/2018-07-24-visualize-worldcup-part-3/),162,FALSE,NA,###  Tutorials,link,2018-07-30
+![Animating the Goals of the World Cup with R: Comparing the old vs. new gganimate & tweenr API!](https://raw.githubusercontent.com/rweekly/image/master/2018/ceSA3YB.gif),170,FALSE,NA,###  Tutorials,image,2018-07-30
++ [Whether to use a data frame in R?](https://privefl.github.io/blog/whether-to-use-a-data-frame-in-r/),103,FALSE,NA,###  Tutorials,link,2018-07-30
++ [External presentation goal](https://uncmbbtrivia.netlify.com/post/2018/07/22/external-presentation-goal/),108,FALSE,NA,###  Tutorials,link,2018-07-30
++ [Comments on data analysis workflow](https://uncmbbtrivia.netlify.com/post/2018/07/22/comments-on-data-analysis-workflow/),124,FALSE,NA,###  Tutorials,link,2018-07-30
+"+ [AI, Machine Learning and Data Science Roundup: July 2018](http://blog.revolutionanalytics.com/2018/07/ai-roundup-july-2018.html)",131,FALSE,NA,###  Tutorials,link,2018-07-30
++ [Amazon's Hanging Cable Problem (Golden Gate Edition)](http://staff.math.su.se/hoehle/blog/2018/07/23/cable.html),115,FALSE,NA,###  Tutorials,link,2018-07-30
++ [The Best Way to Support LaTeX Math in Markdown with MathJax](https://yihui.name/en/2018/07/latex-math-markdown/),115,FALSE,NA,###  Tutorials,link,2018-07-30
++ [A quick tour of AI services in Azure](http://blog.revolutionanalytics.com/2018/07/a-quick-tour-of-ai-services-in-azure.html),127,FALSE,NA,###  Tutorials,link,2018-07-30
++ [Shortest unique prefix - it's a builtin function](https://coolbutuseless.github.io/2018/07/24/shortest-unique-prefix---its-a-builtin-function/),146,FALSE,NA,###  Tutorials,link,2018-07-30
++ [Make better maps in R with vector tiles](https://www.dshkol.com/2018/better-maps-with-vector-tiles/),103,FALSE,NA,###  Tutorials,link,2018-07-30
+![Make better maps in R with vector tiles](https://raw.githubusercontent.com/rweekly/image/master/2018/bYLZKdI.png),115,FALSE,NA,###  Tutorials,image,2018-07-30
++ [Animating the Goals of the World Cup: Comparing the old vs. new gganimate and tweenr API!](http://Ryo-N7.github.io/2018-07-24-visualize-worldcup-part-3/),156,FALSE,NA,###  Tutorials,link,2018-07-30
+"+ [Slowly but Steadily, They Started to Help Me Answer Questions](https://yihui.name/en/2018/07/help-answer-questions/)",119,FALSE,NA,###  Tutorials,link,2018-07-30
+"+ [Thoughts on writing ""AI in Actuarial Science""](http://ronaldrichman.co.za/2018/07/25/thoughts-on-writing-ai-in-actuarial-science/)",133,FALSE,NA,###  Tutorials,link,2018-07-30
++ [How to use rquery with Apache Spark on Databricks](http://www.win-vector.com/blog/2018/07/how-to-use-rquery-with-apache-spark-on-databricks/),144,FALSE,NA,###  Tutorials,link,2018-07-30
++ [Partitioning the Variation in Data](https://simplystatistics.org/2018/07/23/partitioning-the-variation-in-data/),115,FALSE,NA,###  Tutorials,link,2018-07-30
++ [My old coding products](https://uncmbbtrivia.netlify.com/post/2018/07/27/my-old-coding-products/),100,FALSE,NA,###  Tutorials,link,2018-07-30
++ [unpipe - rewriting an expression without the pipes](https://coolbutuseless.github.io/2018/07/26/unpipe---rewriting-an-expression-without-the-pipes/),151,FALSE,NA,###  Tutorials,link,2018-07-30
+"+ [Arthur blinked, Ford shrugs, but Zaphod leapt; text as graph](https://blog.rmhogervorst.nl/blog/2018/07/24/arthur-blinked-ford-shrugs-displaying-words-as-graph/)",164,FALSE,NA,###  Tutorials,link,2018-07-30
++ [REST APIs and Plumber](https://rviews.rstudio.com/2018/07/23/rest-apis-and-plumber/),87,FALSE,NA,###  Tutorials,link,2018-07-30
+![REST APIs and Plumber](https://rviews.rstudio.com/post/2018-07-17-blair-plumber-intro-files/swagger-screenshot.png),117,FALSE,NA,###  Tutorials,image,2018-07-30
++ [Using themes in ggplot2](https://www.statworx.com/de/blog/using-themes-in-ggplot2/),86,FALSE,NA,###  Tutorials,link,2018-07-30
++ [Maps with inlmisc](https://owi.usgs.gov/blog/inlmiscmaps/),61,FALSE,NA,###  Tutorials,link,2018-07-30
++ [Machine Learning Results in R: one plot to rule them all! (Part 2 – Regression Models)](https://datascienceplus.com/machine-learning-results-in-r-one-plot-to-rule-them-all-part-2-regression-models/),201,FALSE,NA,###  Tutorials,link,2018-07-30
++ [Real-time data visualization using R and data extracting from SQL Server](https://tomaztsql.wordpress.com/2018/07/23/real-time-data-visualization-using-r-and-data-extracting-from-sql-server/),194,FALSE,NA,###  Tutorials,link,2018-07-30
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-07-30
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-07-30
++ [SatRday](https://amsterdam2018.satrdays.org/) **Aug 31-Sept 1**<br />,72,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-07-30
+"Amsterdam, the Netherlands.",27,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-07-30
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-07-30
+"Buenos Aires, Argentina.",24,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-07-30
++ [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />,134,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-07-30
+"Lisbon, Portugal.",17,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-07-30
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-07-30
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-07-30
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-07-30
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Truth <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/2YNApUZtCu"">pic.twitter.com/2YNApUZtCu</a></p>&mdash; Sam Williams (@_sam_williams_) <a href=""https://twitter.com/_sam_williams_/status/1022748404693254145?ref_src=twsrc%5Etfw"">July 27, 2018</a></blockquote>",397,FALSE,NA,###  Quotes of the Week,unid,2018-07-30
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Had no idea that you could pull a Google map in one line of code and use ggplot2 to add layers to it until <a href=""https://twitter.com/LittleMissData?ref_src=twsrc%5Etfw"">@LittleMissData</a> just blew my mind. 💯 <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/41E4Gf2rDY"">pic.twitter.com/41E4Gf2rDY</a></p>&mdash; Caitlin Hudon👩🏼‍💻 (@beeonaposy) <a href=""https://twitter.com/beeonaposy/status/1022287006876033024?ref_src=twsrc%5Etfw"">July 26, 2018</a></blockquote>",601,FALSE,NA,###  Quotes of the Week,unid,2018-07-30
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">1/4<br>“So that plot is an—“ <br>“Yep, elevation map.” <br>“And this plot is also a—“ <br>“Yep, also an elevation map.” <br>“So are you seriously telling me you turned all these plots into—“ <br>“Elevation maps. It’s elevation maps all the way down.”<br><br>Preview: 3D ggplots w/🕶️<a href=""https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw"">#rayshader</a> 😉<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/9boxiRzOzr"">pic.twitter.com/9boxiRzOzr</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href=""https://twitter.com/tylermorganwall/status/1021360873045209088?ref_src=twsrc%5Etfw"">July 23, 2018</a></blockquote>",777,FALSE,NA,###  Quotes of the Week,unid,2018-07-30

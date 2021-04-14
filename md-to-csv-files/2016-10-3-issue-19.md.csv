@@ -1,0 +1,80 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2016-10-3
+layout: post,12,FALSE,NA,NA,unid,2016-10-3
+title: Issue 19,15,FALSE,NA,NA,unid,2016-10-3
+description: Weekly News in R Community.,40,FALSE,NA,NA,unid,2016-10-3
+---,3,FALSE,NA,NA,unid,2016-10-3
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-10-3
+*Digested by R Weekly Members*,30,FALSE,NA,## Highlight,unid,2016-10-3
++ [ggplot2 2.2.0 coming soon!](https://blog.rstudio.org/2016/09/30/ggplot2-2-2-0-coming-soon/),94,FALSE,NA,## Highlight,link,2016-10-3
++ [Book - plotly for R](https://cpsievert.github.io/plotly_book/) - This book provides more of a cohesive narrative to help explain fundamental concepts and recent developments.,177,FALSE,NA,## Highlight,link,2016-10-3
+"+ [Accessing the World Bank Data APIs in Python, R, Ruby & Stata](http://blogs.worldbank.org/opendata/accessing-world-bank-data-apis-python-r-ruby-stata)",153,FALSE,NA,#### Tutorials,link,2016-10-3
+"+ [Introducing sparklyr, an R Interface for Apache Spark](http://blog.cloudera.com/blog/2016/09/introducing-sparklyr-an-r-interface-for-apache-spark/)",150,FALSE,NA,#### Tutorials,link,2016-10-3
++ [ggplot2 2.2.0 coming soon!](https://blog.rstudio.org/2016/09/30/ggplot2-2-2-0-coming-soon/),94,FALSE,NA,#### Tutorials,link,2016-10-3
++ [Fitting a distribution in Stan from scratch](http://www.magesblog.com/2016/09/fitting-distribution-in-stan-from.html),120,FALSE,NA,#### Tutorials,link,2016-10-3
++ [Quick wordclouds from PubMed abstracts – using PMID lists in R](https://talesofr.wordpress.com/2016/09/26/quick-wordclouds-from-pubmed-abstracts-using-pmid-lists-in-r/),171,FALSE,NA,#### Tutorials,link,2016-10-3
+![Quick wordclouds from PubMed abstracts – using PMID lists in R](https://talesofr.files.wordpress.com/2016/09/wordcloud.png),125,FALSE,NA,#### Tutorials,image,2016-10-3
++ [Machine Learning for Drug Adverse Event Discovery](http://datascienceplus.com/machine-learning-for-drug-adverse-event-discovery/),132,FALSE,NA,#### Tutorials,link,2016-10-3
++ [Better Model Selection for Evolving Models](http://www.quintuitive.com/2016/09/25/better-model-selection-evolving-models/),125,FALSE,NA,#### Tutorials,link,2016-10-3
++ [FileTable and storing graphs from Microsoft R Server](https://tomaztsql.wordpress.com/2016/09/25/filetable-and-storing-graphs-from-microsoft-r-server/),154,FALSE,NA,#### Tutorials,link,2016-10-3
++ [Re-introducing Radiant: A shiny interface for R](http://vnijs.github.io/blog/2016/09/re-introducing-radiant.html),116,FALSE,NA,#### Tutorials,link,2016-10-3
++ [Windows 10 anniversary updates includes a whole Linux layer - this is good news for data scientists](https://realizationsinbiostatistics.blogspot.sg/2016/09/windows-10-anniversary-updates-includes.html),205,FALSE,NA,#### Tutorials,link,2016-10-3
++ [A primer on universal function approximation with deep learning (in Torch and R)](https://cartesianfaith.com/2016/09/23/a-primer-on-universal-function-approximation-with-deep-learning-in-torch-and-r/),203,FALSE,NA,#### Tutorials,link,2016-10-3
++ [Accessing your Fitbit data](http://blog.haunschmid.name/accessing-fitbit-data/),82,FALSE,NA,#### R in the Real World,link,2016-10-3
++ [R vs Python. Which one has higher demand on the job market? A short study](http://datascienceplus.com/goodreads-machine-learning-part-3/),140,FALSE,NA,#### R in the Real World,link,2016-10-3
+<!-- Singing the Bayesian Beginner Blues](http://juliasilge.com/blog/Bayesian-Blues/)-->,88,FALSE,NA,#### R in the Real World,unid,2016-10-3
+<!--Singing the Bayesian Beginner Blues](https://cdn.rawgit.com/juliasilge/juliasilge.github.io/6685ecaede31a8fceb34c8d113c5118aff59e5ba/figs/2016-09-28-Bayesian-Blues/unnamed-chunk-7-1.png)-->,193,FALSE,NA,#### R in the Real World,unid,2016-10-3
+<!--Song Lyrics Across the United States](http://juliasilge.com/blog/Song-Lyrics-Across/)-->,92,FALSE,NA,#### R in the Real World,unid,2016-10-3
+![Song Lyrics Across the United States](https://cdn.rawgit.com/juliasilge/juliasilge.github.io/243d8e355f57cb9e00f708a8e8d616eb631b3f12/figs/2016-09-26-Song-Lyrics-Across/animate_map.gif),187,FALSE,NA,#### R in the Real World,image,2016-10-3
++ [Hillary Clinton and her strategy to speak](https://benheubl.github.io/data%20analysis/strategy-to-speak/),108,FALSE,NA,#### R in the Real World,link,2016-10-3
+![Hillary Clinton and her strategy to speak](https://benheubl.github.io/images/strategy-to-speak/plots/Rplot04.jpeg),116,FALSE,NA,#### R in the Real World,image,2016-10-3
++ [Using R to detect fraud at 1 million transactions per second](http://blog.revolutionanalytics.com/2016/09/fraud-detection.html),130,FALSE,NA,#### R in the Real World,link,2016-10-3
++ [The Simpsons by the Data](http://toddwschneider.com/posts/the-simpsons-by-the-data/),87,FALSE,NA,#### R in the Real World,link,2016-10-3
+![The Simpsons by the Data](https://cdn.rawgit.com/toddwschneider/flim-springfield/227b672323a72a12f702e80995ce788d0dff28e0/analysis/graphs/03_bart_simpson.png),160,FALSE,NA,#### R in the Real World,image,2016-10-3
++ [When Trump visits... tweets from his trip to Mexico](http://enelmargen.org/datascience/trump-mextweets/),107,FALSE,NA,#### R in the Real World,link,2016-10-3
+![When Trump visits... tweets from his trip to Mexico](https://cdn.rawgit.com/Eflores89/Eflores89.github.io/e6ae5dd9dca4e0ceebce9424e675cc44d03b6ca1/images/posts/trump_mex_plot1.png),182,FALSE,NA,#### R in the Real World,image,2016-10-3
+"+ [Surveillance Out of the Box - The #Zombie Experiment](http://staff.math.su.se/hoehle/blog/2016/09/25/sootb.html) - We perform a social experiment to investigate, if zombie related twitter posts can be used as a reliable indicator for an early warning system.",261,FALSE,NA,#### R in the Real World,link,2016-10-3
++ [Berlin-Marathon 2016 – So schnell läuft Ihre Stadt](http://interaktiv.morgenpost.de/berlin-marathon-2016/),109,FALSE,NA,#### R in the Real World,link,2016-10-3
+![Berlin-Marathon 2016](https://cdn.rawgit.com/rweekly/image/master/2016-10-03/berlin.gif),90,FALSE,NA,#### R in the Real World,image,2016-10-3
++ [GoodReads: Machine Learning (Part 3)](http://datascienceplus.com/goodreads-machine-learning-part-3/),103,FALSE,NA,#### R in the Real World,link,2016-10-3
++ [Watch: Highlights of the Microsoft Data Science Summit](https://www.r-bloggers.com/watch-highlights-of-the-microsoft-data-science-summit/),141,FALSE,NA,#### R in Organization,link,2016-10-3
++ [The Financial Times uses R for Quantitative Journalism](http://blog.revolutionanalytics.com/2016/09/financial-times-quantitative-journalism.html),148,FALSE,NA,#### R in Organization,link,2016-10-3
++ [Warsaw R Enthusiast Meetups Season Finale](http://r-addict.com/2016/09/28/Warsaw-RMeetups-Summary.html),106,FALSE,NA,#### R in Organization,link,2016-10-3
++ [EARL London 2016 revisited – Day 1](http://www.mango-solutions.com/wp/2016/09/earl-london-2016-revisited-day-1/),115,FALSE,NA,#### R in Organization,link,2016-10-3
++ [EARL London 2016 revisited – Day 2](http://www.mango-solutions.com/wp/2016/09/earl-london-2016-revisited-day-2/),115,FALSE,NA,#### R in Organization,link,2016-10-3
++ [All the R Ladies](http://blog.revolutionanalytics.com/2016/09/all-the-r-ladies.html),87,FALSE,NA,#### R in Organization,link,2016-10-3
++ [Book - plotly for R](https://cpsievert.github.io/plotly_book/),65,FALSE,NA,## Resources,link,2016-10-3
++ [Book - Tidy Text Mining with R](http://tidytextmining.com/index.html),72,FALSE,NA,## Resources,link,2016-10-3
+"+ [sparklyr 0.4](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/) - R interface for Apache Spark, now on CRAN.",137,FALSE,NA,## New Releases,link,2016-10-3
++ [plotly 4.0](http://moderndata.plot.ly/upgrading-to-plotly-4-0-and-above/) - Create interactive web graphics via the open source JavaScript graphing library plotly.js.,169,FALSE,NA,## New Releases,link,2016-10-3
+"+ [RcppAnnoy 0.0.8](http://dirk.eddelbuettel.com/blog/2016/10/01#rcppannoy_0.0.8) - Annoy is a small, fast, and lightweight library for approximate nearest neighbours.",167,FALSE,NA,## New Releases,link,2016-10-3
++ [RcppCNPy 0.2.6](http://dirk.eddelbuettel.com/blog/2016/09/28#rcppcnpy_0.2.6) - RcppCNPy provides R with read and write access to NumPy files.,144,FALSE,NA,## New Releases,link,2016-10-3
++ [gcbd 0.2.6](http://dirk.eddelbuettel.com/blog/2016/09/28#gcbd_0.2.6) - The gcbd proposes a benchmarking framework for LAPACK and BLAS operations and records result in local database.,185,FALSE,NA,## New Releases,link,2016-10-3
++ [sjmisc 2.0.0](https://strengejacke.wordpress.com/2016/09/27/tagged-na-values-and-labelled-data-rstats/) - Tagged NA values and labelled data.,144,FALSE,NA,## New Releases,link,2016-10-3
++ [fundManageR](https://github.com/abresler/fundManageR) - an investment management toolkit for R.,98,FALSE,NA,## New Packages & Tools,link,2016-10-3
++ [BiclustGUI](https://ewouddt.github.io/RcmdrPlugin.BiclustGUI/2016/09/27/biclustGUI/) - This GUI will you enable to quickly try out a wide arrange of biclustering algorithms and produce some helpfull graphs in order to explore your data.,239,FALSE,NA,## New Packages & Tools,link,2016-10-3
++ [tensorflow](https://rstudio.github.io/tensorflow/) - Using TensorFlow with R.,80,FALSE,NA,## New Packages & Tools,link,2016-10-3
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,## R Project Updates,unid,2016-10-3
+"+  `source()` gets new optional arguments, notably `exprs`; this is made use of in the new utility function `withAutoprint()`.",126,FALSE,NA,## R Project Updates,unid,2016-10-3
+"+  `print.factor()` no longer sets the class of the factor to `NULL`, which would violate a basic constraint of an S4 object.",125,FALSE,NA,## R Project Updates,unid,2016-10-3
++ There was an exception for the native Solaris C++ compiler to the dropping (in R 3.3.0) of legacy C++ headers from headers such as `R.h` and `Rmath.h` - this has now been removed. That compiler has strict C++98 compliance hence does not include extensions in its (non-legacy) C++ headers: some packages will need to request C++11 or replace non-C++98 calls such as `lgamma`: see §1.6.4 of `Writing R Extensions`.,414,FALSE,NA,## R Project Updates,unid,2016-10-3
++  `sys.source()` gets a new `toplevel.env` argument. This argument is useful for frameworks running package tests.,115,FALSE,NA,## R Project Updates,unid,2016-10-3
+"+ `c()`'s argument `use.names` is documented now, as belonging to the (C internal) default method. In “parallel”, argument `recursive` is also moved from the generic to the default method, such that the formal argument list of `base` generic `c()` is just `(...)`.",264,FALSE,NA,## R Project Updates,unid,2016-10-3
+"+ If available, the POSIX 2008 system call `utimensat` will be used by `setFileTime()` and `file.copy()`. This may result in slightly more accurate file times.",159,FALSE,NA,## R Project Updates,unid,2016-10-3
++ `Sys.setFileTime()` and `file.copy(copy.date = TRUE)` will set timestamps with fractions of seconds on platforms/filesystems which support this.,146,FALSE,NA,## R Project Updates,unid,2016-10-3
+"+  If available, the POSIX 2008 system call `utimensat` will be used by `setFileTime()` and `file.copy()`. This may result in slightly more accurate file times.",160,FALSE,NA,## R Project Updates,unid,2016-10-3
+"+ The online documentation for package `methods` is extensively rewritten. The goals are to simplify documentation for basic use, to note old features not recommended and to correct out-of-date information.",206,FALSE,NA,## R Project Updates,unid,2016-10-3
++ Calls to `setMethod()` no longer print a message when creating a generic function in those cases where that is natural: S3 generics and primitives.,149,FALSE,NA,## R Project Updates,unid,2016-10-3
++ Use `options(deparse.max.lines=)` to limit the number of lines recorded in `.Traceback` and other deparsing activities.,121,FALSE,NA,## R Project Updates,unid,2016-10-3
++ `abbreviate()` gains an option `named = TRUE`.,48,FALSE,NA,## R Project Updates,unid,2016-10-3
++ Installation support for `readline` emulations based on `editline` (aka `libedit`) is deprecated.,99,FALSE,NA,## R Project Updates,unid,2016-10-3
++ Convenience function `hasName()` has been added; it is intended to replace the common idiom `!is.null(x$name)` without the usually unintended partial name matching.,166,FALSE,NA,## R Project Updates,unid,2016-10-3
+"+ `split(<very_long>, *)` now works with long vectors.",54,FALSE,NA,## R Project Updates,unid,2016-10-3
++ The license check enabled by `options(checkPackageLicense = TRUE)` is now done when the package's namespace is first loaded.,126,FALSE,NA,## R Project Updates,unid,2016-10-3
+"+ `citation()` supports `inst/CITATION` files from package source trees, with `lib.loc` pointing to the directory containing the package.",137,FALSE,NA,## R Project Updates,unid,2016-10-3
++ (Windows only) Function `setInternet2()` is defunct.,54,FALSE,NA,## R Project Updates,unid,2016-10-3
++ (Windows only) `file.info()` now returns file timestamps including fractions of seconds; it has done so on other systems since R 2.14.0.,138,FALSE,NA,## R Project Updates,unid,2016-10-3
+"+ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **12 October - 14 October** <br>",89,FALSE,NA,## Upcoming Events,link,2016-10-3
+"European R users meeting (eRum) is an international conference that aims at integrating users of the R language. eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate. <br />",216,FALSE,NA,## Upcoming Events,unid,2016-10-3
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">I really enjoyed the <a href=""https://twitter.com/hashtag/Rstats?src=hash"">#Rstats</a> meetup last night. Hadley says he&#39;s going to do so many packages. Why hasn&#39;t he done them in the last 30 years?</p>&mdash; Donald Trump, PhD (@ScientistTrump) <a href=""https://twitter.com/ScientistTrump/status/780936239964753920""></a></blockquote>",414,FALSE,NA,## Quote of the Week,unid,2016-10-3
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">You can include mathematical equations in R charts. Cheat sheet of math symbols you can use: <a href=""https://t.co/YnyGgQltmw"">https://t.co/YnyGgQltmw</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a></p>&mdash; One R Tip a Day (@RLangTip) <a href=""https://twitter.com/RLangTip/status/781523954024390656""></a></blockquote>",414,FALSE,NA,## Quote of the Week,unid,2016-10-3

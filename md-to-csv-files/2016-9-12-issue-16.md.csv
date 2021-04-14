@@ -1,0 +1,72 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2016-9-12
+layout: post,12,FALSE,NA,NA,unid,2016-9-12
+title: Issue 16,15,FALSE,NA,NA,unid,2016-9-12
+description: Weekly News in R Community.,40,FALSE,NA,NA,unid,2016-9-12
+---,3,FALSE,NA,NA,unid,2016-9-12
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-9-12
+*Digested by R Weekly Members*,30,FALSE,NA,## Highlight,unid,2016-9-12
+"+ [The R Journal, Volume 8, Issue 1](https://journal.r-project.org/archive/2016-1/)",83,FALSE,NA,## Highlight,link,2016-9-12
++ [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.,105,FALSE,NA,## Highlight,link,2016-9-12
++ [Custom Styling for htmlwidgets](http://www.buildingwidgets.com/blog/2016/9/7/custom-styling-for-htmlwidgets),111,FALSE,NA,#### Tutorials,link,2016-9-12
++ [Using googlesheets and mailR packages in R to automate reporting](https://medium.com/airbnb-engineering/using-googlesheets-and-mailr-packages-in-r-to-automate-reporting-c09579e0377f#.2mbulw257),196,FALSE,NA,#### Tutorials,link,2016-9-12
++ [Build your own neural network classifier in R](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r),131,FALSE,NA,#### Tutorials,link,2016-9-12
+![Build your own neural network classifier in R](https://junma5.weebly.com/uploads/4/6/5/1/46519751/1241933_orig.png),117,FALSE,NA,#### Tutorials,image,2016-9-12
+"+ [Mirror, mirror on the wall Who's the fastest of them all](http://blog.eighty20.co.za//package%20exploration/2016/09/04/Mirror-Mirror/)",137,FALSE,NA,#### Tutorials,link,2016-9-12
++ [Tidying computational biology models with biobroom: a case study in tidy analysis](http://varianceexplained.org/r/tidy-genomics-biobroom/),141,FALSE,NA,#### Tutorials,link,2016-9-12
++ [IBM Data Science Experience:  First steps with yorkr](https://gigadom.wordpress.com/2016/09/04/ibm-data-science-experience-first-steps-with-yorkr/),150,FALSE,NA,#### Tutorials,link,2016-9-12
++ [Showing a different approach to making statistical tests](https://privefl.github.io/blog/Showing-a-different-approach-to-making-statistical-tests/),150,FALSE,NA,#### Tutorials,link,2016-9-12
+![Showing a different approach to making statistical tests](https://privefl.github.io/blog/knitr_files/post-tests_files/figure-html/unnamed-chunk-8-1.png),154,FALSE,NA,#### Tutorials,image,2016-9-12
++ [Analyze pull requests and Travis builds using Rperform](https://techandmortals.wordpress.com/2016/09/05/analyze-pull-requests-and-travis-builds-using-rperform/),163,FALSE,NA,#### Tutorials,link,2016-9-12
++ [GoodReads: Webscraping and Text Analysis with R (Part 1)](http://datascienceplus.com/goodreads-webscraping-and-text-analysis-with-r-part-1/),143,FALSE,NA,#### Tutorials,link,2016-9-12
++ [Software engineering data sets](http://shape-of-code.coding-guidelines.com/2016/09/05/software-engineering-data-sets/),121,FALSE,NA,#### Tutorials,link,2016-9-12
++ [R Programming – Pitfalls to avoid (Part 1)](http://datascienceplus.com/r-programming-pitfalls-to-avoid-part-1/),114,FALSE,NA,#### Tutorials,link,2016-9-12
++ [MinechaRts #1 (Minecraft + R + Edgar Anderson’s Iris Data)](http://smarterpoland.pl/index.php/2016/09/minecharts-1-minecraft-r-edgar-andersons-iris-data/),157,FALSE,NA,#### Tutorials,link,2016-9-12
+"+ [HW Checker: R, AppScripts, & Google Forms](http://data-steve.github.io/build-homework-checker-pt1/)",102,FALSE,NA,#### Tutorials,link,2016-9-12
++ [The palettes of Earth](http://blog.revolutionanalytics.com/2016/09/the-pallettes-of-earth.html),98,FALSE,NA,#### Tutorials,link,2016-9-12
+![The palettes of Earth](https://a7.typepad.com/6a0105360ba1c6970c01b8d21a3227970c-pi),86,FALSE,NA,#### Tutorials,image,2016-9-12
++ [Classification in Spark 2.0: “Input validation failed” and other wondrous tales](http://www.nodalpoint.com/spark-classification/),132,FALSE,NA,#### Tutorials,link,2016-9-12
++ [What Every R Package Must (REALLY) Contain? An Example on the eRum2016 Package](http://r-addict.com/2016/09/08/Package-Must-Have.html),137,FALSE,NA,#### Tutorials,link,2016-9-12
++ [Effect-Size Calculation for Meta-Analysis in R #rstats](https://strengejacke.wordpress.com/2016/09/08/effect-size-calculation-for-meta-analysis-in-r-rstats/),160,FALSE,NA,#### Tutorials,link,2016-9-12
++ [Make Easy Heatmaps to Visualize your Turnaround Times](http://labrtorian.com/2016/09/08/make-easy-heatmaps-to-visualize-your-turnaround-times/),146,FALSE,NA,#### Tutorials,link,2016-9-12
++ [Exploring Fitness Data in R](https://jonathande4.wordpress.com/2016/09/05/exploring-fitness-data-in-r/),106,FALSE,NA,#### Tutorials,link,2016-9-12
++ [Why Track and Field Stars Don’t Break Records Like They Used To (But Swimmers Do)](https://buzzfeednews.github.io/2016-07-athletic-performances/graphics-code.html),166,FALSE,NA,#### R in the Real World,link,2016-9-12
++ [PPR League Gold Mining – Week 1](http://fantasyfootballanalytics.net/2016/09/ppr-league-gold-mining-week-1.html),115,FALSE,NA,#### R in the Real World,link,2016-9-12
++ [Analyzing #first7jobs tweets with MonkeyLearn and R](https://blog.monkeylearn.com/analyzing-first7jobs-tweets-monkeylearn-r/),128,FALSE,NA,#### R in the Real World,link,2016-9-12
+![Analyzing #first7jobs tweets with MonkeyLearn and R](https://blog.monkeylearn.com/wp-content/uploads/2016/09/circle.png),122,FALSE,NA,#### R in the Real World,image,2016-9-12
++ [Excel errors and science papers](http://www.economist.com/blogs/graphicdetail/2016/09/daily-chart-3?fsrc=scn/fb/te/bl/ed/excelerrorsandsciencepapers),152,FALSE,NA,#### R in the Real World,link,2016-9-12
+"+ [Land Conflict, Property Rights and Deforestation in Brasil](http://freigeist.devmag.net/economics/950-land-conflict-property-rights-and-deforestation-in-brasil.html)",168,FALSE,NA,#### R in the Real World,link,2016-9-12
++ [Human in A.I. loop](https://sanealytics.com/2016/09/09/human-in-a-i-loop/),77,FALSE,NA,#### R in the Real World,link,2016-9-12
++ [Annual Mean Temperature Trends – 12 Airports](https://rclimate.wordpress.com/2016/09/06/annual-mean-temperature-trends-12-airports/),135,FALSE,NA,#### R in the Real World,link,2016-9-12
+![Annual Mean Temperature Trends – 12 Airports](https://i1.wp.com/rclimate.files.wordpress.com/2016/09/12_airport_trend.gif?w=456&ssl=1),136,FALSE,NA,#### R in the Real World,image,2016-9-12
++ [BOOK REVIEW: Financial Analytics with R](https://blog.quandl.com/book-review-financial-analytics-r-building-laptop-laboratory-data-science),142,FALSE,NA,#### R in the Real World,link,2016-9-12
++ [Are Pokémon GO Mentions Really Driving Up Stock Prices? Rebuilding Bloomberg’s News Trends in R](https://www.datacamp.com/community/tutorials/recreate-bloomberg-terminal-news-trends-r#gs.a8E1oS4),198,FALSE,NA,#### R in the Real World,link,2016-9-12
++ [Chaotic Galaxies](https://aschinchon.wordpress.com/2016/09/06/chaotic-galaxies/),83,FALSE,NA,#### R for Fun,link,2016-9-12
+"+ [Sharing thoughts on satRdays R Conference, Budapest 2016 #satRdays](https://tomaztsql.wordpress.com/2016/09/06/sharing-thoughts-on-satrdays-r-conference-budapest-2016-satrdays/)",180,FALSE,NA,#### R in Organization,link,2016-9-12
++ [The start of satRdays](http://feeds.rapporter.net/~r/rapporter-r/~3/rCgF_FZxKzo/the-start-of-satrdays.html),110,FALSE,NA,#### R in Organization,link,2016-9-12
++ [Postdoctoral Scholar – Sustainable Software and Reproducible Research](http://ropensci.org/blog/2016/09/07/postdoc-position),127,FALSE,NA,#### R in Organization,link,2016-9-12
++ [Running R on AWS](https://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS),96,FALSE,NA,#### R in Organization,link,2016-9-12
+"+ [Qlik to add R, Python support](http://www.computerworld.com/article/3118350/business-intelligence/qlik-to-add-r-python-support.html)",135,FALSE,NA,#### R in Organization,link,2016-9-12
++ [In case you missed it: August 2016 roundup](http://blog.revolutionanalytics.com/2016/09/in-case-you-missed-it-august-2016-roundup.html),138,FALSE,NA,#### R in Organization,link,2016-9-12
++ [R Epidemics Consortium](https://reconhub.github.io/),55,FALSE,NA,#### R in Organization,link,2016-9-12
+"+ [The R Journal, Volume 8, Issue 1](https://journal.r-project.org/archive/2016-1/)",83,FALSE,NA,#### R in Academia,link,2016-9-12
++ [What the world needs now: Even more R/RStudio instructional videos](https://datahowler.wordpress.com/2016/09/09/what-the-world-needs-now-even-more-rrstudio-instructional-videos/),181,FALSE,NA,## Video and Podcast,link,2016-9-12
++ [Announcing R Course Finder](http://r-exercises.com/2016/09/04/announcing-r-course-finder/),93,FALSE,NA,## Resources,link,2016-9-12
++ [Peer-led Data Analysis in R at UT Austin](https://ccbbatut.github.io/rstats_fall2016/),89,FALSE,NA,## Resources,link,2016-9-12
++ [googleVis 0.6.1](http://www.magesblog.com/2016/09/googlevis-061-on-cran.html) - R Interface to Google Charts.,112,FALSE,NA,## New Releases,link,2016-9-12
++ [RProtoBuf 0.4.6](http://dirk.eddelbuettel.com/blog/2016/09/09#rprotobuf_0.4.6) - bugfix update.,98,FALSE,NA,## New Releases,link,2016-9-12
++ [magick 0.3](http://ropensci.org/blog/technotes/2016/09/08/magick-release-03) -  Magick is a package for Advanced Image-Processing in R.,138,FALSE,NA,## New Releases,link,2016-9-12
++ [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.,105,FALSE,NA,## New Packages & Tools,link,2016-9-12
++ [rtide](http://lukemiller.org/index.php/2016/09/rtide-a-r-package-for-predicting-tide-heights-us-locations-only-currently/) -  a R package for predicting tide heights (US locations only currently).,199,FALSE,NA,## New Packages & Tools,link,2016-9-12
++ [esc](https://strengejacke.wordpress.com/2016/09/08/effect-size-calculation-for-meta-analysis-in-r-rstats/) - Effect Size Computation for Meta Analysis.,154,FALSE,NA,## New Packages & Tools,link,2016-9-12
++ [tidyjson](https://github.com/jeremystan/tidyjson) - `tidyjson` provides tools for turning complex json into tidy data.,121,FALSE,NA,## New Packages & Tools,link,2016-9-12
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,## R Project Updates,unid,2016-9-12
+"+ Arithmetic, logic (`&`, `|`) and comparison (aka `relational`, e.g., `<`, `==`) operations with arrays now behave consistently, notably for arrays of length zero.",164,FALSE,NA,## R Project Updates,unid,2016-9-12
+"+ Arithmetic between length-1 arrays and longer non-arrays had silently dropped the array attributes and recycled. This now gives a warning and will signal an error in the future, as it has always for logic and comparison operations in these cases (e.g., compare `matrix(1,1) + 2:3` and `matrix(1,1) < 2:3`).",308,FALSE,NA,## R Project Updates,unid,2016-9-12
++ `R CMD config` gains a `--all` option for printing names and values of all basic configure variables.,103,FALSE,NA,## R Project Updates,unid,2016-9-12
+"+ Arithmetic, logic (`&`, `|`) and comparison (aka `relational`, e.g., `<`, `==`) operations with arrays now behave consistently. Arithmetic between length-1 arrays and longer non-arrays had silently dropped the array attributes and recycled. This now gives a warning and will signal an error in the future, as it has always for logic and comparison operations in these cases (e.g., compare `matrix(1,1) + 2:3` and `matrix(1,1) < 2:3`).",436,FALSE,NA,## R Project Updates,unid,2016-9-12
++ [EARL 2016 London](https://earlconf.com/)  **13 September - 15 September** <br>,81,FALSE,NA,## Upcoming Events,link,2016-9-12
+The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br />,173,FALSE,NA,## Upcoming Events,unid,2016-9-12
+"+ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **12 October - 14 October** <br>",89,FALSE,NA,## Upcoming Events,link,2016-9-12
+"European R users meeting (eRum) is an international conference that aims at integrating users of the R language. eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate. <br />",216,FALSE,NA,## Upcoming Events,unid,2016-9-12
+"<blockquote class=""twitter-tweet"" data-lang=""zh-cn""><p lang=""en"" dir=""ltr"">Hrm. Load bioconductor stuff or tidyverse first? <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://t.co/kHXt4Eul7D"">pic.twitter.com/kHXt4Eul7D</a></p>&mdash; Stephen Turner (@genetics_blog) <a href=""https://twitter.com/genetics_blog/status/773596112913653760""></a></blockquote>",385,FALSE,NA,## Quote of the Week,unid,2016-9-12

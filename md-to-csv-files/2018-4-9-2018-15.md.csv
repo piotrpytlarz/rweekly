@@ -1,0 +1,104 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-4-9
+"title: R Weekly 2018-15 Peer Review, anomalize, TidyTuesday",59,FALSE,NA,NA,unid,2018-4-9
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-4-9
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-4-9
+---,3,FALSE,NA,NA,unid,2018-4-9
++ [Where is the value in package peer review?](https://ropensci.org/blog/2018/04/06/peer-review-value/),103,FALSE,NA,###  Highlight,link,2018-4-9
++ [anomalize](https://business-science.github.io/anomalize/) - Tidy anomaly detection,85,FALSE,NA,###  Highlight,link,2018-4-9
++ [TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/),135,FALSE,NA,###  Highlight,link,2018-4-9
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-4-9
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-4-9
++ [ggridges](https://cran.r-project.org/web/packages/ggridges/index.html) - Ridgeline Plots in 'ggplot2',104,FALSE,NA,###  New Packages,link,2018-4-9
++ [anomalize](https://business-science.github.io/anomalize/) - Tidy anomaly detection,85,FALSE,NA,###  New Packages,link,2018-4-9
+![anomalize](https://raw.githubusercontent.com/rweekly/image/master/2018/ts-a.png),82,FALSE,NA,###  New Packages,image,2018-4-9
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-4-9
+"* [regexplain 0.2.0](https://github.com/gadenbuie/regexplain/#readme) - An RStudio Addin slash utility belt for regular expressions. Interactively build your regexps, check the output of common string matching functions, consult the interactive help pages, or use the included resources to learn regular expressions *without leaving RStudio!*",342,FALSE,NA,###  New Packages,unid,2018-4-9
++ [Inkognito - Sequential Bayesian Identity Disclosure](http://staff.math.su.se/hoehle/blog/2018/04/03/inkognito.html),118,FALSE,NA,###  New Packages,link,2018-4-9
++ [startup 0.10.0](https://cran.r-project.org/package=startup) - Friendly R Startup Configuration,97,FALSE,NA,### Package Releases,link,2018-4-9
++ [bayesplot 1.5.0](https://tjmahr.github.io/ridgelines-in-bayesplot-1-5-0-release/) - An extensive library of plotting functions for use after fitting Bayesian models.,168,FALSE,NA,### Package Releases,link,2018-4-9
+![bayesplot 1.5.0](https://raw.githubusercontent.com/rweekly/image/master/2018/baplot.png),90,FALSE,NA,### Package Releases,image,2018-4-9
++ [How to use R and Markdown to write dissertations & student research reports reproducibly with huskydown](https://github.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students),182,FALSE,NA,###  Resources,link,2018-4-9
++ [R and TensorFlow Presentations](https://rviews.rstudio.com/2018/04/03/r-and-tensorflow-presentations/),105,FALSE,NA,###  Resources,link,2018-4-9
++ [A few podcast recommendations](http://blog.revolutionanalytics.com/2018/04/podcasts.html),92,FALSE,NA,###  Resources,link,2018-4-9
++ [Where is the value in package peer review?](https://ropensci.org/blog/2018/04/06/peer-review-value/),103,FALSE,NA,### Insights,link,2018-4-9
++ [Constricted development with reticulate](https://jcarroll.com.au/2018/04/04/reticulate/),91,FALSE,NA,### Insights,link,2018-4-9
++ [Performance: Avoid Coercing Indices To Doubles](https://www.jottr.org/2018/04/02/coercion-of-indices/),105,FALSE,NA,### Insights,link,2018-4-9
++ [Creating wedding aRtwoRk with R](https://www.peterhickey.org/2018/04/03/wedding-artwork/),92,FALSE,NA,### Insights,link,2018-4-9
+![Nine sentence drawings of Kirsty and Kelly's wedding ceremony](https://raw.githubusercontent.com/rweekly/image/master/2018/wedding.png),137,FALSE,NA,### Insights,image,2018-4-9
++ [A debugging journey - debugging a weird bug in macOS](http://www.jimhester.com/2018/03/30/debugging-journey/),112,FALSE,NA,### Insights,link,2018-4-9
+"+ [Use shortcodes to embed tweets, videos, etc. in your blogdown blog posts ](http://www.reigo.eu/2018/04/shortcodes/)",118,FALSE,NA,### Insights,link,2018-4-9
++ [RStudio GPU Workstations in the Cloud with Paperspace](https://tensorflow.rstudio.com/blog/rstudio-gpu-paperspace.html),122,FALSE,NA,###  R in Organizations,link,2018-4-9
++ [TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/),135,FALSE,NA,###  R in Organizations,link,2018-4-9
++ [Exploring R-Bloggers Posts with the Feedly API](https://rud.is/b/2018/04/04/exploring-r-bloggers-posts-with-the-feedly-api/),127,FALSE,NA,### R in the Real World,link,2018-4-9
++ [Visualizing geo-spatial data with sf and plotly](https://moderndata.plot.ly/visualizing-geo-spatial-data-with-sf-and-plotly/),128,FALSE,NA,### R in the Real World,link,2018-4-9
++ [More Options For Querying DNS From R with 1.1.1.1](https://rud.is/b/2018/04/01/more-options-for-querying-dns-from-r-with-1-1-1-1/),133,FALSE,NA,### R in the Real World,link,2018-4-9
++ [Deaths per firearm violence event](http://freerangestats.info/blog/2018/04/01/truncated-negbin-gun-violence),111,FALSE,NA,### R in the Real World,link,2018-4-9
++ [Cherry blossoms in Kyoto have been gradually blooming earlier in the year!](https://ryo-n7.github.io/2018-04-02-sakura-surprise/),132,FALSE,NA,### R in the Real World,link,2018-4-9
++ [Input on the Draft NIH Strategic Plan for Data Science](https://simplystatistics.org/2018/04/02/input-on-the-draft-nih-strategic-plan-for-data-science/),155,FALSE,NA,### R in the Real World,link,2018-4-9
++ [Do you sometimes have trouble understanding other humans? Perhaps human-human relations droid SN2-D2 can help](https://www.brucemeng.ca/project/sn2-d2/),155,FALSE,NA,### R in the Real World,link,2018-4-9
+![Do you sometimes have trouble understanding other humans? Perhaps human-human relations droid SN2-D2 can help](https://www.brucemeng.ca/img/sentibot.twitter.gif),163,FALSE,NA,### R in the Real World,image,2018-4-9
++ [Cat food analytics](https://erle.io/blog/2018-03-30-kibble-analytics/),73,FALSE,NA,### R in the Real World,link,2018-4-9
+![Cat food analytics](https://raw.githubusercontent.com/rweekly/image/master/2018/bowl_trajectories.png),104,FALSE,NA,### R in the Real World,image,2018-4-9
+"+ [Tidytext analysis of over 300,000 comments on Breitbart News articles related to the Mueller investigation ](https://rayms.github.io/2018-03-31-what-are-breitbart-readers-saying-about-the-mueller-investigation/)",214,FALSE,NA,### R in the Real World,link,2018-4-9
++ [Backed by data](https://www.johnmackintosh.com/2018-04-02-Backed-By-Data/) - Minimising risk of delayed flight departure,123,FALSE,NA,### R in the Real World,link,2018-4-9
+"+ [« tidyeval », vous avez dit « tidyeval » ?](https://thinkr.fr/tidyeval/)",75,FALSE,NA,### R Internationally,link,2018-4-9
++ [Dplyr Data Wrangling Part 4: Summarizing and slicing your data](https://suzan.rbind.io/2018/04/dplyr-tutorial-4/),116,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Visualisation of interaction for the logistic regression](http://data-se.netlify.com/2018/04/02/visualisation-of-interaction-for-logistic-regression/),153,FALSE,NA,###  Tutorials,link,2018-4-9
++ [How to explore a dataset from the fivethirtyeight package with tidyr and dplyr](http://www.storybench.org/how-to-explore-a-dataset-from-the-fivethirtyeight-package-in-r/),173,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Time based heatmaps in R](https://www.littlemissdata.com/blog/heatmaps),74,FALSE,NA,###  Tutorials,link,2018-4-9
+![Time based heatmaps in R](https://raw.githubusercontent.com/rweekly/image/master/2018/Heatmap2.png),101,FALSE,NA,###  Tutorials,image,2018-4-9
++ [Principles for Pipe-Friendly APIs in R Packages](http://unconj.ca/blog/principles-for-pipe-friendly-apis.html),113,FALSE,NA,###  Tutorials,link,2018-4-9
+"+ [An overview of keyword extraction techniques for text mining](http://bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques) - parts of speech tagging for noun extraction, collocations, co-occurrences, textrank, rapid automatic keyword extraction (rake), phrases, extracting text subject based on dependency parsing",336,FALSE,NA,###  Tutorials,link,2018-4-9
++ [GAMM random effects](http://drmowinckels.io/blog/gamm-random-effects/),73,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Introduction of the snakecase package highlighting the main use cases of case conversion in data analysis](https://www.malte-grosser.com/post/introducing-the-snakecase-package/),180,FALSE,NA,###  Tutorials,link,2018-4-9
++ [How to use the lingtypology package to gather various data on the languages of the world and create interactive maps](https://peerchristensen.netlify.com/post/2018-02-20-lingtypology/),187,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Two scales in ggplot2](https://sebastianrothbucher.github.io/datascience/r/visualization/ggplot/2018/03/24/two-scales-ggplot-r.html),135,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Uploads in Shiny](https://sebastianrothbucher.github.io/datascience/r/visualization/shiny/upload/2018/01/30/shiny-upload-get-app-out.html),141,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Compute/Visualize Drive Space Consumption of Your Installed R Packages](https://rud.is/b/2018/04/01/compute-visualize-drive-space-consumption-of-your-installed-r-packages/),175,FALSE,NA,###  Tutorials,link,2018-4-9
+![Compute/Visualize Drive Space Consumption of Your Installed R Packages](https://raw.githubusercontent.com/rweekly/image/master/2018/pkg_size.png),147,FALSE,NA,###  Tutorials,image,2018-4-9
++ [R Tip: Think in Terms of Values](http://www.win-vector.com/blog/2018/04/r-tip-think-in-terms-of-values/),107,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Learning from and improving upon ggplotly conversions](https://moderndata.plot.ly/learning-from-and-improving-upon-ggplotly-conversions/),140,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Finding a length n needle in a haystack](https://coolbutuseless.bitbucket.io/2018/04/03/finding-a-length-n-needle-in-a-haystack/),132,FALSE,NA,###  Tutorials,link,2018-4-9
++ [ὕδωρ + σκοπῶ = water + observe](https://ropensci.org/blog/2018/04/03/hydroscoper/),85,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Mathematical art in R ](http://blog.revolutionanalytics.com/2018/04/mathematical-art-in-r-.html),99,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Freeing Educational Data With A Shiny App](http://kgilds.rbind.io/2018/04/04/freeing-educational-data-with-a-shiny-app/),123,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Four Years of Practical Data Science with R](http://www.win-vector.com/blog/2018/04/four-years-of-practical-data-science-with-r/),132,FALSE,NA,###  Tutorials,link,2018-4-9
++ [Adding macOS Touch Bar Support to RStudio](https://rud.is/b/2018/04/06/adding-macos-touch-bar-support-to-rstudio/),117,FALSE,NA,###  Tutorials,link,2018-4-9
+"+ [magrittr and wrapr Pipes in R, an Examination](http://www.win-vector.com/blog/2018/04/magrittr-and-wrapr-pipes-in-r-an-examination/)",135,FALSE,NA,###  Tutorials,link,2018-4-9
++ [A new RStudio addin to facilitate inserting tables in Rmarkdown documents](https://lbusett.netlify.com/post/a-new-rstudio-addin-to-facilitate-inserting-tables-in-rmarkdown-documents/),186,FALSE,NA,###  Tutorials,link,2018-4-9
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-4-9
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-4-9
+"+ `matplot(.., panel.first = .)` etc now work, as `log` becomes explicit argument and `...` is passed to `plot()` unevaluated, as suggested by Sebastian Meyer in PR#17386.",171,FALSE,NA,###  R Project Updates,unid,2018-4-9
++ Deparsing of consecutive `!` calls is now consistent with deparsing unary `-` and `+` calls and creates code that can be reparsed exactly; thanks to a patch Lionel Henry in PR#17397.,184,FALSE,NA,###  R Project Updates,unid,2018-4-9
+"+ The C++ compiler defaults to the C++11 standard, if suported; otherwise to the C++98 standard.",96,FALSE,NA,###  R Project Updates,unid,2018-4-9
+"+ `Sys.setFileTime()` has been vectorized, its arguments `path` and `time` of length greater than one are now supported.",120,FALSE,NA,###  R Project Updates,unid,2018-4-9
++ `file.copy()` now works also when its argument `to` is of length greater than one.,84,FALSE,NA,###  R Project Updates,unid,2018-4-9
++ `substr()` and `substring()` now signal error when the input is invalid UTF-8.,80,FALSE,NA,###  R Project Updates,unid,2018-4-9
+"+ `configure` sets the `-std` flag for the C++ compiler for all supported C++ standards (e.g., `-std=gnu++11` for the C++11 compiler).",134,FALSE,NA,###  R Project Updates,unid,2018-4-9
+"+ `match.arg()` more carefully chooses the environment for constucting default `choices`, fixing PR#17401 as proposed by Duncan Murdoch.",136,FALSE,NA,###  R Project Updates,unid,2018-4-9
+"+ `replayPlot(r)` now also works in the same R session when `r` has been “reproduced” from serialization, typically after saving to and reading from an RDS file.",161,FALSE,NA,###  R Project Updates,unid,2018-4-9
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
++ New York R conference **Aprl 20-21** <br />,45,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
+"[New York R conference](https://www.rstats.nyc/), Discount Code : rladies",73,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
++ [eRum 2018](http://2018.erum.io) **May 14-16** <br />,55,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-9
+"European R Users Meeting @ Budapest, Hungary",44,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
+[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
++ [CascadiaRConf](https://cascadiarconf.com/) **June 2**,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-9
+"Portland, OR, US",16,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
+<!--,4,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-9
+Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
++ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-9
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-9
+"Buenos Aires, Argentina. -->",28,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-9
++ [CarpentryCon](http://www.carpentrycon.org/) -,48,FALSE,NA,###  Call for Participation,link,2018-4-9
+May 30 - June 1 at University College Dublin. Conference about how to teach and communicate ideas effectively.,110,FALSE,NA,###  Call for Participation,unid,2018-4-9
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-4-9
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">I&#39;m speaking at Berkeley on Wednesday about using visualisations to help understand some important <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> theory: <a href=""https://t.co/eUEBYj8wza"">https://t.co/eUEBYj8wza</a> <a href=""https://t.co/608NbmITO2"">pic.twitter.com/608NbmITO2</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/982300348822900736?ref_src=twsrc%5Etfw"">April 6, 2018</a></blockquote>",563,FALSE,NA,###  Quotes of the Week,unid,2018-4-9
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> life hack: <br><br>for every function that takes a data.frame as input, write a unit test where you pass in a single column df — this will catch most of your drop=TRUE bugs</p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href=""https://twitter.com/thomasp85/status/982220787842076673?ref_src=twsrc%5Etfw"">April 6, 2018</a></blockquote>",495,FALSE,NA,###  Quotes of the Week,unid,2018-4-9
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">THIS IS THE MOST IMPORTANT <a href=""https://twitter.com/hashtag/RSTATS?src=hash&amp;ref_src=twsrc%5Etfw"">#RSTATS</a> PACKAGE ON CRAN <a href=""https://t.co/08LOs6Y8sc"">https://t.co/08LOs6Y8sc</a> <a href=""https://t.co/hkKc62mTEw"">pic.twitter.com/hkKc62mTEw</a></p>&mdash; Desi Quintans (@eco_desi) <a href=""https://twitter.com/eco_desi/status/981778041306148864?ref_src=twsrc%5Etfw"">April 5, 2018</a></blockquote>",484,FALSE,NA,###  Quotes of the Week,unid,2018-4-9
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">After using R <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> so frequently, does anyone else get disappointed while writing an email that you can&#39;t double click a word and get quotes around it with a single keystroke? I forget all the time, and end up replacing the word with a single quotation mark 😒</p>&mdash; Valerie Welty (@val_welty) <a href=""https://twitter.com/val_welty/status/980116482209218560?ref_src=twsrc%5Etfw"">March 31, 2018</a></blockquote>",576,FALSE,NA,###  Quotes of the Week,unid,2018-4-9

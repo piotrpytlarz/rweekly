@@ -1,0 +1,97 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2020-02-03
+"title: R Weekly 2020-05 rstudio::conf 2020 - debugging, ggeasy, GitHub actions",78,FALSE,NA,NA,unid,2020-02-03
+description: Weekly News in the R Community,43,FALSE,NA,NA,unid,2020-02-03
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2020-02-03
+---,3,FALSE,NA,NA,unid,2020-02-03
+Release Date: 2020-02-03,24,FALSE,NA,NA,unid,2020-02-03
+"This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast), with help from the RWeekly team members and contributors.",136,FALSE,NA,NA,unid,2020-02-03
++ [Object of type 'closure' is not subsettable](https://github.com/jennybc/debugging#readme),92,FALSE,NA,###  Highlight,link,2020-02-03
++ [ggeasy: Easy access to `ggplot2` commands](https://cran.r-project.org/web/packages/ggeasy/index.html),104,FALSE,NA,###  Highlight,link,2020-02-03
++ [GitHub Actions for the R language](https://github.com/r-lib/actions),71,FALSE,NA,###  Highlight,link,2020-02-03
+"+ [RStudio, PBC](https://blog.rstudio.com/2020/01/29/rstudio-pbc/)",66,FALSE,NA,### Insights,link,2020-02-03
++ [Lessons Learned from My First MiniCompetion ](https://educators-r-learners.netlify.com/post/lessons-learned-from-first-minicompetion/),137,FALSE,NA,### Insights,link,2020-02-03
++ [How Rmarkdown changed my life](https://robjhyndman.com/seminars/rmarkdown/),78,FALSE,NA,### Insights,link,2020-02-03
++ [Becoming an R blogger](https://github.com/rlbarter/rstudio-conf-2020-blogger-slides/blob/master/Becoming%20an%20R%20blogger.pdf),131,FALSE,NA,### Insights,link,2020-02-03
++ [Learning R with Humorous Side Projects](http://www.ryantimpe.com/rstudio2020.pdf),84,FALSE,NA,### Insights,link,2020-02-03
++ [Technical Debt is a Social Problem](https://techdebt.shotwell.ca/),69,FALSE,NA,### Insights,link,2020-02-03
++ [The Glamour of Graphics](https://www.williamrchase.com/slides/assets/player/KeynoteDHTMLPlayer.html),103,FALSE,NA,### Insights,link,2020-02-03
++ [RMarkdown Driven Development](https://www.slideshare.net/EmilyRiederer/rmarkdown-driven-development-rstudioconf-2020),120,FALSE,NA,### Insights,link,2020-02-03
++ [UnicoRns are real](https://unicorns-are-real.netlify.com),60,FALSE,NA,### Insights,link,2020-02-03
++ [Scraping the Sugarcoat: Webscraping Rubik's Cube Competition Results!](http://staff.math.su.se/hoehle/blog/2020/01/22/wcascrape.html),136,FALSE,NA,### R in the Real World,link,2020-02-03
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-03/SENIORTRAJ-1.png),87,FALSE,NA,### R in the Real World,image,2020-02-03
+"+ [Dynamic discrete choice models, reinforcement learning and Harold, part 1](https://www.brodrigues.co/blog/2020-01-26-harold/)",128,FALSE,NA,### R in the Real World,link,2020-02-03
++ [Does Australia need More Fires (but the Right Kind)? A Multi-Agent Simulation](https://blog.ephorie.de/does-australia-need-more-fires-but-the-right-kind-a-multi-agent-simulation),181,FALSE,NA,### R in the Real World,link,2020-02-03
+"+ [The significance of gender on the salary in Sweden, a comparison between different occupational groups](http://mikaellundqvist.rbind.io/2020/01/27/the-significance-of-gender-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups/)",253,FALSE,NA,### R in the Real World,link,2020-02-03
++ [Lewis Carroll's proposed rules for tennis tournaments by @ellis2013nz](http://freerangestats.info/blog/2020/02/01/tennis-carroll),132,FALSE,NA,### R in the Real World,link,2020-02-03
++ [How NHS-R Community do The Apprentice…](https://nhsrcommunity.com/blog/how-nhs-r-community-do-the-apprentice/),113,FALSE,NA,###  R in Organizations,link,2020-02-03
++ [R Consortium Simplifies Membership Structure to Increase Opportunities for Silver Level Members](https://www.r-consortium.org/announcement/2020/01/29/r-consortium-simplifies-membership-structure-to-increase-opportunities-for-silver-level-members),249,FALSE,NA,###  R in Organizations,link,2020-02-03
++ [Approaches to Assay Processing Package Validation](https://thebioengineer.github.io/validation/),99,FALSE,NA,###  R in Organizations,link,2020-02-03
++ [The transmissibility of novel Coronavirus in the early stages of the 2019-20 outbreak in Wuhan: Exploring initial point-source exposure sizes and durations using scenario analysis](https://epiforecasts.io/WuhanSeedingVsTransmission/articles/output.html),256,FALSE,NA,###  R in Academia,link,2020-02-03
+![](https://raw.githubusercontent.com/epiforecasts/WuhanSeedingVsTransmission/master/vignettes/figures/density-r-plot-1.png),124,FALSE,NA,###  R in Academia,image,2020-02-03
+"+ [The Rockerverse: Packages and Applications for Containerization with R - Daniel Nüst, Dirk Eddelbuettel, Dom Bennett, et al.](https://arxiv.org/abs/2001.10641)",162,FALSE,NA,###  R in Academia,link,2020-02-03
++ [On the relationship of the sample size and the correlation](https://theressomethingaboutr.wordpress.com/2020/01/27/on-the-relationship-of-the-sample-size-and-the-correlation/),178,FALSE,NA,###  R in Academia,link,2020-02-03
++ [Call BEAST2 for Bayesian evolutionary analysis from R](https://ropensci.org/blog/2020/01/28/babette/),104,FALSE,NA,###  R in Academia,link,2020-02-03
++ [Supplement to 'Nonparametric estimation of the service time distribution in discrete-time queueing networks'](http://www.sastibe.de/2020/01/supplement-to-nonparametric-estimation-of-the-service-time-distribution-in-discrete-time-queueing-networks/),251,FALSE,NA,###  R in Academia,link,2020-02-03
++ [another easy Riddler](https://xianblog.wordpress.com/2020/01/31/another-easy-riddler/),89,FALSE,NA,###  R in Academia,link,2020-02-03
++ [Do my data follow a normal distribution ? A note on the most widely used distribution and how to test for normality in R](https://www.statsandr.com/blog/do-my-data-follow-a-normal-distribution-a-note-on-the-most-widely-used-distribution-and-how-to-test-for-normality-in-r/),276,FALSE,NA,###  R in Academia,link,2020-02-03
++ [An Intuitive Look at Binomial Probability in a Bayesian Context](https://willhipson.netlify.com/post/bayesian_intro/binomial_gold/),134,FALSE,NA,###  R in Academia,link,2020-02-03
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-03/unnamed-chunk-10-1.gif),93,FALSE,NA,###  R in Academia,image,2020-02-03
++ [RStudio::Conf 2020 Slides](https://github.com/EmilHvitfeldt/RStudioConf2020Slides),85,FALSE,NA,###  Resources,link,2020-02-03
++ [Object of type 'closure' is not subsettable](https://github.com/jennybc/debugging#readme),92,FALSE,NA,###  Resources,link,2020-02-03
++ [Code examples in the R package manuals](https://blog.r-hub.io/2020/01/27/examples/),86,FALSE,NA,###  Resources,link,2020-02-03
+"+ [Teacups, Giraffes, & Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)",107,FALSE,NA,###  Resources,link,2020-02-03
++ [GitHub Actions for the R language](https://github.com/r-lib/actions),71,FALSE,NA,###  Resources,link,2020-02-03
++ [15+ Resources to Get Started with R](https://r-posts.com/15-resources-to-get-started-with-r/),96,FALSE,NA,###  Resources,link,2020-02-03
++ [Reaping the benefits of the Shiny community (and how you can help too!)](https://rpodcast.shinyapps.io/highlights-shiny/),124,FALSE,NA,###  Resources,link,2020-02-03
+"+ [AI, Machine Learning and Data Science Roundup: January 2020](https://blog.revolutionanalytics.com/2020/01/airoundup-january-2020.html)",137,FALSE,NA,###  Resources,link,2020-02-03
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2020-02-03
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2020-02-03
++ [ggeasy: Easy access to `ggplot2` commands](https://cran.r-project.org/web/packages/ggeasy/index.html),104,FALSE,NA,###  New Packages,link,2020-02-03
++ [wrapr 1.9.6 is now up on CRAN](http://www.win-vector.com/blog/2020/01/wrapr-1-9-6-is-now-up-on-cran/),104,FALSE,NA,###  New Packages,link,2020-02-03
++ [sharpshootR: A Soil Survey Toolkit](https://cran.r-project.org/package=sharpshootR),86,FALSE,NA,###  New Packages,link,2020-02-03
++ [soilDB: Soil Database Interface](https://cran.r-project.org/package=soilDB),78,FALSE,NA,###  New Packages,link,2020-02-03
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2020-02-03
++ [tidymodules: An object-oriented approach to Shiny modules](https://opensource.nibr.com/tidymodules/),103,FALSE,NA,###  New Packages,link,2020-02-03
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-03/ports_intro.png),86,FALSE,NA,###  New Packages,image,2020-02-03
++ [rco: Make Your R Code Run Faster Today!](https://r-posts.com/rco-make-your-r-code-run-faster-today/),103,FALSE,NA,###  New Packages,link,2020-02-03
++ [bootstraplib: Tools for styling shiny and rmarkdown from R via Boostrap (3 or 4) Sass](https://rstudio.github.io/bootstraplib/),130,FALSE,NA,###  New Packages,link,2020-02-03
+"+ [sparklyr 1.1: Foundations, Books, Lakes and Barriers](https://blog.rstudio.com/2020/01/29/sparklyr-1-1/)",107,FALSE,NA,### Updated Packages,link,2020-02-03
++ [Software Updates: bootnet 1.3 and psychonetrics 0.5](http://psychonetrics.org/2020/01/26/software-updates-bootnet-1-3-and-psychonetrics-0-5/),144,FALSE,NA,### Updated Packages,link,2020-02-03
++ [{drake} 7.10.0: A Pipeline Toolkit for Reproducible Computation at Scale](https://cran.r-project.org/package=drake),118,FALSE,NA,### Updated Packages,link,2020-02-03
++ [{cabninets}: Project Specific Workspace Organization Templates](https://cran.r-project.org/package=cabinets),111,FALSE,NA,### Updated Packages,link,2020-02-03
+"+ [Residual Snippets: An informal and free-flowing audio series about R, data science, and the world of open-source](https://rpodcast.shinyapps.io/rsnippets)",157,FALSE,NA,###  Videos and Podcasts,link,2020-02-03
++ [번역: 초보자를 위한 RStudio 의 프로젝트 와 작업 디렉토리](https://chukycheese.github.io/data%20science/rstudio-project-and-working-directories/),127,FALSE,NA,### R Internationally,link,2020-02-03
++ [Análises sobre SICONF: Despesas com educação x IDEB](https://analise-siconfi-ideb.tesouro.gov.br/),101,FALSE,NA,### R Internationally,link,2020-02-03
++ [Styling Shiny apps](https://speakerdeck.com/jcheng5/styling-shiny),69,FALSE,NA,###  Tutorials,link,2020-02-03
++ [Programming with data.table](https://johnmackintosh.com/2020-01-27-flexible-datatable-functions/),100,FALSE,NA,###  Tutorials,link,2020-02-03
++ [Getting Things Logged](https://daroczig.github.io/slides/2020-01-29_rstudio-conf_getting-things-logged/#/coverslide),119,FALSE,NA,###  Tutorials,link,2020-02-03
++ [Evaluate your R model with MLmetrics](https://theautomatic.net/2020/01/29/evaluate-your-r-model-with-mlmetrics/),115,FALSE,NA,###  Tutorials,link,2020-02-03
++ [R as a tool for Systems Administration](https://www.jumpingrivers.com/blog/r-as-a-tool-for-systems-administration/),118,FALSE,NA,###  Tutorials,link,2020-02-03
++ [Six Things I Always Google When Using ggplot2](https://ivelasq.rbind.io/blog/things-i-google/),97,FALSE,NA,###  Tutorials,link,2020-02-03
+"+ [Monitoring Website SSL/TLS Certificate Expiration Times with R, {openssl}, {pushoverr}, and {DT}](https://rud.is/b/2020/01/29/monitoring-website-ssl-tls-certificate-expiration-times-with-r-openssl-pushoverr-and-dt/)",218,FALSE,NA,###  Tutorials,link,2020-02-03
++ [Don't Repeat Yourself!](https://nhsrcommunity.com/blog/dont-repeat-yourself-functions/),90,FALSE,NA,###  Tutorials,link,2020-02-03
++ [finding truffles](https://recology.info/2020/01/test-truffles/),66,FALSE,NA,###  Tutorials,link,2020-02-03
++ [Create a Notebook to Explore Country-Level CO2 Emissions With a Few Clicks](https://joachim-gassen.github.io/2020/01/create-a-notebook-to-explore-country-level-co2-emissions-with-a-few-clicks/),196,FALSE,NA,###  Tutorials,link,2020-02-03
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-03/scatterAnimate-1.gif),91,FALSE,NA,###  Tutorials,image,2020-02-03
++ [Shiny CRUD](https://www.tychobra.com/posts/2020-01-29-shiny-crud-traditional/),81,FALSE,NA,###  Tutorials,link,2020-02-03
++ [Beginners guide to Bubble Map with Shiny](https://r-posts.com/beginners-guide-to-bubble-map-with-shiny/),107,FALSE,NA,###  Tutorials,link,2020-02-03
++ [Monsters](https://fronkonstin.com/2020/02/01/monsters/),58,FALSE,NA,###  Tutorials,link,2020-02-03
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-03/frankenstein.png),87,FALSE,NA,###  Tutorials,image,2020-02-03
++ [An efficient way to install and load R packages](https://www.statsandr.com/blog/an-efficient-way-to-install-and-load-r-packages/),132,FALSE,NA,###  Tutorials,link,2020-02-03
++ [Spruce up your ggplot2 visualizations with formatted text](https://www.slideshare.net/ClausWilke/spruce-up-your-ggplot2-visualizations-with-formatted-text),158,FALSE,NA,###  Tutorials,link,2020-02-03
++ [Bridging the gap between SQL and R](https://github.com/ianmcook/rstudioconf2020/blob/master/bridging_the_gap_between_sql_and_r.pdf),134,FALSE,NA,###  Tutorials,link,2020-02-03
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2020-02-03
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2020-02-03
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2020-02-03
+"+ [Intro to R for Plant Pathologists, Feb 19](https://www.magnetmail.net/actions/email_web_version.cfm?ep=kUHipYu2XwcnrCj7ebWre0AVOBNGoDD0anGnwmZigCUHX4T3iSGhDaGnyJ3rZ219g9uzGDG1iMQiR1pKzFt8S91VX_UCd9DL_zqcT8r_DObD5yFyDg6XsFyP7Bo6a-aw)",235,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-02-03
++ [satRday Johannesburg 2020](https://joburg2020.satrdays.org/),63,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-02-03
+"+ [satRday Newcastle upon Tyne, April the 4th](https://newcastle2020.satrdays.org/), Call for speakers for #satRdayNCL closes 31st Jan.",135,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-02-03
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-02-03
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-02-03
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2020-02-03
++ [Wanted: weirdos with good communication skills](https://www.mango-solutions.com/wanted-weirdos-with-good-communication-skills/),130,FALSE,NA,### Jobs,link,2020-02-03
++ [Building the R Community in Southern Africa](https://www.r-consortium.org/blog/2020/01/30/building-the-r-community-in-southern-africa),137,FALSE,NA,###  Call for Participation,link,2020-02-03
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2020-02-03
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Dear Travis,<br><br>I think maybe we should just be friends. It&#39;s not you, it&#39;s me.<br><br>(Okay, it&#39;s you. And <a href=""https://twitter.com/jimhester_?ref_src=twsrc%5Etfw"">@jimhester_</a> just introduced me to <a href=""https://t.co/pHGnSG3lDg"">https://t.co/pHGnSG3lDg</a>)<br><br>Signed,<br>Build #73 is still failing<a href=""https://twitter.com/hashtag/rstudioconf2020?src=hash&amp;ref_src=twsrc%5Etfw"">#rstudioconf2020</a></p>&mdash; garrickAdenBuie (@grrrck) <a href=""https://twitter.com/grrrck/status/1222624200587796480?ref_src=twsrc%5Etfw"">January 29, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",736,FALSE,NA,###  Quotes of the Week,unid,2020-02-03
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Probably the first time that FOUR R Weekly (<a href=""https://twitter.com/rweekly_org?ref_src=twsrc%5Etfw"">@rweekly_org</a>) newsletter editors met up at a single conference? Some of us still have some <a href=""https://twitter.com/hashtag/RWeekly?src=hash&amp;ref_src=twsrc%5Etfw"">#RWeekly</a> hex stickers if you’re interested in one 😉 <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/RStudioConf2020?src=hash&amp;ref_src=twsrc%5Etfw"">#RStudioConf2020</a> <a href=""https://t.co/p1phKeoT0k"">pic.twitter.com/p1phKeoT0k</a></p>&mdash; ⚽️Ryo Nakagawara📊 (@R_by_Ryo) <a href=""https://twitter.com/R_by_Ryo/status/1223043482459131905?ref_src=twsrc%5Etfw"">January 31, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",903,FALSE,NA,###  Quotes of the Week,unid,2020-02-03

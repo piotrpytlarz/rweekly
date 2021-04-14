@@ -1,0 +1,89 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2017-06-26
+"title: R Weekly 2017-26 Reddit Hug, Paradox",43,FALSE,NA,NA,unid,2017-06-26
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-06-26
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2017-06-26
+---,3,FALSE,NA,NA,unid,2017-06-26
+"+ [Tabs, spaces and your salary - how is it really?](http://evelinag.com/blog/2017/06-20-stackoverflow-tabs-spaces-and-salary/#.WUpL4nS-uf1)",140,FALSE,NA,###  Highlight,link,2017-06-26
++ [Visualizing a Reddit Hug Of Death With R: How To Reddit-Proof Your Website For Pocket Change](http://tylermw.com/visualizing-a-reddit-hug-of-death-and-how-to-reddit-proof-your-website-for-pocket-change/),206,FALSE,NA,###  Highlight,link,2017-06-26
++ [useRs Participation in the R Community](http://forwards.github.io/blog/2017/06/19/users-participation-in-the-r-community/),125,FALSE,NA,###  Highlight,link,2017-06-26
+"+ [Tabs, spaces and your salary - how is it really?](http://evelinag.com/blog/2017/06-20-stackoverflow-tabs-spaces-and-salary/#.WUpL4nS-uf1)",140,FALSE,NA,###  Insights,link,2017-06-26
+"![Tabs, spaces and your salary - how is it really?](https://raw.githubusercontent.com/rweekly/image/master/2017-03/open_source_salary-1.png)",140,FALSE,NA,###  Insights,image,2017-06-26
++ [Two years as a Data Scientist at Stack Overflow](http://varianceexplained.org/r/two-years-data-scientist/),109,FALSE,NA,###  Insights,link,2017-06-26
++ [Housing affordability trends](http://lenkiefer.github.io/2017/06/19/housing-afford),86,FALSE,NA,###  R in the Real World,link,2017-06-26
++ [Baby Names in the UK and USA](https://www.mytinyshinys.com/2017/06/20/babynames),83,FALSE,NA,###  R in the Real World,link,2017-06-26
++ [State-space modelling of the Australian 2007 federal election](http://ellisp.github.io/blog/2017/06/24/oz-polls-statespace),126,FALSE,NA,###  R in the Real World,link,2017-06-26
+![State-space modelling of the Australian 2007 federal election](https://ellisp.github.io/img/0102-all-polls.svg),113,FALSE,NA,###  R in the Real World,image,2017-06-26
++ [Logarithmic Scale Explained with U.S. Trade Balance](http://novyden.blogspot.com/2017/06/logarithmic-scale-explained-with-us.html),133,FALSE,NA,###  R in the Real World,link,2017-06-26
++ [Beware the Argument: The Flint Water Crisis and Quantiles](http://staff.math.su.se/hoehle/blog/2017/06/18/quantiles.html),124,FALSE,NA,###  R in the Real World,link,2017-06-26
++ [Visualizing a Reddit Hug Of Death With R: How To Reddit-Proof Your Website For Pocket Change](http://tylermw.com/visualizing-a-reddit-hug-of-death-and-how-to-reddit-proof-your-website-for-pocket-change/),206,FALSE,NA,###  R in the Real World,link,2017-06-26
+![Visualizing a Reddit Hug Of Death With R: How To Reddit-Proof Your Website For Pocket Change](https://raw.githubusercontent.com/rweekly/image/master/2017-03/failureplotservercomp.png),185,FALSE,NA,###  R in the Real World,image,2017-06-26
++ [R⁶ — Disproving Approval](https://rud.is/b/2017/06/18/r%e2%81%b6-disproving-approval/),89,FALSE,NA,###  R in the Real World,link,2017-06-26
+![R⁶ — Disproving Approval](https://i1.wp.com/rud.is/b/wp-content/uploads/2017/06/Plot_Zoom.png?resize=780%2C449&ssl=1),119,FALSE,NA,###  R in the Real World,image,2017-06-26
++ [NSSD Episode 41 - Good to Two Decimal Places](https://soundcloud.com/nssd-podcast/episode-41-good-to-two-decimal-places),123,FALSE,NA,###  Videos and Podcasts,link,2017-06-26
++ [useRs Participation in the R Community](http://forwards.github.io/blog/2017/06/19/users-participation-in-the-r-community/),125,FALSE,NA,###  R in Organizations,link,2017-06-26
++ [The R community is one of R's best features](http://blog.revolutionanalytics.com/2017/06/r-community.html),109,FALSE,NA,###  R in Organizations,link,2017-06-26
++ [Some R User Group News](https://rviews.rstudio.com/2017/06/16/some-r-user-group-news/),89,FALSE,NA,###  R in Organizations,link,2017-06-26
++ [All OSS used in Plotly Cloud and Plotly On-Premise](http://moderndata.plot.ly/all-oss-used-in-plotly-cloud-and-plotly-on-premise/),133,FALSE,NA,###  R in Organizations,link,2017-06-26
++ [Hey! You there! You are welcome here](http://ropensci.org/blog/blog/2017/06/23/community),92,FALSE,NA,###  R in Organizations,link,2017-06-26
++ [Tackling the Research Compendium at runconf17](http://ropensci.org/blog/blog/2017/06/20/checkers),100,FALSE,NA,###  R in Organizations,link,2017-06-26
++ [Machine Learning Problem Bible](https://github.com/ben519/MLPB),66,FALSE,NA,###  Resources,link,2017-06-26
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2017-06-26
++ [charlatan](http://ropensci.org/blog/technotes/2017/06/22/charlatan) - All the fake data that's fit to print,110,FALSE,NA,###  New Packages,link,2017-06-26
++ [rcjit](https://github.com/nimble-dev/rcjit) -  Experimental jit compiler for R built on NIMBLE,97,FALSE,NA,###  New Packages,link,2017-06-26
++ [May New Package Picks](https://rviews.rstudio.com/2017/06/23/may-new-package-picks/),87,FALSE,NA,###  New Packages,link,2017-06-26
++ [tmap 1.10](https://github.com/mtennekes/tmap) - thematic maps in R,69,FALSE,NA,###  Package Releases,link,2017-06-26
+![tmap](https://camo.githubusercontent.com/f8e0aefb26e03af11ffcc88e86b9138caea957af/687474703a2f2f7777772e766f6e2d74696a6e2e6e6c2f74696a6e2f72657365617263682f636c61737369632e706e67),181,FALSE,NA,###  Package Releases,image,2017-06-26
+"+ [tidytext 0.1.3](https://juliasilge.com/blog/tidytext-0-1-3/) - Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools",124,FALSE,NA,###  Package Releases,link,2017-06-26
++ [RcppCCTZ 0.2.3 (and 0.2.2)](http://dirk.eddelbuettel.com/blog/2017/06/21#rcppcctz_0.2.3) - Rcpp bindings for CCTZ,116,FALSE,NA,###  Package Releases,link,2017-06-26
++ [nanotime 0.2.0](http://dirk.eddelbuettel.com/blog/2017/06/22#nanotime_0.2.0) - Nanosecond Resolution Time for R,114,FALSE,NA,###  Package Releases,link,2017-06-26
++ [(Spanish) Visualizing flight paths across the globe with ggplot2](https://bitsandbricks.github.io/post/visualizando-con-r-el-historial-de-ubicaciones-de-google-parte-iii/),174,FALSE,NA,###  R Internationally,link,2017-06-26
++ [Replicating the Apache Drill 'Yelp' Academic Dataset Analysis with sergeant](https://rud.is/b/2017/06/17/replicating-the-apache-drill-yelp-academic-dataset-with-sergeant/),174,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Tips and tricks for working with images and figures in R Markdown documents](http://www.zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/),196,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Quantifying the magnitude of a population decline with Bayesian time-series modelling](http://www.seascapemodels.org/rstats/2017/06/18/estimating-popn-decline.html),167,FALSE,NA,###  Tutorials,link,2017-06-26
+"+ [Business Science EARL SF 2017 Presentation: tidyquant, timekit, and more!](http://www.business-science.io/presentations/2017/06/18/earl-2017.html)",149,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Analytics Administration for R](https://rviews.rstudio.com/2017/06/21/analytics-administration-for-r/),105,FALSE,NA,###  Tutorials,link,2017-06-26
+![Analytics Administration for R](https://rviews.rstudio.com/post/2017-06-21-analytics-administration-for-r_files/rstudio-toolchain.png),136,FALSE,NA,###  Tutorials,image,2017-06-26
++ [Partial least squares in R](https://poissonisfish.wordpress.com/2017/06/17/partial-least-squares-in-r/),106,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Deep Learning for Brand Logo Detection](http://flovv.github.io/Logo_detection_deep_learning/),96,FALSE,NA,###  Tutorials,link,2017-06-26
++ [wrapr Implementation Update](http://www.win-vector.com/blog/2017/06/wrapr-implementation-update/),100,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Second step with non-linear regression: adding predictors](https://datascienceplus.com/second-step-with-non-linear-regression-adding-predictors/),148,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Using sparklyr with Microsoft R Server](http://blog.revolutionanalytics.com/2017/06/sparklyr-r-server.html),110,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Visualising Twitter coverage of recent bioinformatics conferences](https://nsaunders.wordpress.com/2017/06/20/visualising-twitter-coverage-of-recent-bioinformatics-conferences/),180,FALSE,NA,###  Tutorials,link,2017-06-26
++ [An Out of Sample Update on DDN's Volatility Momentum Trading Strategy and Beta Convexity](https://quantstrattrader.wordpress.com/2017/06/20/an-out-of-sample-update-on-ddns-volatility-momentum-trading-strategy-and-beta-convexity/),232,FALSE,NA,###  Tutorials,link,2017-06-26
+"+ [R leads, Python gains in 2017 Burtch Works Survey](http://blog.revolutionanalytics.com/2017/06/burtch-works-survey-2017.html)",128,FALSE,NA,###  Tutorials,link,2017-06-26
++ [More on housing affordability](http://lenkiefer.github.io/2017/06/20/more-afford),84,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Smoothing a time-series with a Bayesian model](http://www.seascapemodels.org/rstats/2017/06/21/bayesian-smoothing.html),122,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Track changes in data with the lumberjack %>>%](http://www.markvanderloo.eu/yaRb/2017/06/23/track-changes-in-data-with-the-lumberjack/),138,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Plotting partial pooling in mixed-effects models](https://tjmahr.github.io/plotting-partial-pooling-in-mixed-effects-models/),128,FALSE,NA,###  Tutorials,link,2017-06-26
+![Plotting partial pooling in mixed-effects models](https://tjmahr.github.io/figs//2017-06-22-plotting-partial-pooling-in-mixed-effects-models/topgraphic-map-1-1.png),166,FALSE,NA,###  Tutorials,image,2017-06-26
++ [Counterintuitive problem: Everyone in a room keeps giving dollars to random others. You'll never guess what happens next.](http://www.decisionsciencenews.com/2017/06/19/counterintuitive-problem-everyone-room-keeps-giving-dollars-random-others-youll-never-guess-happens-next/),278,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Updated Data Science Virtual Machine for Windows: GPU-enabled with Docker support](http://blog.revolutionanalytics.com/2017/06/dsvm-update.html),147,FALSE,NA,###  Tutorials,link,2017-06-26
++ [non-Bayesian decision riddle](https://xianblog.wordpress.com/2017/06/22/non-bayesian-decision-riddle/),105,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Spatial indexes coming to sf](http://r-spatial.org//r/2017/06/22/spatial-index.html),87,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Machine Learning for Developers – How to Build Intelligent Apps & Services](https://blogs.technet.microsoft.com/machinelearning/2017/06/22/machine-learning-for-developers/),175,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Facial Recognition in R](https://www.stoltzmaniac.com/facial-recognition-in-r/),82,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Interactive R visuals in Power BI](http://blog.revolutionanalytics.com/2017/06/interactive-r-visuals-in-power-bi.html),121,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Set Theory Arbitrary Union and Intersection Operations with R](http://www.aaronschlegel.com/set-theory-arbitrary-unions-intersections-r/),140,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Confidence Intervals without Your Collaborator's Tears](http://staff.math.su.se/hoehle/blog/2017/06/22/interpretcis.html),124,FALSE,NA,###  Tutorials,link,2017-06-26
++ [Using tidycensus and leaflet to map Census data](https://juliasilge.com/blog/using-tidycensus/),98,FALSE,NA,###  Tutorials,link,2017-06-26
++ [datatables with d3 axis in header](https://bl.ocks.org/timelyportfolio/00d84a8159a2f8cb8c0e54df913f76cc),107,FALSE,NA,###  Tutorials,link,2017-06-26
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2017-06-26
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-06-26
++ `print.noquote(x)` now always returns its argument `x` (invisibly).,69,FALSE,NA,###  R Project Updates,unid,2017-06-26
+"+ Fix for `legend()` when `fill` has multiple values, first of which is `NA` (all colours then defaulted to `par(fg)`). (PR#17288)",130,FALSE,NA,###  R Project Updates,unid,2017-06-26
++ The documentation for `installed.packages(noCache = TRUE)` incorrectly claimed it would refresh the cache.,108,FALSE,NA,###  R Project Updates,unid,2017-06-26
+"+ `installed.packages()` did not remove the cached value for a library tree that had been emptied (but would not use the old value, just waste time checking it).",161,FALSE,NA,###  R Project Updates,unid,2017-06-26
+"+ `available.packages()` has two new arguments which control if the values from the per-session repository cache are used (default true, as before) and if so how old cached values can be to be used (default one hour).",217,FALSE,NA,###  R Project Updates,unid,2017-06-26
+"+ These arguments can be passed from `install.packages()`, `update.packages()` and functions calling that: to enable this `available.packages()`, `packageStatus()` and `download.file()` gain a `...` argument.",208,FALSE,NA,###  R Project Updates,unid,2017-06-26
++ `packageStatus()`'s `upgrade()` method no longer ignores its `...` argument but passes it to `install.packages()`.,116,FALSE,NA,###  R Project Updates,unid,2017-06-26
+"+ `installed.packages()` gains a `...` argument to allow arguments (including `noCache`) to be passed from `new.packages()`, `old.packages()`, `update.packages()` and `packageStatus()`.",185,FALSE,NA,###  R Project Updates,unid,2017-06-26
++ Non-UTF-8 multibyte character sets were not handled properly in source references. (PR#16732),95,FALSE,NA,###  R Project Updates,unid,2017-06-26
++ `aggregate(<data.frame>)` no longer uses spurious names in some cases. (PR#17283),83,FALSE,NA,###  R Project Updates,unid,2017-06-26
+"+ [angletR 2017](http://angletr2017.com/) **June 28 - 30, 2017** <br/>",70,FALSE,NA,###  Upcoming Events,link,2017-06-26
+"angletR aims to provide a national forum to exchange and share ideas on the use of R in different subjects such as visualisation, applied statistics, biostatistics and bioinformatics, Bayesian statistics, data analysis, Big Data, modelling, machine learning, high performance computing, etc.",291,FALSE,NA,###  Upcoming Events,unid,2017-06-26
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,###  Upcoming Events,link,2017-06-26
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events,unid,2017-06-26
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-06-26
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Upcoming Events,unid,2017-06-26
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">I am a master of R <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://t.co/vXLCr6QN1z"">pic.twitter.com/vXLCr6QN1z</a></p>&mdash; PJR (@NeuroPost) <a href=""https://twitter.com/NeuroPost/status/877662764235333632"">June 21, 2017</a></blockquote>",346,FALSE,NA,###  Quotes of the Week,unid,2017-06-26

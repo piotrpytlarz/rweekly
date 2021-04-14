@@ -1,0 +1,69 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-10-22
+"title: R Weekly 2018-43 R Markdown, Conditions, Melbourne",57,FALSE,NA,NA,unid,2018-10-22
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-10-22
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-10-22
+---,3,FALSE,NA,NA,unid,2018-10-22
++ [Rmd Files will No Longer be Rendered as Markdown on Github](https://yihui.name/en/2018/10/rmd-github/),105,FALSE,NA,###  Highlight,link,2018-10-22
++ [Conditions of Length Greater Than One](https://developer.r-project.org/Blog/public/2018/10/12/conditions-of-length-greater-than-one/),136,FALSE,NA,###  Highlight,link,2018-10-22
++ [Highlights from the R-Ladies Melbourne second anniversary event](https://rladies-melbourne-tips.netlify.com/),112,FALSE,NA,###  Highlight,link,2018-10-22
++ [ALTREP and C++](https://purrple.cat/blog/2018/10/14/altrep-and-cpp/),71,FALSE,NA,### Insights,link,2018-10-22
++ [Tidying workflows in R](https://sinarueeger.github.io/2018/10/09/workflow/),78,FALSE,NA,### Insights,link,2018-10-22
++ [RStudio 1.2 Preview: Stan](https://blog.rstudio.com/2018/10/16/rstudio-1-2-preview-stan/),92,FALSE,NA,### Insights,link,2018-10-22
+![RStudio 1.2 Preview: Stan](https://raw.githubusercontent.com/rweekly/image/master/2018/stan-rstudio.png),106,FALSE,NA,### Insights,image,2018-10-22
++ [Conditions of Length Greater Than One](https://developer.r-project.org/Blog/public/2018/10/12/conditions-of-length-greater-than-one/),136,FALSE,NA,### Insights,link,2018-10-22
++ [Maximum Number of DLLs](https://developer.r-project.org/Blog/public/2018/03/23/maximum-number-of-dlls/index.html),116,FALSE,NA,### Insights,link,2018-10-22
+"+ [The best data science books: interview with Roger Peng, founder of the Coursera R & Data Science specialization](https://fivebooks.com/best-books/data-science-roger-peng/)",174,FALSE,NA,### Insights,link,2018-10-22
++ [Rmd Files will No Longer be Rendered as Markdown on Github](https://yihui.name/en/2018/10/rmd-github/),105,FALSE,NA,### Insights,link,2018-10-22
+"+ [Maryland's Bridge Safety, reported using R](https://blog.revolutionanalytics.com/2018/10/bridge-safety-in-r.html)",116,FALSE,NA,### R in the Real World,link,2018-10-22
++ [Applying traditional and bayesian testing methods to determine improvement in swim times in a season.](https://www.nitingupta.com/posts/how-much-do-swimmers-improve-in-a-season/),181,FALSE,NA,### R in the Real World,link,2018-10-22
++ [Text mining of the Iliad with R](https://rafaelmenmell.netlify.com/2018/10/16/text-mining-in-r-a-different-approach-to-the-iliad/),133,FALSE,NA,### R in the Real World,link,2018-10-22
++ [Make New York Times-style building maps for your zip code with a few lines of #rstats code.](https://twitter.com/EvanTachovsky/status/1051849101120348162),157,FALSE,NA,### R in the Real World,link,2018-10-22
++ [Finding correlations between music chords and lyrics of thousands of Rock songs with sparse canonical correlation analysis](http://giorasimchoni.com/2018/10/11/2018-10-06-a-million-bright-ambassadors-of-morning/),215,FALSE,NA,### R in the Real World,link,2018-10-22
+"+ [Insights into the world of competitive swimming from an early age, through the lens of a summer league.](https://www.nitingupta.com/posts/a-deep-dive-in-analyzing-swimming-data/)",181,FALSE,NA,### R in the Real World,link,2018-10-22
+"![Insights into the world of competitive swimming from an early age, through the lens of a summer league.](https://raw.githubusercontent.com/rweekly/image/master/2018/mean_swim_times_usa_swimming-1.png)",202,FALSE,NA,### R in the Real World,image,2018-10-22
++ [A Brief History of My Life (on Twitter)](http://daranzolin.github.io/2018-10-14-twitter-life/),97,FALSE,NA,### R in the Real World,link,2018-10-22
++ [Progress on driving diversity standards in the R community – an update on RCDI-WG](https://www.r-consortium.org/blog/2018/10/16/progress-on-driving-diversity-standards-in-the-r-community-an-update-on-rcdi-wg),211,FALSE,NA,###  R in Organizations,link,2018-10-22
++ [Highlights from the R-Ladies Melbourne second anniversary event](https://rladies-melbourne-tips.netlify.com/),112,FALSE,NA,###  R in Organizations,link,2018-10-22
++ [Announcing RStudio Package Manager ](https://blog.rstudio.com/2018/10/17/announcing-rstudio-package-manager/),112,FALSE,NA,###  R in Organizations,link,2018-10-22
++ [A Practical Guide to Mixed Models in R](http://www.juliapilowsky.com/2018/10/19/a-practical-guide-to-mixed-models-in-r/),123,FALSE,NA,###  Resources,link,2018-10-22
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-10-22
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-10-22
++ [RcppNLoptExample 0.0.1: Use NLopt from C/C++](http://dirk.eddelbuettel.com/blog/2018/10/13#rcppnloptexample_0.0.1),117,FALSE,NA,###  New Packages,link,2018-10-22
++ [DataExplorer v0.7](http://boxuancui.github.io/DataExplorer) - R package to simplify Exploratory Data Analysis,112,FALSE,NA,### Package Releases,link,2018-10-22
++ [RcppCCTZ 0.2.5](http://dirk.eddelbuettel.com/blog/2018/10/14#rcppcctz_0.2.5) - Translating between absolute and civil times using the rules of a time zone,157,FALSE,NA,### Package Releases,link,2018-10-22
+"+ [future 1.10.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone - now with enhanced control over globals, better MPI support, and more",195,FALSE,NA,### Package Releases,link,2018-10-22
++ [SatRday talks recordings](https://longhowlam.wordpress.com/2018/10/17/satrday-talks-recordings/),99,FALSE,NA,###  Videos and Podcasts,link,2018-10-22
++ [Generalized Linear Models: understanding the link function](http://www.seascapemodels.org/rstats/2018/10/16/understanding-the-glm-link.html),143,FALSE,NA,###  Tutorials,link,2018-10-22
++ [5 Alternatives to the Default R Outputs for GLMs and Linear Models](https://www.displayr.com/5-alternatives-to-the-default-r-outputs-for-glms-and-linear-models/?utm_medium=Feed&utm_source=Syndication),203,FALSE,NA,###  Tutorials,link,2018-10-22
++ [Obtaining the number of components from cross validation of principal components regression](https://statisticaloddsandends.wordpress.com/2018/10/15/obtaining-the-number-of-components-from-cross-validation-of-principal-components-regression/),245,FALSE,NA,###  Tutorials,link,2018-10-22
++ [September 2018: Top 40 New Packages](https://rviews.rstudio.com/2018/10/08/september-2018-top-40-new-packages/),114,FALSE,NA,###  Tutorials,link,2018-10-22
++ [Explicitly Optimizing on Causal Effects via the Causal Random Forest: A Practical Introduction and Tutorial](https://www.markhw.com/blog/causalforestintro),158,FALSE,NA,###  Tutorials,link,2018-10-22
++ [Cannabis Curve with ggplot2](https://chichacha.netlify.com/2018/10/17/cannibus-curve-with-ggplot2/),102,FALSE,NA,###  Tutorials,link,2018-10-22
+![Cannabis Curve with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2018/polar_to_cartesian-1.png),116,FALSE,NA,###  Tutorials,image,2018-10-22
++ [Quote While the Promise Is Hot!; a tip for using tidyeval](https://yutani.rbind.io/post/quote-while-the-promise-is-hot/),123,FALSE,NA,###  Tutorials,link,2018-10-22
++ [Even more images as x-axis labels](https://jcarroll.com.au/2018/10/16/even-more-images-as-x-axis-labels/),108,FALSE,NA,###  Tutorials,link,2018-10-22
+![Even more images as x-axis labels](https://raw.githubusercontent.com/rweekly/image/master/2018/annotation-1021.png),117,FALSE,NA,###  Tutorials,image,2018-10-22
++ [Voice Control your Shiny Apps](https://www.jumpingrivers.com/blog/voice-control-your-shiny-apps/),100,FALSE,NA,###  Tutorials,link,2018-10-22
++ [How to import a directory of csvs at once with base R and data.table. Can you guess which way is the fastest?](https://jozefhajnala.gitlab.io/r/r005-import-csvs/),165,FALSE,NA,###  Tutorials,link,2018-10-22
++ [Piping into ggplot2](http://www.win-vector.com/blog/2018/10/piping-into-ggplot2/),84,FALSE,NA,###  Tutorials,link,2018-10-22
++ [Package support offer](https://itsalocke.com/blog/package-support-offer/),76,FALSE,NA,###  Tutorials,link,2018-10-22
+"+ [MCHT, Closures, and R Environments: Making MCHTest Objects Self-Contained](https://ntguardian.wordpress.com/2018/10/15/mcht-closures-r-environments-making-mchtest-objects-self-contained/)",190,FALSE,NA,###  Tutorials,link,2018-10-22
++ [A small logical change with big impact](http://blog.revolutionanalytics.com/2018/10/a-small-logical-change-with-big-impact.html),131,FALSE,NA,###  Tutorials,link,2018-10-22
++ [Quasiquotation in R via bquote()](http://www.win-vector.com/blog/2018/10/quasiquotation-in-r-via-bquote/),108,FALSE,NA,###  Tutorials,link,2018-10-22
++ [Serendipity at R / Medicine](https://rviews.rstudio.com/2018/10/16/serendipity-at-r-medicine/),97,FALSE,NA,###  Tutorials,link,2018-10-22
++ [pubchunks: extract parts of scholarly XML articles](https://ropensci.org/technotes/2018/10/16/pubchunks/),108,FALSE,NA,###  Tutorials,link,2018-10-22
++ [shinytest - Automated testing for Shiny apps](https://blog.rstudio.com/2018/10/18/shinytest-automated-testing-for-shiny-apps/),129,FALSE,NA,###  Tutorials,link,2018-10-22
++ [Statistically Efficient Ways to Quantify Added Predictive Value of New Measurements](http://fharrell.com/post/addvalue/),123,FALSE,NA,###  Tutorials,link,2018-10-22
+![Statistically Efficient Ways to Quantify Added Predictive Value of New Measurements](https://raw.githubusercontent.com/rweekly/image/master/2018/vsage-1.png),159,FALSE,NA,###  Tutorials,image,2018-10-22
++ [Explicitly Optimizing on Causal Effects via the Causal Random Forest: A Practical Introduction and Tutorial](https://www.markhw.com/blog/causalforestintro),158,FALSE,NA,###  Tutorials,link,2018-10-22
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-10-22
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-10-22
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-10-22
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-10-22
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-10-22
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-10-22
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-10-22
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">🙌 The figs on reduce() in the &quot;Functionals&quot; section of <a href=""https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw"">@hadleywickham</a>&#39;s &quot;Advanced R&quot; are, like, *super* helpful!  <a href=""https://t.co/SmxX7S1xOU"">https://t.co/SmxX7S1xOU</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/oRUNamqU32"">pic.twitter.com/oRUNamqU32</a></p>&mdash; Mara Averick (@dataandme) <a href=""https://twitter.com/dataandme/status/1053330453086826496?ref_src=twsrc%5Etfw"">October 19, 2018</a></blockquote>",652,FALSE,NA,###  Quotes of the Week,unid,2018-10-22
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">gganatogram now includes a cell diagram (cellogram?)! <br>Please also cite <a href=""https://twitter.com/HumanProteome?ref_src=twsrc%5Etfw"">@HumanProteome</a> if using the cell and <a href=""https://twitter.com/ExpressionAtlas?ref_src=twsrc%5Etfw"">@ExpressionAtlas</a> if using the anatograms. <a href=""https://t.co/f0KcBetmCe"">https://t.co/f0KcBetmCe</a><a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot2</a> <a href=""https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw"">#dataviz</a> <a href=""https://twitter.com/hashtag/gganatogram?src=hash&amp;ref_src=twsrc%5Etfw"">#gganatogram</a> <a href=""https://twitter.com/hashtag/ASHG18?src=hash&amp;ref_src=twsrc%5Etfw"">#ASHG18</a> <a href=""https://t.co/MfZqSf9mCl"">pic.twitter.com/MfZqSf9mCl</a></p>&mdash; Jesper Maag (@JesperMaag) <a href=""https://twitter.com/JesperMaag/status/1052971462959747075?ref_src=twsrc%5Etfw"">October 18, 2018</a></blockquote>",1112,FALSE,NA,###  Quotes of the Week,unid,2018-10-22
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">On Monday, <a href=""https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw"">@hadleywickham</a> addressed the cadets and faculty at the United States Military Academy at West Point about data science in the tidyverse.  Thanks for your inspiration and mentorship to our team! <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/9puenjbDVr"">pic.twitter.com/9puenjbDVr</a></p>&mdash; Dusty Turner (@DTDusty) <a href=""https://twitter.com/DTDusty/status/1053473281230147584?ref_src=twsrc%5Etfw"">October 20, 2018</a></blockquote>",653,FALSE,NA,###  Quotes of the Week,unid,2018-10-22

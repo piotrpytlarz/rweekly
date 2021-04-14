@@ -1,0 +1,17 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2016-5-21
+layout: post,12,FALSE,NA,NA,unid,2016-5-21
+title: Issue 0,14,FALSE,NA,NA,unid,2016-5-21
+"description: Weekly News in R Community about feather, largeVis, Travis-CI, NSSD, 2016 China-R Beijing",102,FALSE,NA,NA,unid,2016-5-21
+---,3,FALSE,NA,NA,unid,2016-5-21
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-5-21
+[NSSD Episode 16](https://soundcloud.com/nssd-podcast/episode-16-the-silicon-valley-episode) - The Silicon Valley Episode.,122,FALSE,NA,### News & Blog Posts,unid,2016-5-21
+<!--A Beginner's Guide to Travis-CI for R](http://juliasilge.com/blog/Beginners-Guide-to-Travis/)-->,100,FALSE,NA,### News & Blog Posts,unid,2016-5-21
+[flexdashboard: Easy interactive dashboards for R](https://blog.rstudio.org/2016/05/17/flexdashboard-easy-interactive-dashboards-for-r/),136,FALSE,NA,### News & Blog Posts,unid,2016-5-21
+"[feather on CRAN](https://cran.r-project.org/web/packages/feather/) - Read and write feather files, a lightweight binary columnar data store designed for maximum speed.",168,FALSE,NA,### New Packages & Tools,unid,2016-5-21
+"[largeVis](https://github.com/elbamos/largevis) - High-Quality Visualizations of Ultra-Large, High-Dimensional Datasets.",120,FALSE,NA,### New Packages & Tools,unid,2016-5-21
+Updates from R Core.,20,FALSE,NA,## R Project Updates,unid,2016-5-21
+*No tasks listed for this week.*,32,FALSE,NA,## Call for Participation,unid,2016-5-21
+[2016 China-R Beijing](http://china-r.org/) - The biggest R conference in China. **May 27-29**,94,FALSE,NA,## Upcoming Events,unid,2016-5-21
+*No jobs listed for this week.*,31,FALSE,NA,## Jobs,unid,2016-5-21
+*No quote was selected for QotW.*,33,FALSE,NA,## Quote of the Week,unid,2016-5-21

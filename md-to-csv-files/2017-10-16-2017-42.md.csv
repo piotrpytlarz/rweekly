@@ -1,0 +1,82 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2017-10-16
+"title: R Weekly 2017-42 RStudio 1.1, Growth of R",48,FALSE,NA,NA,unid,2017-10-16
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-10-16
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2017-10-16
+---,3,FALSE,NA,NA,unid,2017-10-16
++ [RStudio 1.1](https://blog.rstudio.com/2017/10/09/rstudio-v1.1-released/),75,FALSE,NA,###  Highlight,link,2017-10-16
++ [A tidy text analysis of Rick and Morty](http://tamaszilagyi.com/blog/a-tidy-text-analysis-of-rick-and-morty/),112,FALSE,NA,###  Highlight,link,2017-10-16
++ [The impressive growth of R](https://stackoverflow.blog/2017/10/10/impressive-growth-r/),90,FALSE,NA,###  Highlight,link,2017-10-16
++ [How are people doing bayesian statistics in 2017?](https://www.reddit.com/r/rstats/comments/74y8ms/how_are_people_doing_bayesian_statistics_in_2017/),152,FALSE,NA,### Insights,link,2017-10-16
++ [The impressive growth of R](https://stackoverflow.blog/2017/10/10/impressive-growth-r/),90,FALSE,NA,### Insights,link,2017-10-16
+![The Impressive Growth of R](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/10/plot_tags_time-1-675x675.png),135,FALSE,NA,### Insights,image,2017-10-16
++ [.rprofile: David Smith](http://ropensci.org/blog/blog/2017/10/13/rprofile-david-smith),89,FALSE,NA,### Insights,link,2017-10-16
++ [R : Past and Future History](https://www.stat.auckland.ac.nz/~ihaka/downloads/Interface98.pdf),97,FALSE,NA,### Insights,link,2017-10-16
++ [Data Visualization Course for First-Year Students](http://citizen-statistician.org/2017/10/07/data-visualization-course-for-freshmen/),137,FALSE,NA,###  R in the Real World,link,2017-10-16
++ [Quick geofacet plots](http://lenkiefer.com/2017/10/10/quick-geofacet-plots/),79,FALSE,NA,###  R in the Real World,link,2017-10-16
++ [A tidy text analysis of Rick and Morty](http://tamaszilagyi.com/blog/a-tidy-text-analysis-of-rick-and-morty/),112,FALSE,NA,###  R in the Real World,link,2017-10-16
++ [GitHub Streak: Round Four](http://dirk.eddelbuettel.com/blog/2017/10/12#github_oct2016_oct2017),98,FALSE,NA,###  R in the Real World,link,2017-10-16
++ [Sign of the Times](http://giorasimchoni.com/2017/10/08/2017-10-08-sign-of-the-times/),88,FALSE,NA,###  R in the Real World,link,2017-10-16
++ [R's remarkable growth](http://blog.revolutionanalytics.com/2017/10/rs-remarkable-growth.html),96,FALSE,NA,###  R in the Real World,link,2017-10-16
++ [Rick and Morty and Tidy Data Principles Motivation](http://pacha.hk/2017-10-13_rick_and_morty_tidy_data.html),112,FALSE,NA,###  R in the Real World,link,2017-10-16
+"+ [Governance, Engagement, and Resistance in the Open Science Movement: A Comparative Study](http://ropensci.org/blog/blog/2017/10/06/sholler-plan)",147,FALSE,NA,###  R in the Real World,link,2017-10-16
++ [Celebrating 20 years of CRAN](https://scottishsnow.wordpress.com/2017/10/09/celebrating-20-years-of-cran/),109,FALSE,NA,###  R in the Real World,link,2017-10-16
++ [The Bold & Beautiful Character Similarities using Word Embeddings](https://longhowlam.wordpress.com/2017/10/12/the-bold-beautiful-character-similarities-using-word-embeddings/),179,FALSE,NA,###  R in the Real World,link,2017-10-16
++ [It Costs Money to Get It Right](https://simplystatistics.org/2017/10/09/it-costs-money-to-get-it-right/),107,FALSE,NA,###  R in the Real World,link,2017-10-16
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2017-10-16
++ [coinmarketcapr](https://github.com/amrrs/coinmarketcapr) - R package to get Cryptocurrencies Market Cap Prices from Coin Market Cap,134,FALSE,NA,###  New Packages,link,2017-10-16
++ [linl](https://github.com/eddelbuettel/linl) - Linl Is Not Letter -- LaTeX Letter Template,92,FALSE,NA,###  New Packages,link,2017-10-16
+![https://github.com/eddelbuettel/linl](https://eddelbuettel.github.io/linl/vignette.png),89,FALSE,NA,###  New Packages,image,2017-10-16
++ [XKCDdata: Get XKCD Comic Data](https://cran.r-project.org/web/packages/XKCDdata/index.html),94,FALSE,NA,### Package Releases,link,2017-10-16
++ [huxtable 1.0](https://hughjonesd.github.io/huxtable/) - Happy User Xtable,76,FALSE,NA,### Package Releases,link,2017-10-16
++ [RcppArmadillo 0.8.100.1.0](http://dirk.eddelbuettel.com/blog/2017/10/11#rcpparmadillo_0.8.100.1.0) - an interface from R to and from Armadillo,145,FALSE,NA,### Package Releases,link,2017-10-16
++ [dplyrXdf 1.0](http://blog.revolutionanalytics.com/2017/10/announcing-dplyrxdf-10.html) - dplyr backend for Revolution Analytics xdf files,140,FALSE,NA,### Package Releases,link,2017-10-16
++ [RStudio 1.1](https://blog.rstudio.com/2017/10/09/rstudio-v1.1-released/),75,FALSE,NA,### Package Releases,link,2017-10-16
+![RStudio 1.1](https://raw.githubusercontent.com/rweekly/image/master/2017-03/rstudio-1.1.png),94,FALSE,NA,### Package Releases,image,2017-10-16
+"+ [tibbletime 0.0.2](http://www.business-science.io/code-tools/2017/10/08/tibbletime-0-0-2.html) - Time-Aware Tibbles, New Functions, Weather Analysis",150,FALSE,NA,### Package Releases,link,2017-10-16
++ [ciTools 0.2.1](https://github.com/jthaman/ciTools) - An R Package for Quick Uncertainty Intervals,100,FALSE,NA,### Package Releases,link,2017-10-16
+"+ [forcats, forcats, vous avez dit forcats ?](https://thinkr.fr/forcats-forcats-vous-avez-dit-forcats/)",103,FALSE,NA,###  R Internationally,link,2017-10-16
++ [R Manuals as bookdown](http://colinfay.me/r-manuals/),56,FALSE,NA,###  Resources,link,2017-10-16
++ [A gentle introduction to data visualisation using R](https://eight2late.wordpress.com/2017/10/10/a-gentle-introduction-to-data-visualisation-using-r/),153,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Data Science 101: Sentiment Analysis in R Tutorial](http://blog.kaggle.com/2017/10/05/data-science-101-sentiment-analysis-in-r-tutorial/),140,FALSE,NA,###  Tutorials,link,2017-10-16
+"+ [Spatial networks – case study St James centre, Edinburgh (1/3)](https://scottishsnow.wordpress.com/2017/10/08/spatial-networks-stjames-1/)",141,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Continuous Learning from Data: No Multiplicities from Computing and Using Bayesian Posterior Probabilities as Often as Desired](http://www.fharrell.com/2017/10/continuous-learning-from-data-no.html),201,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Principal Component Analysis – Unsupervised Learning](https://datascienceplus.com/principal-component-analysis-unsupervised-learning/),137,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Climate Change and Population Modeling in R](https://rviews.rstudio.com/2017/10/09/population-modeling-in-r/),112,FALSE,NA,###  Tutorials,link,2017-10-16
+![Climate Change and Population Modeling in R](https://rviews.rstudio.com/post/2017-10-04-population-modeling-in-r_files/figure-html/unnamed-chunk-3-1.png),155,FALSE,NA,###  Tutorials,image,2017-10-16
++ [Changes to Internet Connectivity in R on Windows](http://ropensci.org/blog/technotes/2017/10/10/curl-30),107,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Enabling Concerned Visitors & Ethical Security Researchers with security.txt Web Security Policies (plus analyze them at-scale with R)](https://rud.is/b/2017/10/09/enabling-concerned-visitors-ethical-security-researchers-with-security-txt-web-security-policies-plus-analyze-them-at-scale-with-r/),299,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Searching Stack Overflow](https://www.mytinyshinys.com/2017/10/10/searching-stack-overflow),94,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Emoji Stats of Github Issues?](https://yihui.name/en/2017/10/emoji-stats-of-github-issues/),94,FALSE,NA,###  Tutorials,link,2017-10-16
+"+ [Thanks, Jean-Olivier Irisson, for Mentioning Cross-posting!](https://yihui.name/en/2017/10/cross-posting/)",109,FALSE,NA,###  Tutorials,link,2017-10-16
++ [What's next in googleway: drag & drop geoJSON](https://www.symbolix.com.au/blog-main/b9z2z337hzzfc4hws8gf8lk358473z),119,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Comparing smooths in factor-smooth interactions I](http://www.fromthebottomoftheheap.net/2017/10/10/difference-splines-i/),125,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Feels like a dry winter – but what does the data say?](https://nsaunders.wordpress.com/2017/10/11/feels-like-a-dry-winter-but-what-does-the-data-say/),153,FALSE,NA,###  Tutorials,link,2017-10-16
++ [More support for Bayesian analysis in the sj!-packages #rstats #rstan #brms](https://strengejacke.wordpress.com/2017/10/11/more-support-for-bayesian-analysis-in-the-sj-packages-rstats-rstan-brms/),199,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Introduction to Portfolio Returns](https://rviews.rstudio.com/2017/10/11/from-asset-to-portfolio-returns/),109,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Tutorial: Azure Data Lake analytics with R](http://blog.revolutionanalytics.com/2017/10/adla-with-r.html),108,FALSE,NA,###  Tutorials,link,2017-10-16
+"+ [Halifax, NS, Stan talk and course Thu 19 Oct](http://andrewgelman.com/2017/10/11/halifax-ns-stan-talk-course-thu-19-oct/)",124,FALSE,NA,###  Tutorials,link,2017-10-16
++ [Simplifying ggplot2 code by doing nothing](https://tjmahr.github.io/ggplot2-how-to-do-nothing/),98,FALSE,NA,###  Tutorials,link,2017-10-16
++ [XML parsing made easy: is that podcast getting longer?](https://nsaunders.wordpress.com/2017/10/12/xml-parsing-made-easy-is-that-podcast-getting-longer/),156,FALSE,NA,###  Tutorials,link,2017-10-16
++ [A cRyptic crossword with an R twist](http://blog.revolutionanalytics.com/2017/10/a-cryptic-crossword-with-an-r-twist.html),125,FALSE,NA,###  Tutorials,link,2017-10-16
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,### Gist & Cookbook,unid,2017-10-16
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-10-16
++ [CRAN Policy Change new rev3747](https://github.com/eddelbuettel/crp/commit/1232147d12a77ffc675f2eccc2bb052a39aebf4f),119,FALSE,NA,###  R Project Updates,link,2017-10-16
++ Support for a system Java on macOS has been removed - install a fairly recent Oracle Java (see `R Installation and Administration` §C.3.2).,141,FALSE,NA,###  R Project Updates,unid,2017-10-16
++ The maximum number of DLLs that can be loaded into R e.g. _via_ `dyn.load()` has been increased up to 614 when the OS limit on the number of open files allows.,161,FALSE,NA,###  R Project Updates,unid,2017-10-16
++ `R CMD javareconf` has been updated to recognize the use of a Java 9 SDK on macOS.,84,FALSE,NA,###  R Project Updates,unid,2017-10-16
+"+ Following Unicode `Corrigendum 9`, the UTF-8 representations of U+FFFE and U+FFFF are now regarded as valid by `utf8ToInt()`.",127,FALSE,NA,###  R Project Updates,unid,2017-10-16
++ `intToUtf8(multiple = FALSE)` gains an argument to allow surrogate pairs to be interpreted.,93,FALSE,NA,###  R Project Updates,unid,2017-10-16
++ New function `isFALSE()` defined analogously to `isTRUE()`.,61,FALSE,NA,###  R Project Updates,unid,2017-10-16
++ `raw(0) & raw(0)` and fix calling of methods on S4 generics that dispatch on `...` when the call contains `...`.,114,FALSE,NA,###  R Project Updates,unid,2017-10-16
++ RStudio conf 2018 **January 31 to February 3** <br />,55,FALSE,NA,###  Upcoming Events,unid,2017-10-16
+rstudio::conf is about all things R and RStudio! [Register & More infos](https://www.rstudio.com/conference/),109,FALSE,NA,###  Upcoming Events,unid,2017-10-16
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events,unid,2017-10-16
+Applied Finance with R. [More info](http://www.rinfinance.com),62,FALSE,NA,###  Upcoming Events,unid,2017-10-16
+"+ useR! 2018 **July 10, 2018** <br />",37,FALSE,NA,###  Upcoming Events,unid,2017-10-16
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events,unid,2017-10-16
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-10-16
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2017-10-16
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">At what was the first face-to-face meeting of R Core, Ross said he and Robert thought that a couple of hundred people at most would use it. <a href=""https://t.co/GmsoFcbezj"">https://t.co/GmsoFcbezj</a></p>&mdash; Douglas Bates (@BatesDmbates) <a href=""https://twitter.com/BatesDmbates/status/917847233067933698?ref_src=twsrc%5Etfw"">October 10, 2017</a></blockquote>",437,FALSE,NA,###  Quotes of the Week,unid,2017-10-16
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">The new &#39;injuries&#39; package + Emergency Room visit dataset is just endlessly fascinating. I&#39;m instantly obsessed. <a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a> <a href=""https://t.co/XKCZUAm7ay"">pic.twitter.com/XKCZUAm7ay</a></p>&mdash; John Ver-y Scare-ray (@johnlray) <a href=""https://twitter.com/johnlray/status/918622827732926464?ref_src=twsrc%5Etfw"">October 12, 2017</a></blockquote>",514,FALSE,NA,###  Quotes of the Week,unid,2017-10-16
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">How did I not know about the skimr package? It looks like an updated/improved version of psych::describe <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/SAJsFa72fT"">https://t.co/SAJsFa72fT</a> <a href=""https://t.co/xTebZNJkJ3"">pic.twitter.com/xTebZNJkJ3</a></p>&mdash; Mike Kearney📊 (@kearneymw) <a href=""https://twitter.com/kearneymw/status/918195755432775680?ref_src=twsrc%5Etfw"">October 11, 2017</a></blockquote>",551,FALSE,NA,###  Quotes of the Week,unid,2017-10-16

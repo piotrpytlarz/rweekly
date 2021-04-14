@@ -1,0 +1,70 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-09-17
+title: R Weekly 2018-38,23,FALSE,NA,NA,unid,2018-09-17
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-09-17
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-09-17
+---,3,FALSE,NA,NA,unid,2018-09-17
++ [The R Infrastructure - How we build stuff by Jeroen Ooms](https://jeroen.github.io/uros2018/),96,FALSE,NA,###  Highlight,link,2018-09-17
++ [The First Notebook War](https://yihui.name/en/2018/09/notebook-war/),71,FALSE,NA,### Insights,link,2018-09-17
++ [Divergent and Convergent Phases of Data Analysis](https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/),143,FALSE,NA,### Insights,link,2018-09-17
++ [The R Infrastructure - How we build stuff by Jeroen Ooms](https://jeroen.github.io/uros2018/),96,FALSE,NA,### Insights,link,2018-09-17
+![The R Infrastructure - How we build stuff by Jeroen Ooms](https://raw.githubusercontent.com/rweekly/image/master/2018/r-base.png),131,FALSE,NA,### Insights,image,2018-09-17
++ [A recap of CDSB 2018](http://www.comunidadbioinfo.org/a-recap-of-cdsb-2018-the-start-of-a-community/) - The start of a community of R/Bioconductor developers in Latin America and Mexico with a focus in bioinformatics,219,FALSE,NA,###  R in Organizations,link,2018-09-17
++ [Deadline extended for rstudio::conf(2019) abstract submissions](https://blog.rstudio.com/2018/09/14/rstudio-conf-2019-submission-deadline-extended/),151,FALSE,NA,###  R in Organizations,link,2018-09-17
++ [What you missed at satRday @Amsterdam](https://appsilon.com/satrday-amsterdam-2/),84,FALSE,NA,###  R in Organizations,link,2018-09-17
++ [All the Badges One Can Earn: Parsing Badges of CRAN Packages READMEs](https://ropensci.org/technotes/2018/09/10/github-badges/),130,FALSE,NA,### R in the Real World,link,2018-09-17
+![All the Badges One Can Earn: Parsing Badges of CRAN Packages READMEs](https://raw.githubusercontent.com/rweekly/image/master/2018/github-repos.png),149,FALSE,NA,### R in the Real World,image,2018-09-17
++ [The Evolution of Data Literacy at the U.S. Department of Energy + Finding Power Grid Cyber Attacks in a Data Haystack](https://rud.is/b/2018/09/12/the-evolution-of-data-literacy-at-the-u-s-department-of-energy-finding-power-grid-cyber-attacks-in-a-data-haystack/),266,FALSE,NA,### R in the Real World,link,2018-09-17
++ [Identifying the author behind New York Time’s op-ed from inside the Trump White House](https://github.com/mkearney/resist_oped),130,FALSE,NA,### R in the Real World,link,2018-09-17
+![Identifying the author behind New York Time’s op-ed from inside the Trump White House](https://raw.githubusercontent.com/rweekly/image/master/2018/text-simi.png),163,FALSE,NA,### R in the Real World,image,2018-09-17
++ [How many deaths were caused by the hurricane in Puerto Rico?](http://blog.revolutionanalytics.com/2018/09/mortality-in-puerto-rico.html),139,FALSE,NA,### R in the Real World,link,2018-09-17
++ [Who wrote that anonymous NYT op-ed? Text similarity analyses with R](http://blog.revolutionanalytics.com/2018/09/anonymous-nyt-op-ed.html),141,FALSE,NA,### R in the Real World,link,2018-09-17
++ [sabre: Or How to Compare Two Maps?](https://nowosad.github.io/post/sabre-bp/),80,FALSE,NA,### R in the Real World,link,2018-09-17
++ [Code for Workshop: Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/),142,FALSE,NA,###  Resources,link,2018-09-17
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-09-17
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-09-17
+"+ [Interface to 'sigma.js' graph visualization library ](http://sigmajs.john-coene.com/) - Including animations, plugins and shiny proxies. Also allows for dynamic visualisations and triggers (buttons) in static documents",221,FALSE,NA,###  New Packages,link,2018-09-17
++ [gganatogram](https://github.com/jespermaag/gganatogram) - Create anatograms using ggplot2,92,FALSE,NA,###  New Packages,link,2018-09-17
+![gganatogram](https://raw.githubusercontent.com/rweekly/image/master/2018/organPlot-1.png),91,FALSE,NA,###  New Packages,image,2018-09-17
++ [digest 0.6.17](http://dirk.eddelbuettel.com/blog/2018/09/12#digest_0.6.17) - creates hash digests of arbitrary R objects,123,FALSE,NA,### Package Releases,link,2018-09-17
++ [wrapr 1.6.2](http://www.win-vector.com/blog/2018/09/announcing-wrapr-1-6-2/) - Wrap R Tools for Debugging and Parametric Programming,135,FALSE,NA,### Package Releases,link,2018-09-17
++ [AsioHeaders 1.12.1-1](http://dirk.eddelbuettel.com/blog/2018/09/10#asioheaders_1.12.1-1) - cross-platform C++ library for network and low-level I/O programming,162,FALSE,NA,### Package Releases,link,2018-09-17
++ [Video: R and Python in in Azure HDInsight](http://blog.revolutionanalytics.com/2018/09/r-python-azure-hdinsight.html),120,FALSE,NA,###  Videos and Podcasts,link,2018-09-17
++ [Utiliser des pipes pour enchaîner des instructions](http://perso.ens-lyon.fr/lise.vaudor/utiliser-des-pipes-pour-enchainer-des-instructions/),144,FALSE,NA,### R Internationally,link,2018-09-17
+![Utiliser des pipes pour enchaîner des instructions](https://raw.githubusercontent.com/rweekly/image/master/2018/piping_piped-400.png),135,FALSE,NA,### R Internationally,image,2018-09-17
++ [Using R in a free hosted environment with IBM Watson Studio](https://www.littlemissdata.com/blog/watsonstudio),113,FALSE,NA,###  Tutorials,link,2018-09-17
++ [Going from a human readable Excel file to a machine-readable csv with {tidyxl}](http://www.brodrigues.co/blog/2018-09-11-human_to_machine/),142,FALSE,NA,###  Tutorials,link,2018-09-17
++ [R Tip: Give data.table a Try](http://www.win-vector.com/blog/2018/09/r-tip-give-data-table-a-try/),101,FALSE,NA,###  Tutorials,link,2018-09-17
++ [Network visualization of football transfers using the 'visNetwork' package](https://rcrastinate.blogspot.com/2018/09/network-visualization-of-football.html),159,FALSE,NA,###  Tutorials,link,2018-09-17
+![Network visualization of football transfers using the 'visNetwork' package](https://raw.githubusercontent.com/rweekly/image/master/2018/transfer-graph.png),157,FALSE,NA,###  Tutorials,image,2018-09-17
++ [The year of the GNU+Linux desktop is upon us: using user ratings of Steam Play compatibility to play around with regex and the tidyverse](http://www.brodrigues.co/blog/2018-09-08-steam_linux/),195,FALSE,NA,###  Tutorials,link,2018-09-17
++ [Driving Drill Dynamically with Docker and Updating Storage Configurations On-the-fly with sergeant](https://rud.is/b/2018/09/09/driving-drill-dynamically-with-docker-and-updating-storage-configurations-on-the-fly-with-sergeant/),231,FALSE,NA,###  Tutorials,link,2018-09-17
++ [Because it's Friday: Stars in Motion](http://blog.revolutionanalytics.com/2018/09/stars-in-motion.html),106,FALSE,NA,###  Tutorials,link,2018-09-17
++ [A stricter %in%](https://coolbutuseless.github.io/2018/09/07/a-stricter-in/),79,FALSE,NA,###  Tutorials,link,2018-09-17
++ [Naïve Numerical Sums in R](https://ntguardian.wordpress.com/2018/09/10/naive-numerical-sums-in-r/),101,FALSE,NA,###  Tutorials,link,2018-09-17
++ [A Quick Appreciation of the R transform Function](http://www.win-vector.com/blog/2018/09/a-quick-appreciation-of-the-r-transform-function/),142,FALSE,NA,###  Tutorials,link,2018-09-17
++ [GDP Data via API](https://rviews.rstudio.com/2018/09/12/gdp-via-api/),72,FALSE,NA,###  Tutorials,link,2018-09-17
+![GDP Data via API](https://raw.githubusercontent.com/rweekly/image/master/2018/gdp-1.png),90,FALSE,NA,###  Tutorials,image,2018-09-17
++ [What have these birds been studied for? Querying science outputs with R](https://ropensci.org/blog/2018/09/11/birds-science/),128,FALSE,NA,###  Tutorials,link,2018-09-17
+"+ [Binary, beta, beta-binomial](https://www.rdatagen.net/post/binary-beta-beta-binomial/)",89,FALSE,NA,###  Tutorials,link,2018-09-17
++ [Going from a human readable Excel file to a machine-readable csv with {tidyxl}](http://www.brodrigues.co/blog/2018-09-11-human_to_machine/),142,FALSE,NA,###  Tutorials,link,2018-09-17
++ [Practical Data Science with R2](http://www.win-vector.com/blog/2018/09/practical-data-science-with-r2/),106,FALSE,NA,###  Tutorials,link,2018-09-17
++ [Getting started with deep learning in R](https://blog.rstudio.com/2018/09/12/getting-started-with-deep-learning-in-r/),121,FALSE,NA,###  Tutorials,link,2018-09-17
++ [The Evolution of Data Literacy at the U.S. Department of Energy + Finding Power Grid Cyber Attacks in a Data Haystack](https://rud.is/b/2018/09/12/the-evolution-of-data-literacy-at-the-u-s-department-of-energy-finding-power-grid-cyber-attacks-in-a-data-haystack/),266,FALSE,NA,###  Tutorials,link,2018-09-17
+"+ [If not Notebooks, then what? Look to Literate Programming](http://blog.revolutionanalytics.com/2018/09/notebooks-literate-programming.html)",142,FALSE,NA,###  Tutorials,link,2018-09-17
++ [R Gene Regulatory Interaction Formulator For Inquiring Networks](http://lcolladotor.github.io/2018/09/13/r-gene-regulatory-interaction-formulator-for-inquiring-networks/),173,FALSE,NA,###  Tutorials,link,2018-09-17
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-09-17
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-09-17
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-09-17
+"+ Buffering is disabled for `file()` connections to irregular files (like sockets), as well as `fifo()` and `pipe()` connections. Fixes PR#17470, reported by Chris Culnane.",172,FALSE,NA,###  R Project Updates,unid,2018-09-17
+"+ Analogously, the tools-internal function called from `R CMD check` gets a `warnOption = 1` argument and uses the larger of that and `getOption(""warn"")`, also allowing to be run with increased warning level.",208,FALSE,NA,###  R Project Updates,unid,2018-09-17
+"+ `getOption()` is more efficient notably for the rare case when called with two arguments, from several contributors in PR#17394.",130,FALSE,NA,###  R Project Updates,unid,2018-09-17
+"+ `tools`' `vignetteDepends()` has been deprecated (it called a function deprecated since Feb 2016), partly replaced by newly exported `vignetteInfo()`.",152,FALSE,NA,###  R Project Updates,unid,2018-09-17
+"+ Experimentally, setting environment variable `_R_CHECK_LENGTH_1_LOGIC2_` will lead to warnings (or errors if the variable is set to a `true` value) when `&&` or `||` encounter and use arguments of length more than one.",220,FALSE,NA,###  R Project Updates,unid,2018-09-17
+"+ Added `""lines""` and `""chars""` coordinate systems to `grconvertX()` and `grconvertY()`.",88,FALSE,NA,###  R Project Updates,unid,2018-09-17
++ `S3method()` directives in `NAMESPACE` can now also be used to perform _delayed_ S3 method registration.,106,FALSE,NA,###  R Project Updates,unid,2018-09-17
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-09-17
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-09-17
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-09-17
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-09-17
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">A massive thanks to everyone to donated to support the Ihaka lecture series: <a href=""https://t.co/nkyr8rSsrP"">https://t.co/nkyr8rSsrP</a> — in total we raised just over $63,000!! I am so proud to part of such a wonderful community <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/1040671156280467457?ref_src=twsrc%5Etfw"">September 14, 2018</a></blockquote>",563,FALSE,NA,###  Quotes of the Week,unid,2018-09-17

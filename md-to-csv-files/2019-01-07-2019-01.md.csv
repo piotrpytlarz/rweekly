@@ -1,0 +1,66 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2019-01-07
+"title: R Weekly 2019-01 pagedown, reticulate, gganimate",55,FALSE,NA,NA,unid,2019-01-07
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-01-07
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-01-07
+---,3,FALSE,NA,NA,unid,2019-01-07
++ [pagedown](https://pagedown.rbind.io/) - Create Paged HTML Documents for Printing from R Markdown,99,FALSE,NA,###  Highlight,link,2019-01-07
++ [R or Python? Why not both? Using Anaconda Python within R with {reticulate}](https://www.brodrigues.co/blog/2018-12-30-reticulate/),134,FALSE,NA,###  Highlight,link,2019-01-07
++ [gganimate has transitioned to a state of release](https://www.data-imaginist.com/2019/gganimate-has-transitioned-to-a-state-of-release/),139,FALSE,NA,###  Highlight,link,2019-01-07
++ [Your and my 2019 R goals](https://masalmon.eu/2019/01/01/r-goals/),69,FALSE,NA,### Insights,link,2019-01-07
+![Your and my 2019 R goals](https://raw.githubusercontent.com/rweekly/image/master/2019/01/lollipop-201901.png),111,FALSE,NA,### Insights,image,2019-01-07
++ [Entering and Exiting 2018](https://www.data-imaginist.com/2019/entering-and-exiting-2018/),93,FALSE,NA,### Insights,link,2019-01-07
++ [2018 through {cranlogs}](https://colinfay.me/12-months-cranlogs/),68,FALSE,NA,### Insights,link,2019-01-07
+![2018 through {cranlogs}](https://raw.githubusercontent.com/rweekly/image/master/2019/01/ccranlogs2018.png),108,FALSE,NA,### Insights,image,2019-01-07
++ [Here's why 2019 is a great year to start with R](https://jozefhajnala.gitlab.io/r/r908-10-year-old-code/) - A story of 10 year old R code then and now,153,FALSE,NA,### Insights,link,2019-01-07
++ [R or Python? Why not both? Using Anaconda Python within R with {reticulate}](https://www.brodrigues.co/blog/2018-12-30-reticulate/),134,FALSE,NA,### Insights,link,2019-01-07
++ [Exploring 2018 R-bloggers & R Weekly Posts with Feedly & the 'seymour' package](https://rud.is/b/2018/12/31/exploring-2018-r-bloggers-r-weekly-posts-with-feedly-the-seymour-package/),185,FALSE,NA,### R in the Real World,link,2019-01-07
++ [Animating shot distances in NBA games.](https://luisdva.github.io/rstats/bball-shots/),89,FALSE,NA,### R in the Real World,link,2019-01-07
+![Animating shot distances in NBA games.](https://raw.githubusercontent.com/rweekly/image/master/2019/01/bballjh.gif),117,FALSE,NA,### R in the Real World,image,2019-01-07
++ [Survey Raking: An Illustration](https://datawookie.netlify.com/blog/2018/12/survey-raking-an-illustration/),110,FALSE,NA,### R in the Real World,link,2019-01-07
++ [Are men and women tweeted equal? a corpus linguistic approach in R](https://peerchristensen.netlify.com/post/what-twitter-says-about-men-and-women-a-corpus-linguistic-approach-in-r/),185,FALSE,NA,### R in the Real World,link,2019-01-07
++ [Purr yourself into a math genius](http://staff.math.su.se/hoehle/blog/2019/01/04/mathgenius.html),100,FALSE,NA,### R in the Real World,link,2019-01-07
++ [Using R to download missing photos from JSON files after incorrect Google Takeout. ](https://dataplayground.netlify.com/blog/google-takeout-missing-photos-download-them-on-your-own/),185,FALSE,NA,### R in the Real World,link,2019-01-07
++ [gganimation for the nation](https://www.johnmackintosh.com/2019-01-06-gganimation-for-the-nation/),101,FALSE,NA,### R in the Real World,link,2019-01-07
++ [2018: Not so bad for running](http://dirk.eddelbuettel.com/blog/2018/12/31#2018_strava_stats),96,FALSE,NA,### R in the Real World,link,2019-01-07
++ [Looking into 19th century ads from a Luxembourguish newspaper with R](https://www.brodrigues.co/blog/2019-01-04-newspapers/),127,FALSE,NA,### R in the Real World,link,2019-01-07
++ [An R course for marketing students](https://bookdown.org/content/1340/),74,FALSE,NA,###  Resources,link,2019-01-07
++ [2018 R Views Review and Highlights](https://rviews.rstudio.com/2019/01/02/2018-r-views-highlights/),102,FALSE,NA,###  Resources,link,2019-01-07
++ [Notebooks from the Practical AI Workshop](https://blog.revolutionanalytics.com/2019/01/notebooks-from-the-practical-ai-workshop.html),136,FALSE,NA,###  Resources,link,2019-01-07
++ [In case you missed it: December 2018 roundup](https://blog.revolutionanalytics.com/2019/01/in-case-you-missed-it-december-2018-roundup.html),143,FALSE,NA,###  Resources,link,2019-01-07
++ [pagedown](https://pagedown.rbind.io/) - Create Paged HTML Documents for Printing from R Markdown,99,FALSE,NA,###  Resources,link,2019-01-07
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-01-07
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-01-07
++ [nycgeo](https://nycgeo.mattherman.info) - New package for NYC spatial data,77,FALSE,NA,###  New Packages,link,2019-01-07
+![nycgeo](https://raw.githubusercontent.com/rweekly/image/master/2019/01/nycgeo.png),84,FALSE,NA,###  New Packages,image,2019-01-07
++ [RcppDynProg](http://www.win-vector.com/blog/2018/12/introducing-rcppdynprog/) - table-based dynamic programming,114,FALSE,NA,###  New Packages,link,2019-01-07
++ [slga](https://obrl-soil.github.io/slga-announcement/) - soils data for the people,84,FALSE,NA,###  New Packages,link,2019-01-07
+![slga](https://raw.githubusercontent.com/rweekly/image/master/2019/01/clayplot.png),84,FALSE,NA,###  New Packages,image,2019-01-07
++ [vdiffr 0.3.0](https://github.com/lionel-/vdiffr) - Visual unit tests for R plots,83,FALSE,NA,### Updated Packages,link,2019-01-07
+![vdiffr 0.3.0](https://raw.githubusercontent.com/rweekly/image/master/2019/01/rstudio-vdiffr.png),98,FALSE,NA,### Updated Packages,image,2019-01-07
++ [haven 2.0.0](https://haven.tidyverse.org/) - read and write various data formats used by other statistical packages,118,FALSE,NA,### Updated Packages,link,2019-01-07
+"+ [Apache Drill 1.15.0 + sergeant 0.8.0 = pcapng Support, Proper Column Types & Mounds of New Metadata](https://rud.is/b/2019/01/02/apache-drill-1-15-0-sergeant-0-8-0-pcapng-support-proper-column-types-mounds-of-new-metadata/)",226,FALSE,NA,### Updated Packages,link,2019-01-07
++ [Example adding Firebase authentication to a Shiny application](https://www.tychobra.com/posts/2019-01-03-firebasse-auth-wtih-shiny/),135,FALSE,NA,###  Tutorials,link,2019-01-07
++ [Composition & Pointfree - FP with purrr and friends](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-2-composition/),159,FALSE,NA,###  Tutorials,link,2019-01-07
++ [split-apply-combine with group_map](https://coolbutuseless.github.io/2018/12/31/split-apply-combine-with-group_map/),119,FALSE,NA,###  Tutorials,link,2019-01-07
+"+ [Displaying our ""R - Quality Control Individual Range Chart Made Nice"" inside a Java web App using AJAX - How To.](https://laranikalranalytics.blogspot.com/2019/01/displaying-our-r-quality-control.html)",204,FALSE,NA,###  Tutorials,link,2019-01-07
++ [Considering sensitivity to unmeasured confounding: part 1](https://www.rdatagen.net/post/what-does-it-mean-if-findings-are-sensitive-to-unmeasured-confounding/),163,FALSE,NA,###  Tutorials,link,2019-01-07
++ [gganimate has transitioned to a state of release](https://www.data-imaginist.com/2019/gganimate-has-transitioned-to-a-state-of-release/),139,FALSE,NA,###  Tutorials,link,2019-01-07
++ [End of 2018 Thoughts](https://r-tastic.co.uk/post/end-of-2018-thoughts/),75,FALSE,NA,###  Tutorials,link,2019-01-07
+"+ [x-mas tRees with gganimate, ggplot, plotly and friends](http://smarterpoland.pl/index.php/2019/01/x-mas-trees-with-gganimate-ggplot-plotly-and-friends/)",155,FALSE,NA,###  Tutorials,link,2019-01-07
++ [Office for Students report on “grade inflation”](https://statgeek.net/2019/01/02/office-for-students-report-on-grade-inflation/),131,FALSE,NA,###  Tutorials,link,2019-01-07
++ ['data:' Scraping & Chart Reproduction : Arrows of Environmental Destruction](https://rud.is/b/2019/01/03/data-scraping-chart-reproduction-arrows-of-environmental-destruction/),178,FALSE,NA,###  Tutorials,link,2019-01-07
+!['data:' Scraping & Chart Reproduction : Arrows of Environmental Destruction](https://raw.githubusercontent.com/rweekly/image/master/2019/01/arrow-chart-makeover.png),167,FALSE,NA,###  Tutorials,image,2019-01-07
++ [Advances in time series forecasting – M4 and what it means for insurance](http://ronaldrichman.co.za/2018/12/31/advances-in-time-series-forecasting-m4-and-what-it-means-for-insurance/),187,FALSE,NA,###  Tutorials,link,2019-01-07
++ [Metamerismo estadístico](https://eliocamp.github.io/codigo-r/2019/01/metamerismo-estad%C3%ADstico/),102,FALSE,NA,###  Tutorials,link,2019-01-07
+"+ [What does it mean to write ""vectorized"" code in R?](http://www.win-vector.com/blog/2019/01/what-does-it-mean-to-write-vectorized-code-in-r/)",143,FALSE,NA,###  Tutorials,link,2019-01-07
++ [Regression Modeling Strategies](http://fharrell.com/talk/rmscsp/),68,FALSE,NA,###  Tutorials,link,2019-01-07
+"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-01-07
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2019-01-07
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-01-07
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-01-07
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-01-07
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-01-07
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-01-07
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Back to work after the holidays and spending my time figuring out how to decompose variance visually in multilevel models. Here is a way to see the &quot;flow&quot; of variance. Thanks to the riverplot package in <a href=""https://twitter.com/hashtag/R?src=hash&amp;ref_src=twsrc%5Etfw"">#R</a> <a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a> <a href=""https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw"">#dataviz</a>. <a href=""https://t.co/JM8QNG2CRj"">pic.twitter.com/JM8QNG2CRj</a></p>&mdash; Matt Barstead (@MGB_Research) <a href=""https://twitter.com/MGB_Research/status/1081274645817577478?ref_src=twsrc%5Etfw"">January 4, 2019</a></blockquote>",776,FALSE,NA,###  Quotes of the Week,unid,2019-01-07
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">📊 If you spend a lot of time playing w/ ggplot2, this is quite entertaining…<br>&quot;Mapping ggplot geoms and aesthetic parameters&quot; ✍️ <a href=""https://twitter.com/yihanwu5?ref_src=twsrc%5Etfw"">@yihanwu5</a><a href=""https://t.co/joCrOMYPPZ"">https://t.co/joCrOMYPPZ</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw"">#dataviz</a> <a href=""https://t.co/YFI5EDgGOk"">pic.twitter.com/YFI5EDgGOk</a></p>&mdash; Mara Averick (@dataandme) <a href=""https://twitter.com/dataandme/status/1081249450646011906?ref_src=twsrc%5Etfw"">January 4, 2019</a></blockquote>",750,FALSE,NA,###  Quotes of the Week,unid,2019-01-07

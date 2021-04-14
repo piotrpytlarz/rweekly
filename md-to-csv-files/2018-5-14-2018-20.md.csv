@@ -1,0 +1,85 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-5-14
+"title: R Weekly 2018-20 Conferences, Excel, Interpretable",57,FALSE,NA,NA,unid,2018-5-14
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-5-14
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-5-14
+---,3,FALSE,NA,NA,unid,2018-5-14
++ [2018 R Conferences](https://rviews.rstudio.com/2018/05/11/2018-r-conferences/),81,FALSE,NA,###  Highlight,link,2018-5-14
++ [tidying messy excel data tidyxl](https://statbandit.wordpress.com/2018/05/08/tidying-messy-excel-data-tidyxl/),113,FALSE,NA,###  Highlight,link,2018-5-14
++ [In case you missed it: April 2018 roundup](http://blog.revolutionanalytics.com/2018/05/in-case-you-missed-it-april-2018-roundup.html),136,FALSE,NA,###  Highlight,link,2018-5-14
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-5-14
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-5-14
++ [Nomisr](https://ropensci.org/technotes/2018/05/08/nomisr/) -  Access 'Nomis' UK Labour Market Data,101,FALSE,NA,###  New Packages,link,2018-5-14
++ [iml](https://github.com/christophM/iml) - interpretable machine learning,75,FALSE,NA,###  New Packages,link,2018-5-14
++ [RcppMsgPack 0.2.2](http://dirk.eddelbuettel.com/blog/2018/05/06#rcppmsgpack_0.2.2) - MsgPack Headers for R,109,FALSE,NA,### Package Releases,link,2018-5-14
++ [RcppGSL 0.3.4](http://dirk.eddelbuettel.com/blog/2018/05/07#rcppgsl_0.3.4) -  R to the vector and matrix classes of the GNU GSL,130,FALSE,NA,### Package Releases,link,2018-5-14
++ [leaflet 2.0.0](https://blog.rstudio.com/2018/05/10/leaflet-2-0-0/) - R and Interactive Maps,94,FALSE,NA,### Package Releases,link,2018-5-14
++ [Harry Potter and competition results with comperes](http://www.questionflow.org/2018/05/09/harry-potter-and-competition-results-with-comperes/),146,FALSE,NA,### R in the Real World,link,2018-5-14
+![Harry Potter and competition results with comperes](https://raw.githubusercontent.com/rweekly/image/master/2018/book-score_distribution-1.png),144,FALSE,NA,### R in the Real World,image,2018-5-14
++ [Wrangling Data Table Out Of the FBI 2017 IC3 Crime Report](https://rud.is/b/2018/05/08/wrangling-data-table-out-of-the-fbi-2017-ic3-crime-report/),149,FALSE,NA,### R in the Real World,link,2018-5-14
++ [Twitter's Myanmar hate machine](http://rayms.github.io/2018-05-09-twitter-s-myanmar-hate-machine/),101,FALSE,NA,### R in the Real World,link,2018-5-14
+![Twitter's Myanmar hate machine](https://raw.githubusercontent.com/rweekly/image/master/2018/moekyaw_accounts.png),115,FALSE,NA,### R in the Real World,image,2018-5-14
++ [2018 R Conferences](https://rviews.rstudio.com/2018/05/11/2018-r-conferences/),81,FALSE,NA,###  Resources,link,2018-5-14
++ [In case you missed it: April 2018 roundup](http://blog.revolutionanalytics.com/2018/05/in-case-you-missed-it-april-2018-roundup.html),136,FALSE,NA,###  Resources,link,2018-5-14
++ [Need for Speed: Benchmarks on Dataframes](https://www.eokodie.com/blog/need-for-speed-benchmarks-on-dataframes/),115,FALSE,NA,### Insights,link,2018-5-14
++ [This is what happens when you encode data as cell formatting in Excel](https://luisdva.github.io/rstats/excel-trivia/),121,FALSE,NA,### Insights,link,2018-5-14
++ [Teaching and Preaching Tidy Data](http://kgilds.rbind.io/2018/05/10/data-literacy/),86,FALSE,NA,### Insights,link,2018-5-14
++ [The social weather of rOpenSci onboarding system](https://ropensci.org/blog/2018/05/10/onboarding-social-weather/),117,FALSE,NA,###  R in Organizations,link,2018-5-14
+"+ [Installing Missing Packages from Bioconductor, CRAN and Github](https://www.eokodie.com/blog/installing-missing-packages-from-bioconductor-cran-and-github/)",159,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Machine Learning Explained: Vectorization and matrix operations](http://enhancedatascience.com/2018/05/07/machine-learning-explained-vectorization-matrix-operations/),169,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Multivariate Dot-density Maps in R with Sf & Ggplot2](https://www.cultureofinsight.com/blog/2018/05/02/2018-04-08-multivariate-dot-density-maps-in-r-with-sf-ggplot2/),169,FALSE,NA,###  Tutorials,link,2018-5-14
+![Multivariate Dot-density Maps in R with Sf & Ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2018/dot-dens.png),129,FALSE,NA,###  Tutorials,image,2018-5-14
++ [Using quantities to parse data with units and errors](http://r-spatial.org//r/2018/05/07/parsing-quantities.html),116,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Introducing the tapir package: Text-based Arbitrary Precision Integers in R](https://coolbutuseless.github.io/2018/05/07/introducing-the-tapir-package-text-based-arbitrary-precision-integers-in-r/),200,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Deploying a secure Shiny Server and RStudio Server on a free Google Cloud virtual machine](http://www.simoncoulombe.com/2018/05/07/protected_free_shiny/),156,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Data types](https://itsalocke.com/blog/data-types/),54,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Open-Source Machine Learning in Azure](http://blog.revolutionanalytics.com/2018/05/open-source-machine-learning-in-azure.html),129,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Learning Functions](http://kgilds.rbind.io/2018/05/08/learning-functions/),77,FALSE,NA,###  Tutorials,link,2018-5-14
++ [tidying messy excel data tidyxl](https://statbandit.wordpress.com/2018/05/08/tidying-messy-excel-data-tidyxl/),113,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Exploratory Factor Analysis in R](https://r-posts.com/exploratory-factor-analysis-in-r/),91,FALSE,NA,###  Tutorials,link,2018-5-14
++ [10 PRINT mazes with ggplot2](https://tjmahr.github.io/10-print-mazes-with-ggplot2/),86,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Flow charts in R](https://aghaynes.wordpress.com/2018/05/09/flow-charts-in-r/),81,FALSE,NA,###  Tutorials,link,2018-5-14
+![Flow charts in R](https://raw.githubusercontent.com/rweekly/image/master/2018/flowtemp.png),93,FALSE,NA,###  Tutorials,image,2018-5-14
++ [Hi-res c64 images with Rstats 'r64' package](https://coolbutuseless.github.io/2018/05/10/hi-res-c64-images-with-rstats-r64-package/),135,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Rolling Fama French](https://rviews.rstudio.com/2018/05/10/rolling-fama-french/),83,FALSE,NA,###  Tutorials,link,2018-5-14
++ [rquery: SQL from R](http://www.win-vector.com/blog/2018/05/rquery-sql-from-r/),81,FALSE,NA,###  Tutorials,link,2018-5-14
++ [the riddle of the stands](https://xianblog.wordpress.com/2018/05/11/the-riddle-of-the-stands/),97,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Vim mode in RStudio](https://uncmbbtrivia.netlify.com/post/2018/05/11/vim-mode-in-rstudio/),94,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Custom R charts coming to Excel](http://blog.revolutionanalytics.com/2018/05/powerbi-custom-visuals-in-excel.html),117,FALSE,NA,###  Tutorials,link,2018-5-14
+"+ [Because it's Friday: Planes, pains, and automobiles](http://blog.revolutionanalytics.com/2018/05/because-its-friday-planes-pains-and-automobiles.html)",153,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Challenge: Simultaneous parallel min() and which.min()](https://coolbutuseless.github.io/2018/05/12/challenge-simultaneous-parallel-min-and-which.min/),154,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Visual Representation of Complex Multivariate Relationships Using the R Qgraph Package](https://dmwiig.net/2018/05/07/an-r-tutorial-visual-representation-of-complex-multivariate-relationships-using-the-r-qgraph-package-part-two-repost/),239,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Introduction to Machine Learning for non-developers](https://blog.datascienceheroes.com/introduction-to-machine-learning-for-non-developers/),144,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Regression with Interaction Terms - How Centering Predictors influences Main Effects](http://jmbh.github.io//CenteringPredictors/),133,FALSE,NA,###  Tutorials,link,2018-5-14
++ [RStudio:addins part 1. - code reproducibility testing](https://jozefhajnala.gitlab.io/r/r101-addin-reproducibility/),119,FALSE,NA,###  Tutorials,link,2018-5-14
+"+ [Deep Learning from first principles in Python, R and Octave](https://gigadom.wordpress.com/2018/05/06/deep-learning-from-first-principles-in-python-r-and-octave-part-8/)",172,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Remove password protection from Excel sheets using R](https://ryouready.wordpress.com/2018/05/06/remove-password-protection-from-excel-sheets-using-r/),154,FALSE,NA,###  Tutorials,link,2018-5-14
++ [Coordinate systems in ggplot2: easily overlooked and rather underrated](https://www.statworx.com/de/blog/coordinate-systems-in-ggplot2-easily-overlooked-and-rather-underrated/),179,FALSE,NA,###  Tutorials,link,2018-5-14
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-5-14
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-5-14
++ [CRAN Policy Change new rev3874](https://github.com/eddelbuettel/crp/commit/a5b3c8a9bb9e61d4f1d7f915391740ae451ab3c8),119,FALSE,NA,###  R Project Updates,link,2018-5-14
++ `unlist(x)` no longer fails in some cases of nested empty lists.,66,FALSE,NA,###  R Project Updates,unid,2018-5-14
++ Method dispatch uses more relevant environments when looking up class definitions.,84,FALSE,NA,###  R Project Updates,unid,2018-5-14
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
+[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
++ [CascadiaRConf](https://cascadiarconf.com/) **June 2**,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-14
+"Portland, OR, US",16,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-14
+Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
++ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-14
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
+<!--,4,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-14
+"Buenos Aires, Argentina.",24,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
+-->,3,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
+Next Week's Events:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
++ [UseR Group and R-Ladies Events the week of May 14th](https://community.rstudio.com/t/upcoming-r-community-events-week-of-2018-05-14/8131).<br />,147,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-14
+There are 23 events in at least 8 countries posted on RStudio Community this week.<br />,88,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-14
++ Join the r-spatial ladies! There's a [slack channel](https://join.slack.com/t/r-spatialladies/shared_invite/enQtMzU1MTIwMjU2NzUyLTBkZjU1NDFiZGU3YzNmN2Y0Y2NiYTM2Njk2ZjI5M2IyMTNiNjI3ZDQ4MzEyMjQxNjM2YWU2ZGVkZWRiYmU1ZDM) open to women and non binary folks interested in R for spatial data and a [GitHub page](https://github.com/rspatialladies) with crowdsourced resources.,370,FALSE,NA,###  Call for Participation,unid,2018-5-14
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-5-14
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Shiny v1.1 (the one with async) is days away from release! Huge changes under the hood--it&#39;d be a big help if you try out your app using devtools::install_github(&quot;rstudio/shiny&quot;) and let us know if anything breaks! <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Joe Cheng (@jcheng) <a href=""https://twitter.com/jcheng/status/994980498605621248?ref_src=twsrc%5Etfw"">May 11, 2018</a></blockquote>",534,FALSE,NA,###  Quotes of the Week,unid,2018-5-14
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">For all <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> users like me who are nitpicky about the colour palettes they use in figures: there is a package called &quot;colorspace&quot; which lets you brew your own palette in an interactive window! Even has options to check how its viewed in B&amp;W and by colourblind people. <a href=""https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw"">#phdchat</a> <a href=""https://t.co/JOQpMrDO35"">pic.twitter.com/JOQpMrDO35</a></p>&mdash; Jaimi Gray (@jaimiAgray) <a href=""https://twitter.com/jaimiAgray/status/994392251206844416?ref_src=twsrc%5Etfw"">May 10, 2018</a></blockquote>",748,FALSE,NA,###  Quotes of the Week,unid,2018-5-14
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">If you’re an academic you need a website so that people can easily find info about your research and publications. Here’s how to make your own website for free in an under an hour using the blogdown package in <a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a> [THREAD] <a href=""https://t.co/9Lmo00Gkf0"">pic.twitter.com/9Lmo00Gkf0</a></p>&mdash; Dan Quintana (@dsquintana) <a href=""https://twitter.com/dsquintana/status/993410504570888192?ref_src=twsrc%5Etfw"">May 7, 2018</a></blockquote>",599,FALSE,NA,###  Quotes of the Week,unid,2018-5-14
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">The R package `factoextra` makes it supremely easy to extract and visualize the output of the most common (exploratory) multivariate data analyses (PCA, MFA, etc.):<a href=""https://t.co/j0IX5HZ2GW"">https://t.co/j0IX5HZ2GW</a><br><br>Tons of documentation available at a dedicated website:<a href=""https://t.co/9DCZScHHjh"">https://t.co/9DCZScHHjh</a><a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/oDHjU8qeZq"">pic.twitter.com/oDHjU8qeZq</a></p>&mdash; Indrajeet Patil (@patilindrajeets) <a href=""https://twitter.com/patilindrajeets/status/993974774526365696?ref_src=twsrc%5Etfw"">May 8, 2018</a></blockquote>",742,FALSE,NA,###  Quotes of the Week,unid,2018-5-14

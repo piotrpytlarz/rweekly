@@ -1,0 +1,86 @@
+value,nchar,section_lookup,section_title,section,type,issue
+---,3,FALSE,NA,NA,unid,2018-5-7
+"title: R Weekly 2018-19 pkgdown, tweets, showcase",49,FALSE,NA,NA,unid,2018-5-7
+description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-5-7
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-5-7
+---,3,FALSE,NA,NA,unid,2018-5-7
++ [pkgdown 1.0.0](https://www.tidyverse.org/articles/2018/05/pkgdown-1-0-0/),76,FALSE,NA,###  Highlight,link,2018-5-7
++ [Seventeen Minutes From Tweet To Package](https://rud.is/b/2018/05/03/seventeen-minutes-from-tweet-to-package/),113,FALSE,NA,###  Highlight,link,2018-5-7
++ [DataVis showcase from Emi Tanaka](https://emitanaka.github.io/showcase/),75,FALSE,NA,###  Highlight,link,2018-5-7
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-5-7
+**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-5-7
++ [pkgdown 1.0.0](https://www.tidyverse.org/articles/2018/05/pkgdown-1-0-0/),76,FALSE,NA,###  New Packages,link,2018-5-7
+**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-5-7
++ [advicegiveR](https://github.com/katiejolly/advicegiveR): R wrapper for the advice slip API,93,FALSE,NA,###  New Packages,link,2018-5-7
+"+ [echarts4r](http://echarts4r.john-coene.com) - ECharts version 4 for R, a plethora of chart types customisable with innumerable options.",138,FALSE,NA,###  New Packages,link,2018-5-7
+![echarts4r](https://raw.githubusercontent.com/rweekly/image/master/2018/echart.png),84,FALSE,NA,###  New Packages,image,2018-5-7
+"+ [March 2018: ""Top 40"" New Package Picks](https://rviews.rstudio.com/2018/04/30/march-2018-top-40-new-package-picks/)",118,FALSE,NA,### Package Releases,link,2018-5-7
++ [RcppArmadillo 0.8.500.0](http://dirk.eddelbuettel.com/blog/2018/04/30#rcpparmadillo_0.8.500.0),97,FALSE,NA,### Package Releases,link,2018-5-7
++ [Microsoft R Open 3.4.4 now available](http://blog.revolutionanalytics.com/2018/04/microsoft-r-open-344-now-available.html),125,FALSE,NA,### Package Releases,link,2018-5-7
++ [Bioconductor 3.7 release and the DelayedArray framework](https://www.peterhickey.org/2018/05/01/bioc3.7-and-delayedarray/),125,FALSE,NA,### Package Releases,link,2018-5-7
++ [DataVis showcase from Emi Tanaka](https://emitanaka.github.io/showcase/),75,FALSE,NA,###  Resources,link,2018-5-7
++ [Make the Right / Positive Things Easier to Do than Wrong / Negative Things](https://yihui.name/en/2018/05/right-easier-than-wrong/),134,FALSE,NA,### Insights,link,2018-5-7
++ [Reflections from my first R package building experience!](https://ryo-n7.github.io/2018-04-30-bulletchartr-package-experience/),130,FALSE,NA,### Insights,link,2018-5-7
++ [advicegiveR: Developing my first package!](http://katiejolly.io/blog/2018-05-02/advicegiveR),95,FALSE,NA,### Insights,link,2018-5-7
++ [Seventeen Minutes From Tweet To Package](https://rud.is/b/2018/05/03/seventeen-minutes-from-tweet-to-package/),113,FALSE,NA,### Insights,link,2018-5-7
++ [Road Map for Choosing Between Statistical Modeling and Machine Learning](http://fharrell.com/post/stat-ml/),110,FALSE,NA,### Insights,link,2018-5-7
++ [Relationships in Data Analysis](https://simplystatistics.org/2018/04/30/relationships-in-data-analysis/),107,FALSE,NA,### Insights,link,2018-5-7
++ [How much work is onboarding?](https://ropensci.org/blog/2018/05/03/onboarding-is-work/),90,FALSE,NA,###  R in Organizations,link,2018-5-7
++ [Mapping hurricane search data from Google Trends](https://peerchristensen.netlify.com/post/mapping-hurricane-search-data-from-google-trends/),144,FALSE,NA,### R in the Real World,link,2018-5-7
+"+ [Exploring the Meaning of AI, Data Science and Machine Learning with the latest Wikipedia Clickstream](https://becominghuman.ai/exploring-the-meaning-of-ai-data-science-and-machine-learning-with-the-latest-wikipedia-5fea5f0a2d46)",231,FALSE,NA,### R in the Real World,link,2018-5-7
++ [An analysis of the World Marathon Majors in the wake of Boston and London](http://stevenewns.netlify.com/2018/05/04/an-analysis-of-world-marathon-major-winners/),164,FALSE,NA,### R in the Real World,link,2018-5-7
+![An analysis of the World Marathon Majors in the wake of Boston and London](https://raw.githubusercontent.com/rweekly/image/master/2018/time.png),146,FALSE,NA,### R in the Real World,image,2018-5-7
++ [Create a Twitter bot for your local animal shelter using rtweet](https://erbo.rbind.io/blog/2018-05-03-create-a-twitter-bot-for-your-local-animal-shelter-using-rtweet/),171,FALSE,NA,### R in the Real World,link,2018-5-7
++ [A look into U.S. infectious diseases](https://austinwehrwein.com/data-visualization/diseases/),97,FALSE,NA,### R in the Real World,link,2018-5-7
+![A look into U.S. infectious diseases](https://raw.githubusercontent.com/rweekly/image/master/2018/diseases.png),113,FALSE,NA,### R in the Real World,image,2018-5-7
++ [Finding names in R packages which could be domain names (using rvest and the tidyverse)](https://coolbutuseless.github.io/2018/05/02/finding-names-in-r-packages-which-could-be-domain-names-using-rvest-and-the-tidyverse/),223,FALSE,NA,### R in the Real World,link,2018-5-7
++ [Three Twitter Threads](http://blog.revolutionanalytics.com/2018/05/three-twitter-threads.html),97,FALSE,NA,### R in the Real World,link,2018-5-7
++ [Comparing dependencies of popular machine learning packages with pkgnet](https://shirinsplayground.netlify.com/2018/04/pkgnet/),130,FALSE,NA,### R in the Real World,link,2018-5-7
++ [New York City Taxi & Limousine Commission Trip Data Analysis Using Sparklyr and Google Bigquery](https://mirai-solutions.ch/news/2018/01/09/NYC-TLC-Trip-Data-Analysis-Using-Sparklyr-and-Google-BigQuery/),206,FALSE,NA,### R in the Real World,link,2018-5-7
+"+ [Installing Missing Packages from Bioconductor, CRAN and Github](https://www.eokodie.com/blog/installing-missing-packages-from-bioconductor-cran-and-github/)",159,FALSE,NA,###  Tutorials,link,2018-5-7
++ [Structured vs. Text Data to predict Airbnb prices](https://github.com/franziloew/airbnb_textmining),102,FALSE,NA,###  Tutorials,link,2018-5-7
++ [About Risks and Side-Effects… Consult your Purrr-Macist](https://www.statworx.com/de/blog/about-risks-and-side-effects-consult-your-purrr-macist/),149,FALSE,NA,###  Tutorials,link,2018-5-7
++ [Riddler 27th April 2018](http://www.robert-hickman.eu/post/riddler-27th-april-2018/),87,FALSE,NA,###  Tutorials,link,2018-5-7
+"+ [How to setup and run R on Kubernetes including Shiny, OpenCPU and scheduled scripts](http://code.markedmondson.me/r-on-kubernetes-serverless-shiny-r-apis-and-scheduled-scripts/)",180,FALSE,NA,###  Tutorials,link,2018-5-7
++ [For Excel workbook saving of a data frame (openxlsx): Using pmax() and apply() to set column widths based on the widest of header and body values](https://rickpackblog.wordpress.com/2018/04/25/openxlsx-r-pkg-column-width-setting-when-auto-not-sufficient/),258,FALSE,NA,###  Tutorials,link,2018-5-7
++ [Interpretable Machine Learning with iml and mlr](https://mlr-org.github.io/interpretable-machine-learning-iml-and-mlr/),122,FALSE,NA,###  Tutorials,link,2018-5-7
+"+ [Make a sculpture in LEGO from a photo, with R](http://blog.revolutionanalytics.com/2018/04/lego-sculpture.html)",114,FALSE,NA,###  Tutorials,link,2018-5-7
++ [uint8 package for an unsigned 8bit integer type in R](https://coolbutuseless.github.io/2018/04/29/uint8-package-for-an-unsigned-8bit-integer-type-in-r/),155,FALSE,NA,###  Tutorials,link,2018-5-7
++ [A particles-arly fun book draw](https://itsalocke.com/blog/a-particles-arly-fun-book-draw/),94,FALSE,NA,###  Tutorials,link,2018-5-7
+"+ [Playing with #rstatsnyc, Neo4J and R](http://colinfay.me/rstatsnyc-neo4j/)",77,FALSE,NA,###  Tutorials,link,2018-5-7
+"![Playing with #rstatsnyc, Neo4J and R](https://raw.githubusercontent.com/rweekly/image/master/2018/graph_mentions-1.png)",121,FALSE,NA,###  Tutorials,image,2018-5-7
++ [How efficient are multifactorial experiments?](https://www.rdatagen.net/post/so-how-efficient-are-multifactorial-experiments-part/),134,FALSE,NA,###  Tutorials,link,2018-5-7
++ [Packaging Shiny apps - A deep dive](http://blog.sellorm.com/2018/05/02/packaging-shiny-apps-a-deep-dive/),108,FALSE,NA,###  Tutorials,link,2018-5-7
++ [Challenge: Adding Large Integers in R](https://coolbutuseless.github.io/2018/05/04/challenge-adding-large-integers-in-r/),124,FALSE,NA,###  Tutorials,link,2018-5-7
++ [Do you really need a multilevel model? A preview of powerlmm 0.4.0](http://rpsychologist.com/do-you-need-multilevel-powerlmm-0-4-0),134,FALSE,NA,###  Tutorials,link,2018-5-7
++ [Qualitative Data Science: Using RQDA to analyse interviews](https://r.prevos.net/qualitative-data-science/),110,FALSE,NA,###  Tutorials,link,2018-5-7
++ [How to do Repeated Measures ANOVAs in R](https://neuropsychology.github.io/psycho.R//2018/05/01/repeated_measure_anovas.html),128,FALSE,NA,###  Tutorials,link,2018-5-7
++ [N is for N (Sample Size) Estimation: Power Analysis in R](http://www.deeplytrivial.com/2018/04/n-is-for-n-sample-size-estimation-power.html),143,FALSE,NA,###  Tutorials,link,2018-5-7
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-5-7
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-5-7
+"+ `download.file()` on Windows now by default also uses binary transfer (`mode = ""wb""`) for file extension `.rds` and in the case the file extension dot (`.`) needs `URLdecode()`ing. The help page `?download.file` now contains the same information platform independently.",271,FALSE,NA,###  R Project Updates,unid,2018-5-7
++ Allow `file` argument of `Rscript` to include space even when it is first on the command line.,96,FALSE,NA,###  R Project Updates,unid,2018-5-7
++ `callNextMethod()` uses the generic from the environment of the calling method. Reported by Hervé Pagès with well documented examples.,136,FALSE,NA,###  R Project Updates,unid,2018-5-7
+"+ `simulate.lm(glm(*, gaussian(link = <non-default>)))` has been corrected, fixing PR#17415 thanks to Alex Courtiol.",116,FALSE,NA,###  R Project Updates,unid,2018-5-7
+"+ `untar(file(""<some>.tar.gz""), *)` now gives a better error message, suggesting to use `gzfile()` instead.",107,FALSE,NA,###  R Project Updates,unid,2018-5-7
+Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-7
++ [eRum 2018](http://2018.erum.io) **May 14-16** <br />,55,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-7
+"European R Users Meeting @ Budapest, Hungary",44,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-7
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-7
+[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-7
++ [CascadiaRConf](https://cascadiarconf.com/) **June 2**,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-7
+"Portland, OR, US",16,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-7
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-7
+Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-7
++ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-7
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-7
+<!--,4,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-7
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-5-7
+"Buenos Aires, Argentina.",24,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-7
+-->,3,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-7
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-5-7
++ Join the r-spatial ladies! There's a [slack channel](https://join.slack.com/t/r-spatialladies/shared_invite/enQtMzU1MTIwMjU2NzUyLTBkZjU1NDFiZGU3YzNmN2Y0Y2NiYTM2Njk2ZjI5M2IyMTNiNjI3ZDQ4MzEyMjQxNjM2YWU2ZGVkZWRiYmU1ZDM) open to women and non binary folks interested in R for spatial data and a [GitHub page](https://github.com/rspatialladies) with crowdsourced resources.,370,FALSE,NA,###  Call for Participation,unid,2018-5-7
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-5-7
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">There is now officially a Font Awesome <a href=""https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw"">#RStats</a> logo 🎉<a href=""https://t.co/sAtvRM0uuY"">https://t.co/sAtvRM0uuY</a> <a href=""https://t.co/N7AbwHpIIZ"">pic.twitter.com/N7AbwHpIIZ</a></p>&mdash; Colin Fay (@_ColinFay) <a href=""https://twitter.com/_ColinFay/status/992054289341276161?ref_src=twsrc%5Etfw"">May 3, 2018</a></blockquote>",482,FALSE,NA,###  Quotes of the Week,unid,2018-5-7
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">The latest <a href=""https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot2</a> has a `clip = &quot;off&quot;` option to allow drawing outside of the plot panel. This allows for all sorts of neat plotting tricks. E.g., direct labeling. (&quot;Toyota Corolla&quot; extends beyond the plot area.) <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw"">#dataviz</a> <a href=""https://t.co/kiqfj2M1iP"">pic.twitter.com/kiqfj2M1iP</a></p>&mdash; Claus Wilke (@ClausWilke) <a href=""https://twitter.com/ClausWilke/status/991542952802619392?ref_src=twsrc%5Etfw"">May 2, 2018</a></blockquote>",789,FALSE,NA,###  Quotes of the Week,unid,2018-5-7
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Quicker than quick...  Copy data in excel and straight into an R dataframe! I won&#39;t need this data ever again, so why bother saving and loading a file? <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/LearningNewTricks?src=hash&amp;ref_src=twsrc%5Etfw"">#LearningNewTricks</a> <a href=""https://t.co/ayeJqR3Hia"">pic.twitter.com/ayeJqR3Hia</a></p>&mdash; Suzan Baert (@SuzanBaert) <a href=""https://twitter.com/SuzanBaert/status/991755292550549506?ref_src=twsrc%5Etfw"">May 2, 2018</a></blockquote>",647,FALSE,NA,###  Quotes of the Week,unid,2018-5-7
