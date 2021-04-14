@@ -1,68 +1,68 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2020-03-23
-"title: R Weekly 2020-12 OncoTree, {parzer}, Flatten the Curve",61,FALSE,NA,NA,unid,2020-03-23
-description: Weekly News in the R Community,43,FALSE,NA,NA,unid,2020-03-23
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2020-03-23
----,3,FALSE,NA,NA,unid,2020-03-23
-Release Date: 2020-03-23,24,FALSE,NA,NA,unid,2020-03-23
-"This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder), with help from the RWeekly team members and contributors.",138,FALSE,NA,NA,unid,2020-03-23
-+ [OncoTree Tidygraph](https://joshuacook.netlify.com/post/tidygraph-oncotree/),79,FALSE,NA,###  Highlight,link,2020-03-23
-+ [{parzer}: Parse Messy Geographic Coordinates](https://ropensci.org/technotes/2020/03/19/parzer/),99,FALSE,NA,###  Highlight,link,2020-03-23
-+ [Flatten the COVID-19 curve](http://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html),102,FALSE,NA,###  Highlight,link,2020-03-23
-+ [A look at past bear markets and implications for the future](https://databasedinvesting.blogspot.com/2020/03/a-look-at-past-bear-markets-and.html),149,FALSE,NA,### R in the Real World,link,2020-03-23
-+ [Stock market crisis: is there a tennis ball effect?](https://firstdifferences.com/2020/03/16/stock-market-crisis-is-there-a-tennis-ball-effect/),147,FALSE,NA,### R in the Real World,link,2020-03-23
-+ [COVID-19 cumulative observed case fatality rate over time](http://freerangestats.info/blog/2020/03/17/covid19-cfr),117,FALSE,NA,### R in the Real World,link,2020-03-23
-+ [Simulating COVID-19 interventions with R](https://rviews.rstudio.com/2020/03/19/simulating-covid-19-interventions-with-r/),125,FALSE,NA,### R in the Real World,link,2020-03-23
-+ [Domestic data science – energy use](https://scottishsnow.wordpress.com/2020/03/20/domestic-ds-energy-use/),109,FALSE,NA,### R in the Real World,link,2020-03-23
-+ [COVID-19: The Case of Germany](https://blog.ephorie.de/covid-19-the-case-of-germany),87,FALSE,NA,### R in the Real World,link,2020-03-23
-![Flatten the COVID-19 curve](https://raw.githubusercontent.com/rweekly/image/master/2020/flatten-the-curve.png),112,FALSE,NA,### R in the Real World,image,2020-03-23
-+ [Flatten the COVID-19 curve](http://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html),102,FALSE,NA,### R in the Real World,link,2020-03-23
-+ [RStudio 1.3 Preview: The Little Things](https://blog.rstudio.com/2020/03/17/rstudio-1-3-the-little-things/),110,FALSE,NA,###  R in Organizations,link,2020-03-23
-"+ [Code live from RStudio, and share it with the World in real time](https://bitsandbricks.github.io/post/code-live-from-rstudio-and-share-it-with-the-world-in-real-time/)",171,FALSE,NA,###  R in Organizations,link,2020-03-23
-"+ [When you want more than a chi-squared test, consider a measure of association for contingency tables](https://www.rdatagen.net/post/when-a-chi-squared-statistic-is-not-enough-a-measure-of-association-for-contingency-tables/)",227,FALSE,NA,###  R in Academia,link,2020-03-23
-+ [R spatial follows GDAL and PROJ development](https://www.r-spatial.org//r/2020/03/17/wkt.html),97,FALSE,NA,###  Resources,link,2020-03-23
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2020-03-23
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2020-03-23
-+ [{parzer}: Parse Messy Geographic Coordinates](https://ropensci.org/technotes/2020/03/19/parzer/),99,FALSE,NA,###  New Packages,link,2020-03-23
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2020-03-23
-"+ [{espnscrapeR}: Collect or scrape QBR, NFL standings, and stats from ESPN.](https://jthomasmock.github.io/espnscrapeR/)",121,FALSE,NA,###  New Packages,link,2020-03-23
-"+ [{uscenpops}: Provides a single dataset of censal and intercensal population estimates for the United States by year of age and sex, for every year from 1900 to 2019.](https://kieranhealy.org/blog/archives/2020/03/15/u.s.-census-counts-data/)",244,FALSE,NA,###  New Packages,link,2020-03-23
-+ [Introducing bwsTools: A Package for Case 1 Best-Worst Scaling (MaxDiff) Designs](https://www.markhw.com/blog/bwstools-intro),127,FALSE,NA,### Updated Packages,link,2020-03-23
-+ [Rcpp 1.0.4: Lots of goodies](http://dirk.eddelbuettel.com/blog/2020/03/17#rcpp_1.0.4),88,FALSE,NA,### Updated Packages,link,2020-03-23
-+ [RProtoBuf 0.4.16: Now with JSON](http://dirk.eddelbuettel.com/blog/2020/03/19#rprotobuf_0.4.16),98,FALSE,NA,### Updated Packages,link,2020-03-23
-+ [RcppCCTZ 0.2.7](http://dirk.eddelbuettel.com/blog/2020/03/18#rcppcctz_0.2.7),79,FALSE,NA,### Updated Packages,link,2020-03-23
-+ [#TidyTuesday Screencast: Creating an R data package (cord19) in RStudio](https://www.youtube.com/watch?v=F4oUJp76KUY),120,FALSE,NA,###  Videos and Podcasts,link,2020-03-23
-+ [All you need to know on Multiple Factor Analysis …](https://francoishusson.wordpress.com/2020/03/16/all-you-need-to-know-on-multiple-factor-analysis/),153,FALSE,NA,###  Videos and Podcasts,link,2020-03-23
-+ [Recordings from SatRday Neuchâtel (remote)](https://www.youtube.com/channel/UC7VV1Ix1-8jncW7hTRZ50bg),104,FALSE,NA,###  Videos and Podcasts,link,2020-03-23
-+ [Community of Bioinformatics Software Developers (CDSB): The story of a diversity and outreach hotspot in Mexico that hopes to empower local R developers](https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico),248,FALSE,NA,### R Internationally,link,2020-03-23
-+ [Organising a SatRday remotely - SatRday Neuchâtel's experience & tips](https://docs.google.com/document/d/1ZXmwVibQKtfCY_HiB49-OhQL-yKhUS9YD9yeMQZH88E/edit#),160,FALSE,NA,### R Internationally,link,2020-03-23
-![NC counties and buffers](https://raw.githubusercontent.com/rweekly/image/master/2020/spatial-aggregation.png),111,FALSE,NA,###  Tutorials,image,2020-03-23
-"+ [Spatial Aggregation](https://www.jla-data.net/eng/spatial-aggregation/) - three approaches: based on buffers, voronoi polygons and equal distance grid cells",159,FALSE,NA,###  Tutorials,link,2020-03-23
-+ [styler 1.3.0: Faster styling and ignore some lines](https://lorenzwalthert.netlify.com/post/styler-1-3-0/),109,FALSE,NA,###  Tutorials,link,2020-03-23
-+ [Tidying formatted spreadsheets with unheadr](https://luisdva.github.io/rstats/unheadr-cat/),94,FALSE,NA,###  Tutorials,link,2020-03-23
-+ [Modeling pandemics (1)](https://freakonometrics.hypotheses.org/60482),72,FALSE,NA,###  Tutorials,link,2020-03-23
-+ [Extended floating point precision in R with Rmpfr](https://statisticaloddsandends.wordpress.com/2020/03/19/extended-floating-point-precision-in-r-with-rmpfr/),161,FALSE,NA,###  Tutorials,link,2020-03-23
-+ [LASSO regression using tidymodels and #TidyTuesday data for The Office](https://juliasilge.com/blog/lasso-the-office/),121,FALSE,NA,###  Tutorials,link,2020-03-23
-![#tidytuesday: Part-of-Speech and textrecipes with The Office](https://raw.githubusercontent.com/rweekly/image/master/2020/office-pos.png),139,FALSE,NA,###  Tutorials,image,2020-03-23
-+ [#tidytuesday: Part-of-Speech and textrecipes with The Office](https://www.hvitfeldt.me/blog/tidytuesday-pos-textrecipes-the-office/),135,FALSE,NA,###  Tutorials,link,2020-03-23
-+ [How to do a t-test or ANOVA for more than one variable at once in R and communicate the results in a better way](https://www.statsandr.com/blog/how-to-do-a-t-test-or-anova-for-many-variables-at-once-in-r-and-communicate-the-results-in-a-better-way/),252,FALSE,NA,###  Tutorials,link,2020-03-23
-"+ [On model specification, identification, degrees of freedom and regularization](https://thierrymoudiki.github.io/blog/2020/03/20/r/misc/esgtoolkit-2)",151,FALSE,NA,###  Tutorials,link,2020-03-23
-+ [Using stm to Investigate if Stemming is Appropriate](https://www.hvitfeldt.me/blog/stm-stemming/),100,FALSE,NA,###  Tutorials,link,2020-03-23
-+ [Outlier Days with R and Python](https://rviews.rstudio.com/2020/03/16/outlier-days-with-r-and-python/),105,FALSE,NA,###  Tutorials,link,2020-03-23
-+ [How to create decorators in R](https://theautomatic.net/2020/03/17/how-to-create-decorators-in-r/),101,FALSE,NA,###  Tutorials,link,2020-03-23
-+ [Word Rank Slope Charts](https://www.hvitfeldt.me/blog/word-rank-slope-charts/),81,FALSE,NA,###  Tutorials,link,2020-03-23
-+ [OncoTree Tidygraph](https://joshuacook.netlify.com/post/tidygraph-oncotree/),79,FALSE,NA,###  Tutorials,link,2020-03-23
-![OncoTree Tidygraph](https://raw.githubusercontent.com/rweekly/image/master/2020/oncotree.png),95,FALSE,NA,###  Tutorials,image,2020-03-23
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2020-03-23
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2020-03-23
-+ [Socket Connections Update](https://developer.r-project.org/Blog/public/2020/03/17/socket-connections-update/),112,FALSE,NA,###  R Project Updates,link,2020-03-23
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2020-03-23
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-03-23
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-03-23
-+ [Quantitative Research Associate at Willis Towers Watson](https://www.p0bs.com/posts/2020-03-15-job-opening/),111,FALSE,NA,### Jobs,link,2020-03-23
-+ [Data Visualization Society](https://www.datavisualizationsociety.com/find-a-job),83,FALSE,NA,### Jobs,link,2020-03-23
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2020-03-23
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">COVID19 acummulated cases Vs % o total cases from prior week. Datasource: John Hopkins University. Better in full screen to better grasp country codes. China is divided in two, Hubei and the rest. Full <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a>! <a href=""https://t.co/EBih2e1luT"">pic.twitter.com/EBih2e1luT</a></p>&mdash; Arthur Welle (@ArthurWelle) <a href=""https://twitter.com/ArthurWelle/status/1239712110797520898?ref_src=twsrc%5Etfw"">March 17, 2020</a></blockquote>",574,FALSE,NA,###  Quotes of the Week,unid,2020-03-23
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Maybe I went too far with <a href=""https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot2</a> and <a href=""https://twitter.com/hashtag/gganimate?src=hash&amp;ref_src=twsrc%5Etfw"">#gganimate</a> ...😅<br>What do you think <a href=""https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw"">@hadleywickham</a> &amp; <a href=""https://twitter.com/thomasp85?ref_src=twsrc%5Etfw"">@thomasp85</a> , did I go too far or not enough ? (I am planning to add the ghosts 😎) <a href=""https://t.co/nkfbti1Etd"">pic.twitter.com/nkfbti1Etd</a></p>&mdash; Mickaël CANOUIL (@mickaelcanouil) <a href=""https://twitter.com/mickaelcanouil/status/1241760925499170824?ref_src=twsrc%5Etfw"">March 22, 2020</a></blockquote>",769,FALSE,NA,###  Quotes of the Week,unid,2020-03-23
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Finally, a single correlation <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> 📦 to rule them all?! 🙌🧮<a href=""https://t.co/Cu8v7IPRvD"">https://t.co/Cu8v7IPRvD</a><br><br>✅ supports ~ every correlation under 🌞:<br>pearson, kendall, spearman, biserial, poly/tetrachoric, biweight, distance, % bend, Shepherd&#39;s Pi<br><br>✅ handy <a href=""https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw"">#dataviz</a> tools:<a href=""https://t.co/GVh9HAxVMg"">https://t.co/GVh9HAxVMg</a> <a href=""https://t.co/Y6h4l7ncU6"">pic.twitter.com/Y6h4l7ncU6</a></p>&mdash; Indrajeet Patil (@patilindrajeets) <a href=""https://twitter.com/patilindrajeets/status/1240229010598178817?ref_src=twsrc%5Etfw"">March 18, 2020</a></blockquote>",824,FALSE,NA,###  Quotes of the Week,unid,2020-03-23
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">In the upcoming dplyr 1.0.0, summarise() expressions can return multiple rows and columns! Learn more in <a href=""https://t.co/AzPkSjDwal"">https://t.co/AzPkSjDwal</a> and stay tuned for more posts on more new features. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/1241023225460555786?ref_src=twsrc%5Etfw"">March 20, 2020</a></blockquote>",531,FALSE,NA,###  Quotes of the Week,unid,2020-03-23
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2020-03-23
+"title: R Weekly 2020-12 OncoTree, {parzer}, Flatten the Curve",61,FALSE,NA,unid,2020-03-23
+description: Weekly News in the R Community,43,FALSE,NA,unid,2020-03-23
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2020-03-23
+---,3,FALSE,NA,unid,2020-03-23
+Release Date: 2020-03-23,24,FALSE,NA,unid,2020-03-23
+"This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder), with help from the RWeekly team members and contributors.",138,FALSE,NA,unid,2020-03-23
++ [OncoTree Tidygraph](https://joshuacook.netlify.com/post/tidygraph-oncotree/),79,FALSE,###  Highlight,link,2020-03-23
++ [{parzer}: Parse Messy Geographic Coordinates](https://ropensci.org/technotes/2020/03/19/parzer/),99,FALSE,###  Highlight,link,2020-03-23
++ [Flatten the COVID-19 curve](http://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html),102,FALSE,###  Highlight,link,2020-03-23
++ [A look at past bear markets and implications for the future](https://databasedinvesting.blogspot.com/2020/03/a-look-at-past-bear-markets-and.html),149,FALSE,### R in the Real World,link,2020-03-23
++ [Stock market crisis: is there a tennis ball effect?](https://firstdifferences.com/2020/03/16/stock-market-crisis-is-there-a-tennis-ball-effect/),147,FALSE,### R in the Real World,link,2020-03-23
++ [COVID-19 cumulative observed case fatality rate over time](http://freerangestats.info/blog/2020/03/17/covid19-cfr),117,FALSE,### R in the Real World,link,2020-03-23
++ [Simulating COVID-19 interventions with R](https://rviews.rstudio.com/2020/03/19/simulating-covid-19-interventions-with-r/),125,FALSE,### R in the Real World,link,2020-03-23
++ [Domestic data science – energy use](https://scottishsnow.wordpress.com/2020/03/20/domestic-ds-energy-use/),109,FALSE,### R in the Real World,link,2020-03-23
++ [COVID-19: The Case of Germany](https://blog.ephorie.de/covid-19-the-case-of-germany),87,FALSE,### R in the Real World,link,2020-03-23
+![Flatten the COVID-19 curve](https://raw.githubusercontent.com/rweekly/image/master/2020/flatten-the-curve.png),112,FALSE,### R in the Real World,image,2020-03-23
++ [Flatten the COVID-19 curve](http://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html),102,FALSE,### R in the Real World,link,2020-03-23
++ [RStudio 1.3 Preview: The Little Things](https://blog.rstudio.com/2020/03/17/rstudio-1-3-the-little-things/),110,FALSE,###  R in Organizations,link,2020-03-23
+"+ [Code live from RStudio, and share it with the World in real time](https://bitsandbricks.github.io/post/code-live-from-rstudio-and-share-it-with-the-world-in-real-time/)",171,FALSE,###  R in Organizations,link,2020-03-23
+"+ [When you want more than a chi-squared test, consider a measure of association for contingency tables](https://www.rdatagen.net/post/when-a-chi-squared-statistic-is-not-enough-a-measure-of-association-for-contingency-tables/)",227,FALSE,###  R in Academia,link,2020-03-23
++ [R spatial follows GDAL and PROJ development](https://www.r-spatial.org//r/2020/03/17/wkt.html),97,FALSE,###  Resources,link,2020-03-23
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2020-03-23
+**CRAN**,8,FALSE,###  New Packages,unid,2020-03-23
++ [{parzer}: Parse Messy Geographic Coordinates](https://ropensci.org/technotes/2020/03/19/parzer/),99,FALSE,###  New Packages,link,2020-03-23
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2020-03-23
+"+ [{espnscrapeR}: Collect or scrape QBR, NFL standings, and stats from ESPN.](https://jthomasmock.github.io/espnscrapeR/)",121,FALSE,###  New Packages,link,2020-03-23
+"+ [{uscenpops}: Provides a single dataset of censal and intercensal population estimates for the United States by year of age and sex, for every year from 1900 to 2019.](https://kieranhealy.org/blog/archives/2020/03/15/u.s.-census-counts-data/)",244,FALSE,###  New Packages,link,2020-03-23
++ [Introducing bwsTools: A Package for Case 1 Best-Worst Scaling (MaxDiff) Designs](https://www.markhw.com/blog/bwstools-intro),127,FALSE,### Updated Packages,link,2020-03-23
++ [Rcpp 1.0.4: Lots of goodies](http://dirk.eddelbuettel.com/blog/2020/03/17#rcpp_1.0.4),88,FALSE,### Updated Packages,link,2020-03-23
++ [RProtoBuf 0.4.16: Now with JSON](http://dirk.eddelbuettel.com/blog/2020/03/19#rprotobuf_0.4.16),98,FALSE,### Updated Packages,link,2020-03-23
++ [RcppCCTZ 0.2.7](http://dirk.eddelbuettel.com/blog/2020/03/18#rcppcctz_0.2.7),79,FALSE,### Updated Packages,link,2020-03-23
++ [#TidyTuesday Screencast: Creating an R data package (cord19) in RStudio](https://www.youtube.com/watch?v=F4oUJp76KUY),120,FALSE,###  Videos and Podcasts,link,2020-03-23
++ [All you need to know on Multiple Factor Analysis …](https://francoishusson.wordpress.com/2020/03/16/all-you-need-to-know-on-multiple-factor-analysis/),153,FALSE,###  Videos and Podcasts,link,2020-03-23
++ [Recordings from SatRday Neuchâtel (remote)](https://www.youtube.com/channel/UC7VV1Ix1-8jncW7hTRZ50bg),104,FALSE,###  Videos and Podcasts,link,2020-03-23
++ [Community of Bioinformatics Software Developers (CDSB): The story of a diversity and outreach hotspot in Mexico that hopes to empower local R developers](https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico),248,FALSE,### R Internationally,link,2020-03-23
++ [Organising a SatRday remotely - SatRday Neuchâtel's experience & tips](https://docs.google.com/document/d/1ZXmwVibQKtfCY_HiB49-OhQL-yKhUS9YD9yeMQZH88E/edit#),160,FALSE,### R Internationally,link,2020-03-23
+![NC counties and buffers](https://raw.githubusercontent.com/rweekly/image/master/2020/spatial-aggregation.png),111,FALSE,###  Tutorials,image,2020-03-23
+"+ [Spatial Aggregation](https://www.jla-data.net/eng/spatial-aggregation/) - three approaches: based on buffers, voronoi polygons and equal distance grid cells",159,FALSE,###  Tutorials,link,2020-03-23
++ [styler 1.3.0: Faster styling and ignore some lines](https://lorenzwalthert.netlify.com/post/styler-1-3-0/),109,FALSE,###  Tutorials,link,2020-03-23
++ [Tidying formatted spreadsheets with unheadr](https://luisdva.github.io/rstats/unheadr-cat/),94,FALSE,###  Tutorials,link,2020-03-23
++ [Modeling pandemics (1)](https://freakonometrics.hypotheses.org/60482),72,FALSE,###  Tutorials,link,2020-03-23
++ [Extended floating point precision in R with Rmpfr](https://statisticaloddsandends.wordpress.com/2020/03/19/extended-floating-point-precision-in-r-with-rmpfr/),161,FALSE,###  Tutorials,link,2020-03-23
++ [LASSO regression using tidymodels and #TidyTuesday data for The Office](https://juliasilge.com/blog/lasso-the-office/),121,FALSE,###  Tutorials,link,2020-03-23
+![#tidytuesday: Part-of-Speech and textrecipes with The Office](https://raw.githubusercontent.com/rweekly/image/master/2020/office-pos.png),139,FALSE,###  Tutorials,image,2020-03-23
++ [#tidytuesday: Part-of-Speech and textrecipes with The Office](https://www.hvitfeldt.me/blog/tidytuesday-pos-textrecipes-the-office/),135,FALSE,###  Tutorials,link,2020-03-23
++ [How to do a t-test or ANOVA for more than one variable at once in R and communicate the results in a better way](https://www.statsandr.com/blog/how-to-do-a-t-test-or-anova-for-many-variables-at-once-in-r-and-communicate-the-results-in-a-better-way/),252,FALSE,###  Tutorials,link,2020-03-23
+"+ [On model specification, identification, degrees of freedom and regularization](https://thierrymoudiki.github.io/blog/2020/03/20/r/misc/esgtoolkit-2)",151,FALSE,###  Tutorials,link,2020-03-23
++ [Using stm to Investigate if Stemming is Appropriate](https://www.hvitfeldt.me/blog/stm-stemming/),100,FALSE,###  Tutorials,link,2020-03-23
++ [Outlier Days with R and Python](https://rviews.rstudio.com/2020/03/16/outlier-days-with-r-and-python/),105,FALSE,###  Tutorials,link,2020-03-23
++ [How to create decorators in R](https://theautomatic.net/2020/03/17/how-to-create-decorators-in-r/),101,FALSE,###  Tutorials,link,2020-03-23
++ [Word Rank Slope Charts](https://www.hvitfeldt.me/blog/word-rank-slope-charts/),81,FALSE,###  Tutorials,link,2020-03-23
++ [OncoTree Tidygraph](https://joshuacook.netlify.com/post/tidygraph-oncotree/),79,FALSE,###  Tutorials,link,2020-03-23
+![OncoTree Tidygraph](https://raw.githubusercontent.com/rweekly/image/master/2020/oncotree.png),95,FALSE,###  Tutorials,image,2020-03-23
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2020-03-23
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2020-03-23
++ [Socket Connections Update](https://developer.r-project.org/Blog/public/2020/03/17/socket-connections-update/),112,FALSE,###  R Project Updates,link,2020-03-23
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2020-03-23
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2020-03-23
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2020-03-23
++ [Quantitative Research Associate at Willis Towers Watson](https://www.p0bs.com/posts/2020-03-15-job-opening/),111,FALSE,### Jobs,link,2020-03-23
++ [Data Visualization Society](https://www.datavisualizationsociety.com/find-a-job),83,FALSE,### Jobs,link,2020-03-23
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2020-03-23
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">COVID19 acummulated cases Vs % o total cases from prior week. Datasource: John Hopkins University. Better in full screen to better grasp country codes. China is divided in two, Hubei and the rest. Full <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a>! <a href=""https://t.co/EBih2e1luT"">pic.twitter.com/EBih2e1luT</a></p>&mdash; Arthur Welle (@ArthurWelle) <a href=""https://twitter.com/ArthurWelle/status/1239712110797520898?ref_src=twsrc%5Etfw"">March 17, 2020</a></blockquote>",574,FALSE,###  Quotes of the Week,unid,2020-03-23
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Maybe I went too far with <a href=""https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot2</a> and <a href=""https://twitter.com/hashtag/gganimate?src=hash&amp;ref_src=twsrc%5Etfw"">#gganimate</a> ...😅<br>What do you think <a href=""https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw"">@hadleywickham</a> &amp; <a href=""https://twitter.com/thomasp85?ref_src=twsrc%5Etfw"">@thomasp85</a> , did I go too far or not enough ? (I am planning to add the ghosts 😎) <a href=""https://t.co/nkfbti1Etd"">pic.twitter.com/nkfbti1Etd</a></p>&mdash; Mickaël CANOUIL (@mickaelcanouil) <a href=""https://twitter.com/mickaelcanouil/status/1241760925499170824?ref_src=twsrc%5Etfw"">March 22, 2020</a></blockquote>",769,FALSE,###  Quotes of the Week,unid,2020-03-23
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Finally, a single correlation <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> 📦 to rule them all?! 🙌🧮<a href=""https://t.co/Cu8v7IPRvD"">https://t.co/Cu8v7IPRvD</a><br><br>✅ supports ~ every correlation under 🌞:<br>pearson, kendall, spearman, biserial, poly/tetrachoric, biweight, distance, % bend, Shepherd&#39;s Pi<br><br>✅ handy <a href=""https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw"">#dataviz</a> tools:<a href=""https://t.co/GVh9HAxVMg"">https://t.co/GVh9HAxVMg</a> <a href=""https://t.co/Y6h4l7ncU6"">pic.twitter.com/Y6h4l7ncU6</a></p>&mdash; Indrajeet Patil (@patilindrajeets) <a href=""https://twitter.com/patilindrajeets/status/1240229010598178817?ref_src=twsrc%5Etfw"">March 18, 2020</a></blockquote>",824,FALSE,###  Quotes of the Week,unid,2020-03-23
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">In the upcoming dplyr 1.0.0, summarise() expressions can return multiple rows and columns! Learn more in <a href=""https://t.co/AzPkSjDwal"">https://t.co/AzPkSjDwal</a> and stay tuned for more posts on more new features. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/1241023225460555786?ref_src=twsrc%5Etfw"">March 20, 2020</a></blockquote>",531,FALSE,###  Quotes of the Week,unid,2020-03-23

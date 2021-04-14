@@ -1,72 +1,72 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-11-25
-"title: R Weekly 2019-47 palette(), artist, {curlparse}",54,FALSE,NA,NA,unid,2019-11-25
-description: Draft of the R Weekly,34,FALSE,NA,NA,unid,2019-11-25
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-11-25
----,3,FALSE,NA,NA,unid,2019-11-25
-Release Date: 2019-11-25,24,FALSE,NA,NA,unid,2019-11-25
-"This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_salmon), with help from the RWeekly team members and contributors.",140,FALSE,NA,NA,unid,2019-11-25
-+ [A New palette() for R](https://developer.r-project.org/Blog/public/2019/11/21/a-new-palette-for-r/index.html),112,FALSE,NA,###  Highlights,link,2019-11-25
-![A New palette() for R](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/palette.png),103,FALSE,NA,###  Highlights,image,2019-11-25
-+ [Our first artist in residence: Allison Horst!](https://blog.rstudio.com/2019/11/18/artist-in-residence/),107,FALSE,NA,###  Highlights,link,2019-11-25
-+ [{curlparse}: Parse URLs with libcurl ](https://github.com/hrbrmstr/curlparse),80,FALSE,NA,###  Highlights,link,2019-11-25
-"+ [dplyr::ungroup() - forget me not: Part 1](https://coolbutuseless.github.io/2019/11/19/dplyrungroup-forget-me-not/), [Part 2](https://coolbutuseless.github.io/2019/11/20/dplyrungroup-forget-me-not.-part-2./), [Part 3](https://coolbutuseless.github.io/2019/11/22/dplyrungroup-forget-me-not.-part-3./).",302,FALSE,NA,### Insights,link,2019-11-25
-+ [Experiments in transforming Excel into R](https://reside-ic.github.io/blog/experiments-in-transforming-excel-into-r/),120,FALSE,NA,### Insights,link,2019-11-25
-"+ [With the right tools, it is possible to use R with seventh-grade students](https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)",164,FALSE,NA,### Insights,link,2019-11-25
-+ [SatRday Cardiff recap](https://appsilon.com/satrday-cardiff-2019-recap/),75,FALSE,NA,### Insights,link,2019-11-25
-"+ [XI Conference of R Users (Madrid, Spain, Nov 14-16) Welcomes Over 200 Attendees](https://www.r-consortium.org/blog/2019/11/22/xi-conference-of-r-users-madrid-spain-nov-14-16-welcomes-over-200-attendees)",205,FALSE,NA,### Insights,link,2019-11-25
-+ [A new kid on the NHS-R block](https://nhsrcommunity.com/blog/a-new-kid-on-the-nhs-r-block/),94,FALSE,NA,### Insights,link,2019-11-25
-"+ [Shiny Dev, Software Release Cycles, Rayshader](https://moldach.github.io/project/shiny-dev-software-release-cycles-rayshader/)",129,FALSE,NA,### Insights,link,2019-11-25
-"+ [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)",148,FALSE,NA,### R in the Real World,link,2019-11-25
-"![Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/LivMan_match12_summary_plot.png)",187,FALSE,NA,### R in the Real World,image,2019-11-25
-+ [Streetmaps: Create a streetmap of your favorite city with ggplot2 and powerpoint](https://ggplot2tutor.com/streetmaps/streetmaps/),133,FALSE,NA,### R in the Real World,link,2019-11-25
-+ [R Consortium Infrastructure Steering Committee Chair Wins 2019 COPSS Presidents' Award](https://www.r-consortium.org/blog/2019/11/18/r-consortium-infrastructure-steering-committee-chair-wins-2019-copss-presidents-award),222,FALSE,NA,###  R in Organizations,link,2019-11-25
-+ [Exploratory Data Analysis with R Workshop (@University of Milan)](https://github.com/othomantegazza/eda-class),113,FALSE,NA,###  Resources,link,2019-11-25
-+ [R for better science with less time](https://openscapes.github.io/slides/betterscience/socalR#1),99,FALSE,NA,###  Resources,link,2019-11-25
-+ [Designing ggplots: making clear figures that communicate](https://designing-ggplots.netlify.com/),100,FALSE,NA,###  Resources,link,2019-11-25
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-11-25
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-11-25
-+ [lightr: Read Spectrometric Data and Metadata](https://cran.r-project.org/package=lightr),91,FALSE,NA,###  New Packages,link,2019-11-25
-+ [uchardet: The Universal Character Encoding Detector](https://cran.r-project.org/package=uchardet),100,FALSE,NA,###  New Packages,link,2019-11-25
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-11-25
-+ [tdor: data package for Transgender Day of Remembrance](https://github.com/CaRdiffR/tdor),91,FALSE,NA,###  New Packages,link,2019-11-25
-+ [cicerone: Provides an easy API to create guided tours for Shiny applications using driver.js.](https://github.com/JohnCoene/cicerone),136,FALSE,NA,###  New Packages,link,2019-11-25
-+ [Giftmap: A very simple package with just one function for creating maps suitable for gifting](https://github.com/lina2497/Giftmap),133,FALSE,NA,###  New Packages,link,2019-11-25
-+ [ggtailwind: Package for applying Tailwind CSS default colours to ggplot2 visualizations](https://github.com/willcanniford/ggtailwind),136,FALSE,NA,###  New Packages,link,2019-11-25
-+ [ttdo 0.0.4: Extension](http://dirk.eddelbuettel.com/blog/2019/11/18#ttdo_0.0.4),82,FALSE,NA,## Updated Packages,link,2019-11-25
-+ [skimr 2.0: Compact and Flexible Summaries of Data](https://cran.r-project.org/web/packages/skimr/index.html),111,FALSE,NA,## Updated Packages,link,2019-11-25
-+ [digest 0.6.23: More sha1 refinements](http://dirk.eddelbuettel.com/blog/2019/11/23#digest_0.6.23),100,FALSE,NA,## Updated Packages,link,2019-11-25
-+ [boxr 0.3.5: Interface to the Box file-service](https://r-box.github.io/boxr),79,FALSE,NA,## Updated Packages,link,2019-11-25
-+ [Introduction au package {golem} (in French)](https://www.youtube.com/watch?v=6qI4NzxlAFU),92,FALSE,NA,###  Videos and Podcasts,link,2019-11-25
-+ [进化树和基因组结构](https://guangchuangyu.github.io/2019/11/geom-motif/),66,FALSE,NA,### R Internationally,link,2019-11-25
-+ [拼图？我掐指一算，发现事情没那么简单！](https://guangchuangyu.github.io/2019/11/xlim2-ylim2/),77,FALSE,NA,### R Internationally,link,2019-11-25
-+ [cowplot是旧爱，patchwork乃新欢](https://guangchuangyu.github.io/2019/11/patchwork/),79,FALSE,NA,### R Internationally,link,2019-11-25
-+ [#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://statnmap.com/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere/),154,FALSE,NA,###  Tutorials,link,2019-11-25
-![#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere_header.jpg),208,FALSE,NA,###  Tutorials,image,2019-11-25
-+ [Rammstein vs. Lacrimosa](https://eliocamp.github.io/codigo-r/2019/11/rammstein-vs-lacrimosa/),96,FALSE,NA,###  Tutorials,link,2019-11-25
-+ [Galton's board all askew](https://xianblog.wordpress.com/2019/11/19/galtons-board-all-askew/),96,FALSE,NA,###  Tutorials,link,2019-11-25
-+ [Can I do that? Inspiration from Flowing Data](https://austinwehrwein.com/data-visualization/salaries/),105,FALSE,NA,###  Tutorials,link,2019-11-25
-+ [step_shadow_missing - implementing a custom {recipes} step to account for missing data patterns](https://konradsemsch.netlify.com/2019/11/step-shadow-missing-implementing-a-custom-recipes-step-to-account-for-missing-data-patterns/),234,FALSE,NA,###  Tutorials,link,2019-11-25
-+ [Plotting GAMM results with ggplot2](https://drmowinckels.io/blog/plotting-gamm-results-with-ggplot2/),104,FALSE,NA,###  Tutorials,link,2019-11-25
-![Plotting GAMM results with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/gamm-plot.png),118,FALSE,NA,###  Tutorials,image,2019-11-25
-+ [Racing Bar Charts and Some data.table Munging](http://www.robert-hickman.eu/post/racing_bar_charts/),103,FALSE,NA,###  Tutorials,link,2019-11-25
-+ [Visualising the evolution of the world development indicators during the past decade with R Shiny](https://towardsdatascience.com/the-decade-in-review-with-r-shiny-ea57f8fa5e0e),180,FALSE,NA,###  Tutorials,link,2019-11-25
-+ [A new option to display Census API calls from {tidycensus}](https://mattherman.info/blog/tidycensus-show-call/),114,FALSE,NA,###  Tutorials,link,2019-11-25
-"+ [Animated violation maps of Bratislava. Animated maps using open data, gganimate, ggmap in R.](https://petolau.github.io/Dangerous-streets-of-Bratislava-animated-maps-using-opendata/)",185,FALSE,NA,###  Tutorials,link,2019-11-25
-+ [Cost-benefit analysis in R by @ellis2013nz](http://freerangestats.info/blog/2019/11/24/cost-benefit-analysis),112,FALSE,NA,###  Tutorials,link,2019-11-25
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2019-11-25
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-11-25
-"+ [rOpenSci community call: Community Call: Last Night, Testing Saved my Life, December 5](https://ropensci.org/commcalls/2019-12-05/)",134,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-25
-"+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)",124,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-25
-"+ [BioC Asia, December 5-6](https://bioconductor.github.io/BiocAsia/)",69,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-25
-"+ [Japan.R 2019, December 7](https://japanr.connpass.com/event/154070/)",71,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-25
-"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)",71,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-25
-"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-25
-"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-25
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-25
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-25
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-11-25
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-11-25
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Incase you missed it - we&#39;ve released our call for <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> abstracts for <a href=""https://twitter.com/hashtag/useR2020?src=hash&amp;ref_src=twsrc%5Etfw"">#useR2020</a>. Please consider submitting a talk lighting talk, and poster. Student and first-time submissions are welcome and encouraged! <a href=""https://t.co/mM3cZqMlEf"">https://t.co/mM3cZqMlEf</a></p>&mdash; useR! 2020 (@useR2020stl) <a href=""https://twitter.com/useR2020stl/status/1197640442491416581?ref_src=twsrc%5Etfw"">November 21, 2019</a></blockquote>",657,FALSE,NA,###  Quotes of the Week,unid,2019-11-25
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">We are partnering with <a href=""https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw"">#RLadies</a> to support <a href=""https://twitter.com/hashtag/useR2020?src=hash&amp;ref_src=twsrc%5Etfw"">#useR2020</a> submissions from members of underrepresented genders in the <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> community (including but not limited cis/trans women, trans men, non-binary, genderqueer, agender). Please submit your work! Details are 👇 <a href=""https://t.co/SuN7T3PQE1"">https://t.co/SuN7T3PQE1</a></p>&mdash; useR! 2020 (@useR2020stl) <a href=""https://twitter.com/useR2020stl/status/1197641554116141056?ref_src=twsrc%5Etfw"">November 21, 2019</a></blockquote>",788,FALSE,NA,###  Quotes of the Week,unid,2019-11-25
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Some Thanksgiving <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> doodles 🦃 <a href=""https://t.co/aKiKUL3vqR"">pic.twitter.com/aKiKUL3vqR</a></p>&mdash; Chelsea Parlett-Pelleriti (@ChelseaParlett) <a href=""https://twitter.com/ChelseaParlett/status/1198340399934271489?ref_src=twsrc%5Etfw"">November 23, 2019</a></blockquote>",421,FALSE,NA,###  Quotes of the Week,unid,2019-11-25
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-11-25
+"title: R Weekly 2019-47 palette(), artist, {curlparse}",54,FALSE,NA,unid,2019-11-25
+description: Draft of the R Weekly,34,FALSE,NA,unid,2019-11-25
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-11-25
+---,3,FALSE,NA,unid,2019-11-25
+Release Date: 2019-11-25,24,FALSE,NA,unid,2019-11-25
+"This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_salmon), with help from the RWeekly team members and contributors.",140,FALSE,NA,unid,2019-11-25
++ [A New palette() for R](https://developer.r-project.org/Blog/public/2019/11/21/a-new-palette-for-r/index.html),112,FALSE,###  Highlights,link,2019-11-25
+![A New palette() for R](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/palette.png),103,FALSE,###  Highlights,image,2019-11-25
++ [Our first artist in residence: Allison Horst!](https://blog.rstudio.com/2019/11/18/artist-in-residence/),107,FALSE,###  Highlights,link,2019-11-25
++ [{curlparse}: Parse URLs with libcurl ](https://github.com/hrbrmstr/curlparse),80,FALSE,###  Highlights,link,2019-11-25
+"+ [dplyr::ungroup() - forget me not: Part 1](https://coolbutuseless.github.io/2019/11/19/dplyrungroup-forget-me-not/), [Part 2](https://coolbutuseless.github.io/2019/11/20/dplyrungroup-forget-me-not.-part-2./), [Part 3](https://coolbutuseless.github.io/2019/11/22/dplyrungroup-forget-me-not.-part-3./).",302,FALSE,### Insights,link,2019-11-25
++ [Experiments in transforming Excel into R](https://reside-ic.github.io/blog/experiments-in-transforming-excel-into-r/),120,FALSE,### Insights,link,2019-11-25
+"+ [With the right tools, it is possible to use R with seventh-grade students](https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)",164,FALSE,### Insights,link,2019-11-25
++ [SatRday Cardiff recap](https://appsilon.com/satrday-cardiff-2019-recap/),75,FALSE,### Insights,link,2019-11-25
+"+ [XI Conference of R Users (Madrid, Spain, Nov 14-16) Welcomes Over 200 Attendees](https://www.r-consortium.org/blog/2019/11/22/xi-conference-of-r-users-madrid-spain-nov-14-16-welcomes-over-200-attendees)",205,FALSE,### Insights,link,2019-11-25
++ [A new kid on the NHS-R block](https://nhsrcommunity.com/blog/a-new-kid-on-the-nhs-r-block/),94,FALSE,### Insights,link,2019-11-25
+"+ [Shiny Dev, Software Release Cycles, Rayshader](https://moldach.github.io/project/shiny-dev-software-release-cycles-rayshader/)",129,FALSE,### Insights,link,2019-11-25
+"+ [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)",148,FALSE,### R in the Real World,link,2019-11-25
+"![Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/LivMan_match12_summary_plot.png)",187,FALSE,### R in the Real World,image,2019-11-25
++ [Streetmaps: Create a streetmap of your favorite city with ggplot2 and powerpoint](https://ggplot2tutor.com/streetmaps/streetmaps/),133,FALSE,### R in the Real World,link,2019-11-25
++ [R Consortium Infrastructure Steering Committee Chair Wins 2019 COPSS Presidents' Award](https://www.r-consortium.org/blog/2019/11/18/r-consortium-infrastructure-steering-committee-chair-wins-2019-copss-presidents-award),222,FALSE,###  R in Organizations,link,2019-11-25
++ [Exploratory Data Analysis with R Workshop (@University of Milan)](https://github.com/othomantegazza/eda-class),113,FALSE,###  Resources,link,2019-11-25
++ [R for better science with less time](https://openscapes.github.io/slides/betterscience/socalR#1),99,FALSE,###  Resources,link,2019-11-25
++ [Designing ggplots: making clear figures that communicate](https://designing-ggplots.netlify.com/),100,FALSE,###  Resources,link,2019-11-25
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-11-25
+**CRAN**,8,FALSE,###  New Packages,unid,2019-11-25
++ [lightr: Read Spectrometric Data and Metadata](https://cran.r-project.org/package=lightr),91,FALSE,###  New Packages,link,2019-11-25
++ [uchardet: The Universal Character Encoding Detector](https://cran.r-project.org/package=uchardet),100,FALSE,###  New Packages,link,2019-11-25
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-11-25
++ [tdor: data package for Transgender Day of Remembrance](https://github.com/CaRdiffR/tdor),91,FALSE,###  New Packages,link,2019-11-25
++ [cicerone: Provides an easy API to create guided tours for Shiny applications using driver.js.](https://github.com/JohnCoene/cicerone),136,FALSE,###  New Packages,link,2019-11-25
++ [Giftmap: A very simple package with just one function for creating maps suitable for gifting](https://github.com/lina2497/Giftmap),133,FALSE,###  New Packages,link,2019-11-25
++ [ggtailwind: Package for applying Tailwind CSS default colours to ggplot2 visualizations](https://github.com/willcanniford/ggtailwind),136,FALSE,###  New Packages,link,2019-11-25
++ [ttdo 0.0.4: Extension](http://dirk.eddelbuettel.com/blog/2019/11/18#ttdo_0.0.4),82,FALSE,## Updated Packages,link,2019-11-25
++ [skimr 2.0: Compact and Flexible Summaries of Data](https://cran.r-project.org/web/packages/skimr/index.html),111,FALSE,## Updated Packages,link,2019-11-25
++ [digest 0.6.23: More sha1 refinements](http://dirk.eddelbuettel.com/blog/2019/11/23#digest_0.6.23),100,FALSE,## Updated Packages,link,2019-11-25
++ [boxr 0.3.5: Interface to the Box file-service](https://r-box.github.io/boxr),79,FALSE,## Updated Packages,link,2019-11-25
++ [Introduction au package {golem} (in French)](https://www.youtube.com/watch?v=6qI4NzxlAFU),92,FALSE,###  Videos and Podcasts,link,2019-11-25
++ [进化树和基因组结构](https://guangchuangyu.github.io/2019/11/geom-motif/),66,FALSE,### R Internationally,link,2019-11-25
++ [拼图？我掐指一算，发现事情没那么简单！](https://guangchuangyu.github.io/2019/11/xlim2-ylim2/),77,FALSE,### R Internationally,link,2019-11-25
++ [cowplot是旧爱，patchwork乃新欢](https://guangchuangyu.github.io/2019/11/patchwork/),79,FALSE,### R Internationally,link,2019-11-25
++ [#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://statnmap.com/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere/),154,FALSE,###  Tutorials,link,2019-11-25
+![#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere_header.jpg),208,FALSE,###  Tutorials,image,2019-11-25
++ [Rammstein vs. Lacrimosa](https://eliocamp.github.io/codigo-r/2019/11/rammstein-vs-lacrimosa/),96,FALSE,###  Tutorials,link,2019-11-25
++ [Galton's board all askew](https://xianblog.wordpress.com/2019/11/19/galtons-board-all-askew/),96,FALSE,###  Tutorials,link,2019-11-25
++ [Can I do that? Inspiration from Flowing Data](https://austinwehrwein.com/data-visualization/salaries/),105,FALSE,###  Tutorials,link,2019-11-25
++ [step_shadow_missing - implementing a custom {recipes} step to account for missing data patterns](https://konradsemsch.netlify.com/2019/11/step-shadow-missing-implementing-a-custom-recipes-step-to-account-for-missing-data-patterns/),234,FALSE,###  Tutorials,link,2019-11-25
++ [Plotting GAMM results with ggplot2](https://drmowinckels.io/blog/plotting-gamm-results-with-ggplot2/),104,FALSE,###  Tutorials,link,2019-11-25
+![Plotting GAMM results with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/gamm-plot.png),118,FALSE,###  Tutorials,image,2019-11-25
++ [Racing Bar Charts and Some data.table Munging](http://www.robert-hickman.eu/post/racing_bar_charts/),103,FALSE,###  Tutorials,link,2019-11-25
++ [Visualising the evolution of the world development indicators during the past decade with R Shiny](https://towardsdatascience.com/the-decade-in-review-with-r-shiny-ea57f8fa5e0e),180,FALSE,###  Tutorials,link,2019-11-25
++ [A new option to display Census API calls from {tidycensus}](https://mattherman.info/blog/tidycensus-show-call/),114,FALSE,###  Tutorials,link,2019-11-25
+"+ [Animated violation maps of Bratislava. Animated maps using open data, gganimate, ggmap in R.](https://petolau.github.io/Dangerous-streets-of-Bratislava-animated-maps-using-opendata/)",185,FALSE,###  Tutorials,link,2019-11-25
++ [Cost-benefit analysis in R by @ellis2013nz](http://freerangestats.info/blog/2019/11/24/cost-benefit-analysis),112,FALSE,###  Tutorials,link,2019-11-25
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2019-11-25
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-11-25
+"+ [rOpenSci community call: Community Call: Last Night, Testing Saved my Life, December 5](https://ropensci.org/commcalls/2019-12-05/)",134,FALSE,###  Upcoming Events in 3 Months,link,2019-11-25
+"+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)",124,FALSE,###  Upcoming Events in 3 Months,link,2019-11-25
+"+ [BioC Asia, December 5-6](https://bioconductor.github.io/BiocAsia/)",69,FALSE,###  Upcoming Events in 3 Months,link,2019-11-25
+"+ [Japan.R 2019, December 7](https://japanr.connpass.com/event/154070/)",71,FALSE,###  Upcoming Events in 3 Months,link,2019-11-25
+"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)",71,FALSE,###  Upcoming Events in 3 Months,link,2019-11-25
+"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,###  Upcoming Events in 3 Months,link,2019-11-25
+"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,###  Upcoming Events in 3 Months,link,2019-11-25
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-11-25
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-11-25
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-11-25
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-11-25
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Incase you missed it - we&#39;ve released our call for <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> abstracts for <a href=""https://twitter.com/hashtag/useR2020?src=hash&amp;ref_src=twsrc%5Etfw"">#useR2020</a>. Please consider submitting a talk lighting talk, and poster. Student and first-time submissions are welcome and encouraged! <a href=""https://t.co/mM3cZqMlEf"">https://t.co/mM3cZqMlEf</a></p>&mdash; useR! 2020 (@useR2020stl) <a href=""https://twitter.com/useR2020stl/status/1197640442491416581?ref_src=twsrc%5Etfw"">November 21, 2019</a></blockquote>",657,FALSE,###  Quotes of the Week,unid,2019-11-25
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">We are partnering with <a href=""https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw"">#RLadies</a> to support <a href=""https://twitter.com/hashtag/useR2020?src=hash&amp;ref_src=twsrc%5Etfw"">#useR2020</a> submissions from members of underrepresented genders in the <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> community (including but not limited cis/trans women, trans men, non-binary, genderqueer, agender). Please submit your work! Details are 👇 <a href=""https://t.co/SuN7T3PQE1"">https://t.co/SuN7T3PQE1</a></p>&mdash; useR! 2020 (@useR2020stl) <a href=""https://twitter.com/useR2020stl/status/1197641554116141056?ref_src=twsrc%5Etfw"">November 21, 2019</a></blockquote>",788,FALSE,###  Quotes of the Week,unid,2019-11-25
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Some Thanksgiving <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> doodles 🦃 <a href=""https://t.co/aKiKUL3vqR"">pic.twitter.com/aKiKUL3vqR</a></p>&mdash; Chelsea Parlett-Pelleriti (@ChelseaParlett) <a href=""https://twitter.com/ChelseaParlett/status/1198340399934271489?ref_src=twsrc%5Etfw"">November 23, 2019</a></blockquote>",421,FALSE,###  Quotes of the Week,unid,2019-11-25

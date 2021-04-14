@@ -1,81 +1,81 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2016-9-5
-layout: post,12,FALSE,NA,NA,unid,2016-9-5
-title: Issue 15,15,FALSE,NA,NA,unid,2016-9-5
-description: Weekly News in R Community.,40,FALSE,NA,NA,unid,2016-9-5
----,3,FALSE,NA,NA,unid,2016-9-5
-Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-9-5
-*Digested by R Weekly Members*,30,FALSE,NA,## Highlight,unid,2016-9-5
-+ [forcats 0.1.0 on CRAN](https://blog.rstudio.org/2016/08/31/forcats-0-1-0/) - `forcats` provides tools for categorical variables.,131,FALSE,NA,## Highlight,link,2016-9-5
-+ [Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/),124,FALSE,NA,## Highlight,link,2016-9-5
-+ [Profiling Rcpp package code on Windows](http://evolvedmicrobe.com/blogs/?p=359),82,FALSE,NA,#### Tutorials,link,2016-9-5
-+ [Debugging in Rmd](https://gist.github.com/gmbecker/e47b0951b91505b2f4607259bcec8f97),87,FALSE,NA,#### Tutorials,link,2016-9-5
-+ [Why I still use Excel](https://deevybee.blogspot.sg/2016/09/in-defence-of-excel.html),88,FALSE,NA,#### Tutorials,link,2016-9-5
-+ [R packages for forecast combinations](http://robjhyndman.com/hyndsight/forecast-combinations/),97,FALSE,NA,#### Tutorials,link,2016-9-5
-![R packages for forecast combinations](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/hybrid.png),106,FALSE,NA,#### Tutorials,image,2016-9-5
-"+ [How to create a free distributed data collection ""app"" with R and Google Sheets](http://simplystatistics.org/2016/08/26/googlesheets/)",137,FALSE,NA,#### Tutorials,link,2016-9-5
-"+ [Variables can synergize, even in a linear model](http://www.win-vector.com/blog/2016/09/variables-can-synergize-even-in-a-linear-model/)",139,FALSE,NA,#### Tutorials,link,2016-9-5
-+ [ggtree for microbiome data](http://guangchuangyu.github.io/2016/09/ggtree-for-microbiome-data/),98,FALSE,NA,#### Tutorials,link,2016-9-5
-![ggtree for microbiome data](https://guangchuangyu.github.io/blog_images/Bioconductor/ggtree/tree_ggtree.png),110,FALSE,NA,#### Tutorials,image,2016-9-5
-+ [Dual axes time series plots with various more awkward data](http://ellisp.github.io/blog/2016/08/28/dualaxes2),113,FALSE,NA,#### Tutorials,link,2016-9-5
-![Dual axes](https://ellisp.github.io/img/0052-milk-price.svg),62,FALSE,NA,#### Tutorials,image,2016-9-5
-+ [RDBL – manipulate data in-database with R code only](http://datascienceplus.com/rdbl-manipulate-data-in-database-with-r-code-only/),134,FALSE,NA,#### Tutorials,link,2016-9-5
-+ [Make Bland Altman Plots with Marginal Histograms using ggExtra](http://labrtorian.com/2016/08/29/make-bland-altman-plots-with-marginal-histograms-using-ggextra/),164,FALSE,NA,#### Tutorials,link,2016-9-5
-+ [Visualizing evolutionary dynamics with ggmuller](https://thesefewlines.wordpress.com/2016/08/20/how-to-ggmuller/),116,FALSE,NA,#### Tutorials,link,2016-9-5
-![ggmuller](https://thesefewlines.files.wordpress.com/2016/08/branching.png?w=840),82,FALSE,NA,#### Tutorials,image,2016-9-5
-+ [Choose a good heatmap color scale with viridis](http://blog.revolutionanalytics.com/2016/09/choose-a-good-heatmap-color-scale-with-viridis.html),147,FALSE,NA,#### Tutorials,link,2016-9-5
-+ [Philadelphia’s Changing Climate](https://mtairy.me/2016/09/01/philadelphias-changing-climate/),97,FALSE,NA,#### R in the Real World,link,2016-9-5
-+ [Analyzing #first7jobs tweets with MonkeyLearn and R](https://blog.monkeylearn.com/analyzing-first7jobs-tweets-monkeylearn-r/),128,FALSE,NA,#### R in the Real World,link,2016-9-5
-+ [Visualizing sort algorithms with ggplot2](http://jkunst.com/r/visualizing-sort-algorithms-with-ggplot/),106,FALSE,NA,#### R in the Real World,link,2016-9-5
-![Visualizing sort algorithms with ggplot2](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/sort2.png),109,FALSE,NA,#### R in the Real World,image,2016-9-5
-+ [What we spend: Consumer Expenditures in 2015](http://lenkiefer.com/2016/09/02/consumer-spend),96,FALSE,NA,#### R in the Real World,link,2016-9-5
-![What we spend: Consumer Expenditures in 2015](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/price.gif),113,FALSE,NA,#### R in the Real World,image,2016-9-5
-+ [Recent economic and housing market trends: August 2016](http://lenkiefer.com/2016/08/27/housing-market-update),113,FALSE,NA,#### R in the Real World,link,2016-9-5
-![Recent economic and housing market trends: August 2016](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/house.gif),123,FALSE,NA,#### R in the Real World,image,2016-9-5
-+ [Analyzing NBA basketball data with R](http://blog.revolutionanalytics.com/2016/09/analyzing-nba-basketball-data-with-r.html),127,FALSE,NA,#### R in the Real World,link,2016-9-5
-+ [A Statistical Approach To Understanding Why Humans Are Bad at Predictions](http://jasdumas.github.io/2016-09-02-a-stat-approach-to-npr-segment-on-predictions/),162,FALSE,NA,#### R in the Real World,link,2016-9-5
-+ [Beneath the waves climate change puts marine life on the move](http://ctmirror.org/2016/08/29/beneath-the-waves-climate-change-puts-marine-life-on-the-move/),160,FALSE,NA,#### R in the Real World,link,2016-9-5
-![Beneath the waves climate change puts marine life on the move](https://pbs.twimg.com/media/CrB1LN4W8AAmU4G.jpg),113,FALSE,NA,#### R in the Real World,image,2016-9-5
-+ [A Sentiment Analysis of Hamilton](http://seankross.com/2016/08/30/A-Sentiment-Analysis-of-Hamilton.html),107,FALSE,NA,#### R in the Real World,link,2016-9-5
-![A Sentiment Analysis of Hamilton](https://cdn.rawgit.com/seankross/seankross.github.io/24dbbf55347381c34e6493256c95675fefc8aaa5/img/2016-08-30-A-Sentiment-Analysis-of-Hamilton/unnamed-chunk-12-1.png),201,FALSE,NA,#### R in the Real World,image,2016-9-5
-+ [The Butterfly Affectation:,29,FALSE,NA,#### R in the Real World,unid,2016-9-5
-A case study in embedding an external image in an R plot](https://www.stat.auckland.ac.nz/~paul/Reports/grImport/butterfly/butterfly.html),138,FALSE,NA,#### R in the Real World,unid,2016-9-5
-+ [Mapping Traffic Fatalities](http://lucaspuente.github.io/notes/2016/09/01/Mapping_Traffic_Fatalities),104,FALSE,NA,#### R in the Real World,link,2016-9-5
-![Mapping Traffic Fatalities](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/Traffic.png),97,FALSE,NA,#### R in the Real World,image,2016-9-5
-+ [The R community is awesome (and fast)](http://www.win-vector.com/blog/2016/08/the-r-community-is-awesome-and-fast/),118,FALSE,NA,#### R in the Real World,link,2016-9-5
-+ [RClimate Script to Assess Local Hot Day Trends](https://rclimate.wordpress.com/2016/08/29/rclimate-script-to-assess-local-hot-day-trends/),141,FALSE,NA,#### R in the Real World,link,2016-9-5
-+ [Trump Goggles Android app - Twitter to R to GitHub to Android](https://leonawicz.github.io/TrumpGoggles/trumpgoggles.html),125,FALSE,NA,#### R for Fun,link,2016-9-5
-+ [The R Consortium Funds Three Projects in July](https://www.r-consortium.org/blog/2016/08/22/the-r-consortium-funds-three-projects-in-july),141,FALSE,NA,#### R in Organization,link,2016-9-5
-+ [Presidential Election Predictions 2016 (an ASA competition)](https://www.r-statistics.com/2016/08/presidential-election-predictions-2016/),141,FALSE,NA,#### R in Organization,link,2016-9-5
-+ [Profvis: Profiling Tools for Faster R Code](https://www.rstudio.com/resources/webinars/profvis-profiling-tools-for-faster-r-code/),133,FALSE,NA,## Video and Podcast,link,2016-9-5
-+ [Video series: Introduction to Microsoft R Server](http://blog.revolutionanalytics.com/2016/08/introduction-to-microsoft-r-server.html),137,FALSE,NA,## Video and Podcast,link,2016-9-5
-+ [Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/),124,FALSE,NA,## Resources,link,2016-9-5
-"+ [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/index.html)",96,FALSE,NA,## Resources,link,2016-9-5
-+ [A MODERN DIVE into Data with R](https://ismayc.github.io/moderndiver-book/),78,FALSE,NA,## Resources,link,2016-9-5
-+ [rmdformats](https://github.com/juba/rmdformats) - Material HTML rmarkdown format now on Github.,98,FALSE,NA,## New Releases,link,2016-9-5
-![rmdformats](https://pbs.twimg.com/media/CrWTBtiWAAAFy9i.jpg),62,FALSE,NA,## New Releases,image,2016-9-5
-+ [thesisdown](https://chesterismay.wordpress.com/2016/09/01/updated-r-markdown-thesis-template/) - An updated R Markdown thesis template using the bookdown package.,165,FALSE,NA,## New Releases,link,2016-9-5
-+ [rfoaas 1.1.0](http://dirk.eddelbuettel.com/blog/2016/08/28#rfoaas_1.1.0) - Access the most excellent FOAAS service from R.,125,FALSE,NA,## New Releases,link,2016-9-5
-+ [quantmod 0.4-6](http://blog.fosstrading.com/2016/08/quantmod-0-4-6-on-cran.html) - Quantitative Financial Modelling & Trading Framework for R.,145,FALSE,NA,## New Releases,link,2016-9-5
-+ [tibble 1.2.0](https://blog.rstudio.org/2016/08/29/tibble-1-2-0/) - `tbl_df` class that offers better checking and,116,FALSE,NA,## New Releases,link,2016-9-5
-printing capabilities than traditional data frames.,51,FALSE,NA,## New Releases,unid,2016-9-5
-+ [RProtoBuf 0.4.5](http://dirk.eddelbuettel.com/blog/2016/08/29#rprotobuf_0.4.5) - now with protobuf v2 and v3!,112,FALSE,NA,## New Releases,link,2016-9-5
-+ [Rcpp 0.12.7](http://dirk.eddelbuettel.com/blog/2016/09/04#rcpp_0.12.7) - more updates and bug fixes.,103,FALSE,NA,## New Releases,link,2016-9-5
-+ [forcats 0.1.0 on CRAN](https://blog.rstudio.org/2016/08/31/forcats-0-1-0/) - `forcats` provides tools for categorical variables.,131,FALSE,NA,## New Packages & Tools,link,2016-9-5
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,## R Project Updates,unid,2016-9-5
-+ There are new entry points `R_MakeExternalPtrFn` and `R_ExternalPtrFn` to facilitate creating and retrieving an R external pointer from a C function pointer without ISO C warnings about the conversion of function pointers.,224,FALSE,NA,## R Project Updates,unid,2016-9-5
-+ `abbreviate()` gets option `named = TRUE`.,44,FALSE,NA,## R Project Updates,unid,2016-9-5
-+ `mccollect()` now returns a named list (as documented) called with `wait=FALSE`.,82,FALSE,NA,## R Project Updates,unid,2016-9-5
-"+ `citation()` supports inst/CITATION files from package source trees, with `lib.loc` pointing to the directory containing the package.",135,FALSE,NA,## R Project Updates,unid,2016-9-5
-"+ `R CMD build` will now give priority to vignettes produced from files in the ‘vignettes’ directory over those in the `inst/doc` directory, with a warning that the latter are being ignored.",190,FALSE,NA,## R Project Updates,unid,2016-9-5
-+ The unexported low-level functions in package `parallel` for passing serialized R objects to and from forked children now support long vectors on 64-bit platforms. This removes some limits on higher-level functions such as `mclapply()` (but returning gigabyte results from forked processes _via_ serialization should be avoided if at all possible).,350,FALSE,NA,## R Project Updates,unid,2016-9-5
-"+ `try()` gains a new argument `outFile` with a default that can be modified via `options(try.outFile = .)`, useful notably for `Sweave`.",137,FALSE,NA,## R Project Updates,unid,2016-9-5
-+ The radix sort considers `NA_real_` and `NaN` to be equivalent in rank (like the other sort algorithms).,106,FALSE,NA,## R Project Updates,unid,2016-9-5
-"+ When `index.return=TRUE` is passed to `sort.int()`, the radix sort treats `NA`s like `sort.list()` does (like the other sort algorithms).",139,FALSE,NA,## R Project Updates,unid,2016-9-5
-"+ In integer arithmetic, `NULL` is now treated as `integer(0)` whereas it was previously treated as `double(0)`.",112,FALSE,NA,## R Project Updates,unid,2016-9-5
-+ [EARL 2016 London](https://earlconf.com/)  **13 September - 15 September** <br>,81,FALSE,NA,## Upcoming Events,link,2016-9-5
-The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br />,173,FALSE,NA,## Upcoming Events,unid,2016-9-5
-"+ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **12 October - 14 October** <br>",89,FALSE,NA,## Upcoming Events,link,2016-9-5
-"European R users meeting (eRum) is an international conference that aims at integrating users of the R language. eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate. <br />",216,FALSE,NA,## Upcoming Events,unid,2016-9-5
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">PSA: if you&#39;re a non-native English speaker, make sure you check urban dictionary when coming up with package names <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/770744837104541696"">August 30, 2016</a></blockquote>",403,FALSE,NA,## Quote of the Week,unid,2016-9-5
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">So ... I got engaged on <a href=""https://twitter.com/hashtag/satRdays?src=hash"">#satRdays</a>. <a href=""https://t.co/1B7QO7WhjQ"">pic.twitter.com/1B7QO7WhjQ</a></p>&mdash; Romain François (@romain_francois) <a href=""https://twitter.com/romain_francois/status/772053144222261249"">September 3, 2016</a></blockquote>",384,FALSE,NA,## Quote of the Week,unid,2016-9-5
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2016-9-5
+layout: post,12,FALSE,NA,unid,2016-9-5
+title: Issue 15,15,FALSE,NA,unid,2016-9-5
+description: Weekly News in R Community.,40,FALSE,NA,unid,2016-9-5
+---,3,FALSE,NA,unid,2016-9-5
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,unid,2016-9-5
+*Digested by R Weekly Members*,30,FALSE,## Highlight,unid,2016-9-5
++ [forcats 0.1.0 on CRAN](https://blog.rstudio.org/2016/08/31/forcats-0-1-0/) - `forcats` provides tools for categorical variables.,131,FALSE,## Highlight,link,2016-9-5
++ [Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/),124,FALSE,## Highlight,link,2016-9-5
++ [Profiling Rcpp package code on Windows](http://evolvedmicrobe.com/blogs/?p=359),82,FALSE,#### Tutorials,link,2016-9-5
++ [Debugging in Rmd](https://gist.github.com/gmbecker/e47b0951b91505b2f4607259bcec8f97),87,FALSE,#### Tutorials,link,2016-9-5
++ [Why I still use Excel](https://deevybee.blogspot.sg/2016/09/in-defence-of-excel.html),88,FALSE,#### Tutorials,link,2016-9-5
++ [R packages for forecast combinations](http://robjhyndman.com/hyndsight/forecast-combinations/),97,FALSE,#### Tutorials,link,2016-9-5
+![R packages for forecast combinations](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/hybrid.png),106,FALSE,#### Tutorials,image,2016-9-5
+"+ [How to create a free distributed data collection ""app"" with R and Google Sheets](http://simplystatistics.org/2016/08/26/googlesheets/)",137,FALSE,#### Tutorials,link,2016-9-5
+"+ [Variables can synergize, even in a linear model](http://www.win-vector.com/blog/2016/09/variables-can-synergize-even-in-a-linear-model/)",139,FALSE,#### Tutorials,link,2016-9-5
++ [ggtree for microbiome data](http://guangchuangyu.github.io/2016/09/ggtree-for-microbiome-data/),98,FALSE,#### Tutorials,link,2016-9-5
+![ggtree for microbiome data](https://guangchuangyu.github.io/blog_images/Bioconductor/ggtree/tree_ggtree.png),110,FALSE,#### Tutorials,image,2016-9-5
++ [Dual axes time series plots with various more awkward data](http://ellisp.github.io/blog/2016/08/28/dualaxes2),113,FALSE,#### Tutorials,link,2016-9-5
+![Dual axes](https://ellisp.github.io/img/0052-milk-price.svg),62,FALSE,#### Tutorials,image,2016-9-5
++ [RDBL – manipulate data in-database with R code only](http://datascienceplus.com/rdbl-manipulate-data-in-database-with-r-code-only/),134,FALSE,#### Tutorials,link,2016-9-5
++ [Make Bland Altman Plots with Marginal Histograms using ggExtra](http://labrtorian.com/2016/08/29/make-bland-altman-plots-with-marginal-histograms-using-ggextra/),164,FALSE,#### Tutorials,link,2016-9-5
++ [Visualizing evolutionary dynamics with ggmuller](https://thesefewlines.wordpress.com/2016/08/20/how-to-ggmuller/),116,FALSE,#### Tutorials,link,2016-9-5
+![ggmuller](https://thesefewlines.files.wordpress.com/2016/08/branching.png?w=840),82,FALSE,#### Tutorials,image,2016-9-5
++ [Choose a good heatmap color scale with viridis](http://blog.revolutionanalytics.com/2016/09/choose-a-good-heatmap-color-scale-with-viridis.html),147,FALSE,#### Tutorials,link,2016-9-5
++ [Philadelphia’s Changing Climate](https://mtairy.me/2016/09/01/philadelphias-changing-climate/),97,FALSE,#### R in the Real World,link,2016-9-5
++ [Analyzing #first7jobs tweets with MonkeyLearn and R](https://blog.monkeylearn.com/analyzing-first7jobs-tweets-monkeylearn-r/),128,FALSE,#### R in the Real World,link,2016-9-5
++ [Visualizing sort algorithms with ggplot2](http://jkunst.com/r/visualizing-sort-algorithms-with-ggplot/),106,FALSE,#### R in the Real World,link,2016-9-5
+![Visualizing sort algorithms with ggplot2](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/sort2.png),109,FALSE,#### R in the Real World,image,2016-9-5
++ [What we spend: Consumer Expenditures in 2015](http://lenkiefer.com/2016/09/02/consumer-spend),96,FALSE,#### R in the Real World,link,2016-9-5
+![What we spend: Consumer Expenditures in 2015](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/price.gif),113,FALSE,#### R in the Real World,image,2016-9-5
++ [Recent economic and housing market trends: August 2016](http://lenkiefer.com/2016/08/27/housing-market-update),113,FALSE,#### R in the Real World,link,2016-9-5
+![Recent economic and housing market trends: August 2016](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/house.gif),123,FALSE,#### R in the Real World,image,2016-9-5
++ [Analyzing NBA basketball data with R](http://blog.revolutionanalytics.com/2016/09/analyzing-nba-basketball-data-with-r.html),127,FALSE,#### R in the Real World,link,2016-9-5
++ [A Statistical Approach To Understanding Why Humans Are Bad at Predictions](http://jasdumas.github.io/2016-09-02-a-stat-approach-to-npr-segment-on-predictions/),162,FALSE,#### R in the Real World,link,2016-9-5
++ [Beneath the waves climate change puts marine life on the move](http://ctmirror.org/2016/08/29/beneath-the-waves-climate-change-puts-marine-life-on-the-move/),160,FALSE,#### R in the Real World,link,2016-9-5
+![Beneath the waves climate change puts marine life on the move](https://pbs.twimg.com/media/CrB1LN4W8AAmU4G.jpg),113,FALSE,#### R in the Real World,image,2016-9-5
++ [A Sentiment Analysis of Hamilton](http://seankross.com/2016/08/30/A-Sentiment-Analysis-of-Hamilton.html),107,FALSE,#### R in the Real World,link,2016-9-5
+![A Sentiment Analysis of Hamilton](https://cdn.rawgit.com/seankross/seankross.github.io/24dbbf55347381c34e6493256c95675fefc8aaa5/img/2016-08-30-A-Sentiment-Analysis-of-Hamilton/unnamed-chunk-12-1.png),201,FALSE,#### R in the Real World,image,2016-9-5
++ [The Butterfly Affectation:,29,FALSE,#### R in the Real World,unid,2016-9-5
+A case study in embedding an external image in an R plot](https://www.stat.auckland.ac.nz/~paul/Reports/grImport/butterfly/butterfly.html),138,FALSE,#### R in the Real World,unid,2016-9-5
++ [Mapping Traffic Fatalities](http://lucaspuente.github.io/notes/2016/09/01/Mapping_Traffic_Fatalities),104,FALSE,#### R in the Real World,link,2016-9-5
+![Mapping Traffic Fatalities](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/Traffic.png),97,FALSE,#### R in the Real World,image,2016-9-5
++ [The R community is awesome (and fast)](http://www.win-vector.com/blog/2016/08/the-r-community-is-awesome-and-fast/),118,FALSE,#### R in the Real World,link,2016-9-5
++ [RClimate Script to Assess Local Hot Day Trends](https://rclimate.wordpress.com/2016/08/29/rclimate-script-to-assess-local-hot-day-trends/),141,FALSE,#### R in the Real World,link,2016-9-5
++ [Trump Goggles Android app - Twitter to R to GitHub to Android](https://leonawicz.github.io/TrumpGoggles/trumpgoggles.html),125,FALSE,#### R for Fun,link,2016-9-5
++ [The R Consortium Funds Three Projects in July](https://www.r-consortium.org/blog/2016/08/22/the-r-consortium-funds-three-projects-in-july),141,FALSE,#### R in Organization,link,2016-9-5
++ [Presidential Election Predictions 2016 (an ASA competition)](https://www.r-statistics.com/2016/08/presidential-election-predictions-2016/),141,FALSE,#### R in Organization,link,2016-9-5
++ [Profvis: Profiling Tools for Faster R Code](https://www.rstudio.com/resources/webinars/profvis-profiling-tools-for-faster-r-code/),133,FALSE,## Video and Podcast,link,2016-9-5
++ [Video series: Introduction to Microsoft R Server](http://blog.revolutionanalytics.com/2016/08/introduction-to-microsoft-r-server.html),137,FALSE,## Video and Podcast,link,2016-9-5
++ [Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/),124,FALSE,## Resources,link,2016-9-5
+"+ [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/index.html)",96,FALSE,## Resources,link,2016-9-5
++ [A MODERN DIVE into Data with R](https://ismayc.github.io/moderndiver-book/),78,FALSE,## Resources,link,2016-9-5
++ [rmdformats](https://github.com/juba/rmdformats) - Material HTML rmarkdown format now on Github.,98,FALSE,## New Releases,link,2016-9-5
+![rmdformats](https://pbs.twimg.com/media/CrWTBtiWAAAFy9i.jpg),62,FALSE,## New Releases,image,2016-9-5
++ [thesisdown](https://chesterismay.wordpress.com/2016/09/01/updated-r-markdown-thesis-template/) - An updated R Markdown thesis template using the bookdown package.,165,FALSE,## New Releases,link,2016-9-5
++ [rfoaas 1.1.0](http://dirk.eddelbuettel.com/blog/2016/08/28#rfoaas_1.1.0) - Access the most excellent FOAAS service from R.,125,FALSE,## New Releases,link,2016-9-5
++ [quantmod 0.4-6](http://blog.fosstrading.com/2016/08/quantmod-0-4-6-on-cran.html) - Quantitative Financial Modelling & Trading Framework for R.,145,FALSE,## New Releases,link,2016-9-5
++ [tibble 1.2.0](https://blog.rstudio.org/2016/08/29/tibble-1-2-0/) - `tbl_df` class that offers better checking and,116,FALSE,## New Releases,link,2016-9-5
+printing capabilities than traditional data frames.,51,FALSE,## New Releases,unid,2016-9-5
++ [RProtoBuf 0.4.5](http://dirk.eddelbuettel.com/blog/2016/08/29#rprotobuf_0.4.5) - now with protobuf v2 and v3!,112,FALSE,## New Releases,link,2016-9-5
++ [Rcpp 0.12.7](http://dirk.eddelbuettel.com/blog/2016/09/04#rcpp_0.12.7) - more updates and bug fixes.,103,FALSE,## New Releases,link,2016-9-5
++ [forcats 0.1.0 on CRAN](https://blog.rstudio.org/2016/08/31/forcats-0-1-0/) - `forcats` provides tools for categorical variables.,131,FALSE,## New Packages & Tools,link,2016-9-5
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,## R Project Updates,unid,2016-9-5
++ There are new entry points `R_MakeExternalPtrFn` and `R_ExternalPtrFn` to facilitate creating and retrieving an R external pointer from a C function pointer without ISO C warnings about the conversion of function pointers.,224,FALSE,## R Project Updates,unid,2016-9-5
++ `abbreviate()` gets option `named = TRUE`.,44,FALSE,## R Project Updates,unid,2016-9-5
++ `mccollect()` now returns a named list (as documented) called with `wait=FALSE`.,82,FALSE,## R Project Updates,unid,2016-9-5
+"+ `citation()` supports inst/CITATION files from package source trees, with `lib.loc` pointing to the directory containing the package.",135,FALSE,## R Project Updates,unid,2016-9-5
+"+ `R CMD build` will now give priority to vignettes produced from files in the ‘vignettes’ directory over those in the `inst/doc` directory, with a warning that the latter are being ignored.",190,FALSE,## R Project Updates,unid,2016-9-5
++ The unexported low-level functions in package `parallel` for passing serialized R objects to and from forked children now support long vectors on 64-bit platforms. This removes some limits on higher-level functions such as `mclapply()` (but returning gigabyte results from forked processes _via_ serialization should be avoided if at all possible).,350,FALSE,## R Project Updates,unid,2016-9-5
+"+ `try()` gains a new argument `outFile` with a default that can be modified via `options(try.outFile = .)`, useful notably for `Sweave`.",137,FALSE,## R Project Updates,unid,2016-9-5
++ The radix sort considers `NA_real_` and `NaN` to be equivalent in rank (like the other sort algorithms).,106,FALSE,## R Project Updates,unid,2016-9-5
+"+ When `index.return=TRUE` is passed to `sort.int()`, the radix sort treats `NA`s like `sort.list()` does (like the other sort algorithms).",139,FALSE,## R Project Updates,unid,2016-9-5
+"+ In integer arithmetic, `NULL` is now treated as `integer(0)` whereas it was previously treated as `double(0)`.",112,FALSE,## R Project Updates,unid,2016-9-5
++ [EARL 2016 London](https://earlconf.com/)  **13 September - 15 September** <br>,81,FALSE,## Upcoming Events,link,2016-9-5
+The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br />,173,FALSE,## Upcoming Events,unid,2016-9-5
+"+ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **12 October - 14 October** <br>",89,FALSE,## Upcoming Events,link,2016-9-5
+"European R users meeting (eRum) is an international conference that aims at integrating users of the R language. eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate. <br />",216,FALSE,## Upcoming Events,unid,2016-9-5
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">PSA: if you&#39;re a non-native English speaker, make sure you check urban dictionary when coming up with package names <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/770744837104541696"">August 30, 2016</a></blockquote>",403,FALSE,## Quote of the Week,unid,2016-9-5
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">So ... I got engaged on <a href=""https://twitter.com/hashtag/satRdays?src=hash"">#satRdays</a>. <a href=""https://t.co/1B7QO7WhjQ"">pic.twitter.com/1B7QO7WhjQ</a></p>&mdash; Romain François (@romain_francois) <a href=""https://twitter.com/romain_francois/status/772053144222261249"">September 3, 2016</a></blockquote>",384,FALSE,## Quote of the Week,unid,2016-9-5

@@ -1,62 +1,62 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-12-02
-"title: R Weekly 2019-48 Javascript 4 Shiny, {wisegroup}, R in Africa",68,FALSE,NA,NA,unid,2019-12-02
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-12-02
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-12-02
----,3,FALSE,NA,NA,unid,2019-12-02
-Release Date: 2019-12-02,24,FALSE,NA,NA,unid,2019-12-02
-"This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast), with help from the RWeekly team members and contributors.",136,FALSE,NA,NA,unid,2019-12-02
-+ [JavaScript 4 Shiny - Field Notes](https://connect.thinkr.fr/js4shinyfieldnotes/),83,FALSE,NA,###  Highlight,link,2019-12-02
-+ [`{wisegroup}`: Never be burned by forgetting to `ungroup()` again](https://github.com/MilesMcBain/wisegroup),111,FALSE,NA,###  Highlight,link,2019-12-02
-+ [The state of R in Africa](https://rforwards-auto.github.io/blog/2019/11/15/the-state-of-r-in-africa/),104,FALSE,NA,###  Highlight,link,2019-12-02
-+ [The state of R in Africa](https://rforwards-auto.github.io/blog/2019/11/15/the-state-of-r-in-africa/),104,FALSE,NA,### Insights,link,2019-12-02
-![EPL2](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/africaR.png),86,FALSE,NA,### Insights,image,2019-12-02
-"+ [Visualizing the Premier League So Far, Part 2: Stats from Open Play and Set Pieces](https://ryo-n7.github.io/2019-11-28-visualize-EPL-part-2/)",145,FALSE,NA,### R in the Real World,link,2019-12-02
-![EPL2](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/xG_setpieceAT_top7_plot.png),102,FALSE,NA,### R in the Real World,image,2019-12-02
-"+ [AI, Machine Learning and Data Science Roundup: November 2019](https://blog.revolutionanalytics.com/2019/11/airoundup-november-2019.html)",139,FALSE,NA,### R in the Real World,link,2019-12-02
-+ [Getting started with Keras from R - the 2020 edition](https://blogs.rstudio.com/tensorflow/posts/2019-11-27-gettingstarted-2020/),132,FALSE,NA,### R in the Real World,link,2019-12-02
-+ [A pivotal change to Software Carpentry](https://www.rostrum.blog/2019/11/27/pivot/),86,FALSE,NA,###  R in Organizations,link,2019-12-02
-+ [2019 R Package Advent Calendar](https://www.hvitfeldt.me/packagecalendar/2019/),82,FALSE,NA,###  Resources,link,2019-12-02
-+ [Basic play-by-play sequence overview for NFL games](https://github.com/wiscostret/nflpbpseq/blob/master/nflpbpseqviz.md),123,FALSE,NA,###  Resources,link,2019-12-02
-+ [JavaScript 4 Shiny - Field Notes](https://connect.thinkr.fr/js4shinyfieldnotes/),83,FALSE,NA,###  Resources,link,2019-12-02
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-12-02
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-12-02
-+ [shinyMobile   Mobile Ready 'shiny' Apps with Standalone Capabilities](https://cran.r-project.org/package=shinyMobile),120,FALSE,NA,###  New Packages,link,2019-12-02
-![shinymobile](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/shinyMobile.png),97,FALSE,NA,###  New Packages,image,2019-12-02
-+ [polite   Be Nice on the Web](https://cran.r-project.org/package=polite),74,FALSE,NA,###  New Packages,link,2019-12-02
-+ [gluedown   Wrap Vectors in Markdown Formatting](https://cran.r-project.org/package=gluedown),95,FALSE,NA,###  New Packages,link,2019-12-02
-+ [fitzRoy   Easily Scrape and Process AFL Data](https://cran.r-project.org/package=fitzRoy),92,FALSE,NA,###  New Packages,link,2019-12-02
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-12-02
-+ [`{vov}`: vov.css animations for shiny](https://github.com/tyluRp/vov),72,FALSE,NA,###  New Packages,link,2019-12-02
-![vov](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/vov_demo.gif),86,FALSE,NA,###  New Packages,image,2019-12-02
-+ [`{wisegroup}`: Never be burned by forgetting to `ungroup()` again](https://github.com/MilesMcBain/wisegroup),111,FALSE,NA,###  New Packages,link,2019-12-02
-"+ [{pins} 0.3: Azure, GCloud, and S3](http://pins.rstudio.com/blog/posts/pins-0-3-0)",84,FALSE,NA,### Updated Packages,link,2019-12-02
-"+ [Shiny Developer Series Episode 7](https://shinydevseries.com/ep7) - Eric & Curtis chat with Victor Perrier & Fanny Meyer of [dreamRs](https://www.dreamrs.fr/) to discuss the powerful `{shinyWidgets}` package for enhancing Shiny user interfaces, the origins of [dreamRs](https://www.dreamrs.fr/), and more demos of their excellent packages.",342,FALSE,NA,###  Videos and Podcasts,link,2019-12-02
-+ [15 Tips on Making Better Use of R Markdown](https://www.youtube.com/watch?v=L5yTrtRdeCI&feature=youtu.be),108,FALSE,NA,###  Videos and Podcasts,link,2019-12-02
-"+ [Not So Standard Deviations Episode 92: Hilary Comes to Town](http://nssdeviations.com/92-hilary-comes-to-town) - Hilary and Roger record in person for the third time ever to discuss the changing nature of data science and its role in various industries, the use of QA in data science product development, and lots of other stuff.",332,FALSE,NA,###  Videos and Podcasts,link,2019-12-02
-"+ [Practical Data Science with R, 2nd Edition: Introduction Video](http://www.win-vector.com/blog/2019/11/practical-data-science-with-r-2nd-edition-introduction-video/)",168,FALSE,NA,###  Videos and Podcasts,link,2019-12-02
-+ [Easy US Maps in R - Thanksgiving Edition](https://www.littlemissdata.com/blog/usmap),87,FALSE,NA,###  Tutorials,link,2019-12-02
-![map](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/thanksgiving.png),90,FALSE,NA,###  Tutorials,image,2019-12-02
-+ [R-inforcement Learning Part One- Tic Tac Toe](https://www.robert-hickman.eu/post/r-inforcement_learning_one/),112,FALSE,NA,###  Tutorials,link,2019-12-02
-+ [Search and discover CRAN packages with pkgsearch!](https://blog.r-hub.io/2019/11/26/pkgsearch/),98,FALSE,NA,###  Tutorials,link,2019-12-02
-+ [Another mixed effects model visualization](https://tjmahr.github.io/another-mixed-effects-model-visualization/),114,FALSE,NA,###  Tutorials,link,2019-12-02
-![mixed](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/mixed_effects_model.png),99,FALSE,NA,###  Tutorials,image,2019-12-02
-+ [Introduction to workloopR: an R package for the analysis of data from muscle physiology experiments](https://docs.ropensci.org/workloopR/articles/Introduction-to-workloopR.html),180,FALSE,NA,###  Tutorials,link,2019-12-02
-+ [Refactoring Tests](https://www.hvitfeldt.me/blog/refactoring-tests/),71,FALSE,NA,###  Tutorials,link,2019-12-02
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2019-12-02
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-12-02
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-12-02
-"+ [rOpenSci community call: Community Call: Last Night, Testing Saved my Life, December 5](https://ropensci.org/commcalls/2019-12-05/)",134,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-02
-"+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)",124,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-02
-"+ [BioC Asia, December 5-6](https://bioconductor.github.io/BiocAsia/)",69,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-02
-"+ [Japan.R 2019, December 7](https://japanr.connpass.com/event/154070/)",71,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-02
-"+ [European Bioconductor Meeting, December 9-10](http://eurobioc2019.bioconductor.org/)",87,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-02
-"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)",71,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-02
-"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-02
-+ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-02
-"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-02
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-02
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-02
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-12-02
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-12-02
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Waaaaaa Jackson Kwok just gave an incredible preso jam packed with interactive vis coded in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> tranpiled to JS feat live coding INCREDIBLE. <a href=""https://twitter.com/hashtag/wombat2019?src=hash&amp;ref_src=twsrc%5Etfw"">#wombat2019</a> <a href=""https://t.co/qDmOBJDcK4"">pic.twitter.com/qDmOBJDcK4</a></p>&mdash; Miles McBain (@MilesMcBain) <a href=""https://twitter.com/MilesMcBain/status/1200294568551317504?ref_src=twsrc%5Etfw"">November 29, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",696,FALSE,NA,###  Quotes of the Week,unid,2019-12-02
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-12-02
+"title: R Weekly 2019-48 Javascript 4 Shiny, {wisegroup}, R in Africa",68,FALSE,NA,unid,2019-12-02
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-12-02
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-12-02
+---,3,FALSE,NA,unid,2019-12-02
+Release Date: 2019-12-02,24,FALSE,NA,unid,2019-12-02
+"This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast), with help from the RWeekly team members and contributors.",136,FALSE,NA,unid,2019-12-02
++ [JavaScript 4 Shiny - Field Notes](https://connect.thinkr.fr/js4shinyfieldnotes/),83,FALSE,###  Highlight,link,2019-12-02
++ [`{wisegroup}`: Never be burned by forgetting to `ungroup()` again](https://github.com/MilesMcBain/wisegroup),111,FALSE,###  Highlight,link,2019-12-02
++ [The state of R in Africa](https://rforwards-auto.github.io/blog/2019/11/15/the-state-of-r-in-africa/),104,FALSE,###  Highlight,link,2019-12-02
++ [The state of R in Africa](https://rforwards-auto.github.io/blog/2019/11/15/the-state-of-r-in-africa/),104,FALSE,### Insights,link,2019-12-02
+![EPL2](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/africaR.png),86,FALSE,### Insights,image,2019-12-02
+"+ [Visualizing the Premier League So Far, Part 2: Stats from Open Play and Set Pieces](https://ryo-n7.github.io/2019-11-28-visualize-EPL-part-2/)",145,FALSE,### R in the Real World,link,2019-12-02
+![EPL2](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/xG_setpieceAT_top7_plot.png),102,FALSE,### R in the Real World,image,2019-12-02
+"+ [AI, Machine Learning and Data Science Roundup: November 2019](https://blog.revolutionanalytics.com/2019/11/airoundup-november-2019.html)",139,FALSE,### R in the Real World,link,2019-12-02
++ [Getting started with Keras from R - the 2020 edition](https://blogs.rstudio.com/tensorflow/posts/2019-11-27-gettingstarted-2020/),132,FALSE,### R in the Real World,link,2019-12-02
++ [A pivotal change to Software Carpentry](https://www.rostrum.blog/2019/11/27/pivot/),86,FALSE,###  R in Organizations,link,2019-12-02
++ [2019 R Package Advent Calendar](https://www.hvitfeldt.me/packagecalendar/2019/),82,FALSE,###  Resources,link,2019-12-02
++ [Basic play-by-play sequence overview for NFL games](https://github.com/wiscostret/nflpbpseq/blob/master/nflpbpseqviz.md),123,FALSE,###  Resources,link,2019-12-02
++ [JavaScript 4 Shiny - Field Notes](https://connect.thinkr.fr/js4shinyfieldnotes/),83,FALSE,###  Resources,link,2019-12-02
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-12-02
+**CRAN**,8,FALSE,###  New Packages,unid,2019-12-02
++ [shinyMobile   Mobile Ready 'shiny' Apps with Standalone Capabilities](https://cran.r-project.org/package=shinyMobile),120,FALSE,###  New Packages,link,2019-12-02
+![shinymobile](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/shinyMobile.png),97,FALSE,###  New Packages,image,2019-12-02
++ [polite   Be Nice on the Web](https://cran.r-project.org/package=polite),74,FALSE,###  New Packages,link,2019-12-02
++ [gluedown   Wrap Vectors in Markdown Formatting](https://cran.r-project.org/package=gluedown),95,FALSE,###  New Packages,link,2019-12-02
++ [fitzRoy   Easily Scrape and Process AFL Data](https://cran.r-project.org/package=fitzRoy),92,FALSE,###  New Packages,link,2019-12-02
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-12-02
++ [`{vov}`: vov.css animations for shiny](https://github.com/tyluRp/vov),72,FALSE,###  New Packages,link,2019-12-02
+![vov](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/vov_demo.gif),86,FALSE,###  New Packages,image,2019-12-02
++ [`{wisegroup}`: Never be burned by forgetting to `ungroup()` again](https://github.com/MilesMcBain/wisegroup),111,FALSE,###  New Packages,link,2019-12-02
+"+ [{pins} 0.3: Azure, GCloud, and S3](http://pins.rstudio.com/blog/posts/pins-0-3-0)",84,FALSE,### Updated Packages,link,2019-12-02
+"+ [Shiny Developer Series Episode 7](https://shinydevseries.com/ep7) - Eric & Curtis chat with Victor Perrier & Fanny Meyer of [dreamRs](https://www.dreamrs.fr/) to discuss the powerful `{shinyWidgets}` package for enhancing Shiny user interfaces, the origins of [dreamRs](https://www.dreamrs.fr/), and more demos of their excellent packages.",342,FALSE,###  Videos and Podcasts,link,2019-12-02
++ [15 Tips on Making Better Use of R Markdown](https://www.youtube.com/watch?v=L5yTrtRdeCI&feature=youtu.be),108,FALSE,###  Videos and Podcasts,link,2019-12-02
+"+ [Not So Standard Deviations Episode 92: Hilary Comes to Town](http://nssdeviations.com/92-hilary-comes-to-town) - Hilary and Roger record in person for the third time ever to discuss the changing nature of data science and its role in various industries, the use of QA in data science product development, and lots of other stuff.",332,FALSE,###  Videos and Podcasts,link,2019-12-02
+"+ [Practical Data Science with R, 2nd Edition: Introduction Video](http://www.win-vector.com/blog/2019/11/practical-data-science-with-r-2nd-edition-introduction-video/)",168,FALSE,###  Videos and Podcasts,link,2019-12-02
++ [Easy US Maps in R - Thanksgiving Edition](https://www.littlemissdata.com/blog/usmap),87,FALSE,###  Tutorials,link,2019-12-02
+![map](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/thanksgiving.png),90,FALSE,###  Tutorials,image,2019-12-02
++ [R-inforcement Learning Part One- Tic Tac Toe](https://www.robert-hickman.eu/post/r-inforcement_learning_one/),112,FALSE,###  Tutorials,link,2019-12-02
++ [Search and discover CRAN packages with pkgsearch!](https://blog.r-hub.io/2019/11/26/pkgsearch/),98,FALSE,###  Tutorials,link,2019-12-02
++ [Another mixed effects model visualization](https://tjmahr.github.io/another-mixed-effects-model-visualization/),114,FALSE,###  Tutorials,link,2019-12-02
+![mixed](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/mixed_effects_model.png),99,FALSE,###  Tutorials,image,2019-12-02
++ [Introduction to workloopR: an R package for the analysis of data from muscle physiology experiments](https://docs.ropensci.org/workloopR/articles/Introduction-to-workloopR.html),180,FALSE,###  Tutorials,link,2019-12-02
++ [Refactoring Tests](https://www.hvitfeldt.me/blog/refactoring-tests/),71,FALSE,###  Tutorials,link,2019-12-02
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2019-12-02
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-12-02
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-12-02
+"+ [rOpenSci community call: Community Call: Last Night, Testing Saved my Life, December 5](https://ropensci.org/commcalls/2019-12-05/)",134,FALSE,###  Upcoming Events in 3 Months,link,2019-12-02
+"+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)",124,FALSE,###  Upcoming Events in 3 Months,link,2019-12-02
+"+ [BioC Asia, December 5-6](https://bioconductor.github.io/BiocAsia/)",69,FALSE,###  Upcoming Events in 3 Months,link,2019-12-02
+"+ [Japan.R 2019, December 7](https://japanr.connpass.com/event/154070/)",71,FALSE,###  Upcoming Events in 3 Months,link,2019-12-02
+"+ [European Bioconductor Meeting, December 9-10](http://eurobioc2019.bioconductor.org/)",87,FALSE,###  Upcoming Events in 3 Months,link,2019-12-02
+"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)",71,FALSE,###  Upcoming Events in 3 Months,link,2019-12-02
+"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,###  Upcoming Events in 3 Months,link,2019-12-02
++ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,###  Upcoming Events in 3 Months,link,2019-12-02
+"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,###  Upcoming Events in 3 Months,link,2019-12-02
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-12-02
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-12-02
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-12-02
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-12-02
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Waaaaaa Jackson Kwok just gave an incredible preso jam packed with interactive vis coded in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> tranpiled to JS feat live coding INCREDIBLE. <a href=""https://twitter.com/hashtag/wombat2019?src=hash&amp;ref_src=twsrc%5Etfw"">#wombat2019</a> <a href=""https://t.co/qDmOBJDcK4"">pic.twitter.com/qDmOBJDcK4</a></p>&mdash; Miles McBain (@MilesMcBain) <a href=""https://twitter.com/MilesMcBain/status/1200294568551317504?ref_src=twsrc%5Etfw"">November 29, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",696,FALSE,###  Quotes of the Week,unid,2019-12-02

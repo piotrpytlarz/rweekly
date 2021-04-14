@@ -1,78 +1,78 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2016-8-29
-layout: post,12,FALSE,NA,NA,unid,2016-8-29
-title: Issue 14,15,FALSE,NA,NA,unid,2016-8-29
-description: Weekly News in R Community.,40,FALSE,NA,NA,unid,2016-8-29
----,3,FALSE,NA,NA,unid,2016-8-29
-Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-8-29
-*Digested by R Weekly Members*,30,FALSE,NA,## Highlight,unid,2016-8-29
-+ [useR and JSM 2016 conferences: a story in tweets](http://varianceexplained.org/r/user-jsm-conferences/),106,FALSE,NA,## Highlight,link,2016-8-29
-+ [Analysis of the #7FavPackages hashtag](http://varianceexplained.org/r/seven-fav-packages/),93,FALSE,NA,## Highlight,link,2016-8-29
-+ [Multiple t-Tests with dplyr](https://sebastiansauer.github.io/multiple-t-tests-with-dplyr/),94,FALSE,NA,#### Tutorials,link,2016-8-29
-+ [Python style logging in R](http://mazamascience.com/WorkingWithData/?p=1727),79,FALSE,NA,#### Tutorials,link,2016-8-29
-+ [Extending sparklyr to Compute Cost for K-means on YARN Cluster with Spark ML Library](http://r-addict.com/2016/08/25/Extending-Sparklyr.html),144,FALSE,NA,#### Tutorials,link,2016-8-29
-+ [How to evaluate R models in Azure Machine Learning Studio](http://www.nodalpoint.com/azure-ml-studio/),105,FALSE,NA,#### Tutorials,link,2016-8-29
-+ [Visualising Residuals](http://drsimonj.svbtle.com/visualising-residuals),75,FALSE,NA,#### Tutorials,link,2016-8-29
-![Visualising Residuals](https://i1.wp.com/svbtleusercontent.com/9jiwlvibugesq.png?ssl=1),89,FALSE,NA,#### Tutorials,image,2016-8-29
-+ [Model based optimization of machine learning models with mlr and mlrMBO](https://mlr-org.github.io/How-to-win-a-drone-in-20-lines-of-R-code/),144,FALSE,NA,#### Tutorials,link,2016-8-29
-+ [Using cranlogs in R with Plotly](http://moderndata.plot.ly/using-cranlogs-in-r-with-plotly/),95,FALSE,NA,#### Tutorials,link,2016-8-29
-![Using cranlogs in R with Plotly](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/cranlog.png),102,FALSE,NA,#### Tutorials,image,2016-8-29
-+ [Exploring and Understanding Hyperparameter Tuning](https://mlr-org.github.io/Exploring-and-Understanding-Hyperparameter-Tuning/),131,FALSE,NA,#### Tutorials,link,2016-8-29
-+ [Descriptive Statistics Final Project with Python & R](http://www.networkx.nl/data-science/descriptive_statistics_final_project/),131,FALSE,NA,#### Tutorials,link,2016-8-29
-+ [Five ways to calculate internal consistency](http://drsimonj.svbtle.com/how-to-calculate-internal-consistency),113,FALSE,NA,#### Tutorials,link,2016-8-29
-+ [R Markdown: How to format tables and figures in .docx files](http://datascienceplus.com/r-markdown-how-to-format-tables-and-figures-in-docx-files/),150,FALSE,NA,#### Tutorials,link,2016-8-29
-+ [In MMA winners keep winning and losers keep losing](http://www.fightprior.com/2016/08/23/Win_loss_markov/),109,FALSE,NA,#### R in the Real World,link,2016-8-29
-![In MMA winners keep winning and losers keep losing](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/mma.png),117,FALSE,NA,#### R in the Real World,image,2016-8-29
-+ [Forget Python vs. R: how they can work together](https://civisanalytics.com/blog/data-science/2016/08/15/python-r/),118,FALSE,NA,#### R in the Real World,link,2016-8-29
-+ [Text Mining with R on Vikings episode scripts](http://www.networkx.nl/data-science/text-mining-r-vikings/),109,FALSE,NA,#### R in the Real World,link,2016-8-29
-+ [Density squared](http://lenkiefer.com/2016/08/26/more-on-pop-distribution) - Make an animated gif combining a map and a kernel density estimate of the distribution of county population densities.,198,FALSE,NA,#### R in the Real World,link,2016-8-29
-![](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/popden.gif),70,FALSE,NA,#### R in the Real World,image,2016-8-29
-+ [U.S. county population: 1790-2010](http://lenkiefer.com/2016/08/23/US-pop-map-1790-2010),91,FALSE,NA,#### R in the Real World,link,2016-8-29
-+ [More map visualizations](http://lenkiefer.com/2016/08/24/more-maps),70,FALSE,NA,#### R in the Real World,link,2016-8-29
-"+ [Maps, mortgages and me](http://lenkiefer.com/2016/08/21/maps-mortgages-and-me)",81,FALSE,NA,#### R in the Real World,link,2016-8-29
-"+ [Mortgage rate gifs: Week of Aug 19, 2016](http://lenkiefer.com/2016/08/19/mortgage-gif-8-19-2016)",100,FALSE,NA,#### R in the Real World,link,2016-8-29
-"![Mortgage rate gifs: Week of Aug 19, 2016](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/monrate.gif)",111,FALSE,NA,#### R in the Real World,image,2016-8-29
-+ [Analysis of the #7FavPackages hashtag](http://varianceexplained.org/r/seven-fav-packages/),93,FALSE,NA,#### R in the Real World,link,2016-8-29
-![fav package](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/packages_graph-1.png),91,FALSE,NA,#### R in the Real World,image,2016-8-29
-"+ [Shiny flexdashboard of Reported Crimes in Hartford, Connecticut](https://jasminedumas.shinyapps.io/hartford-crime/)",118,FALSE,NA,#### R in the Real World,link,2016-8-29
-![](https://pbs.twimg.com/media/CqfWC7fWAAA5s9_.jpg:large),58,FALSE,NA,#### R in the Real World,image,2016-8-29
-+ [When is the best time to catch Pokemon in PokemonGo?](https://tojyouso.wordpress.com/2016/08/27/when-is-the-best-time-to-catch-pokemon-i/),141,FALSE,NA,#### R in the Real World,link,2016-8-29
-![When is the best time to catch Pokemon in PokemonGo?](https://tojyouso.files.wordpress.com/2016/08/uncommon.png?w=540),120,FALSE,NA,#### R in the Real World,image,2016-8-29
-+ [useR and JSM 2016 conferences: a story in tweets](http://varianceexplained.org/r/user-jsm-conferences/),106,FALSE,NA,#### R in the Real World,link,2016-8-29
-+ [Gotta catch them all](http://blog.eighty20.co.za//technique%20review/2016/08/21/Pokemon-clustering/) - Use clustering to highlight different groupings of pokemon.,165,FALSE,NA,#### R in the Real World,link,2016-8-29
-+ [The Olympic Medal Table Visualized Gapminder Style](http://staff.math.su.se/hoehle/blog/2016/08/21/gapMedal.html),116,FALSE,NA,#### R in the Real World,link,2016-8-29
-![The Olympic Medal](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/olympicMedals-gapminder-style.gif),110,FALSE,NA,#### R in the Real World,image,2016-8-29
-+ [Manny Parzen Used R!](https://matloff.wordpress.com/2016/08/20/manny-parzen-used-r/),87,FALSE,NA,#### R in the Real World,link,2016-8-29
-+ [Presidential Election Predictions 2016 (an ASA competition)](https://www.r-statistics.com/2016/08/presidential-election-predictions-2016/),141,FALSE,NA,#### R in the Real World,link,2016-8-29
-+ [Five Questions about Data Science](https://www.r-bloggers.com/five-questions-about-data-science/),100,FALSE,NA,#### R in the Real World,link,2016-8-29
-"+ [Edward Tufte Keynote Presenter at Data Science Summit, Sep 26-27](http://blog.revolutionanalytics.com/2016/08/tufte-keynote.html)",132,FALSE,NA,#### R in Organization,link,2016-8-29
-+ [10 Reasons why you can’t miss this years EARL Conference in London](http://www.mango-solutions.com/wp/2016/08/10-reasons-why-you-cant-miss-this-years-earl-conference-in-london/),180,FALSE,NA,#### R in Organization,link,2016-8-29
-+ [New package tokenizers joins rOpenSci](http://ropensci.org/blog/2016/08/23/tokenizers-joins-ropensci),104,FALSE,NA,#### R in Organization,link,2016-8-29
-+ [shinyGEO paper published](http://bioinformatics.oxfordjournals.org/content/early/2016/08/20/bioinformatics.btw519),117,FALSE,NA,#### R in Academia,link,2016-8-29
-"+ [NSSD Episode 21 - This Might Be the Future!](https://soundcloud.com/nssd-podcast/episode-21-this-might-be-the-future) - About political polling, Trump’s tweets, and the fact that Hilary owns a bowling ball.",209,FALSE,NA,## Video and Podcast,link,2016-8-29
-+ [a reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=youtu.be),89,FALSE,NA,## Video and Podcast,link,2016-8-29
-"<iframe width=""720"" height=""400"" src=""https://www.youtube.com/embed/s3JldKoA0zw"" frameborder=""0"" allowfullscreen></iframe>",122,FALSE,NA,## Video and Podcast,unid,2016-8-29
-+ [Reproducible Research Course](http://eriqande.github.io/rep-res-web/syllabus.html),85,FALSE,NA,## Resources,link,2016-8-29
-+ [RcppCNPy 0.2.5](http://dirk.eddelbuettel.com/blog/2016/08/26#rcppcnpy_0.2.5) - Read and write access to NumPy files.,119,FALSE,NA,## New Releases,link,2016-8-29
-+ [Microsoft R Open 3.3.1](http://blog.revolutionanalytics.com/2016/08/microsoft-r-open-331-now-available-for-windows-mac-and-linux.html),137,FALSE,NA,## New Releases,link,2016-8-29
-+ [stringr 1.1.0](https://blog.rstudio.org/2016/08/24/stringr-1-1-0/) - Bug fixes and features including `str_view()` and `str_view_all()` to create HTML widgets that display regular expression matches.,202,FALSE,NA,## New Releases,link,2016-8-29
-"+ [Rborist 0.1-3](http://blog.suiji.org/post/2016/08/23/Rborist-version-0.1-3-is-now-available-from-CRAN) - Extensible, Parallelizable Implementation of the Random Forest Algorithm.",181,FALSE,NA,## New Releases,link,2016-8-29
-+ [RcppEigen 0.3.2.9.0](http://dirk.eddelbuettel.com/blog/2016/08/21#rcppeigen_0.3.2.9.0),89,FALSE,NA,## New Releases,link,2016-8-29
-+ [RcppArmadillo 0.7.400.2.0](http://dirk.eddelbuettel.com/blog/2016/08/25#rcpparmadillo_0.7.400.2.0) - RcppArmadillo provides an interface from R to and from Armadillo.,169,FALSE,NA,## New Releases,link,2016-8-29
-+ [shinyLP](https://github.com/jasdumas/shinyLP) - Bootstrap Components to make Landing Home Pages for Shiny,108,FALSE,NA,## New Packages & Tools,link,2016-8-29
-"+ [processx](https://github.com/gaborcsardi/processx) - Portable tools to run system processes in the background, read their standard output and error, kill and restart them.",174,FALSE,NA,## New Packages & Tools,link,2016-8-29
-+ [types](https://github.com/jimhester/types) - This package provides a simple type annotation for R that is usable in scripts.,127,FALSE,NA,## New Packages & Tools,link,2016-8-29
-+ [thief](http://robjhyndman.com/hyndsight/thief/) - The thief package for R: Temporal HIErarchical Forecasting.,112,FALSE,NA,## New Packages & Tools,link,2016-8-29
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,## R Project Updates,unid,2016-8-29
-"+ `summary.default()` no longer rounds, but its print method does, resulting in much less extraneous rounding notably of numbers in the ten thousands.",150,FALSE,NA,## R Project Updates,unid,2016-8-29
-"+ `R CMD check` reports more dubious flags in files ‘src/Makevars[.in]’, including `-w` and `-g`.",97,FALSE,NA,## R Project Updates,unid,2016-8-29
-+ `R CMD check` has been set up to filter important warnings from recent versions of `gfortran` with `-Wall -pedantic`: this now reports non-portable GNU extensions such as out-of-order declarations.,199,FALSE,NA,## R Project Updates,unid,2016-8-29
-"+ `system.time()` now uses ‘message()’ instead of ‘cat()’ when terminated early, such that ‘suppressMessages()’ has an effect; suggested by Ben Bolker.",151,FALSE,NA,## R Project Updates,unid,2016-8-29
-"+ [satRday! in Budapest, Hungary](http://budapest.satrdays.org/#cfp) **3 September**<br>",88,FALSE,NA,## Upcoming Events,link,2016-8-29
-"The satRdays are SQLSaturday-inspired, community-led, one-day, regional and very affordable conferences around the world to support collaboration, networking and innovation within the R community.<br>",200,FALSE,NA,## Upcoming Events,unid,2016-8-29
-[Twitter list of satRday speakers](https://twitter.com/thinkR_fr/lists/satrday-budapest-speakers),97,FALSE,NA,## Upcoming Events,unid,2016-8-29
-+ [EARL 2016 London](https://earlconf.com/)  **13 September - 15 September** <br>,81,FALSE,NA,## Upcoming Events,link,2016-8-29
-The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br />,173,FALSE,NA,## Upcoming Events,unid,2016-8-29
-"+ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **12 October - 14 October** <br>",89,FALSE,NA,## Upcoming Events,link,2016-8-29
-"European R users meeting (eRum) is an international conference that aims at integrating users of the R language. eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate. <br />",216,FALSE,NA,## Upcoming Events,unid,2016-8-29
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Linear Regression <a href=""https://t.co/tm0tRUKW5g"">https://t.co/tm0tRUKW5g</a> <a href=""https://t.co/Z31HRTMbic"">pic.twitter.com/Z31HRTMbic</a></p>&mdash; xkcd (@xkcd_rss) <a href=""https://twitter.com/xkcd_rss/status/769165376202604545"">August 26, 2016</a></blockquote>",342,FALSE,NA,## Quote of the Week,unid,2016-8-29
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2016-8-29
+layout: post,12,FALSE,NA,unid,2016-8-29
+title: Issue 14,15,FALSE,NA,unid,2016-8-29
+description: Weekly News in R Community.,40,FALSE,NA,unid,2016-8-29
+---,3,FALSE,NA,unid,2016-8-29
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,unid,2016-8-29
+*Digested by R Weekly Members*,30,FALSE,## Highlight,unid,2016-8-29
++ [useR and JSM 2016 conferences: a story in tweets](http://varianceexplained.org/r/user-jsm-conferences/),106,FALSE,## Highlight,link,2016-8-29
++ [Analysis of the #7FavPackages hashtag](http://varianceexplained.org/r/seven-fav-packages/),93,FALSE,## Highlight,link,2016-8-29
++ [Multiple t-Tests with dplyr](https://sebastiansauer.github.io/multiple-t-tests-with-dplyr/),94,FALSE,#### Tutorials,link,2016-8-29
++ [Python style logging in R](http://mazamascience.com/WorkingWithData/?p=1727),79,FALSE,#### Tutorials,link,2016-8-29
++ [Extending sparklyr to Compute Cost for K-means on YARN Cluster with Spark ML Library](http://r-addict.com/2016/08/25/Extending-Sparklyr.html),144,FALSE,#### Tutorials,link,2016-8-29
++ [How to evaluate R models in Azure Machine Learning Studio](http://www.nodalpoint.com/azure-ml-studio/),105,FALSE,#### Tutorials,link,2016-8-29
++ [Visualising Residuals](http://drsimonj.svbtle.com/visualising-residuals),75,FALSE,#### Tutorials,link,2016-8-29
+![Visualising Residuals](https://i1.wp.com/svbtleusercontent.com/9jiwlvibugesq.png?ssl=1),89,FALSE,#### Tutorials,image,2016-8-29
++ [Model based optimization of machine learning models with mlr and mlrMBO](https://mlr-org.github.io/How-to-win-a-drone-in-20-lines-of-R-code/),144,FALSE,#### Tutorials,link,2016-8-29
++ [Using cranlogs in R with Plotly](http://moderndata.plot.ly/using-cranlogs-in-r-with-plotly/),95,FALSE,#### Tutorials,link,2016-8-29
+![Using cranlogs in R with Plotly](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/cranlog.png),102,FALSE,#### Tutorials,image,2016-8-29
++ [Exploring and Understanding Hyperparameter Tuning](https://mlr-org.github.io/Exploring-and-Understanding-Hyperparameter-Tuning/),131,FALSE,#### Tutorials,link,2016-8-29
++ [Descriptive Statistics Final Project with Python & R](http://www.networkx.nl/data-science/descriptive_statistics_final_project/),131,FALSE,#### Tutorials,link,2016-8-29
++ [Five ways to calculate internal consistency](http://drsimonj.svbtle.com/how-to-calculate-internal-consistency),113,FALSE,#### Tutorials,link,2016-8-29
++ [R Markdown: How to format tables and figures in .docx files](http://datascienceplus.com/r-markdown-how-to-format-tables-and-figures-in-docx-files/),150,FALSE,#### Tutorials,link,2016-8-29
++ [In MMA winners keep winning and losers keep losing](http://www.fightprior.com/2016/08/23/Win_loss_markov/),109,FALSE,#### R in the Real World,link,2016-8-29
+![In MMA winners keep winning and losers keep losing](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/mma.png),117,FALSE,#### R in the Real World,image,2016-8-29
++ [Forget Python vs. R: how they can work together](https://civisanalytics.com/blog/data-science/2016/08/15/python-r/),118,FALSE,#### R in the Real World,link,2016-8-29
++ [Text Mining with R on Vikings episode scripts](http://www.networkx.nl/data-science/text-mining-r-vikings/),109,FALSE,#### R in the Real World,link,2016-8-29
++ [Density squared](http://lenkiefer.com/2016/08/26/more-on-pop-distribution) - Make an animated gif combining a map and a kernel density estimate of the distribution of county population densities.,198,FALSE,#### R in the Real World,link,2016-8-29
+![](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/popden.gif),70,FALSE,#### R in the Real World,image,2016-8-29
++ [U.S. county population: 1790-2010](http://lenkiefer.com/2016/08/23/US-pop-map-1790-2010),91,FALSE,#### R in the Real World,link,2016-8-29
++ [More map visualizations](http://lenkiefer.com/2016/08/24/more-maps),70,FALSE,#### R in the Real World,link,2016-8-29
+"+ [Maps, mortgages and me](http://lenkiefer.com/2016/08/21/maps-mortgages-and-me)",81,FALSE,#### R in the Real World,link,2016-8-29
+"+ [Mortgage rate gifs: Week of Aug 19, 2016](http://lenkiefer.com/2016/08/19/mortgage-gif-8-19-2016)",100,FALSE,#### R in the Real World,link,2016-8-29
+"![Mortgage rate gifs: Week of Aug 19, 2016](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/monrate.gif)",111,FALSE,#### R in the Real World,image,2016-8-29
++ [Analysis of the #7FavPackages hashtag](http://varianceexplained.org/r/seven-fav-packages/),93,FALSE,#### R in the Real World,link,2016-8-29
+![fav package](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/packages_graph-1.png),91,FALSE,#### R in the Real World,image,2016-8-29
+"+ [Shiny flexdashboard of Reported Crimes in Hartford, Connecticut](https://jasminedumas.shinyapps.io/hartford-crime/)",118,FALSE,#### R in the Real World,link,2016-8-29
+![](https://pbs.twimg.com/media/CqfWC7fWAAA5s9_.jpg:large),58,FALSE,#### R in the Real World,image,2016-8-29
++ [When is the best time to catch Pokemon in PokemonGo?](https://tojyouso.wordpress.com/2016/08/27/when-is-the-best-time-to-catch-pokemon-i/),141,FALSE,#### R in the Real World,link,2016-8-29
+![When is the best time to catch Pokemon in PokemonGo?](https://tojyouso.files.wordpress.com/2016/08/uncommon.png?w=540),120,FALSE,#### R in the Real World,image,2016-8-29
++ [useR and JSM 2016 conferences: a story in tweets](http://varianceexplained.org/r/user-jsm-conferences/),106,FALSE,#### R in the Real World,link,2016-8-29
++ [Gotta catch them all](http://blog.eighty20.co.za//technique%20review/2016/08/21/Pokemon-clustering/) - Use clustering to highlight different groupings of pokemon.,165,FALSE,#### R in the Real World,link,2016-8-29
++ [The Olympic Medal Table Visualized Gapminder Style](http://staff.math.su.se/hoehle/blog/2016/08/21/gapMedal.html),116,FALSE,#### R in the Real World,link,2016-8-29
+![The Olympic Medal](https://cdn.rawgit.com/rweekly/image/master/2016-08-29/olympicMedals-gapminder-style.gif),110,FALSE,#### R in the Real World,image,2016-8-29
++ [Manny Parzen Used R!](https://matloff.wordpress.com/2016/08/20/manny-parzen-used-r/),87,FALSE,#### R in the Real World,link,2016-8-29
++ [Presidential Election Predictions 2016 (an ASA competition)](https://www.r-statistics.com/2016/08/presidential-election-predictions-2016/),141,FALSE,#### R in the Real World,link,2016-8-29
++ [Five Questions about Data Science](https://www.r-bloggers.com/five-questions-about-data-science/),100,FALSE,#### R in the Real World,link,2016-8-29
+"+ [Edward Tufte Keynote Presenter at Data Science Summit, Sep 26-27](http://blog.revolutionanalytics.com/2016/08/tufte-keynote.html)",132,FALSE,#### R in Organization,link,2016-8-29
++ [10 Reasons why you can’t miss this years EARL Conference in London](http://www.mango-solutions.com/wp/2016/08/10-reasons-why-you-cant-miss-this-years-earl-conference-in-london/),180,FALSE,#### R in Organization,link,2016-8-29
++ [New package tokenizers joins rOpenSci](http://ropensci.org/blog/2016/08/23/tokenizers-joins-ropensci),104,FALSE,#### R in Organization,link,2016-8-29
++ [shinyGEO paper published](http://bioinformatics.oxfordjournals.org/content/early/2016/08/20/bioinformatics.btw519),117,FALSE,#### R in Academia,link,2016-8-29
+"+ [NSSD Episode 21 - This Might Be the Future!](https://soundcloud.com/nssd-podcast/episode-21-this-might-be-the-future) - About political polling, Trump’s tweets, and the fact that Hilary owns a bowling ball.",209,FALSE,## Video and Podcast,link,2016-8-29
++ [a reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=youtu.be),89,FALSE,## Video and Podcast,link,2016-8-29
+"<iframe width=""720"" height=""400"" src=""https://www.youtube.com/embed/s3JldKoA0zw"" frameborder=""0"" allowfullscreen></iframe>",122,FALSE,## Video and Podcast,unid,2016-8-29
++ [Reproducible Research Course](http://eriqande.github.io/rep-res-web/syllabus.html),85,FALSE,## Resources,link,2016-8-29
++ [RcppCNPy 0.2.5](http://dirk.eddelbuettel.com/blog/2016/08/26#rcppcnpy_0.2.5) - Read and write access to NumPy files.,119,FALSE,## New Releases,link,2016-8-29
++ [Microsoft R Open 3.3.1](http://blog.revolutionanalytics.com/2016/08/microsoft-r-open-331-now-available-for-windows-mac-and-linux.html),137,FALSE,## New Releases,link,2016-8-29
++ [stringr 1.1.0](https://blog.rstudio.org/2016/08/24/stringr-1-1-0/) - Bug fixes and features including `str_view()` and `str_view_all()` to create HTML widgets that display regular expression matches.,202,FALSE,## New Releases,link,2016-8-29
+"+ [Rborist 0.1-3](http://blog.suiji.org/post/2016/08/23/Rborist-version-0.1-3-is-now-available-from-CRAN) - Extensible, Parallelizable Implementation of the Random Forest Algorithm.",181,FALSE,## New Releases,link,2016-8-29
++ [RcppEigen 0.3.2.9.0](http://dirk.eddelbuettel.com/blog/2016/08/21#rcppeigen_0.3.2.9.0),89,FALSE,## New Releases,link,2016-8-29
++ [RcppArmadillo 0.7.400.2.0](http://dirk.eddelbuettel.com/blog/2016/08/25#rcpparmadillo_0.7.400.2.0) - RcppArmadillo provides an interface from R to and from Armadillo.,169,FALSE,## New Releases,link,2016-8-29
++ [shinyLP](https://github.com/jasdumas/shinyLP) - Bootstrap Components to make Landing Home Pages for Shiny,108,FALSE,## New Packages & Tools,link,2016-8-29
+"+ [processx](https://github.com/gaborcsardi/processx) - Portable tools to run system processes in the background, read their standard output and error, kill and restart them.",174,FALSE,## New Packages & Tools,link,2016-8-29
++ [types](https://github.com/jimhester/types) - This package provides a simple type annotation for R that is usable in scripts.,127,FALSE,## New Packages & Tools,link,2016-8-29
++ [thief](http://robjhyndman.com/hyndsight/thief/) - The thief package for R: Temporal HIErarchical Forecasting.,112,FALSE,## New Packages & Tools,link,2016-8-29
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,## R Project Updates,unid,2016-8-29
+"+ `summary.default()` no longer rounds, but its print method does, resulting in much less extraneous rounding notably of numbers in the ten thousands.",150,FALSE,## R Project Updates,unid,2016-8-29
+"+ `R CMD check` reports more dubious flags in files ‘src/Makevars[.in]’, including `-w` and `-g`.",97,FALSE,## R Project Updates,unid,2016-8-29
++ `R CMD check` has been set up to filter important warnings from recent versions of `gfortran` with `-Wall -pedantic`: this now reports non-portable GNU extensions such as out-of-order declarations.,199,FALSE,## R Project Updates,unid,2016-8-29
+"+ `system.time()` now uses ‘message()’ instead of ‘cat()’ when terminated early, such that ‘suppressMessages()’ has an effect; suggested by Ben Bolker.",151,FALSE,## R Project Updates,unid,2016-8-29
+"+ [satRday! in Budapest, Hungary](http://budapest.satrdays.org/#cfp) **3 September**<br>",88,FALSE,## Upcoming Events,link,2016-8-29
+"The satRdays are SQLSaturday-inspired, community-led, one-day, regional and very affordable conferences around the world to support collaboration, networking and innovation within the R community.<br>",200,FALSE,## Upcoming Events,unid,2016-8-29
+[Twitter list of satRday speakers](https://twitter.com/thinkR_fr/lists/satrday-budapest-speakers),97,FALSE,## Upcoming Events,unid,2016-8-29
++ [EARL 2016 London](https://earlconf.com/)  **13 September - 15 September** <br>,81,FALSE,## Upcoming Events,link,2016-8-29
+The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br />,173,FALSE,## Upcoming Events,unid,2016-8-29
+"+ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **12 October - 14 October** <br>",89,FALSE,## Upcoming Events,link,2016-8-29
+"European R users meeting (eRum) is an international conference that aims at integrating users of the R language. eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate. <br />",216,FALSE,## Upcoming Events,unid,2016-8-29
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Linear Regression <a href=""https://t.co/tm0tRUKW5g"">https://t.co/tm0tRUKW5g</a> <a href=""https://t.co/Z31HRTMbic"">pic.twitter.com/Z31HRTMbic</a></p>&mdash; xkcd (@xkcd_rss) <a href=""https://twitter.com/xkcd_rss/status/769165376202604545"">August 26, 2016</a></blockquote>",342,FALSE,## Quote of the Week,unid,2016-8-29

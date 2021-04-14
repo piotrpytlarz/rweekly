@@ -1,93 +1,93 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-02-04
-"title: R Weekly 2019-05 BBC, Arduino",36,FALSE,NA,NA,unid,2019-02-04
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-02-04
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-02-04
----,3,FALSE,NA,NA,unid,2019-02-04
-Release Date: 2019-02-04,24,FALSE,NA,NA,unid,2019-02-04
-+ [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535),205,FALSE,NA,###  Highlight,link,2019-02-04
-+ [Connecting Arduino Chips with R](https://zhuhao.org/post/connect-arduino-chips-with-r/),90,FALSE,NA,###  Highlight,link,2019-02-04
-+ [Time Travel with RStudio Package Manager 1.0.4](https://blog.rstudio.com/2019/01/30/time-travel-with-rstudio-package-manager-1-0-4/),135,FALSE,NA,### Insights,link,2019-02-04
-![RStudio Package Manager](https://raw.githubusercontent.com/rweekly/image/master/2019/rspm-104-calendar.png),109,FALSE,NA,### Insights,image,2019-02-04
-+ [Summarizing rstudio::conf 2019 Summaries with Tidy Text Techniques](https://tonyelhabr.rbind.io/post/rstudio-conf-2019-summary/),131,FALSE,NA,### Insights,link,2019-02-04
-+ [Book review: Beyond Spreadsheets with R](https://shirinsplayground.netlify.com/2019/01/review_beyond_spreadsheets_with_r/),125,FALSE,NA,### Insights,link,2019-02-04
-+ [Tidy Tuesday](https://davidsmale.netlify.com/portfolio/tidy-tuesday/),72,FALSE,NA,### Insights,link,2019-02-04
-![Hurricane coverage](https://davidsmale.netlify.com/img/portfolio/Hurricane%20coverage.png),92,FALSE,NA,### Insights,image,2019-02-04
-+ [Using Data Science to read 10 years of Luxembourguish newspapers from the 19th century](https://www.brodrigues.co/blog/2019-01-31-newspapers_shiny_app/),155,FALSE,NA,### R in the Real World,link,2019-02-04
-+ [Graphing My Daily Phone Use](https://blog.rmhogervorst.nl/blog/2019/01/28/graphing-my-daily-phone-use/),106,FALSE,NA,### R in the Real World,link,2019-02-04
-![Graphing My Daily Phone Use](https://raw.githubusercontent.com/rweekly/image/master/2019/screenlook_overlay.png),114,FALSE,NA,### R in the Real World,image,2019-02-04
-+ [Text classification in R using keras and udpipe based workflow](http://www.jla-data.net/eng/vocabulary-based-text-classification/),133,FALSE,NA,### R in the Real World,link,2019-02-04
-+ [How to scrape shot data and plot shot charts for games in the Spanish basketball league using the rfeb package](https://solmos.netlify.com/post/2019-01-24-graficos-de-tiro-con-r/shotcharts-with-r/),200,FALSE,NA,### R in the Real World,link,2019-02-04
-+ [The dominance of running backs for Wisconsin football explored using rvest and ggplot2](https://www.mikelee.co/posts/2019-01-28-wisconsin-rushing-history/),158,FALSE,NA,### R in the Real World,link,2019-02-04
-+ [Introduction to Quanteda for Semantic network analysis.](http://chainsawriot.com/mannheim/2019/01/25/quanteda.html),118,FALSE,NA,### R in the Real World,link,2019-02-04
-+ [Connecting Arduino Chips with R](https://zhuhao.org/post/connect-arduino-chips-with-r/),90,FALSE,NA,### R in the Real World,link,2019-02-04
-![Connecting Arduino Chips with R](https://raw.githubusercontent.com/rweekly/image/master/2019/ar_plotter.png),110,FALSE,NA,### R in the Real World,image,2019-02-04
-+ [Announcing new software peer review editors: Melina Vidoni and Brooke Anderson](https://ropensci.org/blog/2019/01/31/more_editors/),134,FALSE,NA,###  R in Organizations,link,2019-02-04
-+ [rOpenSci Software Peer Review: Still Improving](https://ropensci.org/blog/2019/02/01/software-review-news/),110,FALSE,NA,###  R in Organizations,link,2019-02-04
-+ [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535),205,FALSE,NA,###  R in Organizations,link,2019-02-04
-![BBC Visual and Data Journalism](https://cdn-images-1.medium.com/max/1600/0*DDRU1L5LIJkgDBxd.png),98,FALSE,NA,###  R in Organizations,image,2019-02-04
-+ [satRdays Newcastle 2019 Conference is Here!](https://www.jumpingrivers.com/blog/satrdays-newcastle-2019-conference/),119,FALSE,NA,###  R in Organizations,link,2019-02-04
-+ [R-Miss-Tastic: A resource website on missing data](https://rmisstastic.netlify.com/),87,FALSE,NA,###  Resources,link,2019-02-04
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-02-04
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-02-04
-+ [ruimtehol](http://bnosac.be/index.php/blog/86-neural-text-modelling-with-r-package-ruimtehol) - Neural Text Modelling with R package ruimtehol,145,FALSE,NA,###  New Packages,link,2019-02-04
-![ruimtehol](https://raw.githubusercontent.com/rweekly/image/master/2019/logo-ruimtehol.png),92,FALSE,NA,###  New Packages,image,2019-02-04
-+ [readsdmx](https://github.com/mdequeljoe/readsdmx) - read SDMX data into dataframe objects,92,FALSE,NA,###  New Packages,link,2019-02-04
-+ [vegawidget](https://vegawidget.github.io/vegawidget) - render Vega-Lite and Vega specifications as htmlwidgets,113,FALSE,NA,###  New Packages,link,2019-02-04
-+ [recogeo](http://www.francescobailo.net/2019/02/recogeo-a-new-r-package-to-reconcile-changing-geographies-boundaries-and-corresponding-variables/) - reconcile changing geographies boundaries (and corresponding variables),222,FALSE,NA,###  New Packages,link,2019-02-04
-![recogeo](https://raw.githubusercontent.com/rweekly/image/master/2019/francescco.png),86,FALSE,NA,###  New Packages,image,2019-02-04
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-02-04
-+ [politicaldata](https://github.com/elliottmorris/politicaldata) - acquiring and analyzing political data,106,FALSE,NA,###  New Packages,link,2019-02-04
-+ [tidylog](https://github.com/elbersb/tidylog) - feedback for basic dplyr operations,85,FALSE,NA,###  New Packages,link,2019-02-04
-+ [arduinor](https://github.com/r-arduino/arduinor) - An easy way to get arduino data into R,92,FALSE,NA,###  New Packages,link,2019-02-04
-![arduinor](https://raw.githubusercontent.com/r-arduino/arduinor/master/docs/arduinor.png),90,FALSE,NA,###  New Packages,image,2019-02-04
-+ [littler 0.3.6](http://dirk.eddelbuettel.com/blog/2019/01/26#littler-0.3.6) - command-line interface for R,108,FALSE,NA,### Updated Packages,link,2019-02-04
-+ [homebrewanalytics 0.2.0](https://rud.is/b/2019/02/02/homebrew-2-0-0-released-homebrewanalytics-package-updated/) - Access Homebrew Formulae Analytics Data,157,FALSE,NA,### Updated Packages,link,2019-02-04
-+ [benchmarkme 1.0.0](https://www.jumpingrivers.com/blog/benchmarkme-new-version/) - Benchmark your system and compare with others,130,FALSE,NA,### Updated Packages,link,2019-02-04
-+ [urlscan 0.2.0](https://rud.is/b/2019/02/03/r-package-update-urlscan/) - An interface to the urlscan.io API,109,FALSE,NA,### Updated Packages,link,2019-02-04
-+ [Quick Hit: Using seymour to Subscribe to your Git Repo Issues in Feedly](https://rud.is/b/2019/01/30/quick-hit-using-seymour-to-subscribe-to-your-gitlahub-repo-issues-in-feedly/),181,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Never faff with trailing pipes again %>%](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-31-add-nowt-to-your-tidy-pipelines/),139,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Half a dozen frequentist and Bayesian ways to measure the difference in means in two groups](https://www.andrewheiss.com/blog/2019/01/29/diff-means-half-dozen-ways/),168,FALSE,NA,###  Tutorials,link,2019-02-04
-![Comedies get higher ratings than action movies](https://raw.githubusercontent.com/rweekly/image/master/2019/diff-mean.png),124,FALSE,NA,###  Tutorials,image,2019-02-04
-+ [Comparing free geocoding engines](http://www.adelieresources.com/2019/01/comparing-free-geocoding-engines/),110,FALSE,NA,###  Tutorials,link,2019-02-04
-"+ [How to leverage AWS, H2O and purrr in R to build analytical pipelines](https://www.daeconomist.com/post/2019-01-25-partiii/)",127,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Start and Pause in a Streaming Plot using plotly](https://zhuhao.org/post/start-and-pause-in-a-streaming-plot-using-plotly/),127,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Tips on designing hex stickers for #rstats packages](https://zhuhao.org/post/tips-on-designing-a-hex-sticker-for-rstats-packages/),133,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [What the world agrees with](http://freerangestats.info/blog/2019/01/26/world-agreeing),89,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92),152,FALSE,NA,###  Tutorials,link,2019-02-04
-![10 Tips for Choosing the Optimal Number of Clusters](https://raw.githubusercontent.com/rweekly/image/master/2019/optim-cluster.png),133,FALSE,NA,###  Tutorials,image,2019-02-04
-+ [Building Big Shiny Apps — A Workflow 1/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-1/),112,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Mathematical Notation in Online R/exams](http://www.R-exams.org/tutorials/math/),83,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [EnTyrely Too Much](https://support.rbind.io/2019/01/28/entyrely-too-much/),77,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Puzzle Solving: Dominosa](https://coolbutuseless.github.io/2019/01/28/puzzle-solving-dominosa/),98,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Problems in Estimating GARCH Parameters in R (Part 2; rugarch)](https://ntguardian.wordpress.com/2019/01/28/problems-estimating-garch-parameters-r-part-2-rugarch/),166,FALSE,NA,###  Tutorials,link,2019-02-04
-![Simulating a GARCH process](https://ntguardian.files.wordpress.com/2019/01/problemsestimatinggarchparameters2-4-1.png?w=672&zoom=2),133,FALSE,NA,###  Tutorials,image,2019-02-04
-+ [Interacting with The Demographic and Health Surveys (DHS) Program data](https://ropensci.org/blog/2019/01/29/rdhs/),118,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Interleaving vectors and matrices](https://coolbutuseless.github.io/2019/01/31/interleaving-vectors-and-matrices-part-3/),124,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Watch if R is running from Shiny](https://colinfay.me/watch-r-shiny/),72,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Fast Static Maps Built with R](https://rud.is/b/2019/01/30/fast-static-maps-built-with-r/),93,FALSE,NA,###  Tutorials,link,2019-02-04
-![Fast Static Maps Built with R](https://raw.githubusercontent.com/rweekly/image/master/2019/fast-static.png),109,FALSE,NA,###  Tutorials,image,2019-02-04
-+ [missing digit in a 114 digit number (a Riddler's riddle)](https://xianblog.wordpress.com/2019/01/31/missing-digit-in-a-114-digit-number-a-riddlers-riddle/),158,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Computational Bayesian Statistics (book review)](https://xianblog.wordpress.com/2019/02/01/computational-bayesian-statistics-book-review/),141,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Tutorial: Sequential Pattern Mining in R for Business Recommendations](https://blog.revolutionanalytics.com/2019/02/sequential-pattern-mining-in-r.html),155,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [R Markdown: 3 sources of reproducibility issues and options how to tackle them](https://jozefhajnala.gitlab.io/r/r910-rmarkdown-reproducibility/),148,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Visualize geographical areas around points of interest with leaflet](https://mvaugoyeau.netlify.com/post/where-i-live/),122,FALSE,NA,###  Tutorials,link,2019-02-04
-+ [Benchmarking an Rstats workstation on realistic workloads - using xgboost via h2o](http://www.samabbott.co.uk/post/benchmarking-workstation-xgboost/),152,FALSE,NA,###  Tutorials,link,2019-02-04
-"+ [Enhancing gather() and spread() by Using ""Bundled"" data.frames](https://yutani.rbind.io/post/enhancing-gather-and-spread-by-using-bundled-data-frames/)",154,FALSE,NA,###  Tutorials,link,2019-02-04
-![Bundled gather and spread](https://d33wubrfki0l68.cloudfront.net/20c7c1b86f8a60c48e922ab29d03d2b426eafb5f/6d109/images/2019-02-03-multi-gather.jpg),149,FALSE,NA,###  Tutorials,image,2019-02-04
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-02-04
-"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2019-02-04
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),78,FALSE,NA,###  R Project Updates,unid,2019-02-04
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-02-04
-+ [satRday Paris - 23rd February](https://paris2019.satrdays.org/),66,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-04
-+ [satRday Johannesburg - 6th April](https://joburg2019.satrdays.org/),70,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-04
-![satRday Johannesburg](https://pbs.twimg.com/media/Dxl6CuBWsAAgHWh.png),72,FALSE,NA,###  Upcoming Events in 3 Months,image,2019-02-04
-+ [satRday Newcastle - 6th April](https://newcastle2019.satrdays.org/),70,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-04
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-04
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-04
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-02-04
-+ [satRday Johannesburg - Call for papers](https://www.papercall.io/satrday-johannesburg-2019),94,FALSE,NA,###  Call for Participation,link,2019-02-04
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-02-04
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Okay finally got the box-and-whiskers workflow going smoothly. <a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a> <a href=""https://twitter.com/hashtag/rcats?src=hash&amp;ref_src=twsrc%5Etfw"">#rcats</a> <a href=""https://t.co/YoCBZDy1zc"">pic.twitter.com/YoCBZDy1zc</a></p>&mdash; Jasmine Hughes (@Jas_Hughes) <a href=""https://twitter.com/Jas_Hughes/status/1091062017891262464?ref_src=twsrc%5Etfw"">January 31, 2019</a></blockquote>",539,FALSE,NA,###  Quotes of the Week,unid,2019-02-04
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Rich people think they are middle class. No one believes to belong to the Top 10% in Austria.<br><br>Thanks to the <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a>-Community for these excellent packages <a href=""https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw"">#dplyr</a> <a href=""https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot2</a> <a href=""https://twitter.com/hashtag/gganimate?src=hash&amp;ref_src=twsrc%5Etfw"">#gganimate</a> <a href=""https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw"">@hadleywickham</a> <a href=""https://twitter.com/thomasp85?ref_src=twsrc%5Etfw"">@thomasp85</a> cc <a href=""https://twitter.com/dataandme?ref_src=twsrc%5Etfw"">@dataandme</a><br><br>R-Code for the graph: <a href=""https://t.co/lRyaEvpWec"">https://t.co/lRyaEvpWec</a> <a href=""https://t.co/eNJ4rTpAMZ"">pic.twitter.com/eNJ4rTpAMZ</a></p>&mdash; Matthias Schnetzer (@matschnetzer) <a href=""https://twitter.com/matschnetzer/status/1091679602265780225?ref_src=twsrc%5Etfw"">February 2, 2019</a></blockquote>",1153,FALSE,NA,###  Quotes of the Week,unid,2019-02-04
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">😮 Neat lil&#39; package by Benjamin Elbers…<br>📦 &quot;tidylog: provides feedback about basic dplyr operations&quot; <br>GH repo: <a href=""https://t.co/V5VWgjEiPH"">https://t.co/V5VWgjEiPH</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a><br>community thread: <a href=""https://t.co/CJbwYk5KWP"">https://t.co/CJbwYk5KWP</a> <a href=""https://t.co/1xqnacsdBz"">pic.twitter.com/1xqnacsdBz</a></p>&mdash; Mara Averick (@dataandme) <a href=""https://twitter.com/dataandme/status/1091060067925921792?ref_src=twsrc%5Etfw"">January 31, 2019</a></blockquote>",659,FALSE,NA,###  Quotes of the Week,unid,2019-02-04
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-02-04
+"title: R Weekly 2019-05 BBC, Arduino",36,FALSE,NA,unid,2019-02-04
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-02-04
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-02-04
+---,3,FALSE,NA,unid,2019-02-04
+Release Date: 2019-02-04,24,FALSE,NA,unid,2019-02-04
++ [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535),205,FALSE,###  Highlight,link,2019-02-04
++ [Connecting Arduino Chips with R](https://zhuhao.org/post/connect-arduino-chips-with-r/),90,FALSE,###  Highlight,link,2019-02-04
++ [Time Travel with RStudio Package Manager 1.0.4](https://blog.rstudio.com/2019/01/30/time-travel-with-rstudio-package-manager-1-0-4/),135,FALSE,### Insights,link,2019-02-04
+![RStudio Package Manager](https://raw.githubusercontent.com/rweekly/image/master/2019/rspm-104-calendar.png),109,FALSE,### Insights,image,2019-02-04
++ [Summarizing rstudio::conf 2019 Summaries with Tidy Text Techniques](https://tonyelhabr.rbind.io/post/rstudio-conf-2019-summary/),131,FALSE,### Insights,link,2019-02-04
++ [Book review: Beyond Spreadsheets with R](https://shirinsplayground.netlify.com/2019/01/review_beyond_spreadsheets_with_r/),125,FALSE,### Insights,link,2019-02-04
++ [Tidy Tuesday](https://davidsmale.netlify.com/portfolio/tidy-tuesday/),72,FALSE,### Insights,link,2019-02-04
+![Hurricane coverage](https://davidsmale.netlify.com/img/portfolio/Hurricane%20coverage.png),92,FALSE,### Insights,image,2019-02-04
++ [Using Data Science to read 10 years of Luxembourguish newspapers from the 19th century](https://www.brodrigues.co/blog/2019-01-31-newspapers_shiny_app/),155,FALSE,### R in the Real World,link,2019-02-04
++ [Graphing My Daily Phone Use](https://blog.rmhogervorst.nl/blog/2019/01/28/graphing-my-daily-phone-use/),106,FALSE,### R in the Real World,link,2019-02-04
+![Graphing My Daily Phone Use](https://raw.githubusercontent.com/rweekly/image/master/2019/screenlook_overlay.png),114,FALSE,### R in the Real World,image,2019-02-04
++ [Text classification in R using keras and udpipe based workflow](http://www.jla-data.net/eng/vocabulary-based-text-classification/),133,FALSE,### R in the Real World,link,2019-02-04
++ [How to scrape shot data and plot shot charts for games in the Spanish basketball league using the rfeb package](https://solmos.netlify.com/post/2019-01-24-graficos-de-tiro-con-r/shotcharts-with-r/),200,FALSE,### R in the Real World,link,2019-02-04
++ [The dominance of running backs for Wisconsin football explored using rvest and ggplot2](https://www.mikelee.co/posts/2019-01-28-wisconsin-rushing-history/),158,FALSE,### R in the Real World,link,2019-02-04
++ [Introduction to Quanteda for Semantic network analysis.](http://chainsawriot.com/mannheim/2019/01/25/quanteda.html),118,FALSE,### R in the Real World,link,2019-02-04
++ [Connecting Arduino Chips with R](https://zhuhao.org/post/connect-arduino-chips-with-r/),90,FALSE,### R in the Real World,link,2019-02-04
+![Connecting Arduino Chips with R](https://raw.githubusercontent.com/rweekly/image/master/2019/ar_plotter.png),110,FALSE,### R in the Real World,image,2019-02-04
++ [Announcing new software peer review editors: Melina Vidoni and Brooke Anderson](https://ropensci.org/blog/2019/01/31/more_editors/),134,FALSE,###  R in Organizations,link,2019-02-04
++ [rOpenSci Software Peer Review: Still Improving](https://ropensci.org/blog/2019/02/01/software-review-news/),110,FALSE,###  R in Organizations,link,2019-02-04
++ [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535),205,FALSE,###  R in Organizations,link,2019-02-04
+![BBC Visual and Data Journalism](https://cdn-images-1.medium.com/max/1600/0*DDRU1L5LIJkgDBxd.png),98,FALSE,###  R in Organizations,image,2019-02-04
++ [satRdays Newcastle 2019 Conference is Here!](https://www.jumpingrivers.com/blog/satrdays-newcastle-2019-conference/),119,FALSE,###  R in Organizations,link,2019-02-04
++ [R-Miss-Tastic: A resource website on missing data](https://rmisstastic.netlify.com/),87,FALSE,###  Resources,link,2019-02-04
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-02-04
+**CRAN**,8,FALSE,###  New Packages,unid,2019-02-04
++ [ruimtehol](http://bnosac.be/index.php/blog/86-neural-text-modelling-with-r-package-ruimtehol) - Neural Text Modelling with R package ruimtehol,145,FALSE,###  New Packages,link,2019-02-04
+![ruimtehol](https://raw.githubusercontent.com/rweekly/image/master/2019/logo-ruimtehol.png),92,FALSE,###  New Packages,image,2019-02-04
++ [readsdmx](https://github.com/mdequeljoe/readsdmx) - read SDMX data into dataframe objects,92,FALSE,###  New Packages,link,2019-02-04
++ [vegawidget](https://vegawidget.github.io/vegawidget) - render Vega-Lite and Vega specifications as htmlwidgets,113,FALSE,###  New Packages,link,2019-02-04
++ [recogeo](http://www.francescobailo.net/2019/02/recogeo-a-new-r-package-to-reconcile-changing-geographies-boundaries-and-corresponding-variables/) - reconcile changing geographies boundaries (and corresponding variables),222,FALSE,###  New Packages,link,2019-02-04
+![recogeo](https://raw.githubusercontent.com/rweekly/image/master/2019/francescco.png),86,FALSE,###  New Packages,image,2019-02-04
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-02-04
++ [politicaldata](https://github.com/elliottmorris/politicaldata) - acquiring and analyzing political data,106,FALSE,###  New Packages,link,2019-02-04
++ [tidylog](https://github.com/elbersb/tidylog) - feedback for basic dplyr operations,85,FALSE,###  New Packages,link,2019-02-04
++ [arduinor](https://github.com/r-arduino/arduinor) - An easy way to get arduino data into R,92,FALSE,###  New Packages,link,2019-02-04
+![arduinor](https://raw.githubusercontent.com/r-arduino/arduinor/master/docs/arduinor.png),90,FALSE,###  New Packages,image,2019-02-04
++ [littler 0.3.6](http://dirk.eddelbuettel.com/blog/2019/01/26#littler-0.3.6) - command-line interface for R,108,FALSE,### Updated Packages,link,2019-02-04
++ [homebrewanalytics 0.2.0](https://rud.is/b/2019/02/02/homebrew-2-0-0-released-homebrewanalytics-package-updated/) - Access Homebrew Formulae Analytics Data,157,FALSE,### Updated Packages,link,2019-02-04
++ [benchmarkme 1.0.0](https://www.jumpingrivers.com/blog/benchmarkme-new-version/) - Benchmark your system and compare with others,130,FALSE,### Updated Packages,link,2019-02-04
++ [urlscan 0.2.0](https://rud.is/b/2019/02/03/r-package-update-urlscan/) - An interface to the urlscan.io API,109,FALSE,### Updated Packages,link,2019-02-04
++ [Quick Hit: Using seymour to Subscribe to your Git Repo Issues in Feedly](https://rud.is/b/2019/01/30/quick-hit-using-seymour-to-subscribe-to-your-gitlahub-repo-issues-in-feedly/),181,FALSE,###  Tutorials,link,2019-02-04
++ [Never faff with trailing pipes again %>%](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-31-add-nowt-to-your-tidy-pipelines/),139,FALSE,###  Tutorials,link,2019-02-04
++ [Half a dozen frequentist and Bayesian ways to measure the difference in means in two groups](https://www.andrewheiss.com/blog/2019/01/29/diff-means-half-dozen-ways/),168,FALSE,###  Tutorials,link,2019-02-04
+![Comedies get higher ratings than action movies](https://raw.githubusercontent.com/rweekly/image/master/2019/diff-mean.png),124,FALSE,###  Tutorials,image,2019-02-04
++ [Comparing free geocoding engines](http://www.adelieresources.com/2019/01/comparing-free-geocoding-engines/),110,FALSE,###  Tutorials,link,2019-02-04
+"+ [How to leverage AWS, H2O and purrr in R to build analytical pipelines](https://www.daeconomist.com/post/2019-01-25-partiii/)",127,FALSE,###  Tutorials,link,2019-02-04
++ [Start and Pause in a Streaming Plot using plotly](https://zhuhao.org/post/start-and-pause-in-a-streaming-plot-using-plotly/),127,FALSE,###  Tutorials,link,2019-02-04
++ [Tips on designing hex stickers for #rstats packages](https://zhuhao.org/post/tips-on-designing-a-hex-sticker-for-rstats-packages/),133,FALSE,###  Tutorials,link,2019-02-04
++ [What the world agrees with](http://freerangestats.info/blog/2019/01/26/world-agreeing),89,FALSE,###  Tutorials,link,2019-02-04
++ [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92),152,FALSE,###  Tutorials,link,2019-02-04
+![10 Tips for Choosing the Optimal Number of Clusters](https://raw.githubusercontent.com/rweekly/image/master/2019/optim-cluster.png),133,FALSE,###  Tutorials,image,2019-02-04
++ [Building Big Shiny Apps — A Workflow 1/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-1/),112,FALSE,###  Tutorials,link,2019-02-04
++ [Mathematical Notation in Online R/exams](http://www.R-exams.org/tutorials/math/),83,FALSE,###  Tutorials,link,2019-02-04
++ [EnTyrely Too Much](https://support.rbind.io/2019/01/28/entyrely-too-much/),77,FALSE,###  Tutorials,link,2019-02-04
++ [Puzzle Solving: Dominosa](https://coolbutuseless.github.io/2019/01/28/puzzle-solving-dominosa/),98,FALSE,###  Tutorials,link,2019-02-04
++ [Problems in Estimating GARCH Parameters in R (Part 2; rugarch)](https://ntguardian.wordpress.com/2019/01/28/problems-estimating-garch-parameters-r-part-2-rugarch/),166,FALSE,###  Tutorials,link,2019-02-04
+![Simulating a GARCH process](https://ntguardian.files.wordpress.com/2019/01/problemsestimatinggarchparameters2-4-1.png?w=672&zoom=2),133,FALSE,###  Tutorials,image,2019-02-04
++ [Interacting with The Demographic and Health Surveys (DHS) Program data](https://ropensci.org/blog/2019/01/29/rdhs/),118,FALSE,###  Tutorials,link,2019-02-04
++ [Interleaving vectors and matrices](https://coolbutuseless.github.io/2019/01/31/interleaving-vectors-and-matrices-part-3/),124,FALSE,###  Tutorials,link,2019-02-04
++ [Watch if R is running from Shiny](https://colinfay.me/watch-r-shiny/),72,FALSE,###  Tutorials,link,2019-02-04
++ [Fast Static Maps Built with R](https://rud.is/b/2019/01/30/fast-static-maps-built-with-r/),93,FALSE,###  Tutorials,link,2019-02-04
+![Fast Static Maps Built with R](https://raw.githubusercontent.com/rweekly/image/master/2019/fast-static.png),109,FALSE,###  Tutorials,image,2019-02-04
++ [missing digit in a 114 digit number (a Riddler's riddle)](https://xianblog.wordpress.com/2019/01/31/missing-digit-in-a-114-digit-number-a-riddlers-riddle/),158,FALSE,###  Tutorials,link,2019-02-04
++ [Computational Bayesian Statistics (book review)](https://xianblog.wordpress.com/2019/02/01/computational-bayesian-statistics-book-review/),141,FALSE,###  Tutorials,link,2019-02-04
++ [Tutorial: Sequential Pattern Mining in R for Business Recommendations](https://blog.revolutionanalytics.com/2019/02/sequential-pattern-mining-in-r.html),155,FALSE,###  Tutorials,link,2019-02-04
++ [R Markdown: 3 sources of reproducibility issues and options how to tackle them](https://jozefhajnala.gitlab.io/r/r910-rmarkdown-reproducibility/),148,FALSE,###  Tutorials,link,2019-02-04
++ [Visualize geographical areas around points of interest with leaflet](https://mvaugoyeau.netlify.com/post/where-i-live/),122,FALSE,###  Tutorials,link,2019-02-04
++ [Benchmarking an Rstats workstation on realistic workloads - using xgboost via h2o](http://www.samabbott.co.uk/post/benchmarking-workstation-xgboost/),152,FALSE,###  Tutorials,link,2019-02-04
+"+ [Enhancing gather() and spread() by Using ""Bundled"" data.frames](https://yutani.rbind.io/post/enhancing-gather-and-spread-by-using-bundled-data-frames/)",154,FALSE,###  Tutorials,link,2019-02-04
+![Bundled gather and spread](https://d33wubrfki0l68.cloudfront.net/20c7c1b86f8a60c48e922ab29d03d2b426eafb5f/6d109/images/2019-02-03-multi-gather.jpg),149,FALSE,###  Tutorials,image,2019-02-04
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2019-02-04
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,###  Tutorials,unid,2019-02-04
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),78,FALSE,###  R Project Updates,unid,2019-02-04
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-02-04
++ [satRday Paris - 23rd February](https://paris2019.satrdays.org/),66,FALSE,###  Upcoming Events in 3 Months,link,2019-02-04
++ [satRday Johannesburg - 6th April](https://joburg2019.satrdays.org/),70,FALSE,###  Upcoming Events in 3 Months,link,2019-02-04
+![satRday Johannesburg](https://pbs.twimg.com/media/Dxl6CuBWsAAgHWh.png),72,FALSE,###  Upcoming Events in 3 Months,image,2019-02-04
++ [satRday Newcastle - 6th April](https://newcastle2019.satrdays.org/),70,FALSE,###  Upcoming Events in 3 Months,link,2019-02-04
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-02-04
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-02-04
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-02-04
++ [satRday Johannesburg - Call for papers](https://www.papercall.io/satrday-johannesburg-2019),94,FALSE,###  Call for Participation,link,2019-02-04
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-02-04
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Okay finally got the box-and-whiskers workflow going smoothly. <a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a> <a href=""https://twitter.com/hashtag/rcats?src=hash&amp;ref_src=twsrc%5Etfw"">#rcats</a> <a href=""https://t.co/YoCBZDy1zc"">pic.twitter.com/YoCBZDy1zc</a></p>&mdash; Jasmine Hughes (@Jas_Hughes) <a href=""https://twitter.com/Jas_Hughes/status/1091062017891262464?ref_src=twsrc%5Etfw"">January 31, 2019</a></blockquote>",539,FALSE,###  Quotes of the Week,unid,2019-02-04
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Rich people think they are middle class. No one believes to belong to the Top 10% in Austria.<br><br>Thanks to the <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a>-Community for these excellent packages <a href=""https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw"">#dplyr</a> <a href=""https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot2</a> <a href=""https://twitter.com/hashtag/gganimate?src=hash&amp;ref_src=twsrc%5Etfw"">#gganimate</a> <a href=""https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw"">@hadleywickham</a> <a href=""https://twitter.com/thomasp85?ref_src=twsrc%5Etfw"">@thomasp85</a> cc <a href=""https://twitter.com/dataandme?ref_src=twsrc%5Etfw"">@dataandme</a><br><br>R-Code for the graph: <a href=""https://t.co/lRyaEvpWec"">https://t.co/lRyaEvpWec</a> <a href=""https://t.co/eNJ4rTpAMZ"">pic.twitter.com/eNJ4rTpAMZ</a></p>&mdash; Matthias Schnetzer (@matschnetzer) <a href=""https://twitter.com/matschnetzer/status/1091679602265780225?ref_src=twsrc%5Etfw"">February 2, 2019</a></blockquote>",1153,FALSE,###  Quotes of the Week,unid,2019-02-04
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">😮 Neat lil&#39; package by Benjamin Elbers…<br>📦 &quot;tidylog: provides feedback about basic dplyr operations&quot; <br>GH repo: <a href=""https://t.co/V5VWgjEiPH"">https://t.co/V5VWgjEiPH</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a><br>community thread: <a href=""https://t.co/CJbwYk5KWP"">https://t.co/CJbwYk5KWP</a> <a href=""https://t.co/1xqnacsdBz"">pic.twitter.com/1xqnacsdBz</a></p>&mdash; Mara Averick (@dataandme) <a href=""https://twitter.com/dataandme/status/1091060067925921792?ref_src=twsrc%5Etfw"">January 31, 2019</a></blockquote>",659,FALSE,###  Quotes of the Week,unid,2019-02-04

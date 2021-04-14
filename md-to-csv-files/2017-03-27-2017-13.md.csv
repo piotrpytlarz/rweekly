@@ -1,119 +1,119 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2017-03-27
-layout: post,12,FALSE,NA,NA,unid,2017-03-27
-title: R Weekly 2017 Issue 13,29,FALSE,NA,NA,unid,2017-03-27
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-03-27
-is_podcast: true,16,FALSE,NA,NA,unid,2017-03-27
-podcast_title: 2017:13 How to find new R packages,49,FALSE,NA,NA,unid,2017-03-27
-podcast_permalink: https://cloud.rweekly.org/2017-13.mp3,56,FALSE,NA,NA,unid,2017-03-27
-podcast_description: |,22,FALSE,NA,NA,unid,2017-03-27
-  <![CDATA[,11,FALSE,NA,NA,unid,2017-03-27
-"  <p>About how to find new R packages, use of an R package to facilitate reproducible research, registering routines with Rcpp  and more.</p>",141,FALSE,NA,NA,unid,2017-03-27
-  <ul>,6,FALSE,NA,NA,unid,2017-03-27
-"  <li>Read <a href=""https://www.rweekly.org/2017-13.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 13</a></li>",116,FALSE,NA,NA,unid,2017-03-27
-  </ul>,7,FALSE,NA,NA,unid,2017-03-27
-  <p></p>,9,FALSE,NA,NA,unid,2017-03-27
-  <ul> ,7,FALSE,NA,NA,unid,2017-03-27
-"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,NA,unid,2017-03-27
-  </ul> ,8,FALSE,NA,NA,unid,2017-03-27
-  <ul>   ,9,FALSE,NA,NA,unid,2017-03-27
-"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>   ",80,FALSE,NA,NA,unid,2017-03-27
-  </ul>,7,FALSE,NA,NA,unid,2017-03-27
-  <ul> ,7,FALSE,NA,NA,unid,2017-03-27
-"  <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>  ",75,FALSE,NA,NA,unid,2017-03-27
-  </ul>,7,FALSE,NA,NA,unid,2017-03-27
-  <ul>,6,FALSE,NA,NA,unid,2017-03-27
-"  <li><a href=""http://freemusicarchive.org/music/gillicuddy/Plays_Guitar_Again/01-adventure-darling"">Music by Gillicuddy</a></li>",129,FALSE,NA,NA,unid,2017-03-27
-  </ul>,7,FALSE,NA,NA,unid,2017-03-27
-  ]]>,5,FALSE,NA,NA,unid,2017-03-27
-podcast_size: 7572195,21,FALSE,NA,NA,unid,2017-03-27
-"podcast_duration: ""5:05""",24,FALSE,NA,NA,unid,2017-03-27
-"podcast_summary: About how to find new R packages, use of an R package to facilitate reproducible research, registering routines with Rcpp  and more.  https://rweekly.org/2017-13.html",183,FALSE,NA,NA,unid,2017-03-27
-"podcast_keywords: "", ggplot2""",29,FALSE,NA,NA,unid,2017-03-27
-podcast_subtitle: How to find new R packages,44,FALSE,NA,NA,unid,2017-03-27
----,3,FALSE,NA,NA,unid,2017-03-27
-+ [Suggests != Depends](http://dirk.eddelbuettel.com/blog/2017/03/22#suggests_is_not_depends) - A number of packages on CRAN use Suggests: casually.,148,FALSE,NA,### Highlight,link,2017-03-27
-+ [Use of an R package to facilitate reproducible research](https://github.com/ropensci/rrrpkg),95,FALSE,NA,### Highlight,link,2017-03-27
-+ [tensorflow](https://cran.r-project.org/web/packages/tensorflow/index.html) - R Interface to TensorFlow ,106,FALSE,NA,### Highlight,link,2017-03-27
-+ [Registering Routines with Rcpp](https://ironholds.org/registering-routines/),79,FALSE,NA,### Highlight,link,2017-03-27
-"+ [Challenge of our generation: reproducible, transparent and reliable science](https://science.mozilla.org/blog/2016-isbe-review)",130,FALSE,NA,### Insights,link,2017-03-27
-+ [Is Your Research Software Correct?](https://mikecroucher.github.io/MLPM_talk/),81,FALSE,NA,### Insights,link,2017-03-27
-+ [Suggests != Depends](http://dirk.eddelbuettel.com/blog/2017/03/22#suggests_is_not_depends) - A number of packages on CRAN use Suggests: casually.,148,FALSE,NA,### Insights,link,2017-03-27
-+ [Suggests and Vignettes](https://www.enchufa2.es/archives/suggests-and-vignettes.html),88,FALSE,NA,### Insights,link,2017-03-27
-+ [Use of an R package to facilitate reproducible research](https://github.com/ropensci/rrrpkg),95,FALSE,NA,### Insights,link,2017-03-27
-+ [How to find new R packages - R Weekly 2017:13](https://www.youtube.com/watch?v=kradpGl3VuI) - [RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml) & [bilibili](https://www.bilibili.com/video/av9418842/),214,FALSE,NA,### Videos and Podcasts,link,2017-03-27
-"<iframe style=""margin-bottom: 20px;"" width=""560"" height=""315"" src=""https://www.youtube.com/embed/kradpGl3VuI"" frameborder=""0"" allowfullscreen></iframe>",151,FALSE,NA,### Videos and Podcasts,unid,2017-03-27
-+ [DataChats: An Interview with Hank Roark](https://www.datacamp.com/community/blog/datachats-an-interview-with-hank-roark),123,FALSE,NA,### Videos and Podcasts,link,2017-03-27
-+ [Interactive visualisation and fast computation of the solution path ](https://www.youtube.com/watch?v=2g-akN6q8aI),117,FALSE,NA,### Videos and Podcasts,link,2017-03-27
-"+ [The R-Podcast Episode 22: Diving in to drake with Will Landay](https://www.r-podcast.org/posts/the-r-podcast-episode-22-diving-in-to-drake-with-will-landau.html) - In this episode Eric has a conversation with his colleague [Will Landau](http://will-landau.com/) about his new R package [drake](https://cran.rstudio.com/web/packages/drake/) that provides a powerful build system for analysis pipelines.  In addition we have a fun R community roundup, listener feedback, and a couple of package picks to give you a [gentle nod](https://cran.r-project.org/web/packages/remindR/vignettes/remindR_vignette.html) and a fun way to [explore interpolation](https://github.com/metrumresearchgroup/fluidSpline).",703,FALSE,NA,### Videos and Podcasts,link,2017-03-27
-+ [Sentiment Analysis of Warren Buffett's Letters to Shareholders](http://michaeltoth.me/sentiment-analysis-of-warren-buffetts-letters-to-shareholders.html),156,FALSE,NA,### R in the Real World,link,2017-03-27
-<!-- !A Sentiment Analysis of Kanye West Album Lyrics](https://ewenme.github.io/blog/Kanye_sentiment_analysis/)-->,114,FALSE,NA,### R in the Real World,unid,2017-03-27
-<!-- !A Sentiment Analysis of Kanye West Album Lyrics](https://ewenme.github.io/figs/2017-03-20-Kanye_sentiment_analysis/unnamed-chunk-11-1.png)-->,147,FALSE,NA,### R in the Real World,unid,2017-03-27
-+ [House effects in New Zealand voting intention polls](http://ellisp.github.io/blog/2017/03/21/house-effects),110,FALSE,NA,### R in the Real World,link,2017-03-27
-+ [Faces of #rstats Twitter](http://www.masalmon.eu/2017/03/19/facesofr/),73,FALSE,NA,### R in the Real World,link,2017-03-27
-![Faces of #rstats Twitter](https://raw.githubusercontent.com/rweekly/image/master/2017-03/13-2017-03-19-facesofr.png),118,FALSE,NA,### R in the Real World,image,2017-03-27
-+ [On a First Name Basis with Statistics Sweden](http://staff.math.su.se/hoehle/blog/2017/03/25/scbnames.html),110,FALSE,NA,### R in the Real World,link,2017-03-27
-+ [What's in the words? Comparing artists and lyrics with R.](http://rcrastinate.blogspot.com/2017/03/whats-in-words-comparing-artists-and.html),144,FALSE,NA,### R in the Real World,link,2017-03-27
-+ [10 Million Dots: Mapping European Population](http://spatial.ly/2017/03/mapping-european-population/),104,FALSE,NA,### R in the Real World,link,2017-03-27
-![10 Million Dots: Mapping European Population](https://raw.githubusercontent.com/qinwf/doc/gh-pages/temp/european_population_density.png),138,FALSE,NA,### R in the Real World,image,2017-03-27
-"+ [Comparing subreddits, with Latent Semantic Analysis in R](http://blog.revolutionanalytics.com/2017/03/comparing-subreddits.html)",131,FALSE,NA,### R in the Real World,link,2017-03-27
-"+ [Because it's Friday: Run Ollie, Run!](http://blog.revolutionanalytics.com/2017/03/because-its-friday-run-ollie-run.html)",123,FALSE,NA,### R in the Real World,link,2017-03-27
-+ [How well do you know Calvin and Hobbes? An R Game](https://daranzolin.github.io/articles/2017-03/calvin_and_hobbes_game),123,FALSE,NA,### R in the Real World,link,2017-03-27
-"+ [R, et les autres !](http://www.thinkr.fr/r-et-les-autres/) - [English Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/r-et-les-autres/)",183,FALSE,NA,### R Internationally,link,2017-03-27
-+ [New mlr Logo](https://mlr-org.github.io/New-mlr-Logo/),57,FALSE,NA,### R in Organizations,link,2017-03-27
-+ [Alteryx integrates with Microsoft R](http://blog.revolutionanalytics.com/2017/03/alteryx-integrates-with-microsoft-r.html),125,FALSE,NA,### R in Organizations,link,2017-03-27
-+ [Running your R code on Azure with mrsdeploy](http://blog.revolutionanalytics.com/2017/03/running-your-r-code-azure.html),123,FALSE,NA,### R in Organizations,link,2017-03-27
-"+ [The Making of the Tour, Part 1 Process and Structure](http://multithreaded.stitchfix.com/blog/2017/03/23/making-the-tour-part-1/)",132,FALSE,NA,### R in Organizations,link,2017-03-27
-+ [Invest in tools students can grow with: GitHub and RStudio for data science at Duke University](https://github.com/blog/2336-invest-in-tools-students-can-grow-with-github-and-rstudio-for-data-science-at-duke-university),222,FALSE,NA,### R in Organizations,link,2017-03-27
-+ [Registering Routines with Rcpp](https://ironholds.org/registering-routines/),79,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Logistic Regression & Stepwise Selection: Gender Recognition by Voice](https://semilargedata.com/2017/03/21/machine-learning-gender-recognition-by-voice/),157,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Tidying feature geometries with sf](http://r-spatial.org//r/2017/03/19/invalid.html),87,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Simulating Unown encounter rates in Pokémon Go](https://tjmahr.github.io/pokemon-go-unown-simulation/),105,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Preparing Datetime Data for Analysis with padr and dplyr](https://edwinth.github.io/blog/padr-examples/),107,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Superpixels in imager](https://dahtah.wordpress.com/2017/03/24/superpixels-in-imager/),89,FALSE,NA,### Tutorials,link,2017-03-27
-+ [R : If Else and Nested If Else](http://www.listendata.com/2017/03/if-else-in-r.html),87,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Contours of statistical penalty functions as GIF images](http://www.alexejgossmann.com/contours_of_statistical_penalty_functions_as_GIFs/),141,FALSE,NA,### Tutorials,link,2017-03-27
-"+ [R, shiny and source()](https://logfc.wordpress.com/2017/03/22/r-shiny-and-source/)",85,FALSE,NA,### Tutorials,link,2017-03-27
-+ [tidyquant + Quandl: Getting Data Just Got Easier](http://www.business-science.io/code-tools/2017/03/19/tidyquant-quandl-integration.html),140,FALSE,NA,### Tutorials,link,2017-03-27
-+ [jQuery UI Interactions and Effects for Shiny](https://yang-tang.github.io/shinyjqui/),88,FALSE,NA,### Tutorials,link,2017-03-27
-+ [#Infographics of McDonald's Items using #ggplot2 #grid #extrafont](https://pradeepadhokshaja.wordpress.com/2017/03/23/infographics-of-mcdonalds-items-using-ggplot2-grid-extrafont/),183,FALSE,NA,### Tutorials,link,2017-03-27
-![#Infographics of McDonald's Items using #ggplot2 #grid #extrafont](https://github.com/rweekly/image/raw/master/2017-03/13-mcd.png),132,FALSE,NA,### Tutorials,image,2017-03-27
-+ [Use mlrMBO to optimize via command line](https://mlr-org.github.io/Use_mlrMBO_to_optimize_via_command_line/),111,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Data validation with the assertr package](http://www.onthelambda.com/2017/03/20/data-validation-with-the-assertr-package/),125,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Financial time series forecasting – an easy approach](https://datascienceplus.com/financial-time-series-forecasting-an-easy-approach/),137,FALSE,NA,### Tutorials,link,2017-03-27
-+ [tidyquant Integrates Quandl: Getting Data Just Got Easier](http://www.business-science.io/code-tools/2017/03/19/tidyquant-quandl-integration.html),149,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Simultaneous intervals for derivatives of smooths revisited](http://www.fromthebottomoftheheap.net/2017/03/21/simultaneous-intervals-for-derivatives-of-smooths/),164,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Datashader is a big deal](http://www.win-vector.com/blog/2017/03/datashader-is-a-big-deal/),94,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Data Visualization – Part 2](https://www.stoltzmaniac.com/data-visualization-part-2/),88,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Survminer Cheatsheet to Create Easily Survival Plots](http://www.sthda.com/english/wiki/survminer-cheatsheet-to-create-easily-survival-plots),144,FALSE,NA,### Tutorials,link,2017-03-27
-+ [QR Decomposition with the Gram-Schmidt Algorithm](http://www.aaronschlegel.com/qr-decomposition-gram-schmidt-algorithm/),123,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Web data acquisition: parsing json objects with tidyjson (Part 3)](http://r-posts.com/web-data-acquisition-parsing-json-objects-with-tidyjson-part-3/),153,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Mean trophic levels of a genera from FishBase](http://www.seascapemodels.org/rstats/2017/03/23/summarize-by-genera.html),123,FALSE,NA,### Tutorials,link,2017-03-27
-+ [Intro to unit testing in R](https://inattentionalcoffee.wordpress.com/2017/03/22/intro-to-unit-testing-in-r/),112,FALSE,NA,### Tutorials,link,2017-03-27
-+ [API calls and Sys.sleep](http://colinfay.me/rstats-api-calls-and-sys-sleep/),79,FALSE,NA,### Tutorials,link,2017-03-27
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink""><i>Go Live for More New Pkgs</i></a></p>",138,FALSE,NA,### New Packages & Tools ,unid,2017-03-27
-+ [giphyr](https://github.com/haozhu233/giphyr) - R Interface to the 'Giphy' 'API' ,83,FALSE,NA,### New Packages & Tools ,link,2017-03-27
-![giphyr](https://raw.githubusercontent.com/rweekly/image/master/2017-03/gifr.jpeg),83,FALSE,NA,### New Packages & Tools ,image,2017-03-27
-+ [tensorflow](https://cran.r-project.org/web/packages/tensorflow/index.html) - R Interface to TensorFlow ,106,FALSE,NA,### New Packages & Tools ,link,2017-03-27
-+ [margins](https://cran.r-project.org/web/packages/margins/index.html) - Marginal Effects for Model Objects,108,FALSE,NA,### New Packages & Tools ,link,2017-03-27
-+ [RApiDatetime](http://dirk.eddelbuettel.com/blog/2017/03/23#rapidatetime_0.0.1) - C-level datetime code from R for C-level use by other packages. [0.0.2 update](http://dirk.eddelbuettel.com/blog/2017/03/25/#rapidatetime_0.0.2),228,FALSE,NA,### New Packages & Tools ,link,2017-03-27
-+ [camsRad](http://ropensci.org/blog/blog/2017/03/21/camsrad) - satellite-based time series of solar irradiation,112,FALSE,NA,### New Packages & Tools ,link,2017-03-27
-+ [valaddin](https://github.com/egnha/valaddin) - Make your R functions more robust ,84,FALSE,NA,### New Packages & Tools ,link,2017-03-27
-+ [February 2017 New Package Picks](https://www.rstudio.com/rviews/2017/03/22/february-2017-new-package-picks/),111,FALSE,NA,### New Packages & Tools ,link,2017-03-27
-+ [anytime 0.2.2](http://dirk.eddelbuettel.com/blog/2017/03/21#anytime_0.2.2) - Convert Any Input to Parsed Date or Datetime,124,FALSE,NA,### New Releases,link,2017-03-27
-+ [survminer 0.3.0](http://www.sthda.com/english/wiki/survminer-0-3-0) - Survival Analysis and Visualization,108,FALSE,NA,### New Releases,link,2017-03-27
-+ [R Tools 1.0 for Visual Studio 2015](http://blog.revolutionanalytics.com/2017/03/announcing-r-tools-10-for-visual-studio-2015.html),133,FALSE,NA,### New Releases,link,2017-03-27
-+ [Chess Statistics Developer](https://docs.google.com/document/d/10eqmaSm7zRPtjsPtbKzKT1WBkyrm50C4XiD3iQWWQDA/edit),116,FALSE,NA,### Jobs,link,2017-03-27
-+ [R Google Summer of Code 2017](https://github.com/rstats-gsoc/gsoc2017/wiki/table%20of%20proposed%20coding%20projects) - [Organization Page](https://summerofcode.withgoogle.com/organizations/4947241283354624/) - Students will contribute to free/open-source R packages for 3 months during the summer. Mentors get code written for their project.,345,FALSE,NA,### Call for Participation,link,2017-03-27
-<!--How Do You Discover R Packages?](http://juliasilge.com/blog/Package-Search/)-->,83,FALSE,NA,### Call for Participation,unid,2017-03-27
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,### R Project Updates,unid,2017-03-27
-+ Packages which register native routines for `.C` or `.Fortran` need to be re-installed for this version (unless installed with R-devel SVN revision r72375 or later).,167,FALSE,NA,### R Project Updates,unid,2017-03-27
-"+ An alternative compiler for C++11 is now specified with `CXX11`, not `CXX1X`. Likewise C++11 flags are specified with ‘CXX11FLAGS’ and the standard (e.g., `-std=gnu++11` is specified with `CXX11STD`. The variables with prefix `CXX1X` are defunct. ",249,FALSE,NA,### R Project Updates,unid,2017-03-27
-"+ The tests for C++11 compliance are now much more comprehensive. For gcc < 4.8, the tests from R 3.3.0 are used in order to maintain the same behaviour on Linux distributions with long-term support. ",200,FALSE,NA,### R Project Updates,unid,2017-03-27
-"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,NA,### Upcoming Events,link,2017-03-27
-"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance. ",177,FALSE,NA,### Upcoming Events,unid,2017-03-27
-"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,### Upcoming Events,link,2017-03-27
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,### Upcoming Events,unid,2017-03-27
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,### Upcoming Events,unid,2017-03-27
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/ggimage?src=hash"">#ggimage</a> now have a <a href=""https://twitter.com/hashtag/geom_pokemon?src=hash"">#geom_pokemon</a> layer <a href=""https://t.co/Jbqmc5CQmj"">pic.twitter.com/Jbqmc5CQmj</a></p>&mdash; Guangchuang Yu (@guangchuangyu) <a href=""https://twitter.com/guangchuangyu/status/844483732920684544"">March 22, 2017</a></blockquote>",444,FALSE,NA,### Quotes of the Week,unid,2017-03-27
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">If you use R packages to complete the work reported in your article you should cite them in the bibliography <a href=""https://twitter.com/hashtag/JCGS?src=hash"">#JCGS</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a></p>&mdash; Dianne Cook (@visnut) <a href=""https://twitter.com/visnut/status/843740234483290112"">March 20, 2017</a></blockquote>",436,FALSE,NA,### Quotes of the Week,unid,2017-03-27
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2017-03-27
+layout: post,12,FALSE,NA,unid,2017-03-27
+title: R Weekly 2017 Issue 13,29,FALSE,NA,unid,2017-03-27
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2017-03-27
+is_podcast: true,16,FALSE,NA,unid,2017-03-27
+podcast_title: 2017:13 How to find new R packages,49,FALSE,NA,unid,2017-03-27
+podcast_permalink: https://cloud.rweekly.org/2017-13.mp3,56,FALSE,NA,unid,2017-03-27
+podcast_description: |,22,FALSE,NA,unid,2017-03-27
+  <![CDATA[,11,FALSE,NA,unid,2017-03-27
+"  <p>About how to find new R packages, use of an R package to facilitate reproducible research, registering routines with Rcpp  and more.</p>",141,FALSE,NA,unid,2017-03-27
+  <ul>,6,FALSE,NA,unid,2017-03-27
+"  <li>Read <a href=""https://www.rweekly.org/2017-13.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 13</a></li>",116,FALSE,NA,unid,2017-03-27
+  </ul>,7,FALSE,NA,unid,2017-03-27
+  <p></p>,9,FALSE,NA,unid,2017-03-27
+  <ul> ,7,FALSE,NA,unid,2017-03-27
+"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,unid,2017-03-27
+  </ul> ,8,FALSE,NA,unid,2017-03-27
+  <ul>   ,9,FALSE,NA,unid,2017-03-27
+"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>   ",80,FALSE,NA,unid,2017-03-27
+  </ul>,7,FALSE,NA,unid,2017-03-27
+  <ul> ,7,FALSE,NA,unid,2017-03-27
+"  <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>  ",75,FALSE,NA,unid,2017-03-27
+  </ul>,7,FALSE,NA,unid,2017-03-27
+  <ul>,6,FALSE,NA,unid,2017-03-27
+"  <li><a href=""http://freemusicarchive.org/music/gillicuddy/Plays_Guitar_Again/01-adventure-darling"">Music by Gillicuddy</a></li>",129,FALSE,NA,unid,2017-03-27
+  </ul>,7,FALSE,NA,unid,2017-03-27
+  ]]>,5,FALSE,NA,unid,2017-03-27
+podcast_size: 7572195,21,FALSE,NA,unid,2017-03-27
+"podcast_duration: ""5:05""",24,FALSE,NA,unid,2017-03-27
+"podcast_summary: About how to find new R packages, use of an R package to facilitate reproducible research, registering routines with Rcpp  and more.  https://rweekly.org/2017-13.html",183,FALSE,NA,unid,2017-03-27
+"podcast_keywords: "", ggplot2""",29,FALSE,NA,unid,2017-03-27
+podcast_subtitle: How to find new R packages,44,FALSE,NA,unid,2017-03-27
+---,3,FALSE,NA,unid,2017-03-27
++ [Suggests != Depends](http://dirk.eddelbuettel.com/blog/2017/03/22#suggests_is_not_depends) - A number of packages on CRAN use Suggests: casually.,148,FALSE,### Highlight,link,2017-03-27
++ [Use of an R package to facilitate reproducible research](https://github.com/ropensci/rrrpkg),95,FALSE,### Highlight,link,2017-03-27
++ [tensorflow](https://cran.r-project.org/web/packages/tensorflow/index.html) - R Interface to TensorFlow ,106,FALSE,### Highlight,link,2017-03-27
++ [Registering Routines with Rcpp](https://ironholds.org/registering-routines/),79,FALSE,### Highlight,link,2017-03-27
+"+ [Challenge of our generation: reproducible, transparent and reliable science](https://science.mozilla.org/blog/2016-isbe-review)",130,FALSE,### Insights,link,2017-03-27
++ [Is Your Research Software Correct?](https://mikecroucher.github.io/MLPM_talk/),81,FALSE,### Insights,link,2017-03-27
++ [Suggests != Depends](http://dirk.eddelbuettel.com/blog/2017/03/22#suggests_is_not_depends) - A number of packages on CRAN use Suggests: casually.,148,FALSE,### Insights,link,2017-03-27
++ [Suggests and Vignettes](https://www.enchufa2.es/archives/suggests-and-vignettes.html),88,FALSE,### Insights,link,2017-03-27
++ [Use of an R package to facilitate reproducible research](https://github.com/ropensci/rrrpkg),95,FALSE,### Insights,link,2017-03-27
++ [How to find new R packages - R Weekly 2017:13](https://www.youtube.com/watch?v=kradpGl3VuI) - [RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml) & [bilibili](https://www.bilibili.com/video/av9418842/),214,FALSE,### Videos and Podcasts,link,2017-03-27
+"<iframe style=""margin-bottom: 20px;"" width=""560"" height=""315"" src=""https://www.youtube.com/embed/kradpGl3VuI"" frameborder=""0"" allowfullscreen></iframe>",151,FALSE,### Videos and Podcasts,unid,2017-03-27
++ [DataChats: An Interview with Hank Roark](https://www.datacamp.com/community/blog/datachats-an-interview-with-hank-roark),123,FALSE,### Videos and Podcasts,link,2017-03-27
++ [Interactive visualisation and fast computation of the solution path ](https://www.youtube.com/watch?v=2g-akN6q8aI),117,FALSE,### Videos and Podcasts,link,2017-03-27
+"+ [The R-Podcast Episode 22: Diving in to drake with Will Landay](https://www.r-podcast.org/posts/the-r-podcast-episode-22-diving-in-to-drake-with-will-landau.html) - In this episode Eric has a conversation with his colleague [Will Landau](http://will-landau.com/) about his new R package [drake](https://cran.rstudio.com/web/packages/drake/) that provides a powerful build system for analysis pipelines.  In addition we have a fun R community roundup, listener feedback, and a couple of package picks to give you a [gentle nod](https://cran.r-project.org/web/packages/remindR/vignettes/remindR_vignette.html) and a fun way to [explore interpolation](https://github.com/metrumresearchgroup/fluidSpline).",703,FALSE,### Videos and Podcasts,link,2017-03-27
++ [Sentiment Analysis of Warren Buffett's Letters to Shareholders](http://michaeltoth.me/sentiment-analysis-of-warren-buffetts-letters-to-shareholders.html),156,FALSE,### R in the Real World,link,2017-03-27
+<!-- !A Sentiment Analysis of Kanye West Album Lyrics](https://ewenme.github.io/blog/Kanye_sentiment_analysis/)-->,114,FALSE,### R in the Real World,unid,2017-03-27
+<!-- !A Sentiment Analysis of Kanye West Album Lyrics](https://ewenme.github.io/figs/2017-03-20-Kanye_sentiment_analysis/unnamed-chunk-11-1.png)-->,147,FALSE,### R in the Real World,unid,2017-03-27
++ [House effects in New Zealand voting intention polls](http://ellisp.github.io/blog/2017/03/21/house-effects),110,FALSE,### R in the Real World,link,2017-03-27
++ [Faces of #rstats Twitter](http://www.masalmon.eu/2017/03/19/facesofr/),73,FALSE,### R in the Real World,link,2017-03-27
+![Faces of #rstats Twitter](https://raw.githubusercontent.com/rweekly/image/master/2017-03/13-2017-03-19-facesofr.png),118,FALSE,### R in the Real World,image,2017-03-27
++ [On a First Name Basis with Statistics Sweden](http://staff.math.su.se/hoehle/blog/2017/03/25/scbnames.html),110,FALSE,### R in the Real World,link,2017-03-27
++ [What's in the words? Comparing artists and lyrics with R.](http://rcrastinate.blogspot.com/2017/03/whats-in-words-comparing-artists-and.html),144,FALSE,### R in the Real World,link,2017-03-27
++ [10 Million Dots: Mapping European Population](http://spatial.ly/2017/03/mapping-european-population/),104,FALSE,### R in the Real World,link,2017-03-27
+![10 Million Dots: Mapping European Population](https://raw.githubusercontent.com/qinwf/doc/gh-pages/temp/european_population_density.png),138,FALSE,### R in the Real World,image,2017-03-27
+"+ [Comparing subreddits, with Latent Semantic Analysis in R](http://blog.revolutionanalytics.com/2017/03/comparing-subreddits.html)",131,FALSE,### R in the Real World,link,2017-03-27
+"+ [Because it's Friday: Run Ollie, Run!](http://blog.revolutionanalytics.com/2017/03/because-its-friday-run-ollie-run.html)",123,FALSE,### R in the Real World,link,2017-03-27
++ [How well do you know Calvin and Hobbes? An R Game](https://daranzolin.github.io/articles/2017-03/calvin_and_hobbes_game),123,FALSE,### R in the Real World,link,2017-03-27
+"+ [R, et les autres !](http://www.thinkr.fr/r-et-les-autres/) - [English Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/r-et-les-autres/)",183,FALSE,### R Internationally,link,2017-03-27
++ [New mlr Logo](https://mlr-org.github.io/New-mlr-Logo/),57,FALSE,### R in Organizations,link,2017-03-27
++ [Alteryx integrates with Microsoft R](http://blog.revolutionanalytics.com/2017/03/alteryx-integrates-with-microsoft-r.html),125,FALSE,### R in Organizations,link,2017-03-27
++ [Running your R code on Azure with mrsdeploy](http://blog.revolutionanalytics.com/2017/03/running-your-r-code-azure.html),123,FALSE,### R in Organizations,link,2017-03-27
+"+ [The Making of the Tour, Part 1 Process and Structure](http://multithreaded.stitchfix.com/blog/2017/03/23/making-the-tour-part-1/)",132,FALSE,### R in Organizations,link,2017-03-27
++ [Invest in tools students can grow with: GitHub and RStudio for data science at Duke University](https://github.com/blog/2336-invest-in-tools-students-can-grow-with-github-and-rstudio-for-data-science-at-duke-university),222,FALSE,### R in Organizations,link,2017-03-27
++ [Registering Routines with Rcpp](https://ironholds.org/registering-routines/),79,FALSE,### Tutorials,link,2017-03-27
++ [Logistic Regression & Stepwise Selection: Gender Recognition by Voice](https://semilargedata.com/2017/03/21/machine-learning-gender-recognition-by-voice/),157,FALSE,### Tutorials,link,2017-03-27
++ [Tidying feature geometries with sf](http://r-spatial.org//r/2017/03/19/invalid.html),87,FALSE,### Tutorials,link,2017-03-27
++ [Simulating Unown encounter rates in Pokémon Go](https://tjmahr.github.io/pokemon-go-unown-simulation/),105,FALSE,### Tutorials,link,2017-03-27
++ [Preparing Datetime Data for Analysis with padr and dplyr](https://edwinth.github.io/blog/padr-examples/),107,FALSE,### Tutorials,link,2017-03-27
++ [Superpixels in imager](https://dahtah.wordpress.com/2017/03/24/superpixels-in-imager/),89,FALSE,### Tutorials,link,2017-03-27
++ [R : If Else and Nested If Else](http://www.listendata.com/2017/03/if-else-in-r.html),87,FALSE,### Tutorials,link,2017-03-27
++ [Contours of statistical penalty functions as GIF images](http://www.alexejgossmann.com/contours_of_statistical_penalty_functions_as_GIFs/),141,FALSE,### Tutorials,link,2017-03-27
+"+ [R, shiny and source()](https://logfc.wordpress.com/2017/03/22/r-shiny-and-source/)",85,FALSE,### Tutorials,link,2017-03-27
++ [tidyquant + Quandl: Getting Data Just Got Easier](http://www.business-science.io/code-tools/2017/03/19/tidyquant-quandl-integration.html),140,FALSE,### Tutorials,link,2017-03-27
++ [jQuery UI Interactions and Effects for Shiny](https://yang-tang.github.io/shinyjqui/),88,FALSE,### Tutorials,link,2017-03-27
++ [#Infographics of McDonald's Items using #ggplot2 #grid #extrafont](https://pradeepadhokshaja.wordpress.com/2017/03/23/infographics-of-mcdonalds-items-using-ggplot2-grid-extrafont/),183,FALSE,### Tutorials,link,2017-03-27
+![#Infographics of McDonald's Items using #ggplot2 #grid #extrafont](https://github.com/rweekly/image/raw/master/2017-03/13-mcd.png),132,FALSE,### Tutorials,image,2017-03-27
++ [Use mlrMBO to optimize via command line](https://mlr-org.github.io/Use_mlrMBO_to_optimize_via_command_line/),111,FALSE,### Tutorials,link,2017-03-27
++ [Data validation with the assertr package](http://www.onthelambda.com/2017/03/20/data-validation-with-the-assertr-package/),125,FALSE,### Tutorials,link,2017-03-27
++ [Financial time series forecasting – an easy approach](https://datascienceplus.com/financial-time-series-forecasting-an-easy-approach/),137,FALSE,### Tutorials,link,2017-03-27
++ [tidyquant Integrates Quandl: Getting Data Just Got Easier](http://www.business-science.io/code-tools/2017/03/19/tidyquant-quandl-integration.html),149,FALSE,### Tutorials,link,2017-03-27
++ [Simultaneous intervals for derivatives of smooths revisited](http://www.fromthebottomoftheheap.net/2017/03/21/simultaneous-intervals-for-derivatives-of-smooths/),164,FALSE,### Tutorials,link,2017-03-27
++ [Datashader is a big deal](http://www.win-vector.com/blog/2017/03/datashader-is-a-big-deal/),94,FALSE,### Tutorials,link,2017-03-27
++ [Data Visualization – Part 2](https://www.stoltzmaniac.com/data-visualization-part-2/),88,FALSE,### Tutorials,link,2017-03-27
++ [Survminer Cheatsheet to Create Easily Survival Plots](http://www.sthda.com/english/wiki/survminer-cheatsheet-to-create-easily-survival-plots),144,FALSE,### Tutorials,link,2017-03-27
++ [QR Decomposition with the Gram-Schmidt Algorithm](http://www.aaronschlegel.com/qr-decomposition-gram-schmidt-algorithm/),123,FALSE,### Tutorials,link,2017-03-27
++ [Web data acquisition: parsing json objects with tidyjson (Part 3)](http://r-posts.com/web-data-acquisition-parsing-json-objects-with-tidyjson-part-3/),153,FALSE,### Tutorials,link,2017-03-27
++ [Mean trophic levels of a genera from FishBase](http://www.seascapemodels.org/rstats/2017/03/23/summarize-by-genera.html),123,FALSE,### Tutorials,link,2017-03-27
++ [Intro to unit testing in R](https://inattentionalcoffee.wordpress.com/2017/03/22/intro-to-unit-testing-in-r/),112,FALSE,### Tutorials,link,2017-03-27
++ [API calls and Sys.sleep](http://colinfay.me/rstats-api-calls-and-sys-sleep/),79,FALSE,### Tutorials,link,2017-03-27
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink""><i>Go Live for More New Pkgs</i></a></p>",138,FALSE,### New Packages & Tools ,unid,2017-03-27
++ [giphyr](https://github.com/haozhu233/giphyr) - R Interface to the 'Giphy' 'API' ,83,FALSE,### New Packages & Tools ,link,2017-03-27
+![giphyr](https://raw.githubusercontent.com/rweekly/image/master/2017-03/gifr.jpeg),83,FALSE,### New Packages & Tools ,image,2017-03-27
++ [tensorflow](https://cran.r-project.org/web/packages/tensorflow/index.html) - R Interface to TensorFlow ,106,FALSE,### New Packages & Tools ,link,2017-03-27
++ [margins](https://cran.r-project.org/web/packages/margins/index.html) - Marginal Effects for Model Objects,108,FALSE,### New Packages & Tools ,link,2017-03-27
++ [RApiDatetime](http://dirk.eddelbuettel.com/blog/2017/03/23#rapidatetime_0.0.1) - C-level datetime code from R for C-level use by other packages. [0.0.2 update](http://dirk.eddelbuettel.com/blog/2017/03/25/#rapidatetime_0.0.2),228,FALSE,### New Packages & Tools ,link,2017-03-27
++ [camsRad](http://ropensci.org/blog/blog/2017/03/21/camsrad) - satellite-based time series of solar irradiation,112,FALSE,### New Packages & Tools ,link,2017-03-27
++ [valaddin](https://github.com/egnha/valaddin) - Make your R functions more robust ,84,FALSE,### New Packages & Tools ,link,2017-03-27
++ [February 2017 New Package Picks](https://www.rstudio.com/rviews/2017/03/22/february-2017-new-package-picks/),111,FALSE,### New Packages & Tools ,link,2017-03-27
++ [anytime 0.2.2](http://dirk.eddelbuettel.com/blog/2017/03/21#anytime_0.2.2) - Convert Any Input to Parsed Date or Datetime,124,FALSE,### New Releases,link,2017-03-27
++ [survminer 0.3.0](http://www.sthda.com/english/wiki/survminer-0-3-0) - Survival Analysis and Visualization,108,FALSE,### New Releases,link,2017-03-27
++ [R Tools 1.0 for Visual Studio 2015](http://blog.revolutionanalytics.com/2017/03/announcing-r-tools-10-for-visual-studio-2015.html),133,FALSE,### New Releases,link,2017-03-27
++ [Chess Statistics Developer](https://docs.google.com/document/d/10eqmaSm7zRPtjsPtbKzKT1WBkyrm50C4XiD3iQWWQDA/edit),116,FALSE,### Jobs,link,2017-03-27
++ [R Google Summer of Code 2017](https://github.com/rstats-gsoc/gsoc2017/wiki/table%20of%20proposed%20coding%20projects) - [Organization Page](https://summerofcode.withgoogle.com/organizations/4947241283354624/) - Students will contribute to free/open-source R packages for 3 months during the summer. Mentors get code written for their project.,345,FALSE,### Call for Participation,link,2017-03-27
+<!--How Do You Discover R Packages?](http://juliasilge.com/blog/Package-Search/)-->,83,FALSE,### Call for Participation,unid,2017-03-27
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,### R Project Updates,unid,2017-03-27
++ Packages which register native routines for `.C` or `.Fortran` need to be re-installed for this version (unless installed with R-devel SVN revision r72375 or later).,167,FALSE,### R Project Updates,unid,2017-03-27
+"+ An alternative compiler for C++11 is now specified with `CXX11`, not `CXX1X`. Likewise C++11 flags are specified with ‘CXX11FLAGS’ and the standard (e.g., `-std=gnu++11` is specified with `CXX11STD`. The variables with prefix `CXX1X` are defunct. ",249,FALSE,### R Project Updates,unid,2017-03-27
+"+ The tests for C++11 compliance are now much more comprehensive. For gcc < 4.8, the tests from R 3.3.0 are used in order to maintain the same behaviour on Linux distributions with long-term support. ",200,FALSE,### R Project Updates,unid,2017-03-27
+"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,### Upcoming Events,link,2017-03-27
+"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance. ",177,FALSE,### Upcoming Events,unid,2017-03-27
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,### Upcoming Events,link,2017-03-27
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,### Upcoming Events,unid,2017-03-27
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,### Upcoming Events,unid,2017-03-27
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/ggimage?src=hash"">#ggimage</a> now have a <a href=""https://twitter.com/hashtag/geom_pokemon?src=hash"">#geom_pokemon</a> layer <a href=""https://t.co/Jbqmc5CQmj"">pic.twitter.com/Jbqmc5CQmj</a></p>&mdash; Guangchuang Yu (@guangchuangyu) <a href=""https://twitter.com/guangchuangyu/status/844483732920684544"">March 22, 2017</a></blockquote>",444,FALSE,### Quotes of the Week,unid,2017-03-27
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">If you use R packages to complete the work reported in your article you should cite them in the bibliography <a href=""https://twitter.com/hashtag/JCGS?src=hash"">#JCGS</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a></p>&mdash; Dianne Cook (@visnut) <a href=""https://twitter.com/visnut/status/843740234483290112"">March 20, 2017</a></blockquote>",436,FALSE,### Quotes of the Week,unid,2017-03-27

@@ -1,93 +1,93 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2017-07-03
-layout: post,12,FALSE,NA,NA,unid,2017-07-03
-"title: R Weekly 2017-27 R Survey, dbplyr",40,FALSE,NA,NA,unid,2017-07-03
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-07-03
-is_podcast: true,16,FALSE,NA,NA,unid,2017-07-03
-podcast_title: 2017 July - R 3.4.1,34,FALSE,NA,NA,unid,2017-07-03
-podcast_permalink: https://cloud.rweekly.org/2017-july.mp3,58,FALSE,NA,NA,unid,2017-07-03
-podcast_description: |,22,FALSE,NA,NA,unid,2017-07-03
-  <![CDATA[,11,FALSE,NA,NA,unid,2017-07-03
-"  <p>About R 3.4.1, new dplyr & dbplyr, UseR! 2016 & 2017. https://rweekly.org/2017-27.html</p>",95,FALSE,NA,NA,unid,2017-07-03
-  <ul>,6,FALSE,NA,NA,unid,2017-07-03
-"  <li>Read <a href=""https://rweekly.org/2017-27.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 27</a></li>",112,FALSE,NA,NA,unid,2017-07-03
-  </ul>,7,FALSE,NA,NA,unid,2017-07-03
-  <p></p>,9,FALSE,NA,NA,unid,2017-07-03
-  <ul>,6,FALSE,NA,NA,unid,2017-07-03
-"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,NA,unid,2017-07-03
-  </ul>,7,FALSE,NA,NA,unid,2017-07-03
-  <ul>,6,FALSE,NA,NA,unid,2017-07-03
-"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>",77,FALSE,NA,NA,unid,2017-07-03
-  </ul>,7,FALSE,NA,NA,unid,2017-07-03
-  <ul>,6,FALSE,NA,NA,unid,2017-07-03
-"  <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>",73,FALSE,NA,NA,unid,2017-07-03
-  </ul>,7,FALSE,NA,NA,unid,2017-07-03
-  ]]>,5,FALSE,NA,NA,unid,2017-07-03
-podcast_size: 4040260,21,FALSE,NA,NA,unid,2017-07-03
-"podcast_duration: ""2:41""",24,FALSE,NA,NA,unid,2017-07-03
-"podcast_summary: About R 3.4.1, new dplyr & dbplyr, UseR! 2016 & 2017. https://rweekly.org/2017-27.html",103,FALSE,NA,NA,unid,2017-07-03
-"podcast_keywords: "", ggplot2""",29,FALSE,NA,NA,unid,2017-07-03
-podcast_subtitle: R 3.4.1,25,FALSE,NA,NA,unid,2017-07-03
----,3,FALSE,NA,NA,unid,2017-07-03
-+ [dbplyr 1.1.0](https://blog.rstudio.org/2017/06/27/dbplyr-1-1-0/),67,FALSE,NA,###  Highlight,link,2017-07-03
-+ [Take the R Consortium's Survey on R!](https://www.r-consortium.org/blog/2017/06/29/take-the-r-consortiums-survey-on-r),121,FALSE,NA,###  Highlight,link,2017-07-03
-"+ [Playing with R, infix functions, and pizza](http://colinfay.me/playing-r-infix-functions/)",93,FALSE,NA,###  Highlight,link,2017-07-03
-+ [Colorcoded map: regional population structures at a glance](https://ikashnitsky.github.io/2017/colorcoded-map/),114,FALSE,NA,###  R in the Real World,link,2017-07-03
-![Colorcoded map: regional population structures at a glance](https://ikashnitsky.github.io/images/170630/s-fig-01.png),119,FALSE,NA,###  R in the Real World,image,2017-07-03
-+ [Julia vs R and Python: what does Stack Overflow Developer Survey 2017 tell us?](http://rsnippets.blogspot.com/2017/06/julia-vs-r-and-python-what-does-stack.html),164,FALSE,NA,###  R in the Real World,link,2017-07-03
-+ [Forecasting Economic Risk in the EU into 2020](http://blog.nycdatascience.com/student-works/forecasting-economic-risk-eu-2020/),130,FALSE,NA,###  R in the Real World,link,2017-07-03
-+ [Get me to the church on time](https://www.mytinyshinys.com/2017/06/26/get-me-to-the-church-on-time),102,FALSE,NA,###  R in the Real World,link,2017-07-03
-"+ [Stan Weekly Roundup, 30 June 2017](http://andrewgelman.com/2017/06/30/stan-weekly-roundup-30-june-2017/)",107,FALSE,NA,###  R in Organizations,link,2017-07-03
-"+ [Introducing our Postdoctoral Fellow, Dr. Dan Sholler](http://ropensci.org/blog/blog/2017/06/30/postdoc_dan_sholler)",118,FALSE,NA,###  R in Organizations,link,2017-07-03
-+ [Take the R Consortium's Survey on R!](https://www.r-consortium.org/blog/2017/06/29/take-the-r-consortiums-survey-on-r),121,FALSE,NA,###  R in Organizations,link,2017-07-03
-+ [How R is used by the FDA for regulatory compliance](http://blog.revolutionanalytics.com/2017/06/r-fda.html),110,FALSE,NA,###  R in Organizations,link,2017-07-03
-+ [Code Coverage Tool for R Working Group Achieves First Release](https://www.r-consortium.org/blog/2017/06/28/code-coverage-tool-for-r-working-group-achieves-first-release),173,FALSE,NA,###  R in Organizations,link,2017-07-03
-+ [R Weekly Podcast July](https://soundcloud.com/rweekly/r-weekly-2017-july-r-341) - [Podcast Feed](https://feeds.feedburner.com/rweeklypodcast?format=xml),155,FALSE,NA,###  Videos and Podcasts,link,2017-07-03
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2017-07-03
-+ [mapedit](https://cran.r-project.org/web/packages/mapedit/index.html) - Interactive Editing of Spatial Data in R,114,FALSE,NA,###  New Packages,link,2017-07-03
-+ [sparsio](https://cran.r-project.org/web/packages/sparsio/index.html) - I/O Operations with Sparse Matrices,109,FALSE,NA,###  New Packages,link,2017-07-03
-+ [leaflet.extras](https://cran.r-project.org/web/packages/leaflet.extras/index.html) - Extra Functionality for 'leaflet' Package,129,FALSE,NA,###  New Packages,link,2017-07-03
-"+ [R 3.4.1 ""Single Candle"" released](http://blog.revolutionanalytics.com/2017/06/r-341-single-candle-released.html)",115,FALSE,NA,###  Package Releases,link,2017-07-03
-+ [bigrquery 0.4.0](https://blog.rstudio.org/2017/06/26/bigrquery-0-4-0/),73,FALSE,NA,###  Package Releases,link,2017-07-03
-+ [dbplyr 1.1.0](https://blog.rstudio.org/2017/06/27/dbplyr-1-1-0/),67,FALSE,NA,###  Package Releases,link,2017-07-03
-+ [A Tidy Data Model for Natural Language Processing using cleanNLP](https://journal.r-project.org/archive/2017/RJ-2017-035/index.html),135,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [(Beginners) Storing Values (Assigning)](https://jcarroll.com.au/2017/06/26/data-munging-with-r-preview-storing-values-assigning/),132,FALSE,NA,###  Tutorials,link,2017-07-03
-"+ [Playing with R, infix functions, and pizza](http://colinfay.me/playing-r-infix-functions/)",93,FALSE,NA,###  Tutorials,link,2017-07-03
-"![Playing with R, infix functions, and pizza](https://raw.githubusercontent.com/rweekly/image/master/2017-6/infix-functions.png)",128,FALSE,NA,###  Tutorials,image,2017-07-03
-+ [Compare US metropolitan area characteristics in R with tidycensus and tigris ](https://walkerke.github.io/2017/06/comparing-metros/),135,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [filter with context](https://romain.rbind.io/blog/2017/06/28/filter-with-context/),85,FALSE,NA,###  Tutorials,link,2017-07-03
-"+ [Introducing my debut R package, fplR, by doing some fantasy football mythbusting. ](http://ewenme.rbind.io/blog/2017-06-25-fpl_mythbusting/x)",144,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [Operations Research with R](http://www.rblog.uni-freiburg.de/2017/06/25/operations-research-with-r/),103,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [Data visuals notes for my talks in 2017](http://www.seascapemodels.org/rstats/2017/06/26/dataviz2017_notes.html),115,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [Check Data Quality with padr](https://edwinth.github.io/blog/data-quality-padr/),83,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [Please Consider Using wrapr::let() for Replacement Tasks](http://www.win-vector.com/blog/2017/06/please-consider-using-wraprlet-for-replacement-tasks/),154,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [Characterizing Twitter followers with tidytext](https://shirinG.github.io/text_analysis/2017/06/28/twitter_post),115,FALSE,NA,###  Tutorials,link,2017-07-03
-![Characterizing Twitter followers with tidytext](https://shiring.github.io/text_analysis/2017/06/28/twitter_post_files/figure-markdown_github/unnamed-chunk-29-1.png),166,FALSE,NA,###  Tutorials,image,2017-07-03
-+ [Weighted population density](http://www.decisionsciencenews.com/2017/06/26/weighted-population-density/),107,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [A Shiny App to Draw Curves Based on L-System](https://fronkonstin.com/2017/06/26/a-shiny-app-to-draw-curves-based-on-l-systems/),131,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [packagemetrics - Helping you choose a package since runconf17](http://ropensci.org/blog/blog/2017/06/27/packagemetrics),122,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [filter with context](https://romain.rbind.io/blog/2017/06/28/filter-with-context/),85,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [Bar Plots and Modern Alternatives](http://www.sthda.com/english/wiki/bar-plots-and-modern-alternatives),106,FALSE,NA,###  Tutorials,link,2017-07-03
-"+ [HexJSON HTMLWidget for R, Part 1](https://blog.ouseful.info/2017/06/28/hexjson-htmlwidget-for-r-part-1/)",107,FALSE,NA,###  Tutorials,link,2017-07-03
-"![HexJSON HTMLWidget for R, Part 1](https://ouseful.files.wordpress.com/2017/06/hexjsonpart2_3.png?w=1020&h=796)",112,FALSE,NA,###  Tutorials,image,2017-07-03
-+ [Using wrapr::let() with tidyeval](http://www.win-vector.com/blog/2017/06/using-wraprlet-with-tidyeval/),106,FALSE,NA,###  Tutorials,link,2017-07-03
-"+ [Stock Trading Analytics and Optimization in Python with PyFolio, R's PerformanceAnalytics, and backtrader](https://ntguardian.wordpress.com/2017/06/28/stock-trading-analytics-and-optimization-in-python-with-pyfolio-rs-performanceanalytics-and-backtrader/)",258,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [UseR! 2017 Spatial Tutorials](http://r-spatial.org//2017/06/29/UseR2017.html),80,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [Algebra of Sets in R](http://www.aaronschlegel.com/algebra-of-sets/),71,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [Colorcoded map: regional population structures at a glance](https://ikashnitsky.github.io/2017/colorcoded-map/),114,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [Cubic and Smoothing Splines in R](https://datascienceplus.com/cubic-and-smoothing-splines-in-r/),99,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [Model Operational Loss Directly with Tweedie GLM](https://statcompute.wordpress.com/2017/06/29/model-operational-loss-directly-with-tweedie-glm/),148,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [How I became a crolute i.e. an user of the crul package](http://maelle.github.io/2017/06/30/crolute/),104,FALSE,NA,###  Tutorials,link,2017-07-03
-+ [Two-Stage Least Squares For A/B Tests](https://blog.twitch.tv/two-stage-least-squares-for-a-b-tests-669d07f904f7?source=rss----3ae745429979--science),152,FALSE,NA,###  Tutorials,link,2017-07-03
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2017-07-03
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-07-03
-+ Setting the  `LC_ALL` category in `Sys.setlocale()` invalidates any cached locale-specific day/month names and the AM/PM indicator for `strptime()` (as setting `LC_TIME` has since R 3.1.0).,191,FALSE,NA,###  R Project Updates,unid,2017-07-03
-+ `system` and `system2` now allow to specify a timeout (this feature is currently experimental and subject to change).,119,FALSE,NA,###  R Project Updates,unid,2017-07-03
-"+  `within(<list>, rm(x1, x2))` works correctly again.",54,FALSE,NA,###  R Project Updates,unid,2017-07-03
-"+  `regexec(pattern, text, *)` now also applies `as.character(.)` to its first two arguments, as documented.",108,FALSE,NA,###  R Project Updates,unid,2017-07-03
-+ The `list` method of `within()` gets an option `keepAttrs = FALSE` for speed up.,82,FALSE,NA,###  R Project Updates,unid,2017-07-03
-"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,###  Upcoming Events,link,2017-07-03
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events,unid,2017-07-03
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-07-03
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Upcoming Events,unid,2017-07-03
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">I don&#39;t speak Ukrainian, but these <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> charts are gorgeous <a href=""https://t.co/LcZV9owQAe"">https://t.co/LcZV9owQAe</a> Thanks <a href=""https://twitter.com/AndriyGazin"">@AndriyGazin</a> to provide the R code 👍<a href=""https://twitter.com/hashtag/dataviz?src=hash"">#dataviz</a> <a href=""https://t.co/7LNHzgMhQT"">pic.twitter.com/7LNHzgMhQT</a></p>&mdash; Duc Quang Nguyen (@duc_qn) <a href=""https://twitter.com/duc_qn/status/879369957435428865"">June 26, 2017</a></blockquote>",612,FALSE,NA,###  Quotes of the Week,unid,2017-07-03
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2017-07-03
+layout: post,12,FALSE,NA,unid,2017-07-03
+"title: R Weekly 2017-27 R Survey, dbplyr",40,FALSE,NA,unid,2017-07-03
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2017-07-03
+is_podcast: true,16,FALSE,NA,unid,2017-07-03
+podcast_title: 2017 July - R 3.4.1,34,FALSE,NA,unid,2017-07-03
+podcast_permalink: https://cloud.rweekly.org/2017-july.mp3,58,FALSE,NA,unid,2017-07-03
+podcast_description: |,22,FALSE,NA,unid,2017-07-03
+  <![CDATA[,11,FALSE,NA,unid,2017-07-03
+"  <p>About R 3.4.1, new dplyr & dbplyr, UseR! 2016 & 2017. https://rweekly.org/2017-27.html</p>",95,FALSE,NA,unid,2017-07-03
+  <ul>,6,FALSE,NA,unid,2017-07-03
+"  <li>Read <a href=""https://rweekly.org/2017-27.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 27</a></li>",112,FALSE,NA,unid,2017-07-03
+  </ul>,7,FALSE,NA,unid,2017-07-03
+  <p></p>,9,FALSE,NA,unid,2017-07-03
+  <ul>,6,FALSE,NA,unid,2017-07-03
+"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,unid,2017-07-03
+  </ul>,7,FALSE,NA,unid,2017-07-03
+  <ul>,6,FALSE,NA,unid,2017-07-03
+"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>",77,FALSE,NA,unid,2017-07-03
+  </ul>,7,FALSE,NA,unid,2017-07-03
+  <ul>,6,FALSE,NA,unid,2017-07-03
+"  <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>",73,FALSE,NA,unid,2017-07-03
+  </ul>,7,FALSE,NA,unid,2017-07-03
+  ]]>,5,FALSE,NA,unid,2017-07-03
+podcast_size: 4040260,21,FALSE,NA,unid,2017-07-03
+"podcast_duration: ""2:41""",24,FALSE,NA,unid,2017-07-03
+"podcast_summary: About R 3.4.1, new dplyr & dbplyr, UseR! 2016 & 2017. https://rweekly.org/2017-27.html",103,FALSE,NA,unid,2017-07-03
+"podcast_keywords: "", ggplot2""",29,FALSE,NA,unid,2017-07-03
+podcast_subtitle: R 3.4.1,25,FALSE,NA,unid,2017-07-03
+---,3,FALSE,NA,unid,2017-07-03
++ [dbplyr 1.1.0](https://blog.rstudio.org/2017/06/27/dbplyr-1-1-0/),67,FALSE,###  Highlight,link,2017-07-03
++ [Take the R Consortium's Survey on R!](https://www.r-consortium.org/blog/2017/06/29/take-the-r-consortiums-survey-on-r),121,FALSE,###  Highlight,link,2017-07-03
+"+ [Playing with R, infix functions, and pizza](http://colinfay.me/playing-r-infix-functions/)",93,FALSE,###  Highlight,link,2017-07-03
++ [Colorcoded map: regional population structures at a glance](https://ikashnitsky.github.io/2017/colorcoded-map/),114,FALSE,###  R in the Real World,link,2017-07-03
+![Colorcoded map: regional population structures at a glance](https://ikashnitsky.github.io/images/170630/s-fig-01.png),119,FALSE,###  R in the Real World,image,2017-07-03
++ [Julia vs R and Python: what does Stack Overflow Developer Survey 2017 tell us?](http://rsnippets.blogspot.com/2017/06/julia-vs-r-and-python-what-does-stack.html),164,FALSE,###  R in the Real World,link,2017-07-03
++ [Forecasting Economic Risk in the EU into 2020](http://blog.nycdatascience.com/student-works/forecasting-economic-risk-eu-2020/),130,FALSE,###  R in the Real World,link,2017-07-03
++ [Get me to the church on time](https://www.mytinyshinys.com/2017/06/26/get-me-to-the-church-on-time),102,FALSE,###  R in the Real World,link,2017-07-03
+"+ [Stan Weekly Roundup, 30 June 2017](http://andrewgelman.com/2017/06/30/stan-weekly-roundup-30-june-2017/)",107,FALSE,###  R in Organizations,link,2017-07-03
+"+ [Introducing our Postdoctoral Fellow, Dr. Dan Sholler](http://ropensci.org/blog/blog/2017/06/30/postdoc_dan_sholler)",118,FALSE,###  R in Organizations,link,2017-07-03
++ [Take the R Consortium's Survey on R!](https://www.r-consortium.org/blog/2017/06/29/take-the-r-consortiums-survey-on-r),121,FALSE,###  R in Organizations,link,2017-07-03
++ [How R is used by the FDA for regulatory compliance](http://blog.revolutionanalytics.com/2017/06/r-fda.html),110,FALSE,###  R in Organizations,link,2017-07-03
++ [Code Coverage Tool for R Working Group Achieves First Release](https://www.r-consortium.org/blog/2017/06/28/code-coverage-tool-for-r-working-group-achieves-first-release),173,FALSE,###  R in Organizations,link,2017-07-03
++ [R Weekly Podcast July](https://soundcloud.com/rweekly/r-weekly-2017-july-r-341) - [Podcast Feed](https://feeds.feedburner.com/rweeklypodcast?format=xml),155,FALSE,###  Videos and Podcasts,link,2017-07-03
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2017-07-03
++ [mapedit](https://cran.r-project.org/web/packages/mapedit/index.html) - Interactive Editing of Spatial Data in R,114,FALSE,###  New Packages,link,2017-07-03
++ [sparsio](https://cran.r-project.org/web/packages/sparsio/index.html) - I/O Operations with Sparse Matrices,109,FALSE,###  New Packages,link,2017-07-03
++ [leaflet.extras](https://cran.r-project.org/web/packages/leaflet.extras/index.html) - Extra Functionality for 'leaflet' Package,129,FALSE,###  New Packages,link,2017-07-03
+"+ [R 3.4.1 ""Single Candle"" released](http://blog.revolutionanalytics.com/2017/06/r-341-single-candle-released.html)",115,FALSE,###  Package Releases,link,2017-07-03
++ [bigrquery 0.4.0](https://blog.rstudio.org/2017/06/26/bigrquery-0-4-0/),73,FALSE,###  Package Releases,link,2017-07-03
++ [dbplyr 1.1.0](https://blog.rstudio.org/2017/06/27/dbplyr-1-1-0/),67,FALSE,###  Package Releases,link,2017-07-03
++ [A Tidy Data Model for Natural Language Processing using cleanNLP](https://journal.r-project.org/archive/2017/RJ-2017-035/index.html),135,FALSE,###  Tutorials,link,2017-07-03
++ [(Beginners) Storing Values (Assigning)](https://jcarroll.com.au/2017/06/26/data-munging-with-r-preview-storing-values-assigning/),132,FALSE,###  Tutorials,link,2017-07-03
+"+ [Playing with R, infix functions, and pizza](http://colinfay.me/playing-r-infix-functions/)",93,FALSE,###  Tutorials,link,2017-07-03
+"![Playing with R, infix functions, and pizza](https://raw.githubusercontent.com/rweekly/image/master/2017-6/infix-functions.png)",128,FALSE,###  Tutorials,image,2017-07-03
++ [Compare US metropolitan area characteristics in R with tidycensus and tigris ](https://walkerke.github.io/2017/06/comparing-metros/),135,FALSE,###  Tutorials,link,2017-07-03
++ [filter with context](https://romain.rbind.io/blog/2017/06/28/filter-with-context/),85,FALSE,###  Tutorials,link,2017-07-03
+"+ [Introducing my debut R package, fplR, by doing some fantasy football mythbusting. ](http://ewenme.rbind.io/blog/2017-06-25-fpl_mythbusting/x)",144,FALSE,###  Tutorials,link,2017-07-03
++ [Operations Research with R](http://www.rblog.uni-freiburg.de/2017/06/25/operations-research-with-r/),103,FALSE,###  Tutorials,link,2017-07-03
++ [Data visuals notes for my talks in 2017](http://www.seascapemodels.org/rstats/2017/06/26/dataviz2017_notes.html),115,FALSE,###  Tutorials,link,2017-07-03
++ [Check Data Quality with padr](https://edwinth.github.io/blog/data-quality-padr/),83,FALSE,###  Tutorials,link,2017-07-03
++ [Please Consider Using wrapr::let() for Replacement Tasks](http://www.win-vector.com/blog/2017/06/please-consider-using-wraprlet-for-replacement-tasks/),154,FALSE,###  Tutorials,link,2017-07-03
++ [Characterizing Twitter followers with tidytext](https://shirinG.github.io/text_analysis/2017/06/28/twitter_post),115,FALSE,###  Tutorials,link,2017-07-03
+![Characterizing Twitter followers with tidytext](https://shiring.github.io/text_analysis/2017/06/28/twitter_post_files/figure-markdown_github/unnamed-chunk-29-1.png),166,FALSE,###  Tutorials,image,2017-07-03
++ [Weighted population density](http://www.decisionsciencenews.com/2017/06/26/weighted-population-density/),107,FALSE,###  Tutorials,link,2017-07-03
++ [A Shiny App to Draw Curves Based on L-System](https://fronkonstin.com/2017/06/26/a-shiny-app-to-draw-curves-based-on-l-systems/),131,FALSE,###  Tutorials,link,2017-07-03
++ [packagemetrics - Helping you choose a package since runconf17](http://ropensci.org/blog/blog/2017/06/27/packagemetrics),122,FALSE,###  Tutorials,link,2017-07-03
++ [filter with context](https://romain.rbind.io/blog/2017/06/28/filter-with-context/),85,FALSE,###  Tutorials,link,2017-07-03
++ [Bar Plots and Modern Alternatives](http://www.sthda.com/english/wiki/bar-plots-and-modern-alternatives),106,FALSE,###  Tutorials,link,2017-07-03
+"+ [HexJSON HTMLWidget for R, Part 1](https://blog.ouseful.info/2017/06/28/hexjson-htmlwidget-for-r-part-1/)",107,FALSE,###  Tutorials,link,2017-07-03
+"![HexJSON HTMLWidget for R, Part 1](https://ouseful.files.wordpress.com/2017/06/hexjsonpart2_3.png?w=1020&h=796)",112,FALSE,###  Tutorials,image,2017-07-03
++ [Using wrapr::let() with tidyeval](http://www.win-vector.com/blog/2017/06/using-wraprlet-with-tidyeval/),106,FALSE,###  Tutorials,link,2017-07-03
+"+ [Stock Trading Analytics and Optimization in Python with PyFolio, R's PerformanceAnalytics, and backtrader](https://ntguardian.wordpress.com/2017/06/28/stock-trading-analytics-and-optimization-in-python-with-pyfolio-rs-performanceanalytics-and-backtrader/)",258,FALSE,###  Tutorials,link,2017-07-03
++ [UseR! 2017 Spatial Tutorials](http://r-spatial.org//2017/06/29/UseR2017.html),80,FALSE,###  Tutorials,link,2017-07-03
++ [Algebra of Sets in R](http://www.aaronschlegel.com/algebra-of-sets/),71,FALSE,###  Tutorials,link,2017-07-03
++ [Colorcoded map: regional population structures at a glance](https://ikashnitsky.github.io/2017/colorcoded-map/),114,FALSE,###  Tutorials,link,2017-07-03
++ [Cubic and Smoothing Splines in R](https://datascienceplus.com/cubic-and-smoothing-splines-in-r/),99,FALSE,###  Tutorials,link,2017-07-03
++ [Model Operational Loss Directly with Tweedie GLM](https://statcompute.wordpress.com/2017/06/29/model-operational-loss-directly-with-tweedie-glm/),148,FALSE,###  Tutorials,link,2017-07-03
++ [How I became a crolute i.e. an user of the crul package](http://maelle.github.io/2017/06/30/crolute/),104,FALSE,###  Tutorials,link,2017-07-03
++ [Two-Stage Least Squares For A/B Tests](https://blog.twitch.tv/two-stage-least-squares-for-a-b-tests-669d07f904f7?source=rss----3ae745429979--science),152,FALSE,###  Tutorials,link,2017-07-03
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2017-07-03
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2017-07-03
++ Setting the  `LC_ALL` category in `Sys.setlocale()` invalidates any cached locale-specific day/month names and the AM/PM indicator for `strptime()` (as setting `LC_TIME` has since R 3.1.0).,191,FALSE,###  R Project Updates,unid,2017-07-03
++ `system` and `system2` now allow to specify a timeout (this feature is currently experimental and subject to change).,119,FALSE,###  R Project Updates,unid,2017-07-03
+"+  `within(<list>, rm(x1, x2))` works correctly again.",54,FALSE,###  R Project Updates,unid,2017-07-03
+"+  `regexec(pattern, text, *)` now also applies `as.character(.)` to its first two arguments, as documented.",108,FALSE,###  R Project Updates,unid,2017-07-03
++ The `list` method of `within()` gets an option `keepAttrs = FALSE` for speed up.,82,FALSE,###  R Project Updates,unid,2017-07-03
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,###  Upcoming Events,link,2017-07-03
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,###  Upcoming Events,unid,2017-07-03
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events,unid,2017-07-03
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Upcoming Events,unid,2017-07-03
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">I don&#39;t speak Ukrainian, but these <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> charts are gorgeous <a href=""https://t.co/LcZV9owQAe"">https://t.co/LcZV9owQAe</a> Thanks <a href=""https://twitter.com/AndriyGazin"">@AndriyGazin</a> to provide the R code 👍<a href=""https://twitter.com/hashtag/dataviz?src=hash"">#dataviz</a> <a href=""https://t.co/7LNHzgMhQT"">pic.twitter.com/7LNHzgMhQT</a></p>&mdash; Duc Quang Nguyen (@duc_qn) <a href=""https://twitter.com/duc_qn/status/879369957435428865"">June 26, 2017</a></blockquote>",612,FALSE,###  Quotes of the Week,unid,2017-07-03

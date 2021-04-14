@@ -1,58 +1,58 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-10-01
-"title: R Weekly 2018-40 Animating, Arrow, Tables",48,FALSE,NA,NA,unid,2018-10-01
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-10-01
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-10-01
----,3,FALSE,NA,NA,unid,2018-10-01
-"+ [What Are We Plotting, What Are We Animating](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)",128,FALSE,NA,###  Highlight,link,2018-10-01
-+ [Why do we use arrow as an assignment operator?](https://colinfay.me/r-assignment/),85,FALSE,NA,###  Highlight,link,2018-10-01
-+ [Fall 2018: ISC Call for Proposals](https://www.r-consortium.org/announcement/2018/09/25/fall-2018-isc-call-for-proposals),124,FALSE,NA,###  Highlight,link,2018-10-01
-+ [Give your tables some style with the formattable package!](https://www.littlemissdata.com/blog/prettytables),111,FALSE,NA,###  Highlight,link,2018-10-01
-+ [Fall 2018: ISC Call for Proposals](https://www.r-consortium.org/announcement/2018/09/25/fall-2018-isc-call-for-proposals),124,FALSE,NA,###  R in Organizations,link,2018-10-01
-+ [Chat with the rOpenSci team at upcoming meetings](https://ropensci.org/blog/2018/09/21/ropensci-at-meetings/),112,FALSE,NA,###  R in Organizations,link,2018-10-01
-+ [Why Equity Requires Looking Beyond Averages](https://ivelasq.rbind.io/blog/why-disaggregate-data/) - A Look at Minneapolis Public Schools,140,FALSE,NA,### R in the Real World,link,2018-10-01
-+ [Mapping the 2018 East Africa floods from space with smapr](https://ropensci.org/blog/2018/09/25/smapr/),106,FALSE,NA,### R in the Real World,link,2018-10-01
-![Mapping the 2018 East Africa floods from space with smapr](https://d33wubrfki0l68.cloudfront.net/647cfb25b3b8c5bea994f5117e0b4d23efec5dbe/be903/img/blog-images/2018-09-14-smapr/joint-timeseries.gif),200,FALSE,NA,### R in the Real World,image,2018-10-01
-+ [The complex process of obtaining Puerto Rico mortality data: a timeline](https://simplystatistics.org/2018/09/28/the-complex-process-of-obtaining-puerto-rico-mortality-data-a-timeline/),188,FALSE,NA,### R in the Real World,link,2018-10-01
-"+ [XKCD ""Curve Fitting"", in R](http://blog.revolutionanalytics.com/2018/09/curve-fitting.html)",94,FALSE,NA,### R in the Real World,link,2018-10-01
-+ [Sri Lanka visitor arrivals](http://freerangestats.info/blog/2018/09/26/sri-lanka-arrivals),93,FALSE,NA,### R in the Real World,link,2018-10-01
-"+ [What Are We Plotting, What Are We Animating](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)",128,FALSE,NA,### Insights,link,2018-10-01
-+ [Why do we use arrow as an assignment operator?](https://colinfay.me/r-assignment/),85,FALSE,NA,### Insights,link,2018-10-01
-+ [Bootstrapping and Permutation Testing: A Shiny Dashboard](https://mattkmiecik.shinyapps.io/boot-perm-dash/),110,FALSE,NA,###  Resources,link,2018-10-01
-+ [R developer's guide to Azure](http://blog.revolutionanalytics.com/2018/09/r-developers-guide-to-azure.html),110,FALSE,NA,###  Resources,link,2018-10-01
-+ [August 2018: Top 40 New Packages](https://rviews.rstudio.com/2018/09/26/august-2018-top-40-new-packages/),108,FALSE,NA,###  Resources,link,2018-10-01
-![August 2018: Top 40 New Packages](https://user-images.githubusercontent.com/7472151/46283563-4ef9bc80-c5a7-11e8-982c-5b1d7d81fc86.gif),136,FALSE,NA,###  Resources,image,2018-10-01
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-10-01
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-10-01
-+ [elite](https://github.com/eoppe1022/elite) - scraping hockey data from EliteProspects in a [fairly] tidy manner for the purpose of analysis,142,FALSE,NA,###  New Packages,link,2018-10-01
-+ [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot,107,FALSE,NA,###  New Packages,link,2018-10-01
-![ggtextures](https://user-images.githubusercontent.com/7472151/46283536-38ebfc00-c5a7-11e8-8ded-1bad1c659a82.png),114,FALSE,NA,###  New Packages,image,2018-10-01
-+ [binb 0.0.2: Now with presento](http://dirk.eddelbuettel.com/blog/2018/09/27#binb_0.0.2),90,FALSE,NA,### Package Releases,link,2018-10-01
-"+ [getTBinR 0.5.5](https://www.samabbott.co.uk/post/gettbinr-5-5/) - Get WHO Tuberculosis Data, 2017 TB data now available.",123,FALSE,NA,### Package Releases,link,2018-10-01
-![getTBinR 0.5.5](https://user-images.githubusercontent.com/7472151/46283476-0f32d500-c5a7-11e8-8d8e-613d084b7efa.png),118,FALSE,NA,### Package Releases,image,2018-10-01
-+ [Give your tables some style with the formattable package!](https://www.littlemissdata.com/blog/prettytables),111,FALSE,NA,###  Tutorials,link,2018-10-01
-![Preview](https://raw.githubusercontent.com/lgellis/MiscTutorial/master/Austin/formattable.gif),96,FALSE,NA,###  Tutorials,image,2018-10-01
-+ [Going Down to South Park—Text Analysis with R](https://academy.vertabelo.com/blog/south-park-text-data-analysis-with-r/),123,FALSE,NA,###  Tutorials,link,2018-10-01
-+ [Tuning a data preprocessing pipeline with recipes and modelgrid](http://smaakage85.netlify.com/2018/09/24/tuning-a-data-preprocessing-pipeline-with-recipes-and-modelgrid/),174,FALSE,NA,###  Tutorials,link,2018-10-01
-"+ [What Are We Plotting, What Are We Animating](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)",128,FALSE,NA,###  Tutorials,link,2018-10-01
-"+ [Import a directory of CSV files into a single data frame using {fs}, {purrr}, and {readr}.](https://www.gerkelab.com/blog/2018/09/import-directory-csv-purrr-readr/)",167,FALSE,NA,###  Tutorials,link,2018-10-01
-+ [A Subtle Flaw in Some Popular R NSE Interfaces](http://www.win-vector.com/blog/2018/09/a-subtle-flaw-in-some-popular-r-nse-interfaces/),138,FALSE,NA,###  Tutorials,link,2018-10-01
-+ [Memoise with object size limit](https://coolbutuseless.github.io/2018/09/24/memoise-with-object-size-limit/),111,FALSE,NA,###  Tutorials,link,2018-10-01
-+ [simstudy update: improved correlated binary outcomes](https://www.rdatagen.net/post/simstudy-update-to-version-0-1-10/),122,FALSE,NA,###  Tutorials,link,2018-10-01
-+ [A Better Example of the Confused By The Environment Issue](http://www.win-vector.com/blog/2018/09/a-better-example-of-the-confused-by-the-environment-issue/),160,FALSE,NA,###  Tutorials,link,2018-10-01
-+ [Nonograms in R - 'nonogram' package](https://coolbutuseless.github.io/2018/09/26/nonograms-in-r---nonogram-package/),119,FALSE,NA,###  Tutorials,link,2018-10-01
-+ [3-D shadow maps in R: the rayshader package](http://blog.revolutionanalytics.com/2018/09/raytracer.html),107,FALSE,NA,###  Tutorials,link,2018-10-01
-![3-D shadow maps in R: the rayshader package](https://revolution-computing.typepad.com/.a/6a010534b1db25970b022ad3945527200d-800wi),132,FALSE,NA,###  Tutorials,image,2018-10-01
-+ [Creating nonograms with 'nonogram' and 'magick' packages](https://coolbutuseless.github.io/2018/09/27/creating-nonograms-with-nonogram-and-magick-packages/),159,FALSE,NA,###  Tutorials,link,2018-10-01
-+ [Writing a nonogram solver in R](https://coolbutuseless.github.io/2018/09/28/writing-a-nonogram-solver-in-r/),111,FALSE,NA,###  Tutorials,link,2018-10-01
-+ [Quick Hit: Using the New Equal Earth Projection in R](https://rud.is/b/2018/09/28/quick-hit-using-the-new-equal-earth-projection-in-r/),138,FALSE,NA,###  Tutorials,link,2018-10-01
-"+ [Combining data in R: the skill of merging, joining, and stacking](https://datascienceplus.com/combining-data-in-r-the-skill-of-merging-joining-and-stacking/)",160,FALSE,NA,###  Tutorials,link,2018-10-01
-+ [More health economics in R](http://statistica.it/gianluca/post/2018-09-23-more-health-economics-in-r/),105,FALSE,NA,###  Tutorials,link,2018-10-01
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-10-01
-"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-10-01
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-10-01
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-10-01
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-10-01
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-10-01
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">One last trick for the day: after webscraping you often get these vectors with punctuation and additional words, when you just want numbers. I find readr::parse_number() even shorter than regexing the digits out of it. 🎉 <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/C8XdKvkSAb"">pic.twitter.com/C8XdKvkSAb</a></p>&mdash; We are R-Ladies (@WeAreRLadies) <a href=""https://twitter.com/WeAreRLadies/status/1045049154416898060?ref_src=twsrc%5Etfw"">September 26, 2018</a></blockquote>",616,FALSE,NA,###  Quotes of the Week,unid,2018-10-01
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">If you&#39;re waiting around for a long-running analysis in R, try adding a sound effect from &quot;beepr&quot; to your script. Not only will it cue you when your results are ready, it makes <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> more fun. After all, who doesn&#39;t want to hear Mario&#39;s flagpole fanfare?<br>beepr::beep(sound = 8)</p>&mdash; Jeff Dahlke (@JeffreyDahlke) <a href=""https://twitter.com/JeffreyDahlke/status/1044367492745973760?ref_src=twsrc%5Etfw"">September 24, 2018</a></blockquote>",625,FALSE,NA,###  Quotes of the Week,unid,2018-10-01
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-10-01
+"title: R Weekly 2018-40 Animating, Arrow, Tables",48,FALSE,NA,unid,2018-10-01
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-10-01
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-10-01
+---,3,FALSE,NA,unid,2018-10-01
+"+ [What Are We Plotting, What Are We Animating](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)",128,FALSE,###  Highlight,link,2018-10-01
++ [Why do we use arrow as an assignment operator?](https://colinfay.me/r-assignment/),85,FALSE,###  Highlight,link,2018-10-01
++ [Fall 2018: ISC Call for Proposals](https://www.r-consortium.org/announcement/2018/09/25/fall-2018-isc-call-for-proposals),124,FALSE,###  Highlight,link,2018-10-01
++ [Give your tables some style with the formattable package!](https://www.littlemissdata.com/blog/prettytables),111,FALSE,###  Highlight,link,2018-10-01
++ [Fall 2018: ISC Call for Proposals](https://www.r-consortium.org/announcement/2018/09/25/fall-2018-isc-call-for-proposals),124,FALSE,###  R in Organizations,link,2018-10-01
++ [Chat with the rOpenSci team at upcoming meetings](https://ropensci.org/blog/2018/09/21/ropensci-at-meetings/),112,FALSE,###  R in Organizations,link,2018-10-01
++ [Why Equity Requires Looking Beyond Averages](https://ivelasq.rbind.io/blog/why-disaggregate-data/) - A Look at Minneapolis Public Schools,140,FALSE,### R in the Real World,link,2018-10-01
++ [Mapping the 2018 East Africa floods from space with smapr](https://ropensci.org/blog/2018/09/25/smapr/),106,FALSE,### R in the Real World,link,2018-10-01
+![Mapping the 2018 East Africa floods from space with smapr](https://d33wubrfki0l68.cloudfront.net/647cfb25b3b8c5bea994f5117e0b4d23efec5dbe/be903/img/blog-images/2018-09-14-smapr/joint-timeseries.gif),200,FALSE,### R in the Real World,image,2018-10-01
++ [The complex process of obtaining Puerto Rico mortality data: a timeline](https://simplystatistics.org/2018/09/28/the-complex-process-of-obtaining-puerto-rico-mortality-data-a-timeline/),188,FALSE,### R in the Real World,link,2018-10-01
+"+ [XKCD ""Curve Fitting"", in R](http://blog.revolutionanalytics.com/2018/09/curve-fitting.html)",94,FALSE,### R in the Real World,link,2018-10-01
++ [Sri Lanka visitor arrivals](http://freerangestats.info/blog/2018/09/26/sri-lanka-arrivals),93,FALSE,### R in the Real World,link,2018-10-01
+"+ [What Are We Plotting, What Are We Animating](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)",128,FALSE,### Insights,link,2018-10-01
++ [Why do we use arrow as an assignment operator?](https://colinfay.me/r-assignment/),85,FALSE,### Insights,link,2018-10-01
++ [Bootstrapping and Permutation Testing: A Shiny Dashboard](https://mattkmiecik.shinyapps.io/boot-perm-dash/),110,FALSE,###  Resources,link,2018-10-01
++ [R developer's guide to Azure](http://blog.revolutionanalytics.com/2018/09/r-developers-guide-to-azure.html),110,FALSE,###  Resources,link,2018-10-01
++ [August 2018: Top 40 New Packages](https://rviews.rstudio.com/2018/09/26/august-2018-top-40-new-packages/),108,FALSE,###  Resources,link,2018-10-01
+![August 2018: Top 40 New Packages](https://user-images.githubusercontent.com/7472151/46283563-4ef9bc80-c5a7-11e8-982c-5b1d7d81fc86.gif),136,FALSE,###  Resources,image,2018-10-01
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-10-01
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2018-10-01
++ [elite](https://github.com/eoppe1022/elite) - scraping hockey data from EliteProspects in a [fairly] tidy manner for the purpose of analysis,142,FALSE,###  New Packages,link,2018-10-01
++ [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot,107,FALSE,###  New Packages,link,2018-10-01
+![ggtextures](https://user-images.githubusercontent.com/7472151/46283536-38ebfc00-c5a7-11e8-8ded-1bad1c659a82.png),114,FALSE,###  New Packages,image,2018-10-01
++ [binb 0.0.2: Now with presento](http://dirk.eddelbuettel.com/blog/2018/09/27#binb_0.0.2),90,FALSE,### Package Releases,link,2018-10-01
+"+ [getTBinR 0.5.5](https://www.samabbott.co.uk/post/gettbinr-5-5/) - Get WHO Tuberculosis Data, 2017 TB data now available.",123,FALSE,### Package Releases,link,2018-10-01
+![getTBinR 0.5.5](https://user-images.githubusercontent.com/7472151/46283476-0f32d500-c5a7-11e8-8d8e-613d084b7efa.png),118,FALSE,### Package Releases,image,2018-10-01
++ [Give your tables some style with the formattable package!](https://www.littlemissdata.com/blog/prettytables),111,FALSE,###  Tutorials,link,2018-10-01
+![Preview](https://raw.githubusercontent.com/lgellis/MiscTutorial/master/Austin/formattable.gif),96,FALSE,###  Tutorials,image,2018-10-01
++ [Going Down to South Park—Text Analysis with R](https://academy.vertabelo.com/blog/south-park-text-data-analysis-with-r/),123,FALSE,###  Tutorials,link,2018-10-01
++ [Tuning a data preprocessing pipeline with recipes and modelgrid](http://smaakage85.netlify.com/2018/09/24/tuning-a-data-preprocessing-pipeline-with-recipes-and-modelgrid/),174,FALSE,###  Tutorials,link,2018-10-01
+"+ [What Are We Plotting, What Are We Animating](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)",128,FALSE,###  Tutorials,link,2018-10-01
+"+ [Import a directory of CSV files into a single data frame using {fs}, {purrr}, and {readr}.](https://www.gerkelab.com/blog/2018/09/import-directory-csv-purrr-readr/)",167,FALSE,###  Tutorials,link,2018-10-01
++ [A Subtle Flaw in Some Popular R NSE Interfaces](http://www.win-vector.com/blog/2018/09/a-subtle-flaw-in-some-popular-r-nse-interfaces/),138,FALSE,###  Tutorials,link,2018-10-01
++ [Memoise with object size limit](https://coolbutuseless.github.io/2018/09/24/memoise-with-object-size-limit/),111,FALSE,###  Tutorials,link,2018-10-01
++ [simstudy update: improved correlated binary outcomes](https://www.rdatagen.net/post/simstudy-update-to-version-0-1-10/),122,FALSE,###  Tutorials,link,2018-10-01
++ [A Better Example of the Confused By The Environment Issue](http://www.win-vector.com/blog/2018/09/a-better-example-of-the-confused-by-the-environment-issue/),160,FALSE,###  Tutorials,link,2018-10-01
++ [Nonograms in R - 'nonogram' package](https://coolbutuseless.github.io/2018/09/26/nonograms-in-r---nonogram-package/),119,FALSE,###  Tutorials,link,2018-10-01
++ [3-D shadow maps in R: the rayshader package](http://blog.revolutionanalytics.com/2018/09/raytracer.html),107,FALSE,###  Tutorials,link,2018-10-01
+![3-D shadow maps in R: the rayshader package](https://revolution-computing.typepad.com/.a/6a010534b1db25970b022ad3945527200d-800wi),132,FALSE,###  Tutorials,image,2018-10-01
++ [Creating nonograms with 'nonogram' and 'magick' packages](https://coolbutuseless.github.io/2018/09/27/creating-nonograms-with-nonogram-and-magick-packages/),159,FALSE,###  Tutorials,link,2018-10-01
++ [Writing a nonogram solver in R](https://coolbutuseless.github.io/2018/09/28/writing-a-nonogram-solver-in-r/),111,FALSE,###  Tutorials,link,2018-10-01
++ [Quick Hit: Using the New Equal Earth Projection in R](https://rud.is/b/2018/09/28/quick-hit-using-the-new-equal-earth-projection-in-r/),138,FALSE,###  Tutorials,link,2018-10-01
+"+ [Combining data in R: the skill of merging, joining, and stacking](https://datascienceplus.com/combining-data-in-r-the-skill-of-merging-joining-and-stacking/)",160,FALSE,###  Tutorials,link,2018-10-01
++ [More health economics in R](http://statistica.it/gianluca/post/2018-09-23-more-health-economics-in-r/),105,FALSE,###  Tutorials,link,2018-10-01
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2018-10-01
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,###  Tutorials,unid,2018-10-01
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-10-01
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2018-10-01
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-10-01
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-10-01
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">One last trick for the day: after webscraping you often get these vectors with punctuation and additional words, when you just want numbers. I find readr::parse_number() even shorter than regexing the digits out of it. 🎉 <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/C8XdKvkSAb"">pic.twitter.com/C8XdKvkSAb</a></p>&mdash; We are R-Ladies (@WeAreRLadies) <a href=""https://twitter.com/WeAreRLadies/status/1045049154416898060?ref_src=twsrc%5Etfw"">September 26, 2018</a></blockquote>",616,FALSE,###  Quotes of the Week,unid,2018-10-01
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">If you&#39;re waiting around for a long-running analysis in R, try adding a sound effect from &quot;beepr&quot; to your script. Not only will it cue you when your results are ready, it makes <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> more fun. After all, who doesn&#39;t want to hear Mario&#39;s flagpole fanfare?<br>beepr::beep(sound = 8)</p>&mdash; Jeff Dahlke (@JeffreyDahlke) <a href=""https://twitter.com/JeffreyDahlke/status/1044367492745973760?ref_src=twsrc%5Etfw"">September 24, 2018</a></blockquote>",625,FALSE,###  Quotes of the Week,unid,2018-10-01

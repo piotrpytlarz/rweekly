@@ -1,75 +1,75 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-6-11
-"title: R Weekly 2018-24 Conflicted, Dockerise, Diversity",56,FALSE,NA,NA,unid,2018-6-11
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-6-11
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-6-11
----,3,FALSE,NA,NA,unid,2018-6-11
-+ [conflicted](https://www.tidyverse.org/articles/2018/06/conflicted/) - a new approach to resolving ambiguity,110,FALSE,NA,###  Highlight,link,2018-6-11
-+ [On conduct and diversity in the R Community](https://www.r-consortium.org/announcement/2018/06/07/on-conduct-and-diversity-in-the-r-community),145,FALSE,NA,###  Highlight,link,2018-6-11
-+ [.rprofile: Julia Silge](https://ropensci.org/blog/2018/06/08/rprofile-julia-silge/),86,FALSE,NA,###  Highlight,link,2018-6-11
-+ [Dockerise and deploy your own R Archive Repo](https://rtask.thinkr.fr/blog/dockerise-and-deploy-your-own-r-archive-repo/),124,FALSE,NA,###  Highlight,link,2018-6-11
-"+ [Unconf18 projects](https://ropensci.org/blog/2018/06/08/unconf_recap_4/) - [1](https://ropensci.org/blog/2018/06/05/unconf_recap_1/), [2](https://ropensci.org/blog/2018/06/06/unconf18_recap_2/), [3](https://ropensci.org/blog/2018/06/07/unconf_recap_3/), [4](https://ropensci.org/blog/2018/06/08/unconf_recap_4/)",314,FALSE,NA,###  Highlight,link,2018-6-11
-"+ [Fair is foul, and foul is fair: a tidytext sentiment analysis of Shakespeare's tragedies](https://peerchristensen.netlify.com/post/fair-is-foul-and-foul-is-fair-a-tidytext-entiment-analysis-of-shakespeare-s-tragedies/)",221,FALSE,NA,### R in the Real World,link,2018-6-11
-![Fair is foul](https://raw.githubusercontent.com/rweekly/image/master/2018/book-18.png),88,FALSE,NA,### R in the Real World,image,2018-6-11
-"+ [Hello, Dorling! (Creating Dorling Cartograms from R Spatial Objects + Introducing Prism Skeleton)](https://rud.is/b/2018/06/03/hello-dorling-creating-dorling-cartograms-from-r-spatial-objects-introducing-prism-skeleton/)",223,FALSE,NA,### R in the Real World,link,2018-6-11
-"![Hello, Dorling!](https://raw.githubusercontent.com/rweekly/image/master/2018/dorling.png)",91,FALSE,NA,### R in the Real World,image,2018-6-11
-+ [Hand-crafted curation: meta-#SoDS18](https://maraaverick.rbind.io/2018/06/meta-sods18-a-call-to-curation/),109,FALSE,NA,### R in the Real World,link,2018-6-11
-+ [One Year Anniversary](https://jessesadler.com/post/one-year-reflections/),76,FALSE,NA,### R in the Real World,link,2018-6-11
-+ [Making World Tile Grid-Grids](https://rud.is/b/2018/06/07/making-world-tile-grid-grids/),91,FALSE,NA,### R in the Real World,link,2018-6-11
-![Making World Tile Grid-Grids](https://raw.githubusercontent.com/rweekly/image/master/2018/chart2-1.png),105,FALSE,NA,### R in the Real World,image,2018-6-11
-+ [Estimating mortality rates in Puerto Rico after hurricane Maria using newly released official death counts](https://simplystatistics.org/2018/06/08/a-first-look-at-recently-released-official-puerto-rico-death-count-data/),224,FALSE,NA,### R in the Real World,link,2018-6-11
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-6-11
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-6-11
-+ [conflicted](https://www.tidyverse.org/articles/2018/06/conflicted/) - a new approach to resolving ambiguity,110,FALSE,NA,###  New Packages,link,2018-6-11
-* [ssh](https://cran.r-project.org/web/packages/ssh/vignettes/intro.html) - Secure Shell (SSH) Client for R.,108,FALSE,NA,###  New Packages,unid,2018-6-11
-+ [xplain](https://topics-in-r.blogspot.com/2018/05/new-r-package-xplain-providing.html) - Interactive interpretations and explanations of statistical results,158,FALSE,NA,###  New Packages,link,2018-6-11
-**BioC**,8,FALSE,NA,###  New Packages,unid,2018-6-11
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-6-11
-* [blogyaml](https://github.com/ropenscilabs/blogyaml) - batch edit tags of Markdown based blog posts.,102,FALSE,NA,###  New Packages,unid,2018-6-11
-+ [rqdatatable](http://www.win-vector.com/blog/2018/06/rqdatatable-rquery-powered-by-data-table/) - rquery Powered by data.table,128,FALSE,NA,###  New Packages,link,2018-6-11
-+ [huxtable](https://hughjonesd.github.io/huxtable/) -  creating HTML and LaTeX tables,86,FALSE,NA,### Package Releases,link,2018-6-11
-+ [pinp 0.0.5](http://dirk.eddelbuettel.com/blog/2018/06/08#pinp_0.0.5) - Accomodate pandoc 2.*,95,FALSE,NA,### Package Releases,link,2018-6-11
-![pinp 0.0.5](https://raw.githubusercontent.com/rweekly/image/master/2018/pinp.png),83,FALSE,NA,### Package Releases,image,2018-6-11
-+ [Microsoft R Open 3.5.0 now available](http://blog.revolutionanalytics.com/2018/06/microsoft-r-open-350-now-available.html),125,FALSE,NA,### Package Releases,link,2018-6-11
-+ [On conduct and diversity in the R Community](https://www.r-consortium.org/announcement/2018/06/07/on-conduct-and-diversity-in-the-r-community),145,FALSE,NA,### Insights,link,2018-6-11
-+ [Trustworthy Data Analysis](https://simplystatistics.org/2018/06/04/trustworthy-data-analysis/),97,FALSE,NA,### Insights,link,2018-6-11
-+ [.rprofile: Julia Silge](https://ropensci.org/blog/2018/06/08/rprofile-julia-silge/),86,FALSE,NA,### Insights,link,2018-6-11
-+ [Keynote from the Cascadia 2018 R Conference on creatively learning for beginners and advanced users.](https://speakerdeck.com/apreshill/big-magic-with-r-creative-learning-beyond-fear),186,FALSE,NA,###  Resources,link,2018-6-11
-"+ [R Datasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html) - 1,000+ datasets available through popular packages",129,FALSE,NA,###  Resources,link,2018-6-11
-"+ [Unconf18 projects](https://ropensci.org/blog/2018/06/08/unconf_recap_4/) - [1](https://ropensci.org/blog/2018/06/05/unconf_recap_1/), [2](https://ropensci.org/blog/2018/06/06/unconf18_recap_2/), [3](https://ropensci.org/blog/2018/06/07/unconf_recap_3/), [4](https://ropensci.org/blog/2018/06/08/unconf_recap_4/)",314,FALSE,NA,###  R in Organizations,link,2018-6-11
-"+ [Exploring, experimenting, and building software and trust at rOpenSci's unconf18](https://ropensci.org/blog/2018/06/05/unconf18/)",132,FALSE,NA,###  R in Organizations,link,2018-6-11
-+ [Webスクレーピングから可視化まで、Tidyverseパッケージで探索データ解析（EDA）!](https://ryo-n7.github.io/2018-06-07-global-peace-index-JP/),110,FALSE,NA,### R Internationally,link,2018-6-11
-+ [Animating a Monte Carlo Simulation](https://roh.engineering/post/animating-a-monte-carlo-simulation/),104,FALSE,NA,###  Tutorials,link,2018-6-11
-![Animating a Monte Carlo Simulation](https://raw.githubusercontent.com/rweekly/image/master/2018/monte.gif),108,FALSE,NA,###  Tutorials,image,2018-6-11
-+ [The Potential Dangers of Using 'Depends'](https://github.com/leeper/Depends),79,FALSE,NA,###  Tutorials,link,2018-6-11
-<!--more-->,11,FALSE,NA,###  Tutorials,unid,2018-6-11
-+ [Authorship Attribution with Widyr and Tidytext](http://kanishka.xyz/2018/my-first-few-open-source-contributions-authorship-attribution-of-the-federalist-papers/),164,FALSE,NA,###  Tutorials,link,2018-6-11
-"+ [summarizing values from merged cells using dplyr, tidyr and tidy evaluation](https://luisdva.github.io/rstats/unbreaking-vals/)",130,FALSE,NA,###  Tutorials,link,2018-6-11
-+ [Monte Carlo](https://rviews.rstudio.com/2018/06/05/monte-carlo/),67,FALSE,NA,###  Tutorials,link,2018-6-11
-+ [Even Simpler SQL](https://www.johnmackintosh.com/2018-06-03-even-simpler-sql/),81,FALSE,NA,###  Tutorials,link,2018-6-11
-+ [A closer look at replicate() and purrr::map() for simulations](https://aosmith.rbind.io/2018/06/05/a-closer-look-at-replicate-and-purrr/),140,FALSE,NA,###  Tutorials,link,2018-6-11
-+ [What's new in Azure for Machine Learning and AI](http://blog.revolutionanalytics.com/2018/06/whats-new-in-azure-for-machine-learning-and-ai.html),148,FALSE,NA,###  Tutorials,link,2018-6-11
-+ [Dockerise and deploy your own R Archive Repo](https://rtask.thinkr.fr/blog/dockerise-and-deploy-your-own-r-archive-repo/),124,FALSE,NA,###  Tutorials,link,2018-6-11
-+ [R interface to the Discogs API](https://ewen.io/2018/06/07/discogger-day-one/),81,FALSE,NA,###  Tutorials,link,2018-6-11
-![R interface to the Discogs API](https://cdn.rawgit.com/rweekly/image/master/2018/discogger.svg),97,FALSE,NA,###  Tutorials,image,2018-6-11
-+ [Testers for RFishBC](http://derekogle.com/fishR/2018-06-07-RFishBC-Testers),78,FALSE,NA,###  Tutorials,link,2018-6-11
-+ [maximal spacing around order statistics [#2]](https://xianblog.wordpress.com/2018/06/08/maximal-spacing-around-order-statistics-2/),134,FALSE,NA,###  Tutorials,link,2018-6-11
-+ [An introduction to machine learning with Keras in R](https://theoreticalecology.wordpress.com/2018/06/06/an-introduction-to-machine-learning-with-keras-in-r/),161,FALSE,NA,###  Tutorials,link,2018-6-11
-+ [Sentiment Use Across the Course of Pitchfork Music Reviews: A Tidy Text Analysis with R](https://methodmatters.blogspot.com/2018/06/sentiment-use-across-course-of.html),171,FALSE,NA,###  Tutorials,link,2018-6-11
-+ [R functions for Bayesian Model Statistics and Summaries #rstats #stan #brms](https://strengejacke.wordpress.com/2018/06/06/r-functions-for-bayesian-model-statistics-and-summaries-rstats-stan-brms/),200,FALSE,NA,###  Tutorials,link,2018-6-11
-+ [Fancy Plot (with Posterior Samples) for Bayesian Regressions](https://neuropsychology.github.io/psycho.R//2018/06/03/plot_bayesian_model.html),145,FALSE,NA,###  Tutorials,link,2018-6-11
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-6-11
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-6-11
-+ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-6-11
-Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-6-11
-+ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-6-11
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-6-11
-+ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-6-11
-"Buenos Aires, Argentina.",24,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-6-11
-[This week's local R-User and applied stats events (week of 2018-06-04)](https://community.rstudio.com/t/upcoming-r-community-events-week-of-2018-06-04/9079),157,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-6-11
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-6-11
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-6-11
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">ggplot2 has a lot (and I say A LOT) of theme customisation that I can&#39;t remember each time what the argument name was. I forgot that <a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a> can have addins and one of them makes the <a href=""https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot</a> theme customisation easier 🙂 <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/57khHf3zS6"">pic.twitter.com/57khHf3zS6</a></p>&mdash; Emi Tanaka 🌾 (@statsgen) <a href=""https://twitter.com/statsgen/status/1002762682456367104?ref_src=twsrc%5Etfw"">June 2, 2018</a></blockquote>",747,FALSE,NA,###  Quotes of the Week,unid,2018-6-11
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">I don&#39;t usually share stuff like this but I kind of can&#39;t help myself in this case. Absolutely floored by comment from <a href=""https://twitter.com/xieyihui?ref_src=twsrc%5Etfw"">@xieyihui</a> about my new R package, slidex, for converting slides  from PPTX to <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw"">#xaringan</a>. WIP version here: <a href=""https://t.co/jck4z0eTMU"">https://t.co/jck4z0eTMU</a> <a href=""https://t.co/0GNkWG1KhQ"">pic.twitter.com/0GNkWG1KhQ</a></p>&mdash; Daniel Anderson (@datalorax_) <a href=""https://twitter.com/datalorax_/status/1003867459999285248?ref_src=twsrc%5Etfw"">June 5, 2018</a></blockquote>",828,FALSE,NA,###  Quotes of the Week,unid,2018-6-11
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">gganimate has reached the gapminder state of its development as transition_time() has been added <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a><br><br>p + ... +<br>  transition_time(year) + <br>  ease_aes(&#39;linear&#39;) <a href=""https://t.co/Hz8azd1lio"">pic.twitter.com/Hz8azd1lio</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href=""https://twitter.com/thomasp85/status/1004068316611260416?ref_src=twsrc%5Etfw"">June 5, 2018</a></blockquote>",563,FALSE,NA,###  Quotes of the Week,unid,2018-6-11
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">meme in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/hmOJIcYc74"">pic.twitter.com/hmOJIcYc74</a></p>&mdash; Guangchuang Yu (@guangchuangyu) <a href=""https://twitter.com/guangchuangyu/status/1003549886267121664?ref_src=twsrc%5Etfw"">June 4, 2018</a></blockquote>",398,FALSE,NA,###  Quotes of the Week,unid,2018-6-11
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-6-11
+"title: R Weekly 2018-24 Conflicted, Dockerise, Diversity",56,FALSE,NA,unid,2018-6-11
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-6-11
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-6-11
+---,3,FALSE,NA,unid,2018-6-11
++ [conflicted](https://www.tidyverse.org/articles/2018/06/conflicted/) - a new approach to resolving ambiguity,110,FALSE,###  Highlight,link,2018-6-11
++ [On conduct and diversity in the R Community](https://www.r-consortium.org/announcement/2018/06/07/on-conduct-and-diversity-in-the-r-community),145,FALSE,###  Highlight,link,2018-6-11
++ [.rprofile: Julia Silge](https://ropensci.org/blog/2018/06/08/rprofile-julia-silge/),86,FALSE,###  Highlight,link,2018-6-11
++ [Dockerise and deploy your own R Archive Repo](https://rtask.thinkr.fr/blog/dockerise-and-deploy-your-own-r-archive-repo/),124,FALSE,###  Highlight,link,2018-6-11
+"+ [Unconf18 projects](https://ropensci.org/blog/2018/06/08/unconf_recap_4/) - [1](https://ropensci.org/blog/2018/06/05/unconf_recap_1/), [2](https://ropensci.org/blog/2018/06/06/unconf18_recap_2/), [3](https://ropensci.org/blog/2018/06/07/unconf_recap_3/), [4](https://ropensci.org/blog/2018/06/08/unconf_recap_4/)",314,FALSE,###  Highlight,link,2018-6-11
+"+ [Fair is foul, and foul is fair: a tidytext sentiment analysis of Shakespeare's tragedies](https://peerchristensen.netlify.com/post/fair-is-foul-and-foul-is-fair-a-tidytext-entiment-analysis-of-shakespeare-s-tragedies/)",221,FALSE,### R in the Real World,link,2018-6-11
+![Fair is foul](https://raw.githubusercontent.com/rweekly/image/master/2018/book-18.png),88,FALSE,### R in the Real World,image,2018-6-11
+"+ [Hello, Dorling! (Creating Dorling Cartograms from R Spatial Objects + Introducing Prism Skeleton)](https://rud.is/b/2018/06/03/hello-dorling-creating-dorling-cartograms-from-r-spatial-objects-introducing-prism-skeleton/)",223,FALSE,### R in the Real World,link,2018-6-11
+"![Hello, Dorling!](https://raw.githubusercontent.com/rweekly/image/master/2018/dorling.png)",91,FALSE,### R in the Real World,image,2018-6-11
++ [Hand-crafted curation: meta-#SoDS18](https://maraaverick.rbind.io/2018/06/meta-sods18-a-call-to-curation/),109,FALSE,### R in the Real World,link,2018-6-11
++ [One Year Anniversary](https://jessesadler.com/post/one-year-reflections/),76,FALSE,### R in the Real World,link,2018-6-11
++ [Making World Tile Grid-Grids](https://rud.is/b/2018/06/07/making-world-tile-grid-grids/),91,FALSE,### R in the Real World,link,2018-6-11
+![Making World Tile Grid-Grids](https://raw.githubusercontent.com/rweekly/image/master/2018/chart2-1.png),105,FALSE,### R in the Real World,image,2018-6-11
++ [Estimating mortality rates in Puerto Rico after hurricane Maria using newly released official death counts](https://simplystatistics.org/2018/06/08/a-first-look-at-recently-released-official-puerto-rico-death-count-data/),224,FALSE,### R in the Real World,link,2018-6-11
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-6-11
+**CRAN**,8,FALSE,###  New Packages,unid,2018-6-11
++ [conflicted](https://www.tidyverse.org/articles/2018/06/conflicted/) - a new approach to resolving ambiguity,110,FALSE,###  New Packages,link,2018-6-11
+* [ssh](https://cran.r-project.org/web/packages/ssh/vignettes/intro.html) - Secure Shell (SSH) Client for R.,108,FALSE,###  New Packages,unid,2018-6-11
++ [xplain](https://topics-in-r.blogspot.com/2018/05/new-r-package-xplain-providing.html) - Interactive interpretations and explanations of statistical results,158,FALSE,###  New Packages,link,2018-6-11
+**BioC**,8,FALSE,###  New Packages,unid,2018-6-11
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2018-6-11
+* [blogyaml](https://github.com/ropenscilabs/blogyaml) - batch edit tags of Markdown based blog posts.,102,FALSE,###  New Packages,unid,2018-6-11
++ [rqdatatable](http://www.win-vector.com/blog/2018/06/rqdatatable-rquery-powered-by-data-table/) - rquery Powered by data.table,128,FALSE,###  New Packages,link,2018-6-11
++ [huxtable](https://hughjonesd.github.io/huxtable/) -  creating HTML and LaTeX tables,86,FALSE,### Package Releases,link,2018-6-11
++ [pinp 0.0.5](http://dirk.eddelbuettel.com/blog/2018/06/08#pinp_0.0.5) - Accomodate pandoc 2.*,95,FALSE,### Package Releases,link,2018-6-11
+![pinp 0.0.5](https://raw.githubusercontent.com/rweekly/image/master/2018/pinp.png),83,FALSE,### Package Releases,image,2018-6-11
++ [Microsoft R Open 3.5.0 now available](http://blog.revolutionanalytics.com/2018/06/microsoft-r-open-350-now-available.html),125,FALSE,### Package Releases,link,2018-6-11
++ [On conduct and diversity in the R Community](https://www.r-consortium.org/announcement/2018/06/07/on-conduct-and-diversity-in-the-r-community),145,FALSE,### Insights,link,2018-6-11
++ [Trustworthy Data Analysis](https://simplystatistics.org/2018/06/04/trustworthy-data-analysis/),97,FALSE,### Insights,link,2018-6-11
++ [.rprofile: Julia Silge](https://ropensci.org/blog/2018/06/08/rprofile-julia-silge/),86,FALSE,### Insights,link,2018-6-11
++ [Keynote from the Cascadia 2018 R Conference on creatively learning for beginners and advanced users.](https://speakerdeck.com/apreshill/big-magic-with-r-creative-learning-beyond-fear),186,FALSE,###  Resources,link,2018-6-11
+"+ [R Datasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html) - 1,000+ datasets available through popular packages",129,FALSE,###  Resources,link,2018-6-11
+"+ [Unconf18 projects](https://ropensci.org/blog/2018/06/08/unconf_recap_4/) - [1](https://ropensci.org/blog/2018/06/05/unconf_recap_1/), [2](https://ropensci.org/blog/2018/06/06/unconf18_recap_2/), [3](https://ropensci.org/blog/2018/06/07/unconf_recap_3/), [4](https://ropensci.org/blog/2018/06/08/unconf_recap_4/)",314,FALSE,###  R in Organizations,link,2018-6-11
+"+ [Exploring, experimenting, and building software and trust at rOpenSci's unconf18](https://ropensci.org/blog/2018/06/05/unconf18/)",132,FALSE,###  R in Organizations,link,2018-6-11
++ [Webスクレーピングから可視化まで、Tidyverseパッケージで探索データ解析（EDA）!](https://ryo-n7.github.io/2018-06-07-global-peace-index-JP/),110,FALSE,### R Internationally,link,2018-6-11
++ [Animating a Monte Carlo Simulation](https://roh.engineering/post/animating-a-monte-carlo-simulation/),104,FALSE,###  Tutorials,link,2018-6-11
+![Animating a Monte Carlo Simulation](https://raw.githubusercontent.com/rweekly/image/master/2018/monte.gif),108,FALSE,###  Tutorials,image,2018-6-11
++ [The Potential Dangers of Using 'Depends'](https://github.com/leeper/Depends),79,FALSE,###  Tutorials,link,2018-6-11
+<!--more-->,11,FALSE,###  Tutorials,unid,2018-6-11
++ [Authorship Attribution with Widyr and Tidytext](http://kanishka.xyz/2018/my-first-few-open-source-contributions-authorship-attribution-of-the-federalist-papers/),164,FALSE,###  Tutorials,link,2018-6-11
+"+ [summarizing values from merged cells using dplyr, tidyr and tidy evaluation](https://luisdva.github.io/rstats/unbreaking-vals/)",130,FALSE,###  Tutorials,link,2018-6-11
++ [Monte Carlo](https://rviews.rstudio.com/2018/06/05/monte-carlo/),67,FALSE,###  Tutorials,link,2018-6-11
++ [Even Simpler SQL](https://www.johnmackintosh.com/2018-06-03-even-simpler-sql/),81,FALSE,###  Tutorials,link,2018-6-11
++ [A closer look at replicate() and purrr::map() for simulations](https://aosmith.rbind.io/2018/06/05/a-closer-look-at-replicate-and-purrr/),140,FALSE,###  Tutorials,link,2018-6-11
++ [What's new in Azure for Machine Learning and AI](http://blog.revolutionanalytics.com/2018/06/whats-new-in-azure-for-machine-learning-and-ai.html),148,FALSE,###  Tutorials,link,2018-6-11
++ [Dockerise and deploy your own R Archive Repo](https://rtask.thinkr.fr/blog/dockerise-and-deploy-your-own-r-archive-repo/),124,FALSE,###  Tutorials,link,2018-6-11
++ [R interface to the Discogs API](https://ewen.io/2018/06/07/discogger-day-one/),81,FALSE,###  Tutorials,link,2018-6-11
+![R interface to the Discogs API](https://cdn.rawgit.com/rweekly/image/master/2018/discogger.svg),97,FALSE,###  Tutorials,image,2018-6-11
++ [Testers for RFishBC](http://derekogle.com/fishR/2018-06-07-RFishBC-Testers),78,FALSE,###  Tutorials,link,2018-6-11
++ [maximal spacing around order statistics [#2]](https://xianblog.wordpress.com/2018/06/08/maximal-spacing-around-order-statistics-2/),134,FALSE,###  Tutorials,link,2018-6-11
++ [An introduction to machine learning with Keras in R](https://theoreticalecology.wordpress.com/2018/06/06/an-introduction-to-machine-learning-with-keras-in-r/),161,FALSE,###  Tutorials,link,2018-6-11
++ [Sentiment Use Across the Course of Pitchfork Music Reviews: A Tidy Text Analysis with R](https://methodmatters.blogspot.com/2018/06/sentiment-use-across-course-of.html),171,FALSE,###  Tutorials,link,2018-6-11
++ [R functions for Bayesian Model Statistics and Summaries #rstats #stan #brms](https://strengejacke.wordpress.com/2018/06/06/r-functions-for-bayesian-model-statistics-and-summaries-rstats-stan-brms/),200,FALSE,###  Tutorials,link,2018-6-11
++ [Fancy Plot (with Posterior Samples) for Bayesian Regressions](https://neuropsychology.github.io/psycho.R//2018/06/03/plot_bayesian_model.html),145,FALSE,###  Tutorials,link,2018-6-11
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2018-6-11
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-6-11
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,###  Upcoming Events in 3 Months,link,2018-6-11
+Rennes - Agrocampus,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-6-11
++ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,###  Upcoming Events in 3 Months,link,2018-6-11
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,###  Upcoming Events in 3 Months,unid,2018-6-11
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,###  Upcoming Events in 3 Months,link,2018-6-11
+"Buenos Aires, Argentina.",24,FALSE,###  Upcoming Events in 3 Months,unid,2018-6-11
+[This week's local R-User and applied stats events (week of 2018-06-04)](https://community.rstudio.com/t/upcoming-r-community-events-week-of-2018-06-04/9079),157,FALSE,###  Upcoming Events in 3 Months,unid,2018-6-11
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-6-11
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-6-11
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">ggplot2 has a lot (and I say A LOT) of theme customisation that I can&#39;t remember each time what the argument name was. I forgot that <a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a> can have addins and one of them makes the <a href=""https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot</a> theme customisation easier 🙂 <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/57khHf3zS6"">pic.twitter.com/57khHf3zS6</a></p>&mdash; Emi Tanaka 🌾 (@statsgen) <a href=""https://twitter.com/statsgen/status/1002762682456367104?ref_src=twsrc%5Etfw"">June 2, 2018</a></blockquote>",747,FALSE,###  Quotes of the Week,unid,2018-6-11
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">I don&#39;t usually share stuff like this but I kind of can&#39;t help myself in this case. Absolutely floored by comment from <a href=""https://twitter.com/xieyihui?ref_src=twsrc%5Etfw"">@xieyihui</a> about my new R package, slidex, for converting slides  from PPTX to <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw"">#xaringan</a>. WIP version here: <a href=""https://t.co/jck4z0eTMU"">https://t.co/jck4z0eTMU</a> <a href=""https://t.co/0GNkWG1KhQ"">pic.twitter.com/0GNkWG1KhQ</a></p>&mdash; Daniel Anderson (@datalorax_) <a href=""https://twitter.com/datalorax_/status/1003867459999285248?ref_src=twsrc%5Etfw"">June 5, 2018</a></blockquote>",828,FALSE,###  Quotes of the Week,unid,2018-6-11
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">gganimate has reached the gapminder state of its development as transition_time() has been added <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a><br><br>p + ... +<br>  transition_time(year) + <br>  ease_aes(&#39;linear&#39;) <a href=""https://t.co/Hz8azd1lio"">pic.twitter.com/Hz8azd1lio</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href=""https://twitter.com/thomasp85/status/1004068316611260416?ref_src=twsrc%5Etfw"">June 5, 2018</a></blockquote>",563,FALSE,###  Quotes of the Week,unid,2018-6-11
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">meme in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/hmOJIcYc74"">pic.twitter.com/hmOJIcYc74</a></p>&mdash; Guangchuang Yu (@guangchuangyu) <a href=""https://twitter.com/guangchuangyu/status/1003549886267121664?ref_src=twsrc%5Etfw"">June 4, 2018</a></blockquote>",398,FALSE,###  Quotes of the Week,unid,2018-6-11

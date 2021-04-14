@@ -1,84 +1,84 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2017-08-07
-"title: R Weekly 2017-32 Unicode, Serverless, Parallel",53,FALSE,NA,NA,unid,2017-08-07
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-08-07
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2017-08-07
----,3,FALSE,NA,NA,unid,2017-08-07
-+ [Creating a serverless R API on Google Cloud Platform](https://github.com/MarkEdmondson1234/serverless-R-API-appengine),121,FALSE,NA,###  Highlight,link,2017-08-07
-+ [Updated overbought/oversold plot function](http://dirk.eddelbuettel.com/blog/2017/07/29#updated_overbought_oversold_plot),124,FALSE,NA,### Insights,link,2017-08-07
-+ [Understanding Overhead Issues in Parallel Computation](https://matloff.wordpress.com/2017/07/29/understanding-overhead-issues-in-parallel-computation/),154,FALSE,NA,### Insights,link,2017-08-07
-+ [R for System Adminstration](http://dirk.eddelbuettel.com/blog/2017/08/03#r_for_system_administration),104,FALSE,NA,###  R in the Real World,link,2017-08-07
-+ [Sampling distribution of weighted Gini coefficient](http://ellisp.github.io/blog/2017/08/05/weighted-gini),109,FALSE,NA,###  R in the Real World,link,2017-08-07
-+ [On Databeers Manila](http://www.tjpalanca.com/2017/07/databeers-mnl.html),76,FALSE,NA,###  R in the Real World,link,2017-08-07
-![On Databeers Manila](https://raw.githubusercontent.com/rweekly/image/master/2017-6/20170731-reactions-vs-articles-opt.gif),124,FALSE,NA,###  R in the Real World,image,2017-08-07
-+ [What makes an R talk popular? Scraping useR2017 attendance information to find out!](http://deanattali.com/blog/user2017/),125,FALSE,NA,###  R in the Real World,link,2017-08-07
-"+ [When do different types of crime occur during the day in Houston, Texas?](https://gist.github.com/seasmith/3dfbd76cf2f12f185ef86ae8b4528874)",143,FALSE,NA,###  R in the Real World,link,2017-08-07
-"![When do different types of crime occur during the day in Houston, Texas?](https://pbs.twimg.com/media/DGQJECrVwAAeyoa.jpg)",124,FALSE,NA,###  R in the Real World,image,2017-08-07
-"+ [NSSD 28 - Writing is a Lot Harder Than Just Talking](http://nssdeviations.com/28-writing-is-a-lot-harder-than-just-talking) - Hilary and Roger talk about building data science products that provide a good user experience while adhering to some kind of ground truth, whether it’s in medicine, education, news, or elsewhere. Also Gilmore Girls.",345,FALSE,NA,###  Videos and Podcasts,link,2017-08-07
-"+ [Stan Weekly Roundup, 3 August 2017](http://andrewgelman.com/2017/08/04/stan-weekly-update-3-august-2017/)",108,FALSE,NA,###  R in Organizations,link,2017-08-07
-+ [elastic - Elasticsearch for R](http://ropensci.org/blog/technotes/2017/08/02/elasticsearch-client),101,FALSE,NA,###  R in Organizations,link,2017-08-07
-+ [emldown - From machine readable EML metadata to a pretty documentation website](http://ropensci.org/blog/blog/2017/08/01/emldown),132,FALSE,NA,###  R in Organizations,link,2017-08-07
-+ [A Postcard from JSM](https://rviews.rstudio.com/2017/08/02/a-postcard-from-jsm/),83,FALSE,NA,###  R in Organizations,link,2017-08-07
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2017-08-07
-+ [itunesr](https://cran.r-project.org/web/packages/itunesr/index.html) - Access iTunes App Store Ratings and Reviews using R,125,FALSE,NA,###  New Packages,link,2017-08-07
-+ [postr](https://github.com/odeleongt/postr) - Prepare reproducible R Markdown posters,87,FALSE,NA,###  New Packages,link,2017-08-07
-+ [utf8splain](https://github.com/ThinkRstat/utf8splain) - Explain utf-8 encoded strings,88,FALSE,NA,###  New Packages,link,2017-08-07
-+ [sparklyr 0.6](https://blog.rstudio.com/2017/07/31/sparklyr-0-6/),67,FALSE,NA,### Package Releases,link,2017-08-07
-+ [plotly 4.7.1 now on CRAN](http://moderndata.plot.ly/plotly-4-7-1-now-on-cran/),81,FALSE,NA,### Package Releases,link,2017-08-07
-+ [Creating a serverless R API on Google Cloud Platform](https://github.com/MarkEdmondson1234/serverless-R-API-appengine),121,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Visualising Similarity: Maps vs. Graphs](http://www.exactness.net/post/163519386590),87,FALSE,NA,###  Tutorials,link,2017-08-07
-"+ [Joy Division, Population Surfaces and Pioneering Electronic Cartography](http://spatial.ly/2017/07/joy-division-population-surfaces-and-pioneering-electronic-cartography/)",174,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [The R Shiny packages you need for your web apps!](http://enhancedatascience.com/2017/07/10/the-packages-you-need-for-your-r-shiny-application/),146,FALSE,NA,###  Tutorials,link,2017-08-07
-![The R Shiny packages you need for your web apps!](https://i2.wp.com/enhancedatascience.com/wp-content/uploads/2017/07/formattable.png?w=975),142,FALSE,NA,###  Tutorials,image,2017-08-07
-"+ [Learn parallel programming in R with these exercises for ""foreach""](http://blog.revolutionanalytics.com/2017/07/foreach-exercises.html)",138,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [A fortune slack slash command using plumber](https://romain.rbind.io/blog/2017/07/29/a-fortune-slack-slash-command-using-plumber/),133,FALSE,NA,###  Tutorials,link,2017-08-07
-"+ [Analyzing ""Crawl-Delay"" Settings in Common Crawl robots.txt Data with R](https://rud.is/b/2017/07/28/analyzing-wait-delay-settings-in-common-crawl-robots-txt-data-with-r/)",174,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [More documentation for Win-Vector R packages](http://www.win-vector.com/blog/2017/07/more-documentation-for-win-vector-r-packages/),134,FALSE,NA,###  Tutorials,link,2017-08-07
-"+ [Tidy Time Series Analysis, Part 3: The Rolling Correlation](http://www.business-science.io/timeseries-analysis/2017/07/30/tidy-timeseries-analysis-pt-3.html)",160,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Scripting for data analysis (with R)](https://martinsbioblogg.wordpress.com/2017/07/30/scripting-for-data-analysis-with-r/),126,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [What analysis programs drive conservation science?](http://www.seascapemodels.org/rstats/2017/08/01/analysis-programs-driving-conservation.html),147,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Google Vision API in R – RoogleVision](https://www.stoltzmaniac.com/google-vision-api-in-r-rooglevision/),108,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [How to use H2O with R on HDInsight ](http://blog.revolutionanalytics.com/2017/07/h2o-hdinsight.html),103,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Transfer Learning with Keras in R](http://flovv.github.io/Logo_detection_transfer_learning/),95,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Pimping the StatCan Blog](https://www.mytinyshinys.com/2017/08/01/statcan),77,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Let's Talk Drawdowns (And Affiliates)](https://quantstrattrader.wordpress.com/2017/08/01/lets-talk-drawdowns-and-affiliates/),128,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [R⁶ — Reticulating Parquet Files](https://rud.is/b/2017/08/01/r%e2%81%b6-reticulating-parquet-files/),103,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [HebRew (using Hebrew in R)](http://r-posts.com/hebrew-using-hebrew-in-r/),76,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [A modern database interface for R](http://blog.revolutionanalytics.com/2017/08/a-modern-database-interface-for-r.html),121,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Five kinds of weather you'll meet in America](http://www.decisionsciencenews.com/2017/08/01/five-kinds-weather-youll-meet-america/),134,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [F-Test: Compare Two Variances in R](http://www.sthda.com/english/wiki/f-test-compare-two-variances-in-r),107,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Twitter Coverage of the ISMB/ECCB Conference 2017](https://nsaunders.wordpress.com/2017/08/02/twitter-coverage-of-the-ismbeccb-conference-2017/),147,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Find Images With Images](https://blogs.technet.microsoft.com/machinelearning/2017/07/31/find-images-with-images/),116,FALSE,NA,###  Tutorials,link,2017-08-07
-"+ [Applications in energy, retail and shipping](http://blog.revolutionanalytics.com/2017/08/gallery-solutions.html)",115,FALSE,NA,###  Tutorials,link,2017-08-07
-"![Applications in energy, retail and shipping](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb09b52745970d-pi)",129,FALSE,NA,###  Tutorials,image,2017-08-07
-"+ [Unicode, utf-8, strings and emojis](https://romain.rbind.io/blog/2017/08/03/unicode-utf-8-strings-and-emojis/)",113,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Gathering Human Feedback](https://blog.openai.com/gathering_human_feedback/),79,FALSE,NA,###  Tutorials,link,2017-08-07
-"+ [Text categorization with deep learning, in R](http://blog.revolutionanalytics.com/2017/08/text-categorization-deep-learning.html)",132,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Numerical Differentiation with Finite Differences in R](http://www.aaronschlegel.com/numerical-differentiation-finite-differences-r/),136,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Joyswarm: Joyplot + beeswarm = awesome](http://lenkiefer.github.io/2017/08/03/joyswarm),90,FALSE,NA,###  Tutorials,link,2017-08-07
-"+ [recount workshop: Learn to leverage 70,000 human RNA-seq samples for your projects](http://lcolladotor.github.io/talk/bioc2017/)",131,FALSE,NA,###  Tutorials,link,2017-08-07
-"+ [Memorable dataviz with the R program, talk awarded people's choice prize](http://www.seascapemodels.org/rstats/2017/07/30/peoples-choice-dataviz.html)",153,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Saving High-Resolution ggplots: How to Preserve Semi-Transparency](http://www.sthda.com/english/wiki/saving-high-resolution-ggplots-how-to-preserve-semi-transparency),169,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Impact of the conservation optimism hashtag](http://www.seascapemodels.org/rstats/2017/08/04/conservationoptimism.html),122,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Let's Have Some Sympathy For The Part-time R User](http://www.win-vector.com/blog/2017/08/lets-have-some-sympathy-for-the-part-time-r-user/),143,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Passing user-supplied C++ functions with RcppXPtrUtils](http://gallery.rcpp.org//articles/passing-cpp-function-pointers-rcppxptrutils/),138,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Painting with Data](http://blog.revolutionanalytics.com/2017/08/kandinsky.html),82,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Because it's Friday: People remain awesome](http://blog.revolutionanalytics.com/2017/08/because-its-friday-people-remain-awesome.html),137,FALSE,NA,###  Tutorials,link,2017-08-07
-+ [Years as coloured bars](https://nsaunders.wordpress.com/2017/08/05/years-as-coloured-bars/),94,FALSE,NA,###  Tutorials,link,2017-08-07
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-08-07
-+ `lower.tri(x)` and `upper.tri(x)` only needing `dim(x)` now work via new `.row()` `.col()` and no longer call `as.matrix()` by default in order to work efficiently for all kind of matrix-like objects.,202,FALSE,NA,###  R Project Updates,unid,2017-08-07
-"+ `type.convert()` becomes a generic, with additional methods that operate recursively over list and `data.frame` objects. Courtesy of Arni Magnusson (PR#17269).",161,FALSE,NA,###  R Project Updates,unid,2017-08-07
-+ Setting `options(device = *)` to an invalid function no longer segfaults when plotting is initiated. (PR#15883),113,FALSE,NA,###  R Project Updates,unid,2017-08-07
-+ `encodeString(<very large string>)` no longer segfaults. (PR#15885),69,FALSE,NA,###  R Project Updates,unid,2017-08-07
-"+ Construction of `names()` for very large objects in `c()` and `unlist()` now works, thanks to Suharto Anggono's patch proposals in PR#17292.",142,FALSE,NA,###  R Project Updates,unid,2017-08-07
-+  `callNextMethod()` works for `...` methods. ,47,FALSE,NA,###  R Project Updates,unid,2017-08-07
-"+ `qr.coef(qd, y)` now has correct names also when `qd` is a complex QR or stems from `qr(*, LAPACK=TRUE)`.",107,FALSE,NA,###  R Project Updates,unid,2017-08-07
-+ RStudio conf 2018 **January 31 to February 3** <br />,55,FALSE,NA,###  Upcoming Events,unid,2017-08-07
-rstudio::conf is about all things R and RStudio! [Register & More infos](https://www.rstudio.com/conference/),109,FALSE,NA,###  Upcoming Events,unid,2017-08-07
-+ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events,unid,2017-08-07
-Applied Finance with R. [More info](http://www.rinfinance.com),62,FALSE,NA,###  Upcoming Events,unid,2017-08-07
-"+ useR! 2018 **July 10, 2018** <br />",37,FALSE,NA,###  Upcoming Events,unid,2017-08-07
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events,unid,2017-08-07
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-08-07
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2017-08-07
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Oh snap, <a href=""https://twitter.com/hashtag/tidyverse?src=hash"">#tidyverse</a> cameo on .<a href=""https://twitter.com/TheDailyShow"">@TheDailyShow</a> tonight! <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://t.co/3oh7IvszIm"">pic.twitter.com/3oh7IvszIm</a></p>&mdash; Robert Mitchell V (@RobertMitchellV) <a href=""https://twitter.com/RobertMitchellV/status/893342202536972289"">August 4, 2017</a></blockquote>",515,FALSE,NA,###  Quotes of the Week,unid,2017-08-07
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2017-08-07
+"title: R Weekly 2017-32 Unicode, Serverless, Parallel",53,FALSE,NA,unid,2017-08-07
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2017-08-07
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2017-08-07
+---,3,FALSE,NA,unid,2017-08-07
++ [Creating a serverless R API on Google Cloud Platform](https://github.com/MarkEdmondson1234/serverless-R-API-appengine),121,FALSE,###  Highlight,link,2017-08-07
++ [Updated overbought/oversold plot function](http://dirk.eddelbuettel.com/blog/2017/07/29#updated_overbought_oversold_plot),124,FALSE,### Insights,link,2017-08-07
++ [Understanding Overhead Issues in Parallel Computation](https://matloff.wordpress.com/2017/07/29/understanding-overhead-issues-in-parallel-computation/),154,FALSE,### Insights,link,2017-08-07
++ [R for System Adminstration](http://dirk.eddelbuettel.com/blog/2017/08/03#r_for_system_administration),104,FALSE,###  R in the Real World,link,2017-08-07
++ [Sampling distribution of weighted Gini coefficient](http://ellisp.github.io/blog/2017/08/05/weighted-gini),109,FALSE,###  R in the Real World,link,2017-08-07
++ [On Databeers Manila](http://www.tjpalanca.com/2017/07/databeers-mnl.html),76,FALSE,###  R in the Real World,link,2017-08-07
+![On Databeers Manila](https://raw.githubusercontent.com/rweekly/image/master/2017-6/20170731-reactions-vs-articles-opt.gif),124,FALSE,###  R in the Real World,image,2017-08-07
++ [What makes an R talk popular? Scraping useR2017 attendance information to find out!](http://deanattali.com/blog/user2017/),125,FALSE,###  R in the Real World,link,2017-08-07
+"+ [When do different types of crime occur during the day in Houston, Texas?](https://gist.github.com/seasmith/3dfbd76cf2f12f185ef86ae8b4528874)",143,FALSE,###  R in the Real World,link,2017-08-07
+"![When do different types of crime occur during the day in Houston, Texas?](https://pbs.twimg.com/media/DGQJECrVwAAeyoa.jpg)",124,FALSE,###  R in the Real World,image,2017-08-07
+"+ [NSSD 28 - Writing is a Lot Harder Than Just Talking](http://nssdeviations.com/28-writing-is-a-lot-harder-than-just-talking) - Hilary and Roger talk about building data science products that provide a good user experience while adhering to some kind of ground truth, whether it’s in medicine, education, news, or elsewhere. Also Gilmore Girls.",345,FALSE,###  Videos and Podcasts,link,2017-08-07
+"+ [Stan Weekly Roundup, 3 August 2017](http://andrewgelman.com/2017/08/04/stan-weekly-update-3-august-2017/)",108,FALSE,###  R in Organizations,link,2017-08-07
++ [elastic - Elasticsearch for R](http://ropensci.org/blog/technotes/2017/08/02/elasticsearch-client),101,FALSE,###  R in Organizations,link,2017-08-07
++ [emldown - From machine readable EML metadata to a pretty documentation website](http://ropensci.org/blog/blog/2017/08/01/emldown),132,FALSE,###  R in Organizations,link,2017-08-07
++ [A Postcard from JSM](https://rviews.rstudio.com/2017/08/02/a-postcard-from-jsm/),83,FALSE,###  R in Organizations,link,2017-08-07
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2017-08-07
++ [itunesr](https://cran.r-project.org/web/packages/itunesr/index.html) - Access iTunes App Store Ratings and Reviews using R,125,FALSE,###  New Packages,link,2017-08-07
++ [postr](https://github.com/odeleongt/postr) - Prepare reproducible R Markdown posters,87,FALSE,###  New Packages,link,2017-08-07
++ [utf8splain](https://github.com/ThinkRstat/utf8splain) - Explain utf-8 encoded strings,88,FALSE,###  New Packages,link,2017-08-07
++ [sparklyr 0.6](https://blog.rstudio.com/2017/07/31/sparklyr-0-6/),67,FALSE,### Package Releases,link,2017-08-07
++ [plotly 4.7.1 now on CRAN](http://moderndata.plot.ly/plotly-4-7-1-now-on-cran/),81,FALSE,### Package Releases,link,2017-08-07
++ [Creating a serverless R API on Google Cloud Platform](https://github.com/MarkEdmondson1234/serverless-R-API-appengine),121,FALSE,###  Tutorials,link,2017-08-07
++ [Visualising Similarity: Maps vs. Graphs](http://www.exactness.net/post/163519386590),87,FALSE,###  Tutorials,link,2017-08-07
+"+ [Joy Division, Population Surfaces and Pioneering Electronic Cartography](http://spatial.ly/2017/07/joy-division-population-surfaces-and-pioneering-electronic-cartography/)",174,FALSE,###  Tutorials,link,2017-08-07
++ [The R Shiny packages you need for your web apps!](http://enhancedatascience.com/2017/07/10/the-packages-you-need-for-your-r-shiny-application/),146,FALSE,###  Tutorials,link,2017-08-07
+![The R Shiny packages you need for your web apps!](https://i2.wp.com/enhancedatascience.com/wp-content/uploads/2017/07/formattable.png?w=975),142,FALSE,###  Tutorials,image,2017-08-07
+"+ [Learn parallel programming in R with these exercises for ""foreach""](http://blog.revolutionanalytics.com/2017/07/foreach-exercises.html)",138,FALSE,###  Tutorials,link,2017-08-07
++ [A fortune slack slash command using plumber](https://romain.rbind.io/blog/2017/07/29/a-fortune-slack-slash-command-using-plumber/),133,FALSE,###  Tutorials,link,2017-08-07
+"+ [Analyzing ""Crawl-Delay"" Settings in Common Crawl robots.txt Data with R](https://rud.is/b/2017/07/28/analyzing-wait-delay-settings-in-common-crawl-robots-txt-data-with-r/)",174,FALSE,###  Tutorials,link,2017-08-07
++ [More documentation for Win-Vector R packages](http://www.win-vector.com/blog/2017/07/more-documentation-for-win-vector-r-packages/),134,FALSE,###  Tutorials,link,2017-08-07
+"+ [Tidy Time Series Analysis, Part 3: The Rolling Correlation](http://www.business-science.io/timeseries-analysis/2017/07/30/tidy-timeseries-analysis-pt-3.html)",160,FALSE,###  Tutorials,link,2017-08-07
++ [Scripting for data analysis (with R)](https://martinsbioblogg.wordpress.com/2017/07/30/scripting-for-data-analysis-with-r/),126,FALSE,###  Tutorials,link,2017-08-07
++ [What analysis programs drive conservation science?](http://www.seascapemodels.org/rstats/2017/08/01/analysis-programs-driving-conservation.html),147,FALSE,###  Tutorials,link,2017-08-07
++ [Google Vision API in R – RoogleVision](https://www.stoltzmaniac.com/google-vision-api-in-r-rooglevision/),108,FALSE,###  Tutorials,link,2017-08-07
++ [How to use H2O with R on HDInsight ](http://blog.revolutionanalytics.com/2017/07/h2o-hdinsight.html),103,FALSE,###  Tutorials,link,2017-08-07
++ [Transfer Learning with Keras in R](http://flovv.github.io/Logo_detection_transfer_learning/),95,FALSE,###  Tutorials,link,2017-08-07
++ [Pimping the StatCan Blog](https://www.mytinyshinys.com/2017/08/01/statcan),77,FALSE,###  Tutorials,link,2017-08-07
++ [Let's Talk Drawdowns (And Affiliates)](https://quantstrattrader.wordpress.com/2017/08/01/lets-talk-drawdowns-and-affiliates/),128,FALSE,###  Tutorials,link,2017-08-07
++ [R⁶ — Reticulating Parquet Files](https://rud.is/b/2017/08/01/r%e2%81%b6-reticulating-parquet-files/),103,FALSE,###  Tutorials,link,2017-08-07
++ [HebRew (using Hebrew in R)](http://r-posts.com/hebrew-using-hebrew-in-r/),76,FALSE,###  Tutorials,link,2017-08-07
++ [A modern database interface for R](http://blog.revolutionanalytics.com/2017/08/a-modern-database-interface-for-r.html),121,FALSE,###  Tutorials,link,2017-08-07
++ [Five kinds of weather you'll meet in America](http://www.decisionsciencenews.com/2017/08/01/five-kinds-weather-youll-meet-america/),134,FALSE,###  Tutorials,link,2017-08-07
++ [F-Test: Compare Two Variances in R](http://www.sthda.com/english/wiki/f-test-compare-two-variances-in-r),107,FALSE,###  Tutorials,link,2017-08-07
++ [Twitter Coverage of the ISMB/ECCB Conference 2017](https://nsaunders.wordpress.com/2017/08/02/twitter-coverage-of-the-ismbeccb-conference-2017/),147,FALSE,###  Tutorials,link,2017-08-07
++ [Find Images With Images](https://blogs.technet.microsoft.com/machinelearning/2017/07/31/find-images-with-images/),116,FALSE,###  Tutorials,link,2017-08-07
+"+ [Applications in energy, retail and shipping](http://blog.revolutionanalytics.com/2017/08/gallery-solutions.html)",115,FALSE,###  Tutorials,link,2017-08-07
+"![Applications in energy, retail and shipping](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb09b52745970d-pi)",129,FALSE,###  Tutorials,image,2017-08-07
+"+ [Unicode, utf-8, strings and emojis](https://romain.rbind.io/blog/2017/08/03/unicode-utf-8-strings-and-emojis/)",113,FALSE,###  Tutorials,link,2017-08-07
++ [Gathering Human Feedback](https://blog.openai.com/gathering_human_feedback/),79,FALSE,###  Tutorials,link,2017-08-07
+"+ [Text categorization with deep learning, in R](http://blog.revolutionanalytics.com/2017/08/text-categorization-deep-learning.html)",132,FALSE,###  Tutorials,link,2017-08-07
++ [Numerical Differentiation with Finite Differences in R](http://www.aaronschlegel.com/numerical-differentiation-finite-differences-r/),136,FALSE,###  Tutorials,link,2017-08-07
++ [Joyswarm: Joyplot + beeswarm = awesome](http://lenkiefer.github.io/2017/08/03/joyswarm),90,FALSE,###  Tutorials,link,2017-08-07
+"+ [recount workshop: Learn to leverage 70,000 human RNA-seq samples for your projects](http://lcolladotor.github.io/talk/bioc2017/)",131,FALSE,###  Tutorials,link,2017-08-07
+"+ [Memorable dataviz with the R program, talk awarded people's choice prize](http://www.seascapemodels.org/rstats/2017/07/30/peoples-choice-dataviz.html)",153,FALSE,###  Tutorials,link,2017-08-07
++ [Saving High-Resolution ggplots: How to Preserve Semi-Transparency](http://www.sthda.com/english/wiki/saving-high-resolution-ggplots-how-to-preserve-semi-transparency),169,FALSE,###  Tutorials,link,2017-08-07
++ [Impact of the conservation optimism hashtag](http://www.seascapemodels.org/rstats/2017/08/04/conservationoptimism.html),122,FALSE,###  Tutorials,link,2017-08-07
++ [Let's Have Some Sympathy For The Part-time R User](http://www.win-vector.com/blog/2017/08/lets-have-some-sympathy-for-the-part-time-r-user/),143,FALSE,###  Tutorials,link,2017-08-07
++ [Passing user-supplied C++ functions with RcppXPtrUtils](http://gallery.rcpp.org//articles/passing-cpp-function-pointers-rcppxptrutils/),138,FALSE,###  Tutorials,link,2017-08-07
++ [Painting with Data](http://blog.revolutionanalytics.com/2017/08/kandinsky.html),82,FALSE,###  Tutorials,link,2017-08-07
++ [Because it's Friday: People remain awesome](http://blog.revolutionanalytics.com/2017/08/because-its-friday-people-remain-awesome.html),137,FALSE,###  Tutorials,link,2017-08-07
++ [Years as coloured bars](https://nsaunders.wordpress.com/2017/08/05/years-as-coloured-bars/),94,FALSE,###  Tutorials,link,2017-08-07
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2017-08-07
++ `lower.tri(x)` and `upper.tri(x)` only needing `dim(x)` now work via new `.row()` `.col()` and no longer call `as.matrix()` by default in order to work efficiently for all kind of matrix-like objects.,202,FALSE,###  R Project Updates,unid,2017-08-07
+"+ `type.convert()` becomes a generic, with additional methods that operate recursively over list and `data.frame` objects. Courtesy of Arni Magnusson (PR#17269).",161,FALSE,###  R Project Updates,unid,2017-08-07
++ Setting `options(device = *)` to an invalid function no longer segfaults when plotting is initiated. (PR#15883),113,FALSE,###  R Project Updates,unid,2017-08-07
++ `encodeString(<very large string>)` no longer segfaults. (PR#15885),69,FALSE,###  R Project Updates,unid,2017-08-07
+"+ Construction of `names()` for very large objects in `c()` and `unlist()` now works, thanks to Suharto Anggono's patch proposals in PR#17292.",142,FALSE,###  R Project Updates,unid,2017-08-07
++  `callNextMethod()` works for `...` methods. ,47,FALSE,###  R Project Updates,unid,2017-08-07
+"+ `qr.coef(qd, y)` now has correct names also when `qd` is a complex QR or stems from `qr(*, LAPACK=TRUE)`.",107,FALSE,###  R Project Updates,unid,2017-08-07
++ RStudio conf 2018 **January 31 to February 3** <br />,55,FALSE,###  Upcoming Events,unid,2017-08-07
+rstudio::conf is about all things R and RStudio! [Register & More infos](https://www.rstudio.com/conference/),109,FALSE,###  Upcoming Events,unid,2017-08-07
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,###  Upcoming Events,unid,2017-08-07
+Applied Finance with R. [More info](http://www.rinfinance.com),62,FALSE,###  Upcoming Events,unid,2017-08-07
+"+ useR! 2018 **July 10, 2018** <br />",37,FALSE,###  Upcoming Events,unid,2017-08-07
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,###  Upcoming Events,unid,2017-08-07
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events,unid,2017-08-07
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2017-08-07
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Oh snap, <a href=""https://twitter.com/hashtag/tidyverse?src=hash"">#tidyverse</a> cameo on .<a href=""https://twitter.com/TheDailyShow"">@TheDailyShow</a> tonight! <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://t.co/3oh7IvszIm"">pic.twitter.com/3oh7IvszIm</a></p>&mdash; Robert Mitchell V (@RobertMitchellV) <a href=""https://twitter.com/RobertMitchellV/status/893342202536972289"">August 4, 2017</a></blockquote>",515,FALSE,###  Quotes of the Week,unid,2017-08-07

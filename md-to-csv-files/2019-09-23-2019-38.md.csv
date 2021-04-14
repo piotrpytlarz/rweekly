@@ -1,75 +1,75 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-09-23
-"title: R Weekly 2019-38 tidyr, ggforce, practicalgg",51,FALSE,NA,NA,unid,2019-09-23
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-09-23
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-09-23
----,3,FALSE,NA,NA,unid,2019-09-23
-+ [{tidyr} 1.0.0](https://www.tidyverse.org/articles/2019/09/tidyr-1-0-0/),74,FALSE,NA,###  Highlight,link,2019-09-23
-+ [Accelerate your plots with ggforce](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/),95,FALSE,NA,###  Highlight,link,2019-09-23
-+ [practicalgg](https://wilkelab.org/practicalgg/) - Practical ggplot2,70,FALSE,NA,###  Highlight,link,2019-09-23
-+ [Why Machine Learning Is More Practical Than Econometrics In the Real World](https://www.remixinstitute.com/blog/why-machine-learning-is-more-practical-than-time-series-in-the-real-world),189,FALSE,NA,### R in the Real World,link,2019-09-23
-![30- Period Ahead Forecast Model Counts by Rank (based on lowest MAE)](https://i0.wp.com/www.remixinstitute.com/wp-content/uploads/30-period-ahead-model-win-counts-remixautoml.png?w=817&ssl=1),193,FALSE,NA,### R in the Real World,image,2019-09-23
-+ [Finding the Modal School District: Inspired by NPR Planet Money's Modal American Analysis](https://ivelasq.rbind.io/blog/modal-district/),140,FALSE,NA,### R in the Real World,link,2019-09-23
-+ [Text yourself from #rstats](https://richpauloo.github.io/2019-09-11-Using-Twilio-to-text-myself-after-long-running-jobs/),124,FALSE,NA,### R in the Real World,link,2019-09-23
-+ [Hindi and Other Languages in India based on 2001 census](https://www.programmingwithr.com/hindi-and-other-languages-in-india-based-on-2001-census/),150,FALSE,NA,### R in the Real World,link,2019-09-23
-+ [Feature-based time series analysis](https://robjhyndman.com/hyndsight/fbtsa/),80,FALSE,NA,### R in the Real World,link,2019-09-23
-![Feature-based time series analysis](https://raw.githubusercontent.com/rweekly/image/master/2019/fbtsa.png),108,FALSE,NA,### R in the Real World,image,2019-09-23
-+ [citecorp: working with open citations](https://ropensci.org/technotes/2019/09/17/citecorp/),94,FALSE,NA,###  R in Organizations,link,2019-09-23
-+ [GEO2RNAseq: An easy-to-use R pipeline for complete pre-processing of RNA-seq data](https://www.biorxiv.org/content/10.1101/771063v1.full),140,FALSE,NA,###  R in Academia,link,2019-09-23
-+ [Functional Programming + Iterative Web Scraping in R](https://www.programmingwithr.com/functional-programming-iterative-web-scraping-in-r/),142,FALSE,NA,###  Resources,link,2019-09-23
-+ [Disseminating Research in the 21st Century](http://www.shinydata.org/demo/),78,FALSE,NA,###  Resources,link,2019-09-23
-+ [Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/),90,FALSE,NA,###  Resources,link,2019-09-23
-![Doing Meta-Analysis in R](https://raw.githubusercontent.com/rweekly/image/master/2019/forest-plot.png),104,FALSE,NA,###  Resources,image,2019-09-23
-+ [Shiny-Apps-for-Education](https://github.com/kbodwin/Shiny-Apps-for-Education),81,FALSE,NA,###  Resources,link,2019-09-23
-+ [Create or transform variables](https://dplyr.tidyverse.org/reference/mutate.html),84,FALSE,NA,###  Resources,link,2019-09-23
-+ [A Graphical Introduction to tidyr's pivot_*()](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star),136,FALSE,NA,###  Resources,link,2019-09-23
-+ [tidyexplain](https://github.com/gadenbuie/tidyexplain),57,FALSE,NA,###  Resources,link,2019-09-23
-![tidyexplain](https://raw.githubusercontent.com/rweekly/image/master/2019/tidyr-spread-gather.gif),99,FALSE,NA,###  Resources,image,2019-09-23
-+ [Reproducible Research Workflows with Snakemake and R](https://lachlandeer.github.io/snakemake-econ-r-tutorial/),114,FALSE,NA,###  Resources,link,2019-09-23
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-09-23
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-09-23
-+ [{ggdag}: Tidy causal DAGs in ggplot2](https://malco.io/2019/09/17/tidy-causal-dags-with-ggdag-0-2-0/),104,FALSE,NA,###  New Packages,link,2019-09-23
-+ [{minizdog}: creating zdog 3d illustrations in R](https://coolbutuseless.github.io/2019/09/17/introducing-the-minizdog-package-for-creating-zdog-3d-illustrations-in-r/)`,171,FALSE,NA,###  New Packages,link,2019-09-23
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-09-23
-+ [{practicalgg}: Practical ggplot2](https://wilkelab.org/practicalgg/),71,FALSE,NA,###  New Packages,link,2019-09-23
-+ [{RVerbalExpressions}: make it easier to construct regular expressions using grammar and functionality](https://rverbalexpressions.netlify.com/index.html),156,FALSE,NA,###  New Packages,link,2019-09-23
-+ [{prismatic}: provide color manipulation tools in R](https://github.com/EmilHvitfeldt/prismatic),98,FALSE,NA,###  New Packages,link,2019-09-23
-![{prismatic}: provide color manipulation tools in R](https://raw.githubusercontent.com/rweekly/image/master/2019/prismatic.png),128,FALSE,NA,###  New Packages,image,2019-09-23
-+ [{globe4r}: Interactive globes for R via globe.gl.](https://github.com/JohnCoene/globe4r),91,FALSE,NA,###  New Packages,link,2019-09-23
-+ [{minihtml}: creating HTML documents in R](https://coolbutuseless.github.io/2019/09/19/introducing-the-minihtml-package-for-creating-html-documents-in-r/),156,FALSE,NA,###  New Packages,link,2019-09-23
-+ [tidyr 1.0.0](https://www.tidyverse.org/articles/2019/09/tidyr-1-0-0/),72,FALSE,NA,### Updated Packages,link,2019-09-23
-+ [pinp 0.0.9](http://dirk.eddelbuettel.com/blog/2019/09/15#pinp_0.0.9),71,FALSE,NA,### Updated Packages,link,2019-09-23
-+ [RStudio Server Pro 1.2](https://blog.rstudio.com/2019/09/19/rstudio-1-2-5-release/),86,FALSE,NA,### Updated Packages,link,2019-09-23
-+ [digest 0.6.21](http://dirk.eddelbuettel.com/blog/2019/09/20#digest_0.6.21),77,FALSE,NA,### Updated Packages,link,2019-09-23
-+ [RSwitch 1.5.1](https://rud.is/b/2019/09/21/rswitch-1-5-1-released/),70,FALSE,NA,### Updated Packages,link,2019-09-23
-+ [TidyTuesday Podcast #4](https://www.tidytuesday.com/4),57,FALSE,NA,###  Videos and Podcasts,link,2019-09-23
-+ [(Japanese) Change the number of diagrams dynamically with Shiny!](https://blog.atusy.net/2019/08/09/shiny-dynamic-numer-of-plots/),133,FALSE,NA,### R Internationally,link,2019-09-23
-+ [Understanding Variance Explained in PCA](https://eranraviv.com/understanding-variance-explained-in-pca/),107,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [Introduction to renv](https://rstudio.github.io/renv/articles/renv.html),75,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [R COMPILER TOOLS FOR RCPP ON MACOS](https://thecoatlessprofessor.com/programming/cpp/r-compiler-tools-for-rcpp-on-macos/),124,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [ICC Bot comes online](https://tjmahr.github.io/iccbot-comes-online/),71,FALSE,NA,###  Tutorials,link,2019-09-23
-![ICC Bot comes online](https://raw.githubusercontent.com/rweekly/image/master/2019/icc-bot-shot-optimized.png),111,FALSE,NA,###  Tutorials,image,2019-09-23
-+ [Practical Data Science with R update](http://www.win-vector.com/blog/2019/09/practical-data-science-with-r-update/),118,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [Obtaining tokens with AzureAuth inside a Shiny app](https://blog.revolutionanalytics.com/2019/09/azureauth-shiny.html),121,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [The Advantages of Record Transform Specifications](http://www.win-vector.com/blog/2019/09/the-advantages-of-record-transform-specifications/),144,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [Data flow visuals – alluvial vs ggalluvial in R](https://heads0rtai1s.github.io/2019/06/06/visuals-alluvial-ggalluvial/),123,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [Tidy evaluation in R: Part 2 - Complex use cases (feat. facet zoom)](https://heads0rtai1s.github.io/2019/08/22/tidy-eval-examples-part2/),140,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [Tidy evaluation in R – Simple Examples](https://heads0rtai1s.github.io/2019/04/24/tidy-eval-examples/),105,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [simulation studies in r with the parsim package](http://psychonetrics.org/2019/09/01/simulation-studies-in-r-with-the-parsim-package/),137,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [Functional Programming + Iterative Web Scraping in R](https://www.programmingwithr.com/functional-programming-iterative-web-scraping-in-r/),142,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [Accelerate your plots with ggforce](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/),95,FALSE,NA,###  Tutorials,link,2019-09-23
-![Accelerate your plots with ggforce](https://raw.githubusercontent.com/rweekly/image/master/2019/ggforce.png),110,FALSE,NA,###  Tutorials,image,2019-09-23
-+ [Retrieving google drive item shares and permissions (in R)](https://adisarid.github.io/post/2019-09-17-google_drive_dir_structure_permissions/),146,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [Fast data exploration for predictive modeling](https://blog.datascienceheroes.com/fast-data-exploration-for-predictive-modeling/),132,FALSE,NA,###  Tutorials,link,2019-09-23
-+ [Extracting raster values into polygon attributes using R](https://luisdva.github.io/rstats/GIS-with-R/),106,FALSE,NA,###  Tutorials,link,2019-09-23
-![mesoam-raster](https://raw.githubusercontent.com/rweekly/image/master/2019-38/mesoam.png),91,FALSE,NA,###  Tutorials,image,2019-09-23
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2019-09-23
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-09-23
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-09-23
-"+ [ToMexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools",168,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-23
-"+ [R/Pharma Conference 2019, August 21 - 23](http://rinpharma.com/)",67,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-23
-"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",189,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-23
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-23
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-23
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-09-23
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-09-23
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-09-23
+"title: R Weekly 2019-38 tidyr, ggforce, practicalgg",51,FALSE,NA,unid,2019-09-23
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-09-23
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-09-23
+---,3,FALSE,NA,unid,2019-09-23
++ [{tidyr} 1.0.0](https://www.tidyverse.org/articles/2019/09/tidyr-1-0-0/),74,FALSE,###  Highlight,link,2019-09-23
++ [Accelerate your plots with ggforce](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/),95,FALSE,###  Highlight,link,2019-09-23
++ [practicalgg](https://wilkelab.org/practicalgg/) - Practical ggplot2,70,FALSE,###  Highlight,link,2019-09-23
++ [Why Machine Learning Is More Practical Than Econometrics In the Real World](https://www.remixinstitute.com/blog/why-machine-learning-is-more-practical-than-time-series-in-the-real-world),189,FALSE,### R in the Real World,link,2019-09-23
+![30- Period Ahead Forecast Model Counts by Rank (based on lowest MAE)](https://i0.wp.com/www.remixinstitute.com/wp-content/uploads/30-period-ahead-model-win-counts-remixautoml.png?w=817&ssl=1),193,FALSE,### R in the Real World,image,2019-09-23
++ [Finding the Modal School District: Inspired by NPR Planet Money's Modal American Analysis](https://ivelasq.rbind.io/blog/modal-district/),140,FALSE,### R in the Real World,link,2019-09-23
++ [Text yourself from #rstats](https://richpauloo.github.io/2019-09-11-Using-Twilio-to-text-myself-after-long-running-jobs/),124,FALSE,### R in the Real World,link,2019-09-23
++ [Hindi and Other Languages in India based on 2001 census](https://www.programmingwithr.com/hindi-and-other-languages-in-india-based-on-2001-census/),150,FALSE,### R in the Real World,link,2019-09-23
++ [Feature-based time series analysis](https://robjhyndman.com/hyndsight/fbtsa/),80,FALSE,### R in the Real World,link,2019-09-23
+![Feature-based time series analysis](https://raw.githubusercontent.com/rweekly/image/master/2019/fbtsa.png),108,FALSE,### R in the Real World,image,2019-09-23
++ [citecorp: working with open citations](https://ropensci.org/technotes/2019/09/17/citecorp/),94,FALSE,###  R in Organizations,link,2019-09-23
++ [GEO2RNAseq: An easy-to-use R pipeline for complete pre-processing of RNA-seq data](https://www.biorxiv.org/content/10.1101/771063v1.full),140,FALSE,###  R in Academia,link,2019-09-23
++ [Functional Programming + Iterative Web Scraping in R](https://www.programmingwithr.com/functional-programming-iterative-web-scraping-in-r/),142,FALSE,###  Resources,link,2019-09-23
++ [Disseminating Research in the 21st Century](http://www.shinydata.org/demo/),78,FALSE,###  Resources,link,2019-09-23
++ [Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/),90,FALSE,###  Resources,link,2019-09-23
+![Doing Meta-Analysis in R](https://raw.githubusercontent.com/rweekly/image/master/2019/forest-plot.png),104,FALSE,###  Resources,image,2019-09-23
++ [Shiny-Apps-for-Education](https://github.com/kbodwin/Shiny-Apps-for-Education),81,FALSE,###  Resources,link,2019-09-23
++ [Create or transform variables](https://dplyr.tidyverse.org/reference/mutate.html),84,FALSE,###  Resources,link,2019-09-23
++ [A Graphical Introduction to tidyr's pivot_*()](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star),136,FALSE,###  Resources,link,2019-09-23
++ [tidyexplain](https://github.com/gadenbuie/tidyexplain),57,FALSE,###  Resources,link,2019-09-23
+![tidyexplain](https://raw.githubusercontent.com/rweekly/image/master/2019/tidyr-spread-gather.gif),99,FALSE,###  Resources,image,2019-09-23
++ [Reproducible Research Workflows with Snakemake and R](https://lachlandeer.github.io/snakemake-econ-r-tutorial/),114,FALSE,###  Resources,link,2019-09-23
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-09-23
+**CRAN**,8,FALSE,###  New Packages,unid,2019-09-23
++ [{ggdag}: Tidy causal DAGs in ggplot2](https://malco.io/2019/09/17/tidy-causal-dags-with-ggdag-0-2-0/),104,FALSE,###  New Packages,link,2019-09-23
++ [{minizdog}: creating zdog 3d illustrations in R](https://coolbutuseless.github.io/2019/09/17/introducing-the-minizdog-package-for-creating-zdog-3d-illustrations-in-r/)`,171,FALSE,###  New Packages,link,2019-09-23
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-09-23
++ [{practicalgg}: Practical ggplot2](https://wilkelab.org/practicalgg/),71,FALSE,###  New Packages,link,2019-09-23
++ [{RVerbalExpressions}: make it easier to construct regular expressions using grammar and functionality](https://rverbalexpressions.netlify.com/index.html),156,FALSE,###  New Packages,link,2019-09-23
++ [{prismatic}: provide color manipulation tools in R](https://github.com/EmilHvitfeldt/prismatic),98,FALSE,###  New Packages,link,2019-09-23
+![{prismatic}: provide color manipulation tools in R](https://raw.githubusercontent.com/rweekly/image/master/2019/prismatic.png),128,FALSE,###  New Packages,image,2019-09-23
++ [{globe4r}: Interactive globes for R via globe.gl.](https://github.com/JohnCoene/globe4r),91,FALSE,###  New Packages,link,2019-09-23
++ [{minihtml}: creating HTML documents in R](https://coolbutuseless.github.io/2019/09/19/introducing-the-minihtml-package-for-creating-html-documents-in-r/),156,FALSE,###  New Packages,link,2019-09-23
++ [tidyr 1.0.0](https://www.tidyverse.org/articles/2019/09/tidyr-1-0-0/),72,FALSE,### Updated Packages,link,2019-09-23
++ [pinp 0.0.9](http://dirk.eddelbuettel.com/blog/2019/09/15#pinp_0.0.9),71,FALSE,### Updated Packages,link,2019-09-23
++ [RStudio Server Pro 1.2](https://blog.rstudio.com/2019/09/19/rstudio-1-2-5-release/),86,FALSE,### Updated Packages,link,2019-09-23
++ [digest 0.6.21](http://dirk.eddelbuettel.com/blog/2019/09/20#digest_0.6.21),77,FALSE,### Updated Packages,link,2019-09-23
++ [RSwitch 1.5.1](https://rud.is/b/2019/09/21/rswitch-1-5-1-released/),70,FALSE,### Updated Packages,link,2019-09-23
++ [TidyTuesday Podcast #4](https://www.tidytuesday.com/4),57,FALSE,###  Videos and Podcasts,link,2019-09-23
++ [(Japanese) Change the number of diagrams dynamically with Shiny!](https://blog.atusy.net/2019/08/09/shiny-dynamic-numer-of-plots/),133,FALSE,### R Internationally,link,2019-09-23
++ [Understanding Variance Explained in PCA](https://eranraviv.com/understanding-variance-explained-in-pca/),107,FALSE,###  Tutorials,link,2019-09-23
++ [Introduction to renv](https://rstudio.github.io/renv/articles/renv.html),75,FALSE,###  Tutorials,link,2019-09-23
++ [R COMPILER TOOLS FOR RCPP ON MACOS](https://thecoatlessprofessor.com/programming/cpp/r-compiler-tools-for-rcpp-on-macos/),124,FALSE,###  Tutorials,link,2019-09-23
++ [ICC Bot comes online](https://tjmahr.github.io/iccbot-comes-online/),71,FALSE,###  Tutorials,link,2019-09-23
+![ICC Bot comes online](https://raw.githubusercontent.com/rweekly/image/master/2019/icc-bot-shot-optimized.png),111,FALSE,###  Tutorials,image,2019-09-23
++ [Practical Data Science with R update](http://www.win-vector.com/blog/2019/09/practical-data-science-with-r-update/),118,FALSE,###  Tutorials,link,2019-09-23
++ [Obtaining tokens with AzureAuth inside a Shiny app](https://blog.revolutionanalytics.com/2019/09/azureauth-shiny.html),121,FALSE,###  Tutorials,link,2019-09-23
++ [The Advantages of Record Transform Specifications](http://www.win-vector.com/blog/2019/09/the-advantages-of-record-transform-specifications/),144,FALSE,###  Tutorials,link,2019-09-23
++ [Data flow visuals – alluvial vs ggalluvial in R](https://heads0rtai1s.github.io/2019/06/06/visuals-alluvial-ggalluvial/),123,FALSE,###  Tutorials,link,2019-09-23
++ [Tidy evaluation in R: Part 2 - Complex use cases (feat. facet zoom)](https://heads0rtai1s.github.io/2019/08/22/tidy-eval-examples-part2/),140,FALSE,###  Tutorials,link,2019-09-23
++ [Tidy evaluation in R – Simple Examples](https://heads0rtai1s.github.io/2019/04/24/tidy-eval-examples/),105,FALSE,###  Tutorials,link,2019-09-23
++ [simulation studies in r with the parsim package](http://psychonetrics.org/2019/09/01/simulation-studies-in-r-with-the-parsim-package/),137,FALSE,###  Tutorials,link,2019-09-23
++ [Functional Programming + Iterative Web Scraping in R](https://www.programmingwithr.com/functional-programming-iterative-web-scraping-in-r/),142,FALSE,###  Tutorials,link,2019-09-23
++ [Accelerate your plots with ggforce](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/),95,FALSE,###  Tutorials,link,2019-09-23
+![Accelerate your plots with ggforce](https://raw.githubusercontent.com/rweekly/image/master/2019/ggforce.png),110,FALSE,###  Tutorials,image,2019-09-23
++ [Retrieving google drive item shares and permissions (in R)](https://adisarid.github.io/post/2019-09-17-google_drive_dir_structure_permissions/),146,FALSE,###  Tutorials,link,2019-09-23
++ [Fast data exploration for predictive modeling](https://blog.datascienceheroes.com/fast-data-exploration-for-predictive-modeling/),132,FALSE,###  Tutorials,link,2019-09-23
++ [Extracting raster values into polygon attributes using R](https://luisdva.github.io/rstats/GIS-with-R/),106,FALSE,###  Tutorials,link,2019-09-23
+![mesoam-raster](https://raw.githubusercontent.com/rweekly/image/master/2019-38/mesoam.png),91,FALSE,###  Tutorials,image,2019-09-23
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2019-09-23
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-09-23
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-09-23
+"+ [ToMexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools",168,FALSE,###  Upcoming Events in 3 Months,link,2019-09-23
+"+ [R/Pharma Conference 2019, August 21 - 23](http://rinpharma.com/)",67,FALSE,###  Upcoming Events in 3 Months,link,2019-09-23
+"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",189,FALSE,###  Upcoming Events in 3 Months,link,2019-09-23
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-09-23
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-09-23
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-09-23
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-09-23

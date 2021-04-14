@@ -1,59 +1,59 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2016-10-31
-layout: post,12,FALSE,NA,NA,unid,2016-10-31
-title: Issue 23,15,FALSE,NA,NA,unid,2016-10-31
-description: Weekly News in R Community.,40,FALSE,NA,NA,unid,2016-10-31
----,3,FALSE,NA,NA,unid,2016-10-31
-Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-10-31
-*Digested by R Weekly Members*,30,FALSE,NA,## Highlight,unid,2016-10-31
-<!--Tidy Text Mining with R](http://juliasilge.com/blog/Tidy-Text-Mining/) - Tidy Text Mining with R.-->,104,FALSE,NA,## Highlight,unid,2016-10-31
-"+ [R-hub, the R package-building service](https://www.r-consortium.org/events/2016/10/11/r-hub-public-beta)",107,FALSE,NA,## Highlight,link,2016-10-31
-+ [How to use the Apply function in R](http://crained.com/796/how-to-use-the-apply-function-in-r/),98,FALSE,NA,#### Tutorials,link,2016-10-31
-+ [Advanced Analytics with Power BI Embedded and R](https://powerbi.microsoft.com/en-us/blog/r-in-pbie/),104,FALSE,NA,#### Tutorials,link,2016-10-31
-![Advanced Analytics with Power BI Embedded and R](https://powerbicdn.azureedge.net/mediahandler/blog/media/PowerBI/blog/6d4730a1-4b6f-4686-b3ba-fbb368261d91.png),162,FALSE,NA,#### Tutorials,image,2016-10-31
-<!--Tidy Text Mining with R](http://juliasilge.com/blog/Tidy-Text-Mining/) - Tidy Text Mining with R.-->,104,FALSE,NA,#### Tutorials,unid,2016-10-31
-+ [A quick exploration of the ReporteRs package](https://statbandit.wordpress.com/2016/10/28/a-quick-exploration-of-reporters/),127,FALSE,NA,#### Tutorials,link,2016-10-31
-+ [ReporteRs: Manager-friendly Word or Powerpoint documents created with R](http://blog.revolutionanalytics.com/2016/10/reporters.html),135,FALSE,NA,#### Tutorials,link,2016-10-31
-+ [News from archivist 2.0 on eRum2016 conference](http://r-addict.com/2016/10/26/archivist-on-eRum2016.html),109,FALSE,NA,#### Tutorials,link,2016-10-31
-+ [Plotting individual observations and group means with ggplot2](https://drsimonj.svbtle.com/plotting-individual-observations-and-group-means-with-ggplot2),156,FALSE,NA,#### Tutorials,link,2016-10-31
-+ [facet_plot: a general solution to associate data with phylogenetic tree](https://guangchuangyu.github.io/2016/10/facet_plot-a-general-solution-to-associate-data-with-phylogenetic-tree/),188,FALSE,NA,#### Tutorials,link,2016-10-31
-![facet_plot: a general solution to associate data with phylogenetic tree](https://guangchuangyu.github.io/blog_images/Bioconductor/ggtree/facet_plot_boxplot2.png),163,FALSE,NA,#### Tutorials,image,2016-10-31
-+ [Better Confidence Intervals for Quantiles](http://staff.math.su.se/hoehle/blog/2016/10/23/quantileCI.html) - We discuss the computation of confidence intervals for the median or any other quantile in R.,205,FALSE,NA,#### Tutorials,link,2016-10-31
-+ [A quick look at RStudio’s R notebooks](http://www.win-vector.com/blog/2016/10/a-quick-look-at-rstudios-r-notebooks/),119,FALSE,NA,#### Tutorials,link,2016-10-31
-+ [Set Application Domain Name with Shiny Server](https://www.r-statistics.com/2016/10/set-application-domain-name-with-shiny-server/),134,FALSE,NA,#### Tutorials,link,2016-10-31
-"+ [A new data processing workflow for R: dplyr, magrittr, tidyr, ggplot2 (2015)](http://zevross.com/blog/2015/01/13/a-new-data-processing-workflow-for-r-dplyr-magrittr-tidyr-ggplot2/)",183,FALSE,NA,#### Tutorials,link,2016-10-31
-+ [How Taking the Bus Is A London Thing](http://rforjournalists.com/2016/10/23/how-taking-the-bus-is-a-london-thing/),117,FALSE,NA,#### R in the Real World,link,2016-10-31
-+ [Londoners Take the Bus Far More Often Than the Rest of England (Adjusted for Population)](http://rforjournalists.com/2016/10/24/londoners-take-bus-more-often-adjusted/),171,FALSE,NA,#### R in the Real World,link,2016-10-31
-+ [Asylum Seekers Are Usually Housed Away from London and the South East (Unless They Are Unaccompanied Children)](http://rforjournalists.com/2016/10/27/asylum-housing-london-south-east-children/),196,FALSE,NA,#### R in the Real World,link,2016-10-31
-+ [Election 2016: Tracking Emotions with R and Python](http://blog.revolutionanalytics.com/2016/10/debate-emotions.html),120,FALSE,NA,#### R in the Real World,link,2016-10-31
-+ [FiveThirtyEight's polling data for the US Presidential election](https://ellisp.github.io/blog/2016/10/29/538-pollsters),123,FALSE,NA,#### R in the Real World,link,2016-10-31
-![FiveThirtyEight's polling data for the US Presidential election](https://ellisp.github.io/img/0062-pollsters-cloud.svg),121,FALSE,NA,#### R in the Real World,image,2016-10-31
-+ [Comparing Symmetric Eigenvalue Performance](https://wrathematics.github.io/2016/10/28/comparing-symmetric-eigenvalue-performance/),133,FALSE,NA,#### R in the Real World,link,2016-10-31
-![Comparing Symmetric Eigenvalue Performance](https://wrathematics.github.io/assets/2016-eigen/eig_bench2.png),110,FALSE,NA,#### R in the Real World,image,2016-10-31
-+ [Book Review: Computer Age Statistical Inference](https://www.rstudio.com/rviews/2016/10/28/book-review-computer-age-statistical-inference/),142,FALSE,NA,#### R in the Real World,link,2016-10-31
-+ [How long until an R portfolio makes money?](http://www.arilamstein.com/blog/2016/10/26/long-r-portfolio-makes-money/),120,FALSE,NA,#### R in the Real World,link,2016-10-31
-+ [Sharing our R Programs — With Style](http://blog.revolutionanalytics.com/2016/10/sharing-r-code-with-style.html),115,FALSE,NA,#### R in the Real World,link,2016-10-31
-+ [Data science for executives and managers](http://www.win-vector.com/blog/2016/10/data-science-for-executives-and-managers/),126,FALSE,NA,#### R in the Real World,link,2016-10-31
-+ [Digital Transformation - a German perspective](https://flovv.github.io/Digital_Transformation/),98,FALSE,NA,#### R in the Real World,link,2016-10-31
-+ [Is Hillary Clinton a Progressive? An Investigation Using Statistical Methods ](https://ntguardian.wordpress.com/2016/10/25/hillary-clinton-progressive-statistics/),166,FALSE,NA,#### R in the Real World,link,2016-10-31
-![Is Hillary Clinton a Progressive? An Investigation Using Statistical Methods ](https://ntguardian.files.wordpress.com/2016/10/awsbks7ncfgfaaaaaelftksuqmcc.png),161,FALSE,NA,#### R in the Real World,image,2016-10-31
-+ [Scaling the Heights of Data Science - rOpenSci moves mountains of data to transform environmental research](https://nature.berkeley.edu/breakthroughs/opensci-data),166,FALSE,NA,#### R in Organization,link,2016-10-31
-+ [Free e-book: Data Science with SQL Server 2016](http://blog.revolutionanalytics.com/2016/10/data-science-with-sql-server-2016.html),134,FALSE,NA,#### R in Organization,link,2016-10-31
-"+ [Introducing R-hub, the R package builder service](http://blog.revolutionanalytics.com/2016/10/r-hub-public-beta.html)",120,FALSE,NA,#### R in Organization,link,2016-10-31
-"+ [NSSD 25: How Exactly Do You Pronounce SQL?](https://soundcloud.com/nssd-podcast/episode-25-how-exactly-do-you-pronounce-sql) - Go through the overflowing mailbag to respond to listener questions. Topics include causal inference in trend modeling, regression model selection, using SQL, and data science certification.",320,FALSE,NA,## Video and Podcast,link,2016-10-31
-"+ [R-hub, the R package-building service](https://www.r-consortium.org/events/2016/10/11/r-hub-public-beta)",107,FALSE,NA,## Video and Podcast,link,2016-10-31
-+ [R 3.3.2 Sincere Pumpkin Patch](https://stat.ethz.ch/pipermail/r-announce/2016/000608.html),93,FALSE,NA,## New Releases,link,2016-10-31
-+ [future 1.1.1](http://www.jottr.org/2016/10/remote-processing-using-futures.html) - Remote Processing Using Futures.,118,FALSE,NA,## New Releases,link,2016-10-31
-+ [simmer 3.5.0](http://fishyoperations.com/2016/10/27/simmer-v350-released-on-cran.html) - simmer is a process-oriented and trajectory-based Discrete-Event Simulation (DES) package for R. Designed to be a generic framework like SimPy or SimJulia.,247,FALSE,NA,## New Releases,link,2016-10-31
-+ [Rblpapi 0.3.5](http://dirk.eddelbuettel.com/blog/2016/10/25/#rblpapi_0.3.5) - Rblpapi provides a direct interface between R and the Bloomberg Terminal via the C++ API provided by Bloomberg Labs.,197,FALSE,NA,## New Releases,link,2016-10-31
-+ [RcppArmadillo 0.7.500.0.0](http://dirk.eddelbuettel.com/blog/2016/10/22/#rcpparmadillo_0.7.500.0.0) - RcppArmadillo integrates this library with the R environment and language--and is widely used by (currently) 274 other packages on CRAN.,241,FALSE,NA,## New Releases,link,2016-10-31
-+ [September Package Picks](https://www.rstudio.com/rviews/2016/10/26/september-package-picks/),95,FALSE,NA,## New Packages & Tools,link,2016-10-31
-+ [JMbayes](https://iprogn.blogspot.sg/2016/10/multivariate-joint-models-for-multiple.html) - Multivariate Joint Models for Multiple Longitudinal Outcomes and a Time-to-Event.,175,FALSE,NA,## New Packages & Tools,link,2016-10-31
-+ [rsparkling](http://spark.rstudio.com/h2o.html) - Sparkling Water (H2O) Machine Learning. This package provides bindings to H2O’s distributed machine learning algorithms via sparklyr.,185,FALSE,NA,## New Packages & Tools,link,2016-10-31
-+ [tilegramsR](https://github.com/bhaskarvk/tilegramsR) - R wrapper for Tilegrams.,82,FALSE,NA,## New Packages & Tools,link,2016-10-31
-"+ [Housing Market Analyzer](https://play.google.com/store/apps/details?id=com.ericrayanderson.housingindexprices&hl=en) - This Android application is a hybrid web app, built with R shiny.",187,FALSE,NA,## New Packages & Tools,link,2016-10-31
-"+ [prettyB](https://github.com/jumpingrivers/prettyB) - Prettified base graphics. All plotting functions work exactly as before, with the same inputs. The difference is that the defaults have been changed.",205,FALSE,NA,## New Packages & Tools,link,2016-10-31
-![prettyB](https://cdn.rawgit.com/jumpingrivers/prettyB/master/graphics/README-unnamed-chunk-4-1.png),101,FALSE,NA,## New Packages & Tools,image,2016-10-31
-"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>",93,FALSE,NA,## Upcoming Events,link,2016-10-31
-The conference about all things R and RStudio.<br />,52,FALSE,NA,## Upcoming Events,unid,2016-10-31
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">&quot;It&#39;s easier to make an error if I am not using Rcpp&quot;<br>-- <a href=""https://twitter.com/GaborCsardi"">@GaborCsardi</a> , right now in the (wicked) R Hub presentation</p>&mdash; Dirk Eddelbuettel (@eddelbuettel) <a href=""https://twitter.com/eddelbuettel/status/790953188287393792""></a></blockquote>",383,FALSE,NA,## Quote of the Week,unid,2016-10-31
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2016-10-31
+layout: post,12,FALSE,NA,unid,2016-10-31
+title: Issue 23,15,FALSE,NA,unid,2016-10-31
+description: Weekly News in R Community.,40,FALSE,NA,unid,2016-10-31
+---,3,FALSE,NA,unid,2016-10-31
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,unid,2016-10-31
+*Digested by R Weekly Members*,30,FALSE,## Highlight,unid,2016-10-31
+<!--Tidy Text Mining with R](http://juliasilge.com/blog/Tidy-Text-Mining/) - Tidy Text Mining with R.-->,104,FALSE,## Highlight,unid,2016-10-31
+"+ [R-hub, the R package-building service](https://www.r-consortium.org/events/2016/10/11/r-hub-public-beta)",107,FALSE,## Highlight,link,2016-10-31
++ [How to use the Apply function in R](http://crained.com/796/how-to-use-the-apply-function-in-r/),98,FALSE,#### Tutorials,link,2016-10-31
++ [Advanced Analytics with Power BI Embedded and R](https://powerbi.microsoft.com/en-us/blog/r-in-pbie/),104,FALSE,#### Tutorials,link,2016-10-31
+![Advanced Analytics with Power BI Embedded and R](https://powerbicdn.azureedge.net/mediahandler/blog/media/PowerBI/blog/6d4730a1-4b6f-4686-b3ba-fbb368261d91.png),162,FALSE,#### Tutorials,image,2016-10-31
+<!--Tidy Text Mining with R](http://juliasilge.com/blog/Tidy-Text-Mining/) - Tidy Text Mining with R.-->,104,FALSE,#### Tutorials,unid,2016-10-31
++ [A quick exploration of the ReporteRs package](https://statbandit.wordpress.com/2016/10/28/a-quick-exploration-of-reporters/),127,FALSE,#### Tutorials,link,2016-10-31
++ [ReporteRs: Manager-friendly Word or Powerpoint documents created with R](http://blog.revolutionanalytics.com/2016/10/reporters.html),135,FALSE,#### Tutorials,link,2016-10-31
++ [News from archivist 2.0 on eRum2016 conference](http://r-addict.com/2016/10/26/archivist-on-eRum2016.html),109,FALSE,#### Tutorials,link,2016-10-31
++ [Plotting individual observations and group means with ggplot2](https://drsimonj.svbtle.com/plotting-individual-observations-and-group-means-with-ggplot2),156,FALSE,#### Tutorials,link,2016-10-31
++ [facet_plot: a general solution to associate data with phylogenetic tree](https://guangchuangyu.github.io/2016/10/facet_plot-a-general-solution-to-associate-data-with-phylogenetic-tree/),188,FALSE,#### Tutorials,link,2016-10-31
+![facet_plot: a general solution to associate data with phylogenetic tree](https://guangchuangyu.github.io/blog_images/Bioconductor/ggtree/facet_plot_boxplot2.png),163,FALSE,#### Tutorials,image,2016-10-31
++ [Better Confidence Intervals for Quantiles](http://staff.math.su.se/hoehle/blog/2016/10/23/quantileCI.html) - We discuss the computation of confidence intervals for the median or any other quantile in R.,205,FALSE,#### Tutorials,link,2016-10-31
++ [A quick look at RStudio’s R notebooks](http://www.win-vector.com/blog/2016/10/a-quick-look-at-rstudios-r-notebooks/),119,FALSE,#### Tutorials,link,2016-10-31
++ [Set Application Domain Name with Shiny Server](https://www.r-statistics.com/2016/10/set-application-domain-name-with-shiny-server/),134,FALSE,#### Tutorials,link,2016-10-31
+"+ [A new data processing workflow for R: dplyr, magrittr, tidyr, ggplot2 (2015)](http://zevross.com/blog/2015/01/13/a-new-data-processing-workflow-for-r-dplyr-magrittr-tidyr-ggplot2/)",183,FALSE,#### Tutorials,link,2016-10-31
++ [How Taking the Bus Is A London Thing](http://rforjournalists.com/2016/10/23/how-taking-the-bus-is-a-london-thing/),117,FALSE,#### R in the Real World,link,2016-10-31
++ [Londoners Take the Bus Far More Often Than the Rest of England (Adjusted for Population)](http://rforjournalists.com/2016/10/24/londoners-take-bus-more-often-adjusted/),171,FALSE,#### R in the Real World,link,2016-10-31
++ [Asylum Seekers Are Usually Housed Away from London and the South East (Unless They Are Unaccompanied Children)](http://rforjournalists.com/2016/10/27/asylum-housing-london-south-east-children/),196,FALSE,#### R in the Real World,link,2016-10-31
++ [Election 2016: Tracking Emotions with R and Python](http://blog.revolutionanalytics.com/2016/10/debate-emotions.html),120,FALSE,#### R in the Real World,link,2016-10-31
++ [FiveThirtyEight's polling data for the US Presidential election](https://ellisp.github.io/blog/2016/10/29/538-pollsters),123,FALSE,#### R in the Real World,link,2016-10-31
+![FiveThirtyEight's polling data for the US Presidential election](https://ellisp.github.io/img/0062-pollsters-cloud.svg),121,FALSE,#### R in the Real World,image,2016-10-31
++ [Comparing Symmetric Eigenvalue Performance](https://wrathematics.github.io/2016/10/28/comparing-symmetric-eigenvalue-performance/),133,FALSE,#### R in the Real World,link,2016-10-31
+![Comparing Symmetric Eigenvalue Performance](https://wrathematics.github.io/assets/2016-eigen/eig_bench2.png),110,FALSE,#### R in the Real World,image,2016-10-31
++ [Book Review: Computer Age Statistical Inference](https://www.rstudio.com/rviews/2016/10/28/book-review-computer-age-statistical-inference/),142,FALSE,#### R in the Real World,link,2016-10-31
++ [How long until an R portfolio makes money?](http://www.arilamstein.com/blog/2016/10/26/long-r-portfolio-makes-money/),120,FALSE,#### R in the Real World,link,2016-10-31
++ [Sharing our R Programs — With Style](http://blog.revolutionanalytics.com/2016/10/sharing-r-code-with-style.html),115,FALSE,#### R in the Real World,link,2016-10-31
++ [Data science for executives and managers](http://www.win-vector.com/blog/2016/10/data-science-for-executives-and-managers/),126,FALSE,#### R in the Real World,link,2016-10-31
++ [Digital Transformation - a German perspective](https://flovv.github.io/Digital_Transformation/),98,FALSE,#### R in the Real World,link,2016-10-31
++ [Is Hillary Clinton a Progressive? An Investigation Using Statistical Methods ](https://ntguardian.wordpress.com/2016/10/25/hillary-clinton-progressive-statistics/),166,FALSE,#### R in the Real World,link,2016-10-31
+![Is Hillary Clinton a Progressive? An Investigation Using Statistical Methods ](https://ntguardian.files.wordpress.com/2016/10/awsbks7ncfgfaaaaaelftksuqmcc.png),161,FALSE,#### R in the Real World,image,2016-10-31
++ [Scaling the Heights of Data Science - rOpenSci moves mountains of data to transform environmental research](https://nature.berkeley.edu/breakthroughs/opensci-data),166,FALSE,#### R in Organization,link,2016-10-31
++ [Free e-book: Data Science with SQL Server 2016](http://blog.revolutionanalytics.com/2016/10/data-science-with-sql-server-2016.html),134,FALSE,#### R in Organization,link,2016-10-31
+"+ [Introducing R-hub, the R package builder service](http://blog.revolutionanalytics.com/2016/10/r-hub-public-beta.html)",120,FALSE,#### R in Organization,link,2016-10-31
+"+ [NSSD 25: How Exactly Do You Pronounce SQL?](https://soundcloud.com/nssd-podcast/episode-25-how-exactly-do-you-pronounce-sql) - Go through the overflowing mailbag to respond to listener questions. Topics include causal inference in trend modeling, regression model selection, using SQL, and data science certification.",320,FALSE,## Video and Podcast,link,2016-10-31
+"+ [R-hub, the R package-building service](https://www.r-consortium.org/events/2016/10/11/r-hub-public-beta)",107,FALSE,## Video and Podcast,link,2016-10-31
++ [R 3.3.2 Sincere Pumpkin Patch](https://stat.ethz.ch/pipermail/r-announce/2016/000608.html),93,FALSE,## New Releases,link,2016-10-31
++ [future 1.1.1](http://www.jottr.org/2016/10/remote-processing-using-futures.html) - Remote Processing Using Futures.,118,FALSE,## New Releases,link,2016-10-31
++ [simmer 3.5.0](http://fishyoperations.com/2016/10/27/simmer-v350-released-on-cran.html) - simmer is a process-oriented and trajectory-based Discrete-Event Simulation (DES) package for R. Designed to be a generic framework like SimPy or SimJulia.,247,FALSE,## New Releases,link,2016-10-31
++ [Rblpapi 0.3.5](http://dirk.eddelbuettel.com/blog/2016/10/25/#rblpapi_0.3.5) - Rblpapi provides a direct interface between R and the Bloomberg Terminal via the C++ API provided by Bloomberg Labs.,197,FALSE,## New Releases,link,2016-10-31
++ [RcppArmadillo 0.7.500.0.0](http://dirk.eddelbuettel.com/blog/2016/10/22/#rcpparmadillo_0.7.500.0.0) - RcppArmadillo integrates this library with the R environment and language--and is widely used by (currently) 274 other packages on CRAN.,241,FALSE,## New Releases,link,2016-10-31
++ [September Package Picks](https://www.rstudio.com/rviews/2016/10/26/september-package-picks/),95,FALSE,## New Packages & Tools,link,2016-10-31
++ [JMbayes](https://iprogn.blogspot.sg/2016/10/multivariate-joint-models-for-multiple.html) - Multivariate Joint Models for Multiple Longitudinal Outcomes and a Time-to-Event.,175,FALSE,## New Packages & Tools,link,2016-10-31
++ [rsparkling](http://spark.rstudio.com/h2o.html) - Sparkling Water (H2O) Machine Learning. This package provides bindings to H2O’s distributed machine learning algorithms via sparklyr.,185,FALSE,## New Packages & Tools,link,2016-10-31
++ [tilegramsR](https://github.com/bhaskarvk/tilegramsR) - R wrapper for Tilegrams.,82,FALSE,## New Packages & Tools,link,2016-10-31
+"+ [Housing Market Analyzer](https://play.google.com/store/apps/details?id=com.ericrayanderson.housingindexprices&hl=en) - This Android application is a hybrid web app, built with R shiny.",187,FALSE,## New Packages & Tools,link,2016-10-31
+"+ [prettyB](https://github.com/jumpingrivers/prettyB) - Prettified base graphics. All plotting functions work exactly as before, with the same inputs. The difference is that the defaults have been changed.",205,FALSE,## New Packages & Tools,link,2016-10-31
+![prettyB](https://cdn.rawgit.com/jumpingrivers/prettyB/master/graphics/README-unnamed-chunk-4-1.png),101,FALSE,## New Packages & Tools,image,2016-10-31
+"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>",93,FALSE,## Upcoming Events,link,2016-10-31
+The conference about all things R and RStudio.<br />,52,FALSE,## Upcoming Events,unid,2016-10-31
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">&quot;It&#39;s easier to make an error if I am not using Rcpp&quot;<br>-- <a href=""https://twitter.com/GaborCsardi"">@GaborCsardi</a> , right now in the (wicked) R Hub presentation</p>&mdash; Dirk Eddelbuettel (@eddelbuettel) <a href=""https://twitter.com/eddelbuettel/status/790953188287393792""></a></blockquote>",383,FALSE,## Quote of the Week,unid,2016-10-31

@@ -1,61 +1,61 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-07-08
-"title: R Weekly 2019-27 R artefacts, reordering, ggchicklet",59,FALSE,NA,NA,unid,2019-07-08
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-07-08
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-07-08
----,3,FALSE,NA,NA,unid,2019-07-08
-+ [A Short Essay on Duplicated R Artefacts](https://martinctc.github.io/blog/a-short-essay-on-duplicated-r-artefacts/),118,FALSE,NA,###  Highlight,link,2019-07-08
-+ [Reordering and facetting for ggplot2!](https://juliasilge.com/blog/reorder-within/),86,FALSE,NA,###  Highlight,link,2019-07-08
-+ [Make Refreshing Segmented Column Charts with {ggchicklet}](https://rud.is/b/2019/06/30/make-refreshing-segmented-column-charts-with-ggchicklet/),147,FALSE,NA,###  Highlight,link,2019-07-08
-+ [A Short Essay on Duplicated R Artefacts](https://martinctc.github.io/blog/a-short-essay-on-duplicated-r-artefacts/),118,FALSE,NA,### Insights,link,2019-07-08
-"+ [79th TokyoR Meetup: {tidyr} 1.0.0, RAW image processing, and more!](https://ryo-n7.github.io/2019-07-05-tokyoR-79-roundup/)",126,FALSE,NA,### Insights,link,2019-07-08
-+ [Imagine Your Data Before You Collect It - R Views](https://rviews.rstudio.com/2019/07/01/imagine-your-data-before-you-collect-it/),133,FALSE,NA,### Insights,link,2019-07-08
-+ [Why I Love data.table](https://eliocamp.github.io/codigo-r/en/2019/07/why-i-love-data-table/),96,FALSE,NA,### Insights,link,2019-07-08
-+ [{glue} magic: Part 1](https://www.njtierney.com/post/2019/07/07/glue-magic-p1/),82,FALSE,NA,### Insights,link,2019-07-08
-+ [Celebrating £1.4bn for the Global Fund - Trying out gganimate on Tuberculosis data from getTBinR](https://www.samabbott.co.uk/post/tb-gifs/),143,FALSE,NA,### R in the Real World,link,2019-07-08
-![Storyboard GIF of TB incidence rates](https://raw.githubusercontent.com/rweekly/image/master/2019/27/tb_storyboard.gif),121,FALSE,NA,### R in the Real World,image,2019-07-08
-+ [Text Parsing and Text Analysis of a Periodic Report (with R)](https://tonyelhabr.rbind.io/post/text-parsing-analysis-periodic-report/),137,FALSE,NA,### R in the Real World,link,2019-07-08
-+ [Optimal Transport on Large Networks: A Practitioner Guide](https://optimalnetwork.github.io/),96,FALSE,NA,### R in the Real World,link,2019-07-08
-![Optimal Transport on Large Networks: A Practitioner Guide](https://raw.githubusercontent.com/rweekly/image/master/2019/27/transport.png),138,FALSE,NA,### R in the Real World,image,2019-07-08
-+ [Comrades Marathon (2019) Splits](https://datawookie.netlify.com/blog/2019/07/comrades-marathon-2019-splits/),111,FALSE,NA,### R in the Real World,link,2019-07-08
-+ [Exploring {gt} with useR! 2019 Schedule](http://citizen-statistician.org/2019/07/exploring-gt-with-user-2019-schedule/),122,FALSE,NA,### R in the Real World,link,2019-07-08
-+ [BioC2019 Notes](https://docs.google.com/document/d/1ylziUypDwwuKKC3J5_6KaW-OJVxs_gu1x6LjJOQ6olk/edit#heading=h.37s3ufw76jth),127,FALSE,NA,###  R in Organizations,link,2019-07-08
-+ [BiocWorkshops2019](https://github.com/Bioconductor/BiocWorkshops2019),72,FALSE,NA,###  R in Organizations,link,2019-07-08
-+ [Updates on Microsoft's R Roadmap in Azure](https://blog.revolutionanalytics.com/2019/07/azure-r-roadmap.html),112,FALSE,NA,###  R in Organizations,link,2019-07-08
-+ [useR! 2019 Schedule! (Made with {gt} & {flexdashboard})](https://connect.rstudioservices.com/content/331/user2019-schedule.html),131,FALSE,NA,###  Resources,link,2019-07-08
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-07-08
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-07-08
-+ [jSDM: Joint Species Distribution Models in a hierarchical Bayesian framework](https://ecology.ghislainv.fr/jSDM/index.html),126,FALSE,NA,###  New Packages,link,2019-07-08
-+ [economiccomplexity   Methods Used in the Economic Complexity Literature](https://cran.r-project.org/package=economiccomplexity),130,FALSE,NA,###  New Packages,link,2019-07-08
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-07-08
-+ [twittercache: Robust sampling of a Twitter network](https://github.com/alexpghayes/twittercache),99,FALSE,NA,###  New Packages,link,2019-07-08
-+ [odin: ODE Generation and Integration](https://cran.r-project.org/package=odin),81,FALSE,NA,### Updated Packages,link,2019-07-08
-+ [NNLM: Fast and Versatile Non-Negative Matrix Factorization](https://cran.r-project.org/package=NNLM),103,FALSE,NA,### Updated Packages,link,2019-07-08
-+ [factorMerger: The Merging Path Plot](https://cran.r-project.org/package=factorMerger),88,FALSE,NA,### Updated Packages,link,2019-07-08
-+ [How to make stunning 3D Plots for better storytelling?](https://towardsdatascience.com/how-to-make-stunning-3d-plots-for-better-storytelling-5c93aec80503),157,FALSE,NA,###  Tutorials,link,2019-07-08
-![How to make stunning 3D Plots for better storytelling?](https://raw.githubusercontent.com/rweekly/image/master/2019/27/3d-plotting.png),137,FALSE,NA,###  Tutorials,image,2019-07-08
-+ [Build Thousands of Automated Demand Forecasts in 15 Minutes Using AutoCatBoostCARMA in R](https://www.remixinstitute.com/blog/automated-demand-forecasts-using-autocatboostcarma-in-r),185,FALSE,NA,###  Tutorials,link,2019-07-08
-+ [Reordering and facetting for ggplot2!](https://juliasilge.com/blog/reorder-within/),86,FALSE,NA,###  Tutorials,link,2019-07-08
-+ [How to pick a random number from 1-10](https://torvaney.github.io/projects/human-rng),88,FALSE,NA,###  Tutorials,link,2019-07-08
-+ [Experimentation with Unsupervised Learning](https://r-house.netlify.com/2019/07/04/experimentation-with-unsupervised-learning/),130,FALSE,NA,###  Tutorials,link,2019-07-08
-+ [Make Refreshing Segmented Column Charts with {ggchicklet}](https://rud.is/b/2019/06/30/make-refreshing-segmented-column-charts-with-ggchicklet/),147,FALSE,NA,###  Tutorials,link,2019-07-08
-+ [Replicating a Linear Model](http://www.win-vector.com/blog/2019/07/replicating-a-linear-model/),98,FALSE,NA,###  Tutorials,link,2019-07-08
-+ [Communication between modules and its whims](https://rtask.thinkr.fr/blog/communication-between-modules-and-its-whims/),122,FALSE,NA,###  Tutorials,link,2019-07-08
-![Communication between modules and its whims](https://raw.githubusercontent.com/rweekly/image/master/2019/27/reactiveValues.png),129,FALSE,NA,###  Tutorials,image,2019-07-08
-+ [Making a Cheat Sheet with Rmarkdown](https://tonyelhabr.rbind.io/post/cheat-sheet-rmarkdown/),96,FALSE,NA,###  Tutorials,link,2019-07-08
-+ [Curly Curly: How to pass bare variable arguments to things?](https://www.njtierney.com/post/2019/07/06/jq-bare-vars/),120,FALSE,NA,###  Tutorials,link,2019-07-08
-"+ [Exploring The Guardian's ""The Knowledge"" Football Trivia (June 2019)](http://www.robert-hickman.eu/post/guardian_knowledge_june/)",132,FALSE,NA,###  Tutorials,link,2019-07-08
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-07-08
-"n></div><div class=""post-more-end""></div>-->",44,FALSE,NA,###  Tutorials,unid,2019-07-08
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),78,FALSE,NA,###  R Project Updates,unid,2019-07-08
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-07-08
-+ [useR2019](http://www.user2019.fr/),37,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-08
-"+ [TokyoR #80, July 27](https://tokyor.connpass.com/)",53,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-08
-"+ [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools",166,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-08
-"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-08
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-08
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-08
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-07-08
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-07-08
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">tidyverse getting a lot of heat lately. I was a died-in-the-wool <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> base user until about two years ago. Here’s what changed. <br>⚠️ <br>[terrible gifs warning] <a href=""https://t.co/wdc3tAxoEM"">pic.twitter.com/wdc3tAxoEM</a></p>&mdash; alastair rushworth (@rushworth_a) <a href=""https://twitter.com/rushworth_a/status/1147483530819190784?ref_src=twsrc%5Etfw"">July 6, 2019</a></blockquote>",548,FALSE,NA,###  Quotes of the Week,unid,2019-07-08
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Thanks <a href=""https://twitter.com/alistair604?ref_src=twsrc%5Etfw"">@alistair604</a> for pointing me towards ggdag, an incredibly powerful tool to visualize graphs in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a>. <br><br>Just look at this: So little code, so much amaze!! <a href=""https://twitter.com/lindanab1?ref_src=twsrc%5Etfw"">@lindanab1</a> <a href=""https://twitter.com/SachaEpskamp?ref_src=twsrc%5Etfw"">@SachaEpskamp</a> <a href=""https://twitter.com/MaartenvSmeden?ref_src=twsrc%5Etfw"">@MaartenvSmeden</a> <a href=""https://t.co/PLjKzr0DU5"">https://t.co/PLjKzr0DU5</a> <a href=""https://t.co/sIRzXo5Spt"">pic.twitter.com/sIRzXo5Spt</a></p>&mdash; Eiko Fried (@EikoFried) <a href=""https://twitter.com/EikoFried/status/1146141604014465024?ref_src=twsrc%5Etfw"">July 2, 2019</a></blockquote>",909,FALSE,NA,###  Quotes of the Week,unid,2019-07-08
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-07-08
+"title: R Weekly 2019-27 R artefacts, reordering, ggchicklet",59,FALSE,NA,unid,2019-07-08
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-07-08
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-07-08
+---,3,FALSE,NA,unid,2019-07-08
++ [A Short Essay on Duplicated R Artefacts](https://martinctc.github.io/blog/a-short-essay-on-duplicated-r-artefacts/),118,FALSE,###  Highlight,link,2019-07-08
++ [Reordering and facetting for ggplot2!](https://juliasilge.com/blog/reorder-within/),86,FALSE,###  Highlight,link,2019-07-08
++ [Make Refreshing Segmented Column Charts with {ggchicklet}](https://rud.is/b/2019/06/30/make-refreshing-segmented-column-charts-with-ggchicklet/),147,FALSE,###  Highlight,link,2019-07-08
++ [A Short Essay on Duplicated R Artefacts](https://martinctc.github.io/blog/a-short-essay-on-duplicated-r-artefacts/),118,FALSE,### Insights,link,2019-07-08
+"+ [79th TokyoR Meetup: {tidyr} 1.0.0, RAW image processing, and more!](https://ryo-n7.github.io/2019-07-05-tokyoR-79-roundup/)",126,FALSE,### Insights,link,2019-07-08
++ [Imagine Your Data Before You Collect It - R Views](https://rviews.rstudio.com/2019/07/01/imagine-your-data-before-you-collect-it/),133,FALSE,### Insights,link,2019-07-08
++ [Why I Love data.table](https://eliocamp.github.io/codigo-r/en/2019/07/why-i-love-data-table/),96,FALSE,### Insights,link,2019-07-08
++ [{glue} magic: Part 1](https://www.njtierney.com/post/2019/07/07/glue-magic-p1/),82,FALSE,### Insights,link,2019-07-08
++ [Celebrating £1.4bn for the Global Fund - Trying out gganimate on Tuberculosis data from getTBinR](https://www.samabbott.co.uk/post/tb-gifs/),143,FALSE,### R in the Real World,link,2019-07-08
+![Storyboard GIF of TB incidence rates](https://raw.githubusercontent.com/rweekly/image/master/2019/27/tb_storyboard.gif),121,FALSE,### R in the Real World,image,2019-07-08
++ [Text Parsing and Text Analysis of a Periodic Report (with R)](https://tonyelhabr.rbind.io/post/text-parsing-analysis-periodic-report/),137,FALSE,### R in the Real World,link,2019-07-08
++ [Optimal Transport on Large Networks: A Practitioner Guide](https://optimalnetwork.github.io/),96,FALSE,### R in the Real World,link,2019-07-08
+![Optimal Transport on Large Networks: A Practitioner Guide](https://raw.githubusercontent.com/rweekly/image/master/2019/27/transport.png),138,FALSE,### R in the Real World,image,2019-07-08
++ [Comrades Marathon (2019) Splits](https://datawookie.netlify.com/blog/2019/07/comrades-marathon-2019-splits/),111,FALSE,### R in the Real World,link,2019-07-08
++ [Exploring {gt} with useR! 2019 Schedule](http://citizen-statistician.org/2019/07/exploring-gt-with-user-2019-schedule/),122,FALSE,### R in the Real World,link,2019-07-08
++ [BioC2019 Notes](https://docs.google.com/document/d/1ylziUypDwwuKKC3J5_6KaW-OJVxs_gu1x6LjJOQ6olk/edit#heading=h.37s3ufw76jth),127,FALSE,###  R in Organizations,link,2019-07-08
++ [BiocWorkshops2019](https://github.com/Bioconductor/BiocWorkshops2019),72,FALSE,###  R in Organizations,link,2019-07-08
++ [Updates on Microsoft's R Roadmap in Azure](https://blog.revolutionanalytics.com/2019/07/azure-r-roadmap.html),112,FALSE,###  R in Organizations,link,2019-07-08
++ [useR! 2019 Schedule! (Made with {gt} & {flexdashboard})](https://connect.rstudioservices.com/content/331/user2019-schedule.html),131,FALSE,###  Resources,link,2019-07-08
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-07-08
+**CRAN**,8,FALSE,###  New Packages,unid,2019-07-08
++ [jSDM: Joint Species Distribution Models in a hierarchical Bayesian framework](https://ecology.ghislainv.fr/jSDM/index.html),126,FALSE,###  New Packages,link,2019-07-08
++ [economiccomplexity   Methods Used in the Economic Complexity Literature](https://cran.r-project.org/package=economiccomplexity),130,FALSE,###  New Packages,link,2019-07-08
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-07-08
++ [twittercache: Robust sampling of a Twitter network](https://github.com/alexpghayes/twittercache),99,FALSE,###  New Packages,link,2019-07-08
++ [odin: ODE Generation and Integration](https://cran.r-project.org/package=odin),81,FALSE,### Updated Packages,link,2019-07-08
++ [NNLM: Fast and Versatile Non-Negative Matrix Factorization](https://cran.r-project.org/package=NNLM),103,FALSE,### Updated Packages,link,2019-07-08
++ [factorMerger: The Merging Path Plot](https://cran.r-project.org/package=factorMerger),88,FALSE,### Updated Packages,link,2019-07-08
++ [How to make stunning 3D Plots for better storytelling?](https://towardsdatascience.com/how-to-make-stunning-3d-plots-for-better-storytelling-5c93aec80503),157,FALSE,###  Tutorials,link,2019-07-08
+![How to make stunning 3D Plots for better storytelling?](https://raw.githubusercontent.com/rweekly/image/master/2019/27/3d-plotting.png),137,FALSE,###  Tutorials,image,2019-07-08
++ [Build Thousands of Automated Demand Forecasts in 15 Minutes Using AutoCatBoostCARMA in R](https://www.remixinstitute.com/blog/automated-demand-forecasts-using-autocatboostcarma-in-r),185,FALSE,###  Tutorials,link,2019-07-08
++ [Reordering and facetting for ggplot2!](https://juliasilge.com/blog/reorder-within/),86,FALSE,###  Tutorials,link,2019-07-08
++ [How to pick a random number from 1-10](https://torvaney.github.io/projects/human-rng),88,FALSE,###  Tutorials,link,2019-07-08
++ [Experimentation with Unsupervised Learning](https://r-house.netlify.com/2019/07/04/experimentation-with-unsupervised-learning/),130,FALSE,###  Tutorials,link,2019-07-08
++ [Make Refreshing Segmented Column Charts with {ggchicklet}](https://rud.is/b/2019/06/30/make-refreshing-segmented-column-charts-with-ggchicklet/),147,FALSE,###  Tutorials,link,2019-07-08
++ [Replicating a Linear Model](http://www.win-vector.com/blog/2019/07/replicating-a-linear-model/),98,FALSE,###  Tutorials,link,2019-07-08
++ [Communication between modules and its whims](https://rtask.thinkr.fr/blog/communication-between-modules-and-its-whims/),122,FALSE,###  Tutorials,link,2019-07-08
+![Communication between modules and its whims](https://raw.githubusercontent.com/rweekly/image/master/2019/27/reactiveValues.png),129,FALSE,###  Tutorials,image,2019-07-08
++ [Making a Cheat Sheet with Rmarkdown](https://tonyelhabr.rbind.io/post/cheat-sheet-rmarkdown/),96,FALSE,###  Tutorials,link,2019-07-08
++ [Curly Curly: How to pass bare variable arguments to things?](https://www.njtierney.com/post/2019/07/06/jq-bare-vars/),120,FALSE,###  Tutorials,link,2019-07-08
+"+ [Exploring The Guardian's ""The Knowledge"" Football Trivia (June 2019)](http://www.robert-hickman.eu/post/guardian_knowledge_june/)",132,FALSE,###  Tutorials,link,2019-07-08
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2019-07-08
+"n></div><div class=""post-more-end""></div>-->",44,FALSE,###  Tutorials,unid,2019-07-08
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),78,FALSE,###  R Project Updates,unid,2019-07-08
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-07-08
++ [useR2019](http://www.user2019.fr/),37,FALSE,###  Upcoming Events in 3 Months,link,2019-07-08
+"+ [TokyoR #80, July 27](https://tokyor.connpass.com/)",53,FALSE,###  Upcoming Events in 3 Months,link,2019-07-08
+"+ [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools",166,FALSE,###  Upcoming Events in 3 Months,link,2019-07-08
+"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,###  Upcoming Events in 3 Months,link,2019-07-08
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-07-08
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-07-08
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-07-08
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-07-08
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">tidyverse getting a lot of heat lately. I was a died-in-the-wool <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> base user until about two years ago. Here’s what changed. <br>⚠️ <br>[terrible gifs warning] <a href=""https://t.co/wdc3tAxoEM"">pic.twitter.com/wdc3tAxoEM</a></p>&mdash; alastair rushworth (@rushworth_a) <a href=""https://twitter.com/rushworth_a/status/1147483530819190784?ref_src=twsrc%5Etfw"">July 6, 2019</a></blockquote>",548,FALSE,###  Quotes of the Week,unid,2019-07-08
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Thanks <a href=""https://twitter.com/alistair604?ref_src=twsrc%5Etfw"">@alistair604</a> for pointing me towards ggdag, an incredibly powerful tool to visualize graphs in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a>. <br><br>Just look at this: So little code, so much amaze!! <a href=""https://twitter.com/lindanab1?ref_src=twsrc%5Etfw"">@lindanab1</a> <a href=""https://twitter.com/SachaEpskamp?ref_src=twsrc%5Etfw"">@SachaEpskamp</a> <a href=""https://twitter.com/MaartenvSmeden?ref_src=twsrc%5Etfw"">@MaartenvSmeden</a> <a href=""https://t.co/PLjKzr0DU5"">https://t.co/PLjKzr0DU5</a> <a href=""https://t.co/sIRzXo5Spt"">pic.twitter.com/sIRzXo5Spt</a></p>&mdash; Eiko Fried (@EikoFried) <a href=""https://twitter.com/EikoFried/status/1146141604014465024?ref_src=twsrc%5Etfw"">July 2, 2019</a></blockquote>",909,FALSE,###  Quotes of the Week,unid,2019-07-08

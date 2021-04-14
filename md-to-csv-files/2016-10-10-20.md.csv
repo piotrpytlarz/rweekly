@@ -1,0 +1,64 @@
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2016-10-10
+layout: post,12,FALSE,NA,unid,2016-10-10
+title: Issue 20,15,FALSE,NA,unid,2016-10-10
+description: Weekly News in R Community.,40,FALSE,NA,unid,2016-10-10
+---,3,FALSE,NA,unid,2016-10-10
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,unid,2016-10-10
+*Digested by R Weekly Members*,30,FALSE,## Highlight,unid,2016-10-10
++ [R Notebooks](https://blog.rstudio.org/2016/10/05/r-notebooks/) - A powerful notebook authoring engine to R Markdown,118,FALSE,## Highlight,link,2016-10-10
++ [AlignAssign](https://github.com/seasmith/AlignAssign) - RStudio addin to align assignment operators,102,FALSE,## Highlight,link,2016-10-10
+"+ [Hitchhiker's Guide to Data Science, Machine Learning, R, Python](http://www.hadoop360.com/blog/hitchhiker-s-guide-to-data-science-machine-learning-r-python)",159,FALSE,## Highlight,link,2016-10-10
++ [Text mining with text2vec](http://text2vec.org),50,FALSE,#### Tutorials,link,2016-10-10
+"+ [Correlation matrix : A quick start guide to analyze, format and visualize a correlation matrix using R software](http://www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software)",259,FALSE,#### Tutorials,link,2016-10-10
+"+ [Hitchhiker's Guide to Data Science, Machine Learning, R, Python](http://www.hadoop360.com/blog/hitchhiker-s-guide-to-data-science-machine-learning-r-python)",159,FALSE,#### Tutorials,link,2016-10-10
++ [Meta-analysis is a special case of Bayesian multilevel modeling](https://mvuorre.github.io/post/2016/2016-09-29-bayesian-meta-analysis/),139,FALSE,#### Tutorials,link,2016-10-10
++ [Azure Notebooks in Preview Status – And It's Pretty Awesome](https://www.raddq.com/azure-notebooks-in-preview-status-and-its-pretty-awesome/),144,FALSE,#### Tutorials,link,2016-10-10
+![Azure Notebooks in Preview Status – And It's Pretty Awesome](https://i1.wp.com/www.raddq.com/wp-content/uploads/2016/10/img_57f7184744370.png?w=1217),151,FALSE,#### Tutorials,image,2016-10-10
++ [On calculating AUC](http://www.win-vector.com/blog/2016/10/on-calculating-auc/),82,FALSE,#### Tutorials,link,2016-10-10
++ [In case you missed it: Septemer 2016 roundup](http://blog.revolutionanalytics.com/2016/10/in-case-you-missed-it-septemer-2016-roundup.html),142,FALSE,#### Tutorials,link,2016-10-10
+"+ [Import data to R from SAS, SPSS and Stata with Haven](http://blog.revolutionanalytics.com/2016/10/import-data-to-r-from-other-statistics-tools-with-haven.html)",162,FALSE,#### Tutorials,link,2016-10-10
++ [Text Mining in R and Python: 8 Tips To Get Started](https://www.datacamp.com/community/blog/text-mining-in-r-and-python-tips),128,FALSE,#### Tutorials,link,2016-10-10
++ [Get air quality data for the United Kingdom using the rdefra package](http://ropensci.org/blog/technotes/2016/10/06/rdefra-release-033),138,FALSE,#### Tutorials,link,2016-10-10
++ [R Notebooks](https://blog.rstudio.org/2016/10/05/r-notebooks/) - A powerful notebook authoring engine to R Markdown.,119,FALSE,#### Tutorials,link,2016-10-10
+![R Notebooks](https://rstudioblog.files.wordpress.com/2016/09/screen-shot-2016-09-20-at-4-16-47-pm.png?w=490),110,FALSE,#### Tutorials,image,2016-10-10
++ [Reactive shiny filters through collapsible d3js trees](https://www.r-bloggers.com/reactive-shiny-filters-through-collapsible-d3js-trees/),140,FALSE,#### Tutorials,link,2016-10-10
++ [Network visualization – part 6: D3 and R (networkD3)](http://www.vesnam.com/Rblog/viznets6/),95,FALSE,#### Tutorials,link,2016-10-10
++ [Adding polished significance summaries to papers using R](http://www.win-vector.com/blog/2016/10/adding-polished-significance-summaries-to-papers-using-r/),158,FALSE,#### Tutorials,link,2016-10-10
++ [Analyzing the first Presidential Debate](http://datascienceplus.com/analyzing-the-first-presidential-debate/),112,FALSE,#### Tutorials,link,2016-10-10
++ [US Presidential Election 2016 — Twitter Analysis](https://medium.com/@swainjo/us-presidential-election-2016-twitter-analysis-7596606853e5#.f1mrbap9o),152,FALSE,#### R in the Real World,link,2016-10-10
+![US Presidential Election 2016 — Twitter Analysis](https://d262ilb51hltx0.cloudfront.net/max/2000/1*jqCwuw-Cf_T8NBn27XUlzQ.jpeg),129,FALSE,#### R in the Real World,image,2016-10-10
++ [Which European countries attract the most immigrants?](http://www.swissinfo.ch/eng/migration-series_europe-s-immigration-balance-sheet/42495760),147,FALSE,#### R in the Real World,link,2016-10-10
+![Which European countries attract the most immigrants?](https://pbs.twimg.com/media/CuHRiVIWYAEr2ID.jpg),105,FALSE,#### R in the Real World,image,2016-10-10
++ [Proofing statistics in papers](http://www.win-vector.com/blog/2016/10/proofing-statistics-in-papers/),104,FALSE,#### R in the Real World,link,2016-10-10
++ [Statcheck: an R package to check statistical results in psychology papers](http://blog.revolutionanalytics.com/2016/10/statcheck.html),137,FALSE,#### R in the Real World,link,2016-10-10
++ [Seasonal Trends in NYC Traffic: STL Part I](http://www.gardner.fyi/blog/STL-Part-I/),87,FALSE,#### R in the Real World,link,2016-10-10
++ [Visualising the Boom in New Flats in Manchester](http://rforjournalists.com/2016/10/06/visualising-the-boom-in-new-flats-in-manchester/),139,FALSE,#### R in the Real World,link,2016-10-10
+![Visualising the Boom in New Flats in Manchester](https://i2.wp.com/rforjournalists.com/wp-content/uploads/2016/10/manchester_oldham_formatted-1.png?w=966),156,FALSE,#### R in the Real World,image,2016-10-10
++ [Building Scalable Data Pipelines with Microsoft R Server and Azure Data Factory](http://blog.revolutionanalytics.com/2016/10/r-server-data-factory.html),155,FALSE,#### R in Organization,link,2016-10-10
++ [All the R Ladies](http://blog.revolutionanalytics.com/2016/09/all-the-r-ladies.html),87,FALSE,#### R in Organization,link,2016-10-10
++ [A Bayesian Information Criterion for Singular Models](https://martynplummer.wordpress.com/2016/10/03/a-bayesian-information-criterion-for-singular-models/),158,FALSE,#### R in Academia,link,2016-10-10
++ [tint 0.0.2](http://dirk.eddelbuettel.com/blog/2016/10/07#tint_0.0.2) - A 'tufte'-alike style for 'rmarkdown'.,112,FALSE,## New Releases,link,2016-10-10
+"- [text2vec 0.4](http://dsnotes.com/articles/text2vec-0-4) - Modern Text Mining Framework for R - fast vectorization, topic modeling, word embeddings and more.",159,FALSE,## New Releases,unid,2016-10-10
+"+ [haven 1.0.0](https://blog.rstudio.org/2016/10/04/haven-1-0-0/) - Haven is designed to faciliate the transfer of data between R and SAS, SPSS, and Stata.",155,FALSE,## New Releases,link,2016-10-10
++ [RcppGSL 0.3.1](http://dirk.eddelbuettel.com/blog/2016/10/04#rcppgsl_0.3.1) - RcppGSL provides an interface from R to the vector and matrix classes of the GNU GSL.,165,FALSE,## New Releases,link,2016-10-10
++ [SpaDES 1.3.1](http://predictiveecology.org/2016/10/07/SpaDES-v1.3.1-now-on-CRAN.html) - Develop and run spatially explicit discrete event simulation models.,159,FALSE,## New Releases,link,2016-10-10
++ [graphql](http://ropensci.org/blog/technotes/2016/10/05/graphql-release-10) - A GraphQL Query Parser.,103,FALSE,## New Packages & Tools,link,2016-10-10
++ [ourworldindata](https://drsimonj.svbtle.com/ourworld-an-r-data-package) - An R data package containing datasets from ourworldindata.org.,139,FALSE,## New Packages & Tools,link,2016-10-10
++ [artyfarty](http://fishyoperations.com/2016/10/05/introducing-artyfarty.html) - A theming package for ggplot2.,112,FALSE,## New Packages & Tools,link,2016-10-10
+![artyfarty](https://i.imgur.com/nWNhGOF.png),45,FALSE,## New Packages & Tools,image,2016-10-10
++ [linpe](http://www.quantide.com/linpe-make-sending-receiving-data-analysis-faster-easier/) - Make sending and receiving data analysis faster and easier.,154,FALSE,## New Packages & Tools,link,2016-10-10
++ [mafs](https://github.com/sillasgonzaga/mafs) -  Multiple Automatic Forecast Selection.,89,FALSE,## New Packages & Tools,link,2016-10-10
++ [AlignAssign](https://github.com/seasmith/AlignAssign) - RStudio addin to align assignment operators.,103,FALSE,## New Packages & Tools,link,2016-10-10
+![A quick demo](https://cdn.rawgit.com/seasmith/AlignAssign/4f8b79f1628b35d1af9382d2aa9ce05326638a29/inst/media/demo2.gif),122,FALSE,## New Packages & Tools,image,2016-10-10
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,## R Project Updates,unid,2016-10-10
+"+ `ppr()` and `supsmu()` get an optional `trace` argument, and `ppr(.., sm.method=..spline)` is no longer limited to sample size n <= 2500.",139,FALSE,## R Project Updates,unid,2016-10-10
+"+ `smooth.spline()` now allows direct specification of lambda, gets a `hatvalues()` method and keeps `tol` in the result, and optionally parts of the internal matrix computations.",179,FALSE,## R Project Updates,unid,2016-10-10
+"+ `split(<very_long>, *)` now works even when the split off parts are long.",75,FALSE,## R Project Updates,unid,2016-10-10
++  `min()` and `max()` now also work correctly when the argument list starts with `character(0)`.,97,FALSE,## R Project Updates,unid,2016-10-10
++ `R CMD build` now preserves dates when it copies files in preparing the tarball.,82,FALSE,## R Project Updates,unid,2016-10-10
++ Headers `R_ext/BLAS.h` and `R_ext/Lapack.h` have many improved declarations including `const` for double-precision complex routines. _Inter alia_ this avoids warnings when passing `string literal` arguments from C++11 code.,225,FALSE,## R Project Updates,unid,2016-10-10
+"+ `formatC(x, flag=f)` allows two new flags, and signals an error for invalid flags also in the case of character formatting.",125,FALSE,## R Project Updates,unid,2016-10-10
+"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>",93,FALSE,## Upcoming Events,link,2016-10-10
+The conference about all things R and RStudio.<br />,52,FALSE,## Upcoming Events,unid,2016-10-10
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">R for data science (<a href=""https://t.co/48IKOWkStC"">https://t.co/48IKOWkStC</a>) is done (for now) and off to O&#39;Reilly for publishing 🎉 Available in print in Dec/Jan <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://t.co/1q0EPepScm"">pic.twitter.com/1q0EPepScm</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/784780387180425217""></a></blockquote>",505,FALSE,## Quote of the Week,unid,2016-10-10

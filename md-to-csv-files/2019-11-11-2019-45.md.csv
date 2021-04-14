@@ -1,49 +1,49 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-11-11
-"title: R Weekly 2019-45 {renv}, {tvthemes}",42,FALSE,NA,NA,unid,2019-11-11
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-11-11
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-11-11
----,3,FALSE,NA,NA,unid,2019-11-11
-Release Date: 2019-11-11,24,FALSE,NA,NA,unid,2019-11-11
-"This week's release was curated by [Jon Calder](https://twitter.com/jonmcalder), with help from the RWeekly team members and contributors.",138,FALSE,NA,NA,unid,2019-11-11
-+ [renv: Project Environments for R](https://blog.rstudio.com/2019/11/06/renv-project-environments-for-r/),106,FALSE,NA,###  Highlight,link,2019-11-11
-"+ [{tvthemes 1.1.0} is on CRAN: Creating a {pkgdown} website, Gravity Falls palette, and more!](http://Ryo-N7.github.io/2019-11-04-tvthemes-1.1.0-announcement/)",160,FALSE,NA,###  Highlight,link,2019-11-11
-"+ [When you think class(.) == *, think again!](https://developer.r-project.org/Blog/public/2019/11/09/when-you-think-class.-think-again/)",137,FALSE,NA,### Insights,link,2019-11-11
-+ [Exploring Switzerland Official Data](http://felixluginbuhl.com/swiss-data/),78,FALSE,NA,### R in the Real World,link,2019-11-11
-![Exploring Switzerland Official Data](https://raw.githubusercontent.com/rweekly/image/master/2019/swiss-data_map.png),118,FALSE,NA,### R in the Real World,image,2019-11-11
-+ [New R Support in Azure Machine Learning](https://blog.revolutionanalytics.com/2019/11/r-in-azure-machine-learning.html),122,FALSE,NA,###  R in Organizations,link,2019-11-11
-+ [tidync: scientific array data from NetCDF in R](https://ropensci.org/blog/2019/11/05/tidync/),96,FALSE,NA,###  R in Academia,link,2019-11-11
-+ [rOpenSci Announces a New Award From The Gordon and Betty Moore Foundation to Improve the Scientific Package Ecosystem for R](https://ropensci.org/blog/2019/11/06/scientific-package-ecosystem/),195,FALSE,NA,###  R in Academia,link,2019-11-11
-+ [Using R to analyze and visualize tweets from SACNAS](https://www.raynamharris.com/blog/sacnas_rtweet/),105,FALSE,NA,###  R in Academia,link,2019-11-11
-+ [Another Book on Data Science - Learn R and Python in Parallel](https://anotherbookondatascience.com),103,FALSE,NA,###  Resources,link,2019-11-11
-+ [renv: Project Environments for R](https://blog.rstudio.com/2019/11/06/renv-project-environments-for-r/),106,FALSE,NA,### Updated Packages,link,2019-11-11
-+ [Package Manager 1.1.0: No Interruptions](https://blog.rstudio.com/2019/11/07/package-manager-v1-1-no-interruptions/),119,FALSE,NA,### Updated Packages,link,2019-11-11
-"+ [{tvthemes 1.1.0} is on CRAN: Creating a {pkgdown} website, Gravity Falls palette, and more!](http://Ryo-N7.github.io/2019-11-04-tvthemes-1.1.0-announcement/)",160,FALSE,NA,### Updated Packages,link,2019-11-11
-"![{tvthemes 1.1.0} is on CRAN: Creating a {pkgdown} website, Gravity Falls palette, and more!](https://raw.githubusercontent.com/rweekly/image/master/2019/gravityfalls-plot.png)",177,FALSE,NA,### Updated Packages,image,2019-11-11
-+ [Rcpp 1.0.3: More Spit and Polish](http://dirk.eddelbuettel.com/blog/2019/11/09#rcpp_1.0.3),93,FALSE,NA,### Updated Packages,link,2019-11-11
-"+ [styler 1.2.0: Alignment detection, curly curly & addin enhancements](https://www.tidyverse.org/blog/2019/11/styler-1-2-0/)",125,FALSE,NA,### Updated Packages,link,2019-11-11
-+ [testthat 2.3.0: Overhaul of error handling & polished output](https://www.tidyverse.org/blog/2019/11/testthat-2-3-0/),120,FALSE,NA,### Updated Packages,link,2019-11-11
-+ [haven 2.2.0: Read in only part of a large file](https://www.tidyverse.org/blog/2019/11/haven-2-2-0/),103,FALSE,NA,### Updated Packages,link,2019-11-11
-+ [future 1.15.0: Lazy Futures are Now Launched if Queried](https://www.jottr.org/2019/11/09/resolved-launches-lazy-futures/),125,FALSE,NA,### Updated Packages,link,2019-11-11
-+ [This week in algorithmic bias](http://nssdeviations.com/90-this-week-in-algorithmic-bias),92,FALSE,NA,###  Videos and Podcasts,link,2019-11-11
-+ [XML: The Recursive Programming Workout](https://www.garrickadenbuie.com/blog/recursive-xml-workout/),103,FALSE,NA,###  Tutorials,link,2019-11-11
-+ [30 days building maps (1) - ggplot2](https://statnmap.com/2019-11-08-30daymapchallenge-building-maps-1/),107,FALSE,NA,###  Tutorials,link,2019-11-11
-![30 days building maps (1) - ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019/cafes-in-france.jpeg),120,FALSE,NA,###  Tutorials,image,2019-11-11
-+ [Installing Prophet on CentOS](https://datawookie.netlify.com/blog/2019/11/installing-prophet-on-centos/),107,FALSE,NA,###  Tutorials,link,2019-11-11
-+ [Scraping Machinery Parts](https://datawookie.netlify.com/blog/2019/11/scraping-machinery-parts/),99,FALSE,NA,###  Tutorials,link,2019-11-11
-+ [A small simple random sample will often be better than a huge not-so-random one by @ellis2013nz](http://freerangestats.info/blog/2019/11/09/sampling-from-urns),162,FALSE,NA,###  Tutorials,link,2019-11-11
-![A small simple random sample will often be better than a huge not-so-random one by @ellis2013nz](https://raw.githubusercontent.com/rweekly/image/master/2019/sampling-from-urns-plot.png),187,FALSE,NA,###  Tutorials,image,2019-11-11
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2019-11-11
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-11-11
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-11-11
-"+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)",124,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-11
-"+ [Japan.R 2019, December 7](https://japanr.connpass.com/event/154070/)",71,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-11
-"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)",71,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-11
-"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-11
-"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-11
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-11
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-11-11
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-11-11
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-11-11
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot2</a> guitar chord chart/fretboard diagrams in your R markdown document. <a href=""https://t.co/zOgzftbqmT"">https://t.co/zOgzftbqmT</a> (Would be nice if Twitter&#39;s image preview didn&#39;t cut off the actual code; it&#39;s there.) <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/kL5ZT9YpMH"">pic.twitter.com/kL5ZT9YpMH</a></p>&mdash; Matthew Leonawicz (@leonawicz) <a href=""https://twitter.com/leonawicz/status/1191954792668704768?ref_src=twsrc%5Etfw"">November 6, 2019</a></blockquote>",694,FALSE,NA,###  Quotes of the Week,unid,2019-11-11
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">I was trying to explain to novices what <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> {magrittr} pipe does and all I could think of is these two examples <a href=""https://t.co/53Vxgtxh62"">pic.twitter.com/53Vxgtxh62</a></p>&mdash; Deemah 🇺🇦 🇳🇴 🇸🇪 (@dmi3k) <a href=""https://twitter.com/dmi3k/status/1191824875842879489?ref_src=twsrc%5Etfw"">November 5, 2019</a></blockquote>",472,FALSE,NA,###  Quotes of the Week,unid,2019-11-11
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-11-11
+"title: R Weekly 2019-45 {renv}, {tvthemes}",42,FALSE,NA,unid,2019-11-11
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-11-11
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-11-11
+---,3,FALSE,NA,unid,2019-11-11
+Release Date: 2019-11-11,24,FALSE,NA,unid,2019-11-11
+"This week's release was curated by [Jon Calder](https://twitter.com/jonmcalder), with help from the RWeekly team members and contributors.",138,FALSE,NA,unid,2019-11-11
++ [renv: Project Environments for R](https://blog.rstudio.com/2019/11/06/renv-project-environments-for-r/),106,FALSE,###  Highlight,link,2019-11-11
+"+ [{tvthemes 1.1.0} is on CRAN: Creating a {pkgdown} website, Gravity Falls palette, and more!](http://Ryo-N7.github.io/2019-11-04-tvthemes-1.1.0-announcement/)",160,FALSE,###  Highlight,link,2019-11-11
+"+ [When you think class(.) == *, think again!](https://developer.r-project.org/Blog/public/2019/11/09/when-you-think-class.-think-again/)",137,FALSE,### Insights,link,2019-11-11
++ [Exploring Switzerland Official Data](http://felixluginbuhl.com/swiss-data/),78,FALSE,### R in the Real World,link,2019-11-11
+![Exploring Switzerland Official Data](https://raw.githubusercontent.com/rweekly/image/master/2019/swiss-data_map.png),118,FALSE,### R in the Real World,image,2019-11-11
++ [New R Support in Azure Machine Learning](https://blog.revolutionanalytics.com/2019/11/r-in-azure-machine-learning.html),122,FALSE,###  R in Organizations,link,2019-11-11
++ [tidync: scientific array data from NetCDF in R](https://ropensci.org/blog/2019/11/05/tidync/),96,FALSE,###  R in Academia,link,2019-11-11
++ [rOpenSci Announces a New Award From The Gordon and Betty Moore Foundation to Improve the Scientific Package Ecosystem for R](https://ropensci.org/blog/2019/11/06/scientific-package-ecosystem/),195,FALSE,###  R in Academia,link,2019-11-11
++ [Using R to analyze and visualize tweets from SACNAS](https://www.raynamharris.com/blog/sacnas_rtweet/),105,FALSE,###  R in Academia,link,2019-11-11
++ [Another Book on Data Science - Learn R and Python in Parallel](https://anotherbookondatascience.com),103,FALSE,###  Resources,link,2019-11-11
++ [renv: Project Environments for R](https://blog.rstudio.com/2019/11/06/renv-project-environments-for-r/),106,FALSE,### Updated Packages,link,2019-11-11
++ [Package Manager 1.1.0: No Interruptions](https://blog.rstudio.com/2019/11/07/package-manager-v1-1-no-interruptions/),119,FALSE,### Updated Packages,link,2019-11-11
+"+ [{tvthemes 1.1.0} is on CRAN: Creating a {pkgdown} website, Gravity Falls palette, and more!](http://Ryo-N7.github.io/2019-11-04-tvthemes-1.1.0-announcement/)",160,FALSE,### Updated Packages,link,2019-11-11
+"![{tvthemes 1.1.0} is on CRAN: Creating a {pkgdown} website, Gravity Falls palette, and more!](https://raw.githubusercontent.com/rweekly/image/master/2019/gravityfalls-plot.png)",177,FALSE,### Updated Packages,image,2019-11-11
++ [Rcpp 1.0.3: More Spit and Polish](http://dirk.eddelbuettel.com/blog/2019/11/09#rcpp_1.0.3),93,FALSE,### Updated Packages,link,2019-11-11
+"+ [styler 1.2.0: Alignment detection, curly curly & addin enhancements](https://www.tidyverse.org/blog/2019/11/styler-1-2-0/)",125,FALSE,### Updated Packages,link,2019-11-11
++ [testthat 2.3.0: Overhaul of error handling & polished output](https://www.tidyverse.org/blog/2019/11/testthat-2-3-0/),120,FALSE,### Updated Packages,link,2019-11-11
++ [haven 2.2.0: Read in only part of a large file](https://www.tidyverse.org/blog/2019/11/haven-2-2-0/),103,FALSE,### Updated Packages,link,2019-11-11
++ [future 1.15.0: Lazy Futures are Now Launched if Queried](https://www.jottr.org/2019/11/09/resolved-launches-lazy-futures/),125,FALSE,### Updated Packages,link,2019-11-11
++ [This week in algorithmic bias](http://nssdeviations.com/90-this-week-in-algorithmic-bias),92,FALSE,###  Videos and Podcasts,link,2019-11-11
++ [XML: The Recursive Programming Workout](https://www.garrickadenbuie.com/blog/recursive-xml-workout/),103,FALSE,###  Tutorials,link,2019-11-11
++ [30 days building maps (1) - ggplot2](https://statnmap.com/2019-11-08-30daymapchallenge-building-maps-1/),107,FALSE,###  Tutorials,link,2019-11-11
+![30 days building maps (1) - ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019/cafes-in-france.jpeg),120,FALSE,###  Tutorials,image,2019-11-11
++ [Installing Prophet on CentOS](https://datawookie.netlify.com/blog/2019/11/installing-prophet-on-centos/),107,FALSE,###  Tutorials,link,2019-11-11
++ [Scraping Machinery Parts](https://datawookie.netlify.com/blog/2019/11/scraping-machinery-parts/),99,FALSE,###  Tutorials,link,2019-11-11
++ [A small simple random sample will often be better than a huge not-so-random one by @ellis2013nz](http://freerangestats.info/blog/2019/11/09/sampling-from-urns),162,FALSE,###  Tutorials,link,2019-11-11
+![A small simple random sample will often be better than a huge not-so-random one by @ellis2013nz](https://raw.githubusercontent.com/rweekly/image/master/2019/sampling-from-urns-plot.png),187,FALSE,###  Tutorials,image,2019-11-11
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2019-11-11
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-11-11
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-11-11
+"+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)",124,FALSE,###  Upcoming Events in 3 Months,link,2019-11-11
+"+ [Japan.R 2019, December 7](https://japanr.connpass.com/event/154070/)",71,FALSE,###  Upcoming Events in 3 Months,link,2019-11-11
+"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)",71,FALSE,###  Upcoming Events in 3 Months,link,2019-11-11
+"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,###  Upcoming Events in 3 Months,link,2019-11-11
+"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,###  Upcoming Events in 3 Months,link,2019-11-11
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-11-11
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-11-11
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-11-11
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-11-11
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw"">#ggplot2</a> guitar chord chart/fretboard diagrams in your R markdown document. <a href=""https://t.co/zOgzftbqmT"">https://t.co/zOgzftbqmT</a> (Would be nice if Twitter&#39;s image preview didn&#39;t cut off the actual code; it&#39;s there.) <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/kL5ZT9YpMH"">pic.twitter.com/kL5ZT9YpMH</a></p>&mdash; Matthew Leonawicz (@leonawicz) <a href=""https://twitter.com/leonawicz/status/1191954792668704768?ref_src=twsrc%5Etfw"">November 6, 2019</a></blockquote>",694,FALSE,###  Quotes of the Week,unid,2019-11-11
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">I was trying to explain to novices what <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> {magrittr} pipe does and all I could think of is these two examples <a href=""https://t.co/53Vxgtxh62"">pic.twitter.com/53Vxgtxh62</a></p>&mdash; Deemah 🇺🇦 🇳🇴 🇸🇪 (@dmi3k) <a href=""https://twitter.com/dmi3k/status/1191824875842879489?ref_src=twsrc%5Etfw"">November 5, 2019</a></blockquote>",472,FALSE,###  Quotes of the Week,unid,2019-11-11

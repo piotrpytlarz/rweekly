@@ -1,68 +1,68 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-07-23
-title: R Weekly 2018-30 UseR! 2018,34,FALSE,NA,NA,unid,2018-07-23
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-07-23
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-07-23
----,3,FALSE,NA,NA,unid,2018-07-23
-+ [UseR! 2018 Videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos),86,FALSE,NA,###  Highlight,link,2018-07-23
-+ [Highlights from the useR! 2018 conference in Brisbane](http://blog.revolutionanalytics.com/2018/07/user-2018-recap.html),123,FALSE,NA,###  Highlight,link,2018-07-23
-+ [Twitter Coverage of the useR Conference 2018](https://github.com/neilfws/Twitter/blob/master/user2018/code/R/user2018.md),124,FALSE,NA,###  Highlight,link,2018-07-23
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-07-23
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-07-23
-+ [Stickylabeller](https://rensa.co/projects/stickylabeller/) - easily include summary statistics and even automatically number/letter your facets for use in papers and reports,176,FALSE,NA,###  New Packages,link,2018-07-23
-+ [plotly 4.8.0](https://blog.cpsievert.me/2018/07/18/plotly-4-8-0-now-on-cran/) - Create Interactive Web Graphics via 'plotly.js',130,FALSE,NA,### Package Releases,link,2018-07-23
-![plotly 4.8.0](https://raw.githubusercontent.com/rweekly/image/master/2018/plotly2.gif),88,FALSE,NA,### Package Releases,image,2018-07-23
-+ [fst 0.8.0](http://blog.fstpackage.org/2018/01/fst_0.8.0/) - Lightning fast serialization of data frames using the fst package,128,FALSE,NA,### Package Releases,link,2018-07-23
-+ [RcppClassic 0.9.11](http://dirk.eddelbuettel.com/blog/2018/07/15#rcppclassic_0.9.11),87,FALSE,NA,### Package Releases,link,2018-07-23
-+ [pinp 0.0.6: Two new options](http://dirk.eddelbuettel.com/blog/2018/07/17#pinp_0.0.6),88,FALSE,NA,### Package Releases,link,2018-07-23
-+ [nanotime 0.2.2](http://dirk.eddelbuettel.com/blog/2018/07/18#nanotime_0.2.2),79,FALSE,NA,### Package Releases,link,2018-07-23
-+ [R.devices 2.16.0](https://cran.r-project.org/package=R.devices) - Unified Handling of Graphics Devices,105,FALSE,NA,### Package Releases,link,2018-07-23
-+ [Highlights from the useR! 2018 conference in Brisbane](http://blog.revolutionanalytics.com/2018/07/user-2018-recap.html),123,FALSE,NA,### Insights,link,2018-07-23
-+ [Twitter Coverage of the useR Conference 2018](https://github.com/neilfws/Twitter/blob/master/user2018/code/R/user2018.md),124,FALSE,NA,### R in the Real World,link,2018-07-23
-+ [Regional population structures at a glance](https://ikashnitsky.github.io/2018/the-lancet-paper/),100,FALSE,NA,### R in the Real World,link,2018-07-23
-![Regional population structures at a glance](https://ikashnitsky.github.io/images/180721/the-map.png),102,FALSE,NA,### R in the Real World,image,2018-07-23
-+ [A quick #WorldEmojiDay exploration](https://colinfay.me/worldemojiday),73,FALSE,NA,### R in the Real World,link,2018-07-23
-+ [Alleviating AWS Athena Aggravation with Asynchronous Assistance](https://rud.is/b/2018/07/14/alleviating-aws-athena-aggravation-with-asynchronous-assistance/),161,FALSE,NA,### R in the Real World,link,2018-07-23
-+ [This post talks about using Random Forests to model the Number of Votes a Zomato restaurant gets.](https://pradeepadhokshaja.wordpress.com/2018/07/01/zomato-predicting-the-number-of-votes-for-new-delhi-restaurants/),218,FALSE,NA,### R in the Real World,link,2018-07-23
-+ [Recreating (more) data visualizations from the book “Knowledge is Beautiful”: Part IV](https://towardsdatascience.com/recreating-more-data-visualizations-from-the-book-knowledge-is-beautiful-part-iv-686938a84c9e),215,FALSE,NA,### R in the Real World,link,2018-07-23
-"+ [A hex sticker wall, created with R](http://blog.revolutionanalytics.com/2018/07/user-2017-hexwall.html)",106,FALSE,NA,### R in the Real World,link,2018-07-23
-"+ [A thought experiment: How CRAN saved 3,620 (working) lives](https://topics-in-r.blogspot.com/2018/07/a-thought-experiment-how-cran-saved.html)",145,FALSE,NA,### R in the Real World,link,2018-07-23
-+ [Don't Worry: Google Only Checks Your Location Every 10 Minutes](http://www.sastibe.de/2018/04/don-t-worry-google-location/),126,FALSE,NA,### R in the Real World,link,2018-07-23
-![Don't Worry: Google Only Checks Your Location Every 10 Minutes](https://res.cloudinary.com/dlprdrxib/image/upload/v1523785896/google_heatmap_fiss_hcnim9.png),159,FALSE,NA,### R in the Real World,image,2018-07-23
-+ [UseR! 2018 Videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos),86,FALSE,NA,###  Videos and Podcasts,link,2018-07-23
-+ [Recipes for Data Processing by Max Kuhn](https://www.youtube.com/watch?v=JacpQdj1Vfc) - [part 1](https://www.youtube.com/watch?v=JacpQdj1Vfc) & [part 2](https://www.youtube.com/watch?v=ss-pIcwOUFo),200,FALSE,NA,###  Videos and Podcasts,link,2018-07-23
-+ [Come see R Consortium and R Ladies at Open Source Summit NA in Vancouver this August](https://www.r-consortium.org/events/2018/07/17/come-see-r-consortium-and-r-ladies-at-open-source-summit-na-in-vancouver-this-august),221,FALSE,NA,###  R in Organizations,link,2018-07-23
-+ [The 2018 R Conference Was the Biggest Yet](https://www.jaredlander.com/2018/05/the-2018-r-conference-was-the-biggest-yet/),125,FALSE,NA,###  R in Organizations,link,2018-07-23
-+ [Introduction to mapping with {sf} & Co.](https://statnmap.com/2018-07-14-introduction-to-mapping-with-sf-and-co/),116,FALSE,NA,###  Tutorials,link,2018-07-23
-![Introduction to mapping with {sf} & Co.](https://raw.githubusercontent.com/rweekly/image/master/2018/tmap-1.jpeg),115,FALSE,NA,###  Tutorials,image,2018-07-23
-+ [Automated Text Feature Engineering using textfeatures in R](https://datascienceplus.com/automated-text-feature-engineering-using-textfeatures-in-r/),151,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [Why I rarely use `apply`](https://privefl.github.io/blog/why-i-rarely-use-apply/),84,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [Multi-threaded hashing with xxHash from R](http://blog.fstpackage.org/2018/01/fst_hashing/),94,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [Introducing the monitoring and evaluation bullet chart ](https://www.amitkohli.com/introducing-the-monitoring-and-evaluation-bullet-chart/),142,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [From Data to Viz Find the Graphic You Need](https://www.r-graph-gallery.com/from-data-to-viz-find-the-graphic-you-need/),123,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [Hamiltonian tails](https://xianblog.wordpress.com/2018/07/17/hamiltonian-tails/),83,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [Get on your soapbox! R blog content and promotion](https://masalmon.eu/2018/07/16/soapbox/),94,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [mapedit and leaflet.js > 1.0](http://r-spatial.org//r/2018/07/15/mapedit_newleaflet.html),92,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [Simulate! Simulate! - Part3: The Poisson edition](https://aosmith.rbind.io/2018/07/18/simulate-poisson-edition/),115,FALSE,NA,###  Tutorials,link,2018-07-23
-"+ [The ""Invisible Baby"" Metaphor](https://yihui.name/en/2018/07/invisible-baby/)",80,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [What's inside? pkginspector provides helpful tools for inspecting package contents](https://ropensci.org/blog/2018/07/17/pkginspector/),138,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [How Will an Animated GIF Work in a Textbook?](https://yihui.name/en/2018/07/animated-gif-textbook/),102,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [Explaining Black-Box Machine Learning Models - Code Part 1: tabular data caret](https://shirinsplayground.netlify.com/2018/07/explaining_ml_models_code_caret_iml/),166,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [🎨 Palettes - Archer poster edition](https://maraaverick.rbind.io/2018/07/palettes-archer-poster-edition/),108,FALSE,NA,###  Tutorials,link,2018-07-23
-![Palettes - Archer poster edition](https://raw.githubusercontent.com/rweekly/image/master/2018/pals-all-1.png),111,FALSE,NA,###  Tutorials,image,2018-07-23
-+ [Creating legends when aesthetics are constants in ggplot2](https://aosmith.rbind.io/2018/07/19/legends-constants-for-aesthetics-in-ggplot2/),143,FALSE,NA,###  Tutorials,link,2018-07-23
-+ [Learn to R blog series - Operators and Objects](https://itsalocke.com/blog/learn-to-r-blog-series---operators-and-objects/),126,FALSE,NA,###  Tutorials,link,2018-07-23
-"+ [Randomize by, or within, cluster?](https://www.rdatagen.net/post/by-vs-within/)",82,FALSE,NA,###  Tutorials,link,2018-07-23
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-07-23
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-07-23
-+ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-07-23
-"Buenos Aires, Argentina.",24,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-07-23
-+ [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />,134,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-07-23
-"Lisbon, Portugal.",17,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-07-23
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-07-23
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-07-23
-"+ [Econometrics and Statistics using R](http://gades-training.com/r-training/) - Econometrics and Statistics usin R is organized in 5 training days that will provide you a full set of tools and techniques that any modern applied researcher needs to know. 10-14 September - Lisbon, Portugal",289,FALSE,NA,###  Call for Participation,link,2018-07-23
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-07-23
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">😳 Thanks to the <a href=""https://twitter.com/RConsortium?ref_src=twsrc%5Etfw"">@RConsortium</a>, I&#39;m gonna need a solid month to get through all the 📹 awesomeness from <a href=""https://twitter.com/useR2018_conf?ref_src=twsrc%5Etfw"">@useR2018_conf</a>… <a href=""https://t.co/kzKWI6W5cf"">https://t.co/kzKWI6W5cf</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/useR2018?src=hash&amp;ref_src=twsrc%5Etfw"">#useR2018</a> <a href=""https://t.co/wlHvqKbulM"">pic.twitter.com/wlHvqKbulM</a></p>&mdash; Mara Averick (@dataandme) <a href=""https://twitter.com/dataandme/status/1018818215684857856?ref_src=twsrc%5Etfw"">July 16, 2018</a></blockquote>",792,FALSE,NA,###  Quotes of the Week,unid,2018-07-23
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">How I stopped worrying about formatting regression analyses tables and learned to love the `ggcoefstats` function (<a href=""https://t.co/pn9YtXOI2i"">https://t.co/pn9YtXOI2i</a>)<br><br>ICYWW, this is unpublished data where we fail to replicate the finding that autistics morally judge accidental harms more severely<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/cPxbk4E2to"">pic.twitter.com/cPxbk4E2to</a></p>&mdash; Indrajeet Patil (@patilindrajeets) <a href=""https://twitter.com/patilindrajeets/status/1017473518798336000?ref_src=twsrc%5Etfw"">July 12, 2018</a></blockquote>",711,FALSE,NA,###  Quotes of the Week,unid,2018-07-23
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/gganimate?src=hash&amp;ref_src=twsrc%5Etfw"">#gganimate</a> is fantastic! It just works. So many GIFs to make for upcoming stats textbook. Here&#39;s one showing how pseudo-correlations arise due to sampling error (when two random variables are drawn from a uniform distribution) as a function of sample-size (10,50,100,1000) <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/U5K0ngQ4v1"">pic.twitter.com/U5K0ngQ4v1</a></p>&mdash; Matt Crump (@MattCrump_) <a href=""https://twitter.com/MattCrump_/status/1018529446448558081?ref_src=twsrc%5Etfw"">July 15, 2018</a></blockquote>",743,FALSE,NA,###  Quotes of the Week,unid,2018-07-23
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-07-23
+title: R Weekly 2018-30 UseR! 2018,34,FALSE,NA,unid,2018-07-23
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-07-23
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-07-23
+---,3,FALSE,NA,unid,2018-07-23
++ [UseR! 2018 Videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos),86,FALSE,###  Highlight,link,2018-07-23
++ [Highlights from the useR! 2018 conference in Brisbane](http://blog.revolutionanalytics.com/2018/07/user-2018-recap.html),123,FALSE,###  Highlight,link,2018-07-23
++ [Twitter Coverage of the useR Conference 2018](https://github.com/neilfws/Twitter/blob/master/user2018/code/R/user2018.md),124,FALSE,###  Highlight,link,2018-07-23
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-07-23
+**CRAN**,8,FALSE,###  New Packages,unid,2018-07-23
++ [Stickylabeller](https://rensa.co/projects/stickylabeller/) - easily include summary statistics and even automatically number/letter your facets for use in papers and reports,176,FALSE,###  New Packages,link,2018-07-23
++ [plotly 4.8.0](https://blog.cpsievert.me/2018/07/18/plotly-4-8-0-now-on-cran/) - Create Interactive Web Graphics via 'plotly.js',130,FALSE,### Package Releases,link,2018-07-23
+![plotly 4.8.0](https://raw.githubusercontent.com/rweekly/image/master/2018/plotly2.gif),88,FALSE,### Package Releases,image,2018-07-23
++ [fst 0.8.0](http://blog.fstpackage.org/2018/01/fst_0.8.0/) - Lightning fast serialization of data frames using the fst package,128,FALSE,### Package Releases,link,2018-07-23
++ [RcppClassic 0.9.11](http://dirk.eddelbuettel.com/blog/2018/07/15#rcppclassic_0.9.11),87,FALSE,### Package Releases,link,2018-07-23
++ [pinp 0.0.6: Two new options](http://dirk.eddelbuettel.com/blog/2018/07/17#pinp_0.0.6),88,FALSE,### Package Releases,link,2018-07-23
++ [nanotime 0.2.2](http://dirk.eddelbuettel.com/blog/2018/07/18#nanotime_0.2.2),79,FALSE,### Package Releases,link,2018-07-23
++ [R.devices 2.16.0](https://cran.r-project.org/package=R.devices) - Unified Handling of Graphics Devices,105,FALSE,### Package Releases,link,2018-07-23
++ [Highlights from the useR! 2018 conference in Brisbane](http://blog.revolutionanalytics.com/2018/07/user-2018-recap.html),123,FALSE,### Insights,link,2018-07-23
++ [Twitter Coverage of the useR Conference 2018](https://github.com/neilfws/Twitter/blob/master/user2018/code/R/user2018.md),124,FALSE,### R in the Real World,link,2018-07-23
++ [Regional population structures at a glance](https://ikashnitsky.github.io/2018/the-lancet-paper/),100,FALSE,### R in the Real World,link,2018-07-23
+![Regional population structures at a glance](https://ikashnitsky.github.io/images/180721/the-map.png),102,FALSE,### R in the Real World,image,2018-07-23
++ [A quick #WorldEmojiDay exploration](https://colinfay.me/worldemojiday),73,FALSE,### R in the Real World,link,2018-07-23
++ [Alleviating AWS Athena Aggravation with Asynchronous Assistance](https://rud.is/b/2018/07/14/alleviating-aws-athena-aggravation-with-asynchronous-assistance/),161,FALSE,### R in the Real World,link,2018-07-23
++ [This post talks about using Random Forests to model the Number of Votes a Zomato restaurant gets.](https://pradeepadhokshaja.wordpress.com/2018/07/01/zomato-predicting-the-number-of-votes-for-new-delhi-restaurants/),218,FALSE,### R in the Real World,link,2018-07-23
++ [Recreating (more) data visualizations from the book “Knowledge is Beautiful”: Part IV](https://towardsdatascience.com/recreating-more-data-visualizations-from-the-book-knowledge-is-beautiful-part-iv-686938a84c9e),215,FALSE,### R in the Real World,link,2018-07-23
+"+ [A hex sticker wall, created with R](http://blog.revolutionanalytics.com/2018/07/user-2017-hexwall.html)",106,FALSE,### R in the Real World,link,2018-07-23
+"+ [A thought experiment: How CRAN saved 3,620 (working) lives](https://topics-in-r.blogspot.com/2018/07/a-thought-experiment-how-cran-saved.html)",145,FALSE,### R in the Real World,link,2018-07-23
++ [Don't Worry: Google Only Checks Your Location Every 10 Minutes](http://www.sastibe.de/2018/04/don-t-worry-google-location/),126,FALSE,### R in the Real World,link,2018-07-23
+![Don't Worry: Google Only Checks Your Location Every 10 Minutes](https://res.cloudinary.com/dlprdrxib/image/upload/v1523785896/google_heatmap_fiss_hcnim9.png),159,FALSE,### R in the Real World,image,2018-07-23
++ [UseR! 2018 Videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos),86,FALSE,###  Videos and Podcasts,link,2018-07-23
++ [Recipes for Data Processing by Max Kuhn](https://www.youtube.com/watch?v=JacpQdj1Vfc) - [part 1](https://www.youtube.com/watch?v=JacpQdj1Vfc) & [part 2](https://www.youtube.com/watch?v=ss-pIcwOUFo),200,FALSE,###  Videos and Podcasts,link,2018-07-23
++ [Come see R Consortium and R Ladies at Open Source Summit NA in Vancouver this August](https://www.r-consortium.org/events/2018/07/17/come-see-r-consortium-and-r-ladies-at-open-source-summit-na-in-vancouver-this-august),221,FALSE,###  R in Organizations,link,2018-07-23
++ [The 2018 R Conference Was the Biggest Yet](https://www.jaredlander.com/2018/05/the-2018-r-conference-was-the-biggest-yet/),125,FALSE,###  R in Organizations,link,2018-07-23
++ [Introduction to mapping with {sf} & Co.](https://statnmap.com/2018-07-14-introduction-to-mapping-with-sf-and-co/),116,FALSE,###  Tutorials,link,2018-07-23
+![Introduction to mapping with {sf} & Co.](https://raw.githubusercontent.com/rweekly/image/master/2018/tmap-1.jpeg),115,FALSE,###  Tutorials,image,2018-07-23
++ [Automated Text Feature Engineering using textfeatures in R](https://datascienceplus.com/automated-text-feature-engineering-using-textfeatures-in-r/),151,FALSE,###  Tutorials,link,2018-07-23
++ [Why I rarely use `apply`](https://privefl.github.io/blog/why-i-rarely-use-apply/),84,FALSE,###  Tutorials,link,2018-07-23
++ [Multi-threaded hashing with xxHash from R](http://blog.fstpackage.org/2018/01/fst_hashing/),94,FALSE,###  Tutorials,link,2018-07-23
++ [Introducing the monitoring and evaluation bullet chart ](https://www.amitkohli.com/introducing-the-monitoring-and-evaluation-bullet-chart/),142,FALSE,###  Tutorials,link,2018-07-23
++ [From Data to Viz Find the Graphic You Need](https://www.r-graph-gallery.com/from-data-to-viz-find-the-graphic-you-need/),123,FALSE,###  Tutorials,link,2018-07-23
++ [Hamiltonian tails](https://xianblog.wordpress.com/2018/07/17/hamiltonian-tails/),83,FALSE,###  Tutorials,link,2018-07-23
++ [Get on your soapbox! R blog content and promotion](https://masalmon.eu/2018/07/16/soapbox/),94,FALSE,###  Tutorials,link,2018-07-23
++ [mapedit and leaflet.js > 1.0](http://r-spatial.org//r/2018/07/15/mapedit_newleaflet.html),92,FALSE,###  Tutorials,link,2018-07-23
++ [Simulate! Simulate! - Part3: The Poisson edition](https://aosmith.rbind.io/2018/07/18/simulate-poisson-edition/),115,FALSE,###  Tutorials,link,2018-07-23
+"+ [The ""Invisible Baby"" Metaphor](https://yihui.name/en/2018/07/invisible-baby/)",80,FALSE,###  Tutorials,link,2018-07-23
++ [What's inside? pkginspector provides helpful tools for inspecting package contents](https://ropensci.org/blog/2018/07/17/pkginspector/),138,FALSE,###  Tutorials,link,2018-07-23
++ [How Will an Animated GIF Work in a Textbook?](https://yihui.name/en/2018/07/animated-gif-textbook/),102,FALSE,###  Tutorials,link,2018-07-23
++ [Explaining Black-Box Machine Learning Models - Code Part 1: tabular data caret](https://shirinsplayground.netlify.com/2018/07/explaining_ml_models_code_caret_iml/),166,FALSE,###  Tutorials,link,2018-07-23
++ [🎨 Palettes - Archer poster edition](https://maraaverick.rbind.io/2018/07/palettes-archer-poster-edition/),108,FALSE,###  Tutorials,link,2018-07-23
+![Palettes - Archer poster edition](https://raw.githubusercontent.com/rweekly/image/master/2018/pals-all-1.png),111,FALSE,###  Tutorials,image,2018-07-23
++ [Creating legends when aesthetics are constants in ggplot2](https://aosmith.rbind.io/2018/07/19/legends-constants-for-aesthetics-in-ggplot2/),143,FALSE,###  Tutorials,link,2018-07-23
++ [Learn to R blog series - Operators and Objects](https://itsalocke.com/blog/learn-to-r-blog-series---operators-and-objects/),126,FALSE,###  Tutorials,link,2018-07-23
+"+ [Randomize by, or within, cluster?](https://www.rdatagen.net/post/by-vs-within/)",82,FALSE,###  Tutorials,link,2018-07-23
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2018-07-23
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-07-23
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,###  Upcoming Events in 3 Months,link,2018-07-23
+"Buenos Aires, Argentina.",24,FALSE,###  Upcoming Events in 3 Months,unid,2018-07-23
++ [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />,134,FALSE,###  Upcoming Events in 3 Months,link,2018-07-23
+"Lisbon, Portugal.",17,FALSE,###  Upcoming Events in 3 Months,unid,2018-07-23
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2018-07-23
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-07-23
+"+ [Econometrics and Statistics using R](http://gades-training.com/r-training/) - Econometrics and Statistics usin R is organized in 5 training days that will provide you a full set of tools and techniques that any modern applied researcher needs to know. 10-14 September - Lisbon, Portugal",289,FALSE,###  Call for Participation,link,2018-07-23
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-07-23
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">😳 Thanks to the <a href=""https://twitter.com/RConsortium?ref_src=twsrc%5Etfw"">@RConsortium</a>, I&#39;m gonna need a solid month to get through all the 📹 awesomeness from <a href=""https://twitter.com/useR2018_conf?ref_src=twsrc%5Etfw"">@useR2018_conf</a>… <a href=""https://t.co/kzKWI6W5cf"">https://t.co/kzKWI6W5cf</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/useR2018?src=hash&amp;ref_src=twsrc%5Etfw"">#useR2018</a> <a href=""https://t.co/wlHvqKbulM"">pic.twitter.com/wlHvqKbulM</a></p>&mdash; Mara Averick (@dataandme) <a href=""https://twitter.com/dataandme/status/1018818215684857856?ref_src=twsrc%5Etfw"">July 16, 2018</a></blockquote>",792,FALSE,###  Quotes of the Week,unid,2018-07-23
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">How I stopped worrying about formatting regression analyses tables and learned to love the `ggcoefstats` function (<a href=""https://t.co/pn9YtXOI2i"">https://t.co/pn9YtXOI2i</a>)<br><br>ICYWW, this is unpublished data where we fail to replicate the finding that autistics morally judge accidental harms more severely<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/cPxbk4E2to"">pic.twitter.com/cPxbk4E2to</a></p>&mdash; Indrajeet Patil (@patilindrajeets) <a href=""https://twitter.com/patilindrajeets/status/1017473518798336000?ref_src=twsrc%5Etfw"">July 12, 2018</a></blockquote>",711,FALSE,###  Quotes of the Week,unid,2018-07-23
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/gganimate?src=hash&amp;ref_src=twsrc%5Etfw"">#gganimate</a> is fantastic! It just works. So many GIFs to make for upcoming stats textbook. Here&#39;s one showing how pseudo-correlations arise due to sampling error (when two random variables are drawn from a uniform distribution) as a function of sample-size (10,50,100,1000) <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/U5K0ngQ4v1"">pic.twitter.com/U5K0ngQ4v1</a></p>&mdash; Matt Crump (@MattCrump_) <a href=""https://twitter.com/MattCrump_/status/1018529446448558081?ref_src=twsrc%5Etfw"">July 15, 2018</a></blockquote>",743,FALSE,###  Quotes of the Week,unid,2018-07-23

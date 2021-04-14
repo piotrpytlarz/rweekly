@@ -1,83 +1,83 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2016-11-7
-layout: post,12,FALSE,NA,NA,unid,2016-11-7
-title: Issue 24,15,FALSE,NA,NA,unid,2016-11-7
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2016-11-7
----,3,FALSE,NA,NA,unid,2016-11-7
-Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-11-7
-*Digested by R Weekly Members*,30,FALSE,NA,## Highlight,unid,2016-11-7
-+ [List of R conferences and useR groups](https://jumpingrivers.github.io/meetingsR/),85,FALSE,NA,## Highlight,link,2016-11-7
-+ [Announcing RStudio v1.0!](https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/),90,FALSE,NA,## Highlight,link,2016-11-7
-+ [Asynchronous and Distributed Programming in R with the Future Package](https://alexioannides.com/2016/11/02/asynchronous-and-distributed-programming-in-r-with-the-future-package/),182,FALSE,NA,## Highlight,link,2016-11-7
-+ [Some vtreat package design principles](http://www.win-vector.com/blog/2016/11/some-vtreat-design-principles/),112,FALSE,NA,#### Tutorials,link,2016-11-7
-+ [Naive Bayes: A Generative Model and Big Data Classifier](https://www.rstudio.com/rviews/2016/11/02/naive-bayes-a-generative-model-and-big-data-classifier/),158,FALSE,NA,#### Tutorials,link,2016-11-7
-+ [showCategory parameter for visualizing compareCluster output](https://guangchuangyu.github.io/2016/11/showcategory-parameter-for-visualizing-comparecluster-output/),167,FALSE,NA,#### Tutorials,link,2016-11-7
-+ [Map Projections for R Shapefiles: United States](https://www.datascienceriot.com/map-projections-for-r-shapefiles-united-states/kris/),137,FALSE,NA,#### Tutorials,link,2016-11-7
-+ [How to add a background image to ggplot2 graphs](http://datascienceplus.com/how-to-add-a-background-image-to-ggplot2-graphs/),128,FALSE,NA,#### Tutorials,link,2016-11-7
-![How to add a background image to ggplot2 graphs](https://i0.wp.com/datascienceplus.com/wp-content/uploads/2016/10/plot-background-490x327.png),144,FALSE,NA,#### Tutorials,image,2016-11-7
-+ [Asynchronous and Distributed Programming in R with the Future Package](https://alexioannides.com/2016/11/02/asynchronous-and-distributed-programming-in-r-with-the-future-package/),182,FALSE,NA,#### Tutorials,link,2016-11-7
-+ [Cute Gibbs sampling for rounded observations](http://www.quantumforest.com/2016/11/cute-gibbs-sampling-for-rounded-observations/),132,FALSE,NA,#### Tutorials,link,2016-11-7
-+ [The Bayesian approach to ridge regression](http://www.onthelambda.com/2016/10/30/the-bayesian-approach-to-ridge-regression/),127,FALSE,NA,#### Tutorials,link,2016-11-7
-+ [What is wrong with lift curves](http://www.cybaea.net/journal/2016/10/31/What-is-wrong-with-lift-curves/),108,FALSE,NA,#### Tutorials,link,2016-11-7
-+ [Predictability in Network Models](https://jmbh.github.io//Predictability-in-network-models/),95,FALSE,NA,#### Tutorials,link,2016-11-7
-+ [R from the future](https://lionel-.github.io/2016/02/15/ideas-for-an-updated-r-syntax/index.html) - RStudio's Lionel Henry gives his ideas for the future of R syntax,168,FALSE,NA,#### R in the Real World,link,2016-11-7
-```r,4,FALSE,NA,#### R in the Real World,unid,2016-11-7
-"test_that(""new syntax works"") {",31,FALSE,NA,#### R in the Real World,unid,2016-11-7
-"   data <- list(mtcars, 1, 2, list(3, mtcars, 4))",49,FALSE,NA,#### R in the Real World,unid,2016-11-7
-"   expected <- lapply(data, function(x) is.list(x) || is.double(x))",67,FALSE,NA,#### R in the Real World,unid,2016-11-7
-   mtcars |>,12,FALSE,NA,#### R in the Real World,unid,2016-11-7
-"     [1, 2, [3, _, 4]] |>",25,FALSE,NA,#### R in the Real World,unid,2016-11-7
-     map([x] -> is.list(x) || is.double(x)) |>,46,FALSE,NA,#### R in the Real World,unid,2016-11-7
-     check_equal(expected),26,FALSE,NA,#### R in the Real World,unid,2016-11-7
- },2,FALSE,NA,#### R in the Real World,unid,2016-11-7
-```,3,FALSE,NA,#### R in the Real World,unid,2016-11-7
-"+ [Searches for ""iPhone slow"" make huge spikes right after every new iPhone release](https://www.reddit.com/r/dataisbeautiful/comments/5b3djj/searches_for_iphone_slow_make_huge_spikes_right/?sort=old)",200,FALSE,NA,#### R in the Real World,link,2016-11-7
-"![Searches for ""iPhone slow"" make huge spikes right after every new iPhone release](https://i.redd.it/3j2tcwvknlvx.png)",119,FALSE,NA,#### R in the Real World,image,2016-11-7
-+ [Wealth Distribution in the Online Game - EVE](https://community.eveonline.com/news/dev-blogs/monthly-economic-report-october-2016/),134,FALSE,NA,#### R in the Real World,link,2016-11-7
-![Wealth Distribution in the Online Game - EVE](https://i.redd.it/7ljmm8w7pmvx.png),83,FALSE,NA,#### R in the Real World,image,2016-11-7
-+ [How to create crime maps of Mexico City](https://blog.diegovalle.net/2016/10/crime-maps-of-mexico-city.html),111,FALSE,NA,#### R in the Real World,link,2016-11-7
-![How to create crime maps of Mexico City](https://blog.diegovalle.net/images/posts/crime-maps-of-mexico-city/unnamed-chunk-13-1.png),133,FALSE,NA,#### R in the Real World,image,2016-11-7
-+ [RTutor: CO2 Trading and Risk of Firm Relocation](https://skranz.github.io//r/2016/11/03/RTutor_EmmissionTradingReallocation.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+skranz_R+%28Economics+and+R+%28R+Posts%29%29),236,FALSE,NA,#### R in the Real World,link,2016-11-7
-"+ [A Bayesian election prediction, implemented with R and Stan](http://blog.revolutionanalytics.com/2016/11/a-bayesian-election-forecast.html)",142,FALSE,NA,#### R in the Real World,link,2016-11-7
-+ [Running the Numbers – How Can Hamilton Still Take the 2016 F1 Drivers’ Championship?](https://blog.ouseful.info/2016/10/31/running-the-numbers-how-can-hamilton-still-take-the-2016-f1-drivers-championship/),208,FALSE,NA,#### R in the Real World,link,2016-11-7
-+ [The Polls of the Future Are Reproducible and Open Source](http://www.slate.com/articles/technology/future_tense/2016/11/the_polls_of_the_future_will_be_reproducible_and_open_source.html),189,FALSE,NA,#### R in the Real World,link,2016-11-7
-+ [Nobel Laureates - A Closer Look At The Data](http://www.salvaggio.net/publications/R-blog/files/nobel-laureates-closer-look-at-the-data.php#unique-entry-id-11),162,FALSE,NA,#### R in the Real World,link,2016-11-7
-+ [ggmail + forecast = how many emails I will get tomorrow?](http://smarterpoland.pl/index.php/2016/10/ggmail-ggplot2-data-from-gmail-forecast/),144,FALSE,NA,#### R in the Real World,link,2016-11-7
-![ggmail + forecast = how many emails I will get tomorrow?](https://cdn.rawgit.com/rweekly/image/master/2016-11-7/ggmail_trend-1024x503.png),140,FALSE,NA,#### R in the Real World,image,2016-11-7
-+ [Introducing RC RUGS: R Consortium R User Group Support Program](https://www.r-consortium.org/news/2016/11/03/introducing-rugs-r-consortium-r-user-group-support-program),171,FALSE,NA,#### R in Organization,link,2016-11-7
-+ [The International Conference on Monte Carlo Methods and Applications (MCM) will take place in Montréal 2017](https://xianblog.wordpress.com/2016/11/03/je-reviendrai-a-montreal-mcm-2017/),189,FALSE,NA,#### R in Organization,link,2016-11-7
-+ [Announcing RStudio v1.0!](https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/),90,FALSE,NA,#### R in Organization,link,2016-11-7
-+ [Weighted Effect Coding: Dummy coding when size matters](http://www.rensenieuwenhuis.nl/weighted-effect-coding-dummy-coding-when-size-matters/),145,FALSE,NA,#### R in Academia,link,2016-11-7
-+ [List of R conferences and useR groups](https://jumpingrivers.github.io/meetingsR/),85,FALSE,NA,## Resources,link,2016-11-7
-"+ [Feuilleton](https://www.rstudio.com/rviews/2016/11/04/feuilleton/) - Here we offer ephemera, a little light reading and some more challenging material.",154,FALSE,NA,## Resources,link,2016-11-7
-+ [Advanced R Solutions](https://bookdown.org/Tazinho/Advanced-R-Solutions/) - This book aims to contribute the solutions to Hadley Wickhams book Advanced R. It is planed to finish until end of 2016.,199,FALSE,NA,## Resources,link,2016-11-7
-+ [RStudio 1.0](https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/) - 10th major release since the initial launch in February 2011.,141,FALSE,NA,## New Releases,link,2016-11-7
-+ [rbokeh 0.5.0](http://ryanhafen.com/blog/rbokeh-0-5-0) - Plotting library based on BokehJS.,93,FALSE,NA,## New Releases,link,2016-11-7
-"<iframe webkitallowfullscreen="""" mozallowfullscreen="""" allowfullscreen="""" sandbox=""allow-forms allow-scripts allow-popups allow-same-origin allow-pointer-lock"" src=""https://cdn.rawgit.com/hafen/b7389ee0eb04edec7c4dcc0d5d9262c7/raw/2cd72b8b8025a64fb56cb8f496d03ce93f64003f/index.html"" width=""710"" height=""320"" frameborder=""0""></iframe>",334,FALSE,NA,## New Releases,unid,2016-11-7
-+ [RProtoBuf 0.4.7](http://dirk.eddelbuettel.com/blog/2016/10/29#rprotobuf_0.4.7) - The RProtobuf package provides R with facilities to use Google Protocol Buffers files and messages.,183,FALSE,NA,## New Releases,link,2016-11-7
-"+ [drat 0.1.2](http://dirk.eddelbuettel.com/blog/2016/10/29#drat_0.1.2) - drat stands for drat R Archive Template, and helps with easy-to-create and easy-to-use repositories for R packages.",189,FALSE,NA,## New Releases,link,2016-11-7
-"+ [ShinyProxy 0.6.0](https://www.openanalytics.eu/blog/shinyproxy-060-released) - ShinyProxy is a novel, open source platform to deploy Shiny apps for the enterprise or larger organizations.",190,FALSE,NA,## New Releases,link,2016-11-7
-+ [NIMBLE](http://r-nimble.org/nimble-package-for-hierarchical-modeling-mcmc-and-more-faster-and-more-flexible-in-version-0-6-1) -,130,FALSE,NA,## New Releases,link,2016-11-7
-NIMBLE package for hierarchical modeling (MCMC and more) faster and more flexible.,82,FALSE,NA,## New Releases,unid,2016-11-7
-+ [mapmate](https://blog.snap.uaf.edu/2016/11/01/mapmate-0-1-0/) - The mapmate package is used for map- and globe-based data animation pre-production.,150,FALSE,NA,## New Packages & Tools,link,2016-11-7
-![mapmate](https://leonawicz.github.io/mapmate/README-Examples-polygons_tiles_scratch-2.png),92,FALSE,NA,## New Packages & Tools,image,2016-11-7
-+ [packagedocs](http://ryanhafen.com/blog/packagedocs) - Build an R Package Documentation Website.,98,FALSE,NA,## New Packages & Tools,link,2016-11-7
-+ [Rmazon](http://www.56n.dk/download-product-information-and-reviews-from-amazon-com/) - Download product information and reviews from Amazon.com .,148,FALSE,NA,## New Packages & Tools,link,2016-11-7
-+ [isdparser](http://ropensci.org/blog/technotes/2016/11/03/isdparser-release) - Parse NOAA Integrated Surface Data Files.,122,FALSE,NA,## New Packages & Tools,link,2016-11-7
-+ [BelgiumMaps.StatBel](http://www.bnosac.be/index.php/blog/61-belgiummaps-statbel-r-package-with-administrative-boundaries-of-belgium),135,FALSE,NA,## New Packages & Tools,link,2016-11-7
-![BelgiumMaps.StatBel](https://cdn.rawgit.com/bnosac/BelgiumMaps.StatBel/2c0b9ac478885b791b87a0a53a2081a4ca3e0912/inst/img/belgiummaps_statbel.png),147,FALSE,NA,## New Packages & Tools,image,2016-11-7
-+ [glmnetUtils](http://blog.revolutionanalytics.com/2016/11/glmnetutils.html) - Quality of life enhancements for elastic net regression with glmnet,147,FALSE,NA,## New Packages & Tools,link,2016-11-7
-+ [foghorn](https://github.com/fmichonneau/foghorn) -  R package to summarize CRAN Check Results in the Terminal.,113,FALSE,NA,## New Packages & Tools,link,2016-11-7
-![foghorn](https://pbs.twimg.com/media/CwNZ06XWgAUtqaK.jpg),59,FALSE,NA,## New Packages & Tools,image,2016-11-7
-"+ [rgeoapi](https://cran.r-project.org/web/packages/rgeoapi/) - a package to access the French GeoAPI, now on CRAN.",115,FALSE,NA,## New Packages & Tools,link,2016-11-7
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,## R Project Updates,unid,2016-11-7
-"+ `rep(x, times)` and `rep.int(x, times)` now both work also when `times` is larger than the maximal integer.",109,FALSE,NA,## R Project Updates,unid,2016-11-7
-"+ `vapply(x, *)` now works with long vectors `x`.",49,FALSE,NA,## R Project Updates,unid,2016-11-7
-"+  `isS3method(""is.na.data.frame"")` and similar are correct now.",64,FALSE,NA,## R Project Updates,unid,2016-11-7
-"+ `unix.time()`, a traditional synonym for `system.time()`, has been deprecated.",80,FALSE,NA,## R Project Updates,unid,2016-11-7
-"+ `grepRaw(<long>, <short>, fixed = TRUE)` now works, thanks to a patch by Mikko Korpela.",89,FALSE,NA,## R Project Updates,unid,2016-11-7
-+ `R CMD check --no-stop-on-error` now continues running tests even if they give (normal) errors.,97,FALSE,NA,## R Project Updates,unid,2016-11-7
-"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>",93,FALSE,NA,## Upcoming Events,link,2016-11-7
-The conference about all things R and RStudio.<br />,52,FALSE,NA,## Upcoming Events,unid,2016-11-7
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">The R Foundation is now on Twitter. Follow us for official news about the R Project for Statistical Computing. <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a></p>&mdash; The R Foundation (@_R_Foundation) <a href=""https://twitter.com/_R_Foundation/status/794484803680825344""></a></blockquote>",381,FALSE,NA,## Quote of the Week,unid,2016-11-7
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Teach me your secrets, networkDynamic package. <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> 😂😂😂😂😂 <a href=""https://t.co/mMCH42mFLy"">pic.twitter.com/mMCH42mFLy</a></p>&mdash; Sam Tyner (@sctyner) <a href=""https://twitter.com/sctyner/status/793899352926351360""></a></blockquote>",369,FALSE,NA,## Quote of the Week,unid,2016-11-7
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2016-11-7
+layout: post,12,FALSE,NA,unid,2016-11-7
+title: Issue 24,15,FALSE,NA,unid,2016-11-7
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2016-11-7
+---,3,FALSE,NA,unid,2016-11-7
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,unid,2016-11-7
+*Digested by R Weekly Members*,30,FALSE,## Highlight,unid,2016-11-7
++ [List of R conferences and useR groups](https://jumpingrivers.github.io/meetingsR/),85,FALSE,## Highlight,link,2016-11-7
++ [Announcing RStudio v1.0!](https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/),90,FALSE,## Highlight,link,2016-11-7
++ [Asynchronous and Distributed Programming in R with the Future Package](https://alexioannides.com/2016/11/02/asynchronous-and-distributed-programming-in-r-with-the-future-package/),182,FALSE,## Highlight,link,2016-11-7
++ [Some vtreat package design principles](http://www.win-vector.com/blog/2016/11/some-vtreat-design-principles/),112,FALSE,#### Tutorials,link,2016-11-7
++ [Naive Bayes: A Generative Model and Big Data Classifier](https://www.rstudio.com/rviews/2016/11/02/naive-bayes-a-generative-model-and-big-data-classifier/),158,FALSE,#### Tutorials,link,2016-11-7
++ [showCategory parameter for visualizing compareCluster output](https://guangchuangyu.github.io/2016/11/showcategory-parameter-for-visualizing-comparecluster-output/),167,FALSE,#### Tutorials,link,2016-11-7
++ [Map Projections for R Shapefiles: United States](https://www.datascienceriot.com/map-projections-for-r-shapefiles-united-states/kris/),137,FALSE,#### Tutorials,link,2016-11-7
++ [How to add a background image to ggplot2 graphs](http://datascienceplus.com/how-to-add-a-background-image-to-ggplot2-graphs/),128,FALSE,#### Tutorials,link,2016-11-7
+![How to add a background image to ggplot2 graphs](https://i0.wp.com/datascienceplus.com/wp-content/uploads/2016/10/plot-background-490x327.png),144,FALSE,#### Tutorials,image,2016-11-7
++ [Asynchronous and Distributed Programming in R with the Future Package](https://alexioannides.com/2016/11/02/asynchronous-and-distributed-programming-in-r-with-the-future-package/),182,FALSE,#### Tutorials,link,2016-11-7
++ [Cute Gibbs sampling for rounded observations](http://www.quantumforest.com/2016/11/cute-gibbs-sampling-for-rounded-observations/),132,FALSE,#### Tutorials,link,2016-11-7
++ [The Bayesian approach to ridge regression](http://www.onthelambda.com/2016/10/30/the-bayesian-approach-to-ridge-regression/),127,FALSE,#### Tutorials,link,2016-11-7
++ [What is wrong with lift curves](http://www.cybaea.net/journal/2016/10/31/What-is-wrong-with-lift-curves/),108,FALSE,#### Tutorials,link,2016-11-7
++ [Predictability in Network Models](https://jmbh.github.io//Predictability-in-network-models/),95,FALSE,#### Tutorials,link,2016-11-7
++ [R from the future](https://lionel-.github.io/2016/02/15/ideas-for-an-updated-r-syntax/index.html) - RStudio's Lionel Henry gives his ideas for the future of R syntax,168,FALSE,#### R in the Real World,link,2016-11-7
+```r,4,FALSE,#### R in the Real World,unid,2016-11-7
+"test_that(""new syntax works"") {",31,FALSE,#### R in the Real World,unid,2016-11-7
+"   data <- list(mtcars, 1, 2, list(3, mtcars, 4))",49,FALSE,#### R in the Real World,unid,2016-11-7
+"   expected <- lapply(data, function(x) is.list(x) || is.double(x))",67,FALSE,#### R in the Real World,unid,2016-11-7
+   mtcars |>,12,FALSE,#### R in the Real World,unid,2016-11-7
+"     [1, 2, [3, _, 4]] |>",25,FALSE,#### R in the Real World,unid,2016-11-7
+     map([x] -> is.list(x) || is.double(x)) |>,46,FALSE,#### R in the Real World,unid,2016-11-7
+     check_equal(expected),26,FALSE,#### R in the Real World,unid,2016-11-7
+ },2,FALSE,#### R in the Real World,unid,2016-11-7
+```,3,FALSE,#### R in the Real World,unid,2016-11-7
+"+ [Searches for ""iPhone slow"" make huge spikes right after every new iPhone release](https://www.reddit.com/r/dataisbeautiful/comments/5b3djj/searches_for_iphone_slow_make_huge_spikes_right/?sort=old)",200,FALSE,#### R in the Real World,link,2016-11-7
+"![Searches for ""iPhone slow"" make huge spikes right after every new iPhone release](https://i.redd.it/3j2tcwvknlvx.png)",119,FALSE,#### R in the Real World,image,2016-11-7
++ [Wealth Distribution in the Online Game - EVE](https://community.eveonline.com/news/dev-blogs/monthly-economic-report-october-2016/),134,FALSE,#### R in the Real World,link,2016-11-7
+![Wealth Distribution in the Online Game - EVE](https://i.redd.it/7ljmm8w7pmvx.png),83,FALSE,#### R in the Real World,image,2016-11-7
++ [How to create crime maps of Mexico City](https://blog.diegovalle.net/2016/10/crime-maps-of-mexico-city.html),111,FALSE,#### R in the Real World,link,2016-11-7
+![How to create crime maps of Mexico City](https://blog.diegovalle.net/images/posts/crime-maps-of-mexico-city/unnamed-chunk-13-1.png),133,FALSE,#### R in the Real World,image,2016-11-7
++ [RTutor: CO2 Trading and Risk of Firm Relocation](https://skranz.github.io//r/2016/11/03/RTutor_EmmissionTradingReallocation.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+skranz_R+%28Economics+and+R+%28R+Posts%29%29),236,FALSE,#### R in the Real World,link,2016-11-7
+"+ [A Bayesian election prediction, implemented with R and Stan](http://blog.revolutionanalytics.com/2016/11/a-bayesian-election-forecast.html)",142,FALSE,#### R in the Real World,link,2016-11-7
++ [Running the Numbers – How Can Hamilton Still Take the 2016 F1 Drivers’ Championship?](https://blog.ouseful.info/2016/10/31/running-the-numbers-how-can-hamilton-still-take-the-2016-f1-drivers-championship/),208,FALSE,#### R in the Real World,link,2016-11-7
++ [The Polls of the Future Are Reproducible and Open Source](http://www.slate.com/articles/technology/future_tense/2016/11/the_polls_of_the_future_will_be_reproducible_and_open_source.html),189,FALSE,#### R in the Real World,link,2016-11-7
++ [Nobel Laureates - A Closer Look At The Data](http://www.salvaggio.net/publications/R-blog/files/nobel-laureates-closer-look-at-the-data.php#unique-entry-id-11),162,FALSE,#### R in the Real World,link,2016-11-7
++ [ggmail + forecast = how many emails I will get tomorrow?](http://smarterpoland.pl/index.php/2016/10/ggmail-ggplot2-data-from-gmail-forecast/),144,FALSE,#### R in the Real World,link,2016-11-7
+![ggmail + forecast = how many emails I will get tomorrow?](https://cdn.rawgit.com/rweekly/image/master/2016-11-7/ggmail_trend-1024x503.png),140,FALSE,#### R in the Real World,image,2016-11-7
++ [Introducing RC RUGS: R Consortium R User Group Support Program](https://www.r-consortium.org/news/2016/11/03/introducing-rugs-r-consortium-r-user-group-support-program),171,FALSE,#### R in Organization,link,2016-11-7
++ [The International Conference on Monte Carlo Methods and Applications (MCM) will take place in Montréal 2017](https://xianblog.wordpress.com/2016/11/03/je-reviendrai-a-montreal-mcm-2017/),189,FALSE,#### R in Organization,link,2016-11-7
++ [Announcing RStudio v1.0!](https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/),90,FALSE,#### R in Organization,link,2016-11-7
++ [Weighted Effect Coding: Dummy coding when size matters](http://www.rensenieuwenhuis.nl/weighted-effect-coding-dummy-coding-when-size-matters/),145,FALSE,#### R in Academia,link,2016-11-7
++ [List of R conferences and useR groups](https://jumpingrivers.github.io/meetingsR/),85,FALSE,## Resources,link,2016-11-7
+"+ [Feuilleton](https://www.rstudio.com/rviews/2016/11/04/feuilleton/) - Here we offer ephemera, a little light reading and some more challenging material.",154,FALSE,## Resources,link,2016-11-7
++ [Advanced R Solutions](https://bookdown.org/Tazinho/Advanced-R-Solutions/) - This book aims to contribute the solutions to Hadley Wickhams book Advanced R. It is planed to finish until end of 2016.,199,FALSE,## Resources,link,2016-11-7
++ [RStudio 1.0](https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/) - 10th major release since the initial launch in February 2011.,141,FALSE,## New Releases,link,2016-11-7
++ [rbokeh 0.5.0](http://ryanhafen.com/blog/rbokeh-0-5-0) - Plotting library based on BokehJS.,93,FALSE,## New Releases,link,2016-11-7
+"<iframe webkitallowfullscreen="""" mozallowfullscreen="""" allowfullscreen="""" sandbox=""allow-forms allow-scripts allow-popups allow-same-origin allow-pointer-lock"" src=""https://cdn.rawgit.com/hafen/b7389ee0eb04edec7c4dcc0d5d9262c7/raw/2cd72b8b8025a64fb56cb8f496d03ce93f64003f/index.html"" width=""710"" height=""320"" frameborder=""0""></iframe>",334,FALSE,## New Releases,unid,2016-11-7
++ [RProtoBuf 0.4.7](http://dirk.eddelbuettel.com/blog/2016/10/29#rprotobuf_0.4.7) - The RProtobuf package provides R with facilities to use Google Protocol Buffers files and messages.,183,FALSE,## New Releases,link,2016-11-7
+"+ [drat 0.1.2](http://dirk.eddelbuettel.com/blog/2016/10/29#drat_0.1.2) - drat stands for drat R Archive Template, and helps with easy-to-create and easy-to-use repositories for R packages.",189,FALSE,## New Releases,link,2016-11-7
+"+ [ShinyProxy 0.6.0](https://www.openanalytics.eu/blog/shinyproxy-060-released) - ShinyProxy is a novel, open source platform to deploy Shiny apps for the enterprise or larger organizations.",190,FALSE,## New Releases,link,2016-11-7
++ [NIMBLE](http://r-nimble.org/nimble-package-for-hierarchical-modeling-mcmc-and-more-faster-and-more-flexible-in-version-0-6-1) -,130,FALSE,## New Releases,link,2016-11-7
+NIMBLE package for hierarchical modeling (MCMC and more) faster and more flexible.,82,FALSE,## New Releases,unid,2016-11-7
++ [mapmate](https://blog.snap.uaf.edu/2016/11/01/mapmate-0-1-0/) - The mapmate package is used for map- and globe-based data animation pre-production.,150,FALSE,## New Packages & Tools,link,2016-11-7
+![mapmate](https://leonawicz.github.io/mapmate/README-Examples-polygons_tiles_scratch-2.png),92,FALSE,## New Packages & Tools,image,2016-11-7
++ [packagedocs](http://ryanhafen.com/blog/packagedocs) - Build an R Package Documentation Website.,98,FALSE,## New Packages & Tools,link,2016-11-7
++ [Rmazon](http://www.56n.dk/download-product-information-and-reviews-from-amazon-com/) - Download product information and reviews from Amazon.com .,148,FALSE,## New Packages & Tools,link,2016-11-7
++ [isdparser](http://ropensci.org/blog/technotes/2016/11/03/isdparser-release) - Parse NOAA Integrated Surface Data Files.,122,FALSE,## New Packages & Tools,link,2016-11-7
++ [BelgiumMaps.StatBel](http://www.bnosac.be/index.php/blog/61-belgiummaps-statbel-r-package-with-administrative-boundaries-of-belgium),135,FALSE,## New Packages & Tools,link,2016-11-7
+![BelgiumMaps.StatBel](https://cdn.rawgit.com/bnosac/BelgiumMaps.StatBel/2c0b9ac478885b791b87a0a53a2081a4ca3e0912/inst/img/belgiummaps_statbel.png),147,FALSE,## New Packages & Tools,image,2016-11-7
++ [glmnetUtils](http://blog.revolutionanalytics.com/2016/11/glmnetutils.html) - Quality of life enhancements for elastic net regression with glmnet,147,FALSE,## New Packages & Tools,link,2016-11-7
++ [foghorn](https://github.com/fmichonneau/foghorn) -  R package to summarize CRAN Check Results in the Terminal.,113,FALSE,## New Packages & Tools,link,2016-11-7
+![foghorn](https://pbs.twimg.com/media/CwNZ06XWgAUtqaK.jpg),59,FALSE,## New Packages & Tools,image,2016-11-7
+"+ [rgeoapi](https://cran.r-project.org/web/packages/rgeoapi/) - a package to access the French GeoAPI, now on CRAN.",115,FALSE,## New Packages & Tools,link,2016-11-7
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,## R Project Updates,unid,2016-11-7
+"+ `rep(x, times)` and `rep.int(x, times)` now both work also when `times` is larger than the maximal integer.",109,FALSE,## R Project Updates,unid,2016-11-7
+"+ `vapply(x, *)` now works with long vectors `x`.",49,FALSE,## R Project Updates,unid,2016-11-7
+"+  `isS3method(""is.na.data.frame"")` and similar are correct now.",64,FALSE,## R Project Updates,unid,2016-11-7
+"+ `unix.time()`, a traditional synonym for `system.time()`, has been deprecated.",80,FALSE,## R Project Updates,unid,2016-11-7
+"+ `grepRaw(<long>, <short>, fixed = TRUE)` now works, thanks to a patch by Mikko Korpela.",89,FALSE,## R Project Updates,unid,2016-11-7
++ `R CMD check --no-stop-on-error` now continues running tests even if they give (normal) errors.,97,FALSE,## R Project Updates,unid,2016-11-7
+"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>",93,FALSE,## Upcoming Events,link,2016-11-7
+The conference about all things R and RStudio.<br />,52,FALSE,## Upcoming Events,unid,2016-11-7
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">The R Foundation is now on Twitter. Follow us for official news about the R Project for Statistical Computing. <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a></p>&mdash; The R Foundation (@_R_Foundation) <a href=""https://twitter.com/_R_Foundation/status/794484803680825344""></a></blockquote>",381,FALSE,## Quote of the Week,unid,2016-11-7
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Teach me your secrets, networkDynamic package. <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> 😂😂😂😂😂 <a href=""https://t.co/mMCH42mFLy"">pic.twitter.com/mMCH42mFLy</a></p>&mdash; Sam Tyner (@sctyner) <a href=""https://twitter.com/sctyner/status/793899352926351360""></a></blockquote>",369,FALSE,## Quote of the Week,unid,2016-11-7

@@ -1,76 +1,76 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-05-13
-layout: draft,13,FALSE,NA,NA,unid,2019-05-13
-"title: R Weekly 2019-19 R 3.6.0, countdown, R-Podcast",53,FALSE,NA,NA,unid,2019-05-13
-description: Draft of the R Weekly,34,FALSE,NA,NA,unid,2019-05-13
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-05-13
----,3,FALSE,NA,NA,unid,2019-05-13
-Release Date: 2019-05-13,24,FALSE,NA,NA,unid,2019-05-13
-+ [What's new in R 3.6.0](https://blog.revolutionanalytics.com/2019/05/whats-new-in-r-360.html),95,FALSE,NA,###  Highlight,link,2019-05-13
-+ [:timer_clock: countdown](https://www.garrickadenbuie.com/project/countdown/),79,FALSE,NA,###  Highlight,link,2019-05-13
-"+ [R-Podcast Episode 30: Origins and Future of RStudio with Tareef Kawaf](https://r-podcast.org/30) - Eric is joined by RStudio's president Tareef Kawaf to discuss his journey to RStudio, building a robust organization structure, and how an open-core model drives RStudio’s vision for the present and future.",308,FALSE,NA,###  Highlight,link,2019-05-13
-+ [Speedmining the Cubing Community with dbplyr](http://staff.math.su.se/hoehle/blog/2019/05/06/wcamining.html),111,FALSE,NA,### Insights,link,2019-05-13
-![Speedmining the Cubing Community with dbplyr](https://raw.githubusercontent.com/rweekly/image/master/2019-05-13/TRAJPLOT-1.png?raw=true),138,FALSE,NA,### Insights,image,2019-05-13
-+ [a perfectly normally distributed sample](https://xianblog.wordpress.com/2019/05/09/a-perfectly-normally-distributed-sample/),127,FALSE,NA,### Insights,link,2019-05-13
-+ [:timer_clock: countdown](https://www.garrickadenbuie.com/project/countdown/),79,FALSE,NA,### Insights,link,2019-05-13
-![countdown](https://raw.githubusercontent.com/rweekly/image/master/2019-05-13/giphy.gif?raw=true),98,FALSE,NA,### Insights,image,2019-05-13
-"+ [Analysing the HIV pandemic, Part 2: Drug resistance testing](https://rviews.rstudio.com/2019/05/07/pipeline-for-analysing-hiv-part-2/)",137,FALSE,NA,### Insights,link,2019-05-13
-"+ [Introducing RStudio Server Pro 1.2 - New Features, Packaging, and Pricing](https://blog.rstudio.com/2019/05/09/introducing-rstudio-server-pro-1-2/)",150,FALSE,NA,### Insights,link,2019-05-13
-+ [Introducing RStudio Team](https://blog.rstudio.com/2019/05/09/introducing-rstudio-team/),91,FALSE,NA,### Insights,link,2019-05-13
-+ [Open Trade Statistics](https://ropensci.org/blog/2019/05/09/tradestatistics/),80,FALSE,NA,### Insights,link,2019-05-13
-+ [Porting and redirecting a Hugo-based blogdown website to an HTTPS-enabled custom domain and how to do it the easy way](https://jozef.io/r915-gitlab-pages-own-domain/),169,FALSE,NA,### Insights,link,2019-05-13
-"+ [What is ""Tidy Data""?](http://www.win-vector.com/blog/2019/05/what-is-tidy-data/)",83,FALSE,NA,### Insights,link,2019-05-13
-"+ [Get me to the church on time: Proving to the vicar that I'd attended church often enough to marry at church, using Google location data.](https://nacnudus.github.io/duncangarmonsway/posts/2019-04-22-get-me-to-the-church-on-time-with-r-spatial)",246,FALSE,NA,### R in the Real World,link,2019-05-13
-"+ [Data-driven design in Curious City: In, Out, Above, Beyond Saint Paul](http://www.katiejolly.io/blog/2019-04-25/data-driven-design)",134,FALSE,NA,### R in the Real World,link,2019-05-13
-+ [Machine Learning with a Heart](https://gbganalyst.github.io/Predicting-Heart-Disease/Heart_disease.html),107,FALSE,NA,### R in the Real World,link,2019-05-13
-+ [Taking a Peek at Personal Hiking Data](https://ivelasq.rbind.io/blog/average-hike/),86,FALSE,NA,### R in the Real World,link,2019-05-13
-+ [How to visualize data with more than 2 dimensiones: some basic concepts and examples](http://www.thinkingondata.com/5-basic-questions-and-answers-about-high-dimensional-data/),178,FALSE,NA,### R in the Real World,link,2019-05-13
-+ [My experience at R UnConference Chicago](http://www.thinkingondata.com/my-experience-at-r-unconference-chicago-2019/),120,FALSE,NA,### R in the Real World,link,2019-05-13
-+ [satRdays Chicago 2019 slides](https://github.com/satRdays/chicago2019-slides),80,FALSE,NA,###  Resources,link,2019-05-13
-+ [Network Visualization workshop - David Schoch](http://talks.schochastics.net/netViz/slides.html),99,FALSE,NA,###  Resources,link,2019-05-13
-+ [Free online r course](https://matloff.wordpress.com/2019/05/04/free-online-r-course/),88,FALSE,NA,###  Resources,link,2019-05-13
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-05-13
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-05-13
-+ [{attachment} is on CRAN !](https://rtask.thinkr.fr/blog/attachment-is-on-cran/),82,FALSE,NA,###  New Packages,link,2019-05-13
-+ [jpndistrict 0.3.3](https://cran.r-project.org/web/packages/jpndistrict/index.html),85,FALSE,NA,###  New Packages,link,2019-05-13
-+ [vroom 1.0.0](https://www.tidyverse.org/articles/2019/05/vroom-1-0-0/),72,FALSE,NA,###  New Packages,link,2019-05-13
-![vroom 1.0.0](https://raw.githubusercontent.com/rweekly/image/master/2019-05-13/benchmark_plot-1.png?raw=true),111,FALSE,NA,###  New Packages,image,2019-05-13
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-05-13
-+ [Introducing 'asciicast' - some utilities for the asciicinema animation format](https://coolbutuseless.github.io/2019/05/05/introducing-asciicast-some-utilities-for-the-asciicinema-animation-format/),201,FALSE,NA,###  New Packages,link,2019-05-13
-+ [RcppArmadillo 0.9.400.3.0](http://dirk.eddelbuettel.com/blog/2019/05/11#rcpparmadillo_0.9.400.3.0),101,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [x13binary 1.1.39-2](http://dirk.eddelbuettel.com/blog/2019/05/07#x13binary_1.1.39-2),87,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [future](https://cran.r-project.org/package=future) 1.13.0 - Unified Parallel and Distributed Processing in R for Everyone,124,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [future.batchtools](https://cran.r-project.org/package=future.batchtools) 0.8.0 - A Future API for Parallel and Distributed Processing using 'batchtools',155,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [PSCBS](https://cran.r-project.org/package=PSCBS) 0.65.0 - Analysis of Parent-Specific DNA Copy Numbers,105,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [rmdfiltr - 'Lua' filters for R Markdown](https://cran.r-project.org/package=rmdfiltr),88,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [attachment - Deal with Dependencies](https://cran.r-project.org/package=attachment),86,FALSE,NA,### Updated Packages,link,2019-05-13
-"+ [tabplot - Tableplot, a Visualization of Large Datasets](https://cran.r-project.org/package=tabplot)",102,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [batchscr - Batch Script Helpers](https://cran.r-project.org/package=batchscr),80,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [todor - Find All TODO Comments and More](https://cran.r-project.org/package=todor),85,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [RVenn - Set Operations for Many Sets](https://cran.r-project.org/package=RVenn),82,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [paws - Amazon Web Services Software Development Kit](https://cran.r-project.org/package=paws),96,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [paws.analytics - Amazon Web Services Analytics APIs](https://cran.r-project.org/package=paws.analytics),106,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [paws.machine.learning - Amazon Web Services Machine Learning APIs](https://cran.r-project.org/package=paws.machine.learning),127,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [shinylogs - Record Everything that Happens in a 'Shiny' Application](https://cran.r-project.org/package=shinylogs),117,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [gtsummary - Presentation-Ready Data Summary Tables](https://cran.r-project.org/package=gtsummary),100,FALSE,NA,### Updated Packages,link,2019-05-13
-+ [radlibs - Build Your Own Madlibs!](https://cran.r-project.org/package=radlibs),81,FALSE,NA,### Updated Packages,link,2019-05-13
-"+ [R-Podcast Episode 30: Origins and Future of RStudio with Tareef Kawaf](https://r-podcast.org/30) - Eric is joined by RStudio's president Tareef Kawaf to discuss his journey to RStudio, building a robust organization structure, and how an open-core model drives RStudio’s vision for the present and future.",308,FALSE,NA,###  Videos and Podcasts,link,2019-05-13
-"+ [Learn about the R package we use internally at Auth0 for ETL / Data analysis. How we use it for data warehousing, analyzing data and making it available for other teams.](https://auth0.com/blog/rauth0-internal-r-package-open-source/)",236,FALSE,NA,###  Tutorials,link,2019-05-13
-+ [Practical Introduction to Market Basket Analysis - Asociation Rules](https://blog.rsquaredacademy.com/market-basket-analysis-in-r/),134,FALSE,NA,###  Tutorials,link,2019-05-13
-+ [Customising ggplot2 graphics](https://davidsmale.netlify.com/portfolio/customising-ggplot2-graphics/),104,FALSE,NA,###  Tutorials,link,2019-05-13
-![Customising ggplot2 graphics](https://github.com/rweekly/image/blob/master/2019-05-13/plot_new-1.png?raw=true),112,FALSE,NA,###  Tutorials,image,2019-05-13
-+ [Tadpoles on Tensorflow: Hierarchical partial pooling with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-05-06-tadpoles-on-tensorflow/),154,FALSE,NA,###  Tutorials,link,2019-05-13
-+ [ensemblepp - Ensemble Postprocessing Data Sets](https://cran.r-project.org/package=ensemblepp),97,FALSE,NA,## Datasets,link,2019-05-13
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,## Datasets,unid,2019-05-13
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),78,FALSE,NA,###  R Project Updates,unid,2019-05-13
-+ [What's new in R 3.6.0](https://blog.revolutionanalytics.com/2019/05/whats-new-in-r-360.html),95,FALSE,NA,###  R Project Updates,link,2019-05-13
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-05-13
-+ [useR2019](http://www.user2019.fr/),37,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-13
-+ [China-R Beijing 24 May - 26 May](https://cosx.org/2019/03/12th-china-r-beijing-announcement/),96,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-13
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-13
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-13
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-05-13
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-05-13
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Just pushed up {redoc}, a <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> 📦 for *reversible* reproducible documents. redoc() your .Rmd, edit in Word, dedoc() it back. Built-in diffing, Critic Markup/track changes support, &amp; RStudio plugins! <a href=""https://t.co/NKveunM8Kz"">https://t.co/NKveunM8Kz</a>. Feedback and contributions welcome! 🙏 <a href=""https://twitter.com/hashtag/rstatsnyc?src=hash&amp;ref_src=twsrc%5Etfw"">#rstatsnyc</a> <a href=""https://t.co/xOXNYO5CgQ"">pic.twitter.com/xOXNYO5CgQ</a></p>&mdash; Noam Ross (@noamross) <a href=""https://twitter.com/noamross/status/1127273301443850240?ref_src=twsrc%5Etfw"">May 11, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",840,FALSE,NA,###  Quotes of the Week,unid,2019-05-13
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Just merged: {data.table} dev supports I/O (fread+fwrite) for CSVY (<a href=""https://t.co/eKhbSZhhAo"">https://t.co/eKhbSZhhAo</a>) format! 🎉<br><br>We&#39;ve all dealt with our share of inscrutable CSV files; we hope facilitating some basic metadata in the file header will be part of a trend towards cleaner non-binary data!</p>&mdash; Michael Chirico (@michael_chirico) <a href=""https://twitter.com/michael_chirico/status/1127180555554934785?ref_src=twsrc%5Etfw"">May 11, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",637,FALSE,NA,###  Quotes of the Week,unid,2019-05-13
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">If you&#39;re having date problems<br>I feel bad for you son<br>You should meet my friend ISO<br>Eighty-Six Oh One</p>&mdash; Sean Kross (@seankross) <a href=""https://twitter.com/seankross/status/870455293108510720?ref_src=twsrc%5Etfw"">June 2, 2017</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",408,FALSE,NA,###  Quotes of the Week,unid,2019-05-13
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-05-13
+layout: draft,13,FALSE,NA,unid,2019-05-13
+"title: R Weekly 2019-19 R 3.6.0, countdown, R-Podcast",53,FALSE,NA,unid,2019-05-13
+description: Draft of the R Weekly,34,FALSE,NA,unid,2019-05-13
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-05-13
+---,3,FALSE,NA,unid,2019-05-13
+Release Date: 2019-05-13,24,FALSE,NA,unid,2019-05-13
++ [What's new in R 3.6.0](https://blog.revolutionanalytics.com/2019/05/whats-new-in-r-360.html),95,FALSE,###  Highlight,link,2019-05-13
++ [:timer_clock: countdown](https://www.garrickadenbuie.com/project/countdown/),79,FALSE,###  Highlight,link,2019-05-13
+"+ [R-Podcast Episode 30: Origins and Future of RStudio with Tareef Kawaf](https://r-podcast.org/30) - Eric is joined by RStudio's president Tareef Kawaf to discuss his journey to RStudio, building a robust organization structure, and how an open-core model drives RStudio’s vision for the present and future.",308,FALSE,###  Highlight,link,2019-05-13
++ [Speedmining the Cubing Community with dbplyr](http://staff.math.su.se/hoehle/blog/2019/05/06/wcamining.html),111,FALSE,### Insights,link,2019-05-13
+![Speedmining the Cubing Community with dbplyr](https://raw.githubusercontent.com/rweekly/image/master/2019-05-13/TRAJPLOT-1.png?raw=true),138,FALSE,### Insights,image,2019-05-13
++ [a perfectly normally distributed sample](https://xianblog.wordpress.com/2019/05/09/a-perfectly-normally-distributed-sample/),127,FALSE,### Insights,link,2019-05-13
++ [:timer_clock: countdown](https://www.garrickadenbuie.com/project/countdown/),79,FALSE,### Insights,link,2019-05-13
+![countdown](https://raw.githubusercontent.com/rweekly/image/master/2019-05-13/giphy.gif?raw=true),98,FALSE,### Insights,image,2019-05-13
+"+ [Analysing the HIV pandemic, Part 2: Drug resistance testing](https://rviews.rstudio.com/2019/05/07/pipeline-for-analysing-hiv-part-2/)",137,FALSE,### Insights,link,2019-05-13
+"+ [Introducing RStudio Server Pro 1.2 - New Features, Packaging, and Pricing](https://blog.rstudio.com/2019/05/09/introducing-rstudio-server-pro-1-2/)",150,FALSE,### Insights,link,2019-05-13
++ [Introducing RStudio Team](https://blog.rstudio.com/2019/05/09/introducing-rstudio-team/),91,FALSE,### Insights,link,2019-05-13
++ [Open Trade Statistics](https://ropensci.org/blog/2019/05/09/tradestatistics/),80,FALSE,### Insights,link,2019-05-13
++ [Porting and redirecting a Hugo-based blogdown website to an HTTPS-enabled custom domain and how to do it the easy way](https://jozef.io/r915-gitlab-pages-own-domain/),169,FALSE,### Insights,link,2019-05-13
+"+ [What is ""Tidy Data""?](http://www.win-vector.com/blog/2019/05/what-is-tidy-data/)",83,FALSE,### Insights,link,2019-05-13
+"+ [Get me to the church on time: Proving to the vicar that I'd attended church often enough to marry at church, using Google location data.](https://nacnudus.github.io/duncangarmonsway/posts/2019-04-22-get-me-to-the-church-on-time-with-r-spatial)",246,FALSE,### R in the Real World,link,2019-05-13
+"+ [Data-driven design in Curious City: In, Out, Above, Beyond Saint Paul](http://www.katiejolly.io/blog/2019-04-25/data-driven-design)",134,FALSE,### R in the Real World,link,2019-05-13
++ [Machine Learning with a Heart](https://gbganalyst.github.io/Predicting-Heart-Disease/Heart_disease.html),107,FALSE,### R in the Real World,link,2019-05-13
++ [Taking a Peek at Personal Hiking Data](https://ivelasq.rbind.io/blog/average-hike/),86,FALSE,### R in the Real World,link,2019-05-13
++ [How to visualize data with more than 2 dimensiones: some basic concepts and examples](http://www.thinkingondata.com/5-basic-questions-and-answers-about-high-dimensional-data/),178,FALSE,### R in the Real World,link,2019-05-13
++ [My experience at R UnConference Chicago](http://www.thinkingondata.com/my-experience-at-r-unconference-chicago-2019/),120,FALSE,### R in the Real World,link,2019-05-13
++ [satRdays Chicago 2019 slides](https://github.com/satRdays/chicago2019-slides),80,FALSE,###  Resources,link,2019-05-13
++ [Network Visualization workshop - David Schoch](http://talks.schochastics.net/netViz/slides.html),99,FALSE,###  Resources,link,2019-05-13
++ [Free online r course](https://matloff.wordpress.com/2019/05/04/free-online-r-course/),88,FALSE,###  Resources,link,2019-05-13
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-05-13
+**CRAN**,8,FALSE,###  New Packages,unid,2019-05-13
++ [{attachment} is on CRAN !](https://rtask.thinkr.fr/blog/attachment-is-on-cran/),82,FALSE,###  New Packages,link,2019-05-13
++ [jpndistrict 0.3.3](https://cran.r-project.org/web/packages/jpndistrict/index.html),85,FALSE,###  New Packages,link,2019-05-13
++ [vroom 1.0.0](https://www.tidyverse.org/articles/2019/05/vroom-1-0-0/),72,FALSE,###  New Packages,link,2019-05-13
+![vroom 1.0.0](https://raw.githubusercontent.com/rweekly/image/master/2019-05-13/benchmark_plot-1.png?raw=true),111,FALSE,###  New Packages,image,2019-05-13
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-05-13
++ [Introducing 'asciicast' - some utilities for the asciicinema animation format](https://coolbutuseless.github.io/2019/05/05/introducing-asciicast-some-utilities-for-the-asciicinema-animation-format/),201,FALSE,###  New Packages,link,2019-05-13
++ [RcppArmadillo 0.9.400.3.0](http://dirk.eddelbuettel.com/blog/2019/05/11#rcpparmadillo_0.9.400.3.0),101,FALSE,### Updated Packages,link,2019-05-13
++ [x13binary 1.1.39-2](http://dirk.eddelbuettel.com/blog/2019/05/07#x13binary_1.1.39-2),87,FALSE,### Updated Packages,link,2019-05-13
++ [future](https://cran.r-project.org/package=future) 1.13.0 - Unified Parallel and Distributed Processing in R for Everyone,124,FALSE,### Updated Packages,link,2019-05-13
++ [future.batchtools](https://cran.r-project.org/package=future.batchtools) 0.8.0 - A Future API for Parallel and Distributed Processing using 'batchtools',155,FALSE,### Updated Packages,link,2019-05-13
++ [PSCBS](https://cran.r-project.org/package=PSCBS) 0.65.0 - Analysis of Parent-Specific DNA Copy Numbers,105,FALSE,### Updated Packages,link,2019-05-13
++ [rmdfiltr - 'Lua' filters for R Markdown](https://cran.r-project.org/package=rmdfiltr),88,FALSE,### Updated Packages,link,2019-05-13
++ [attachment - Deal with Dependencies](https://cran.r-project.org/package=attachment),86,FALSE,### Updated Packages,link,2019-05-13
+"+ [tabplot - Tableplot, a Visualization of Large Datasets](https://cran.r-project.org/package=tabplot)",102,FALSE,### Updated Packages,link,2019-05-13
++ [batchscr - Batch Script Helpers](https://cran.r-project.org/package=batchscr),80,FALSE,### Updated Packages,link,2019-05-13
++ [todor - Find All TODO Comments and More](https://cran.r-project.org/package=todor),85,FALSE,### Updated Packages,link,2019-05-13
++ [RVenn - Set Operations for Many Sets](https://cran.r-project.org/package=RVenn),82,FALSE,### Updated Packages,link,2019-05-13
++ [paws - Amazon Web Services Software Development Kit](https://cran.r-project.org/package=paws),96,FALSE,### Updated Packages,link,2019-05-13
++ [paws.analytics - Amazon Web Services Analytics APIs](https://cran.r-project.org/package=paws.analytics),106,FALSE,### Updated Packages,link,2019-05-13
++ [paws.machine.learning - Amazon Web Services Machine Learning APIs](https://cran.r-project.org/package=paws.machine.learning),127,FALSE,### Updated Packages,link,2019-05-13
++ [shinylogs - Record Everything that Happens in a 'Shiny' Application](https://cran.r-project.org/package=shinylogs),117,FALSE,### Updated Packages,link,2019-05-13
++ [gtsummary - Presentation-Ready Data Summary Tables](https://cran.r-project.org/package=gtsummary),100,FALSE,### Updated Packages,link,2019-05-13
++ [radlibs - Build Your Own Madlibs!](https://cran.r-project.org/package=radlibs),81,FALSE,### Updated Packages,link,2019-05-13
+"+ [R-Podcast Episode 30: Origins and Future of RStudio with Tareef Kawaf](https://r-podcast.org/30) - Eric is joined by RStudio's president Tareef Kawaf to discuss his journey to RStudio, building a robust organization structure, and how an open-core model drives RStudio’s vision for the present and future.",308,FALSE,###  Videos and Podcasts,link,2019-05-13
+"+ [Learn about the R package we use internally at Auth0 for ETL / Data analysis. How we use it for data warehousing, analyzing data and making it available for other teams.](https://auth0.com/blog/rauth0-internal-r-package-open-source/)",236,FALSE,###  Tutorials,link,2019-05-13
++ [Practical Introduction to Market Basket Analysis - Asociation Rules](https://blog.rsquaredacademy.com/market-basket-analysis-in-r/),134,FALSE,###  Tutorials,link,2019-05-13
++ [Customising ggplot2 graphics](https://davidsmale.netlify.com/portfolio/customising-ggplot2-graphics/),104,FALSE,###  Tutorials,link,2019-05-13
+![Customising ggplot2 graphics](https://github.com/rweekly/image/blob/master/2019-05-13/plot_new-1.png?raw=true),112,FALSE,###  Tutorials,image,2019-05-13
++ [Tadpoles on Tensorflow: Hierarchical partial pooling with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-05-06-tadpoles-on-tensorflow/),154,FALSE,###  Tutorials,link,2019-05-13
++ [ensemblepp - Ensemble Postprocessing Data Sets](https://cran.r-project.org/package=ensemblepp),97,FALSE,## Datasets,link,2019-05-13
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,## Datasets,unid,2019-05-13
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),78,FALSE,###  R Project Updates,unid,2019-05-13
++ [What's new in R 3.6.0](https://blog.revolutionanalytics.com/2019/05/whats-new-in-r-360.html),95,FALSE,###  R Project Updates,link,2019-05-13
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-05-13
++ [useR2019](http://www.user2019.fr/),37,FALSE,###  Upcoming Events in 3 Months,link,2019-05-13
++ [China-R Beijing 24 May - 26 May](https://cosx.org/2019/03/12th-china-r-beijing-announcement/),96,FALSE,###  Upcoming Events in 3 Months,link,2019-05-13
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-05-13
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-05-13
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-05-13
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-05-13
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Just pushed up {redoc}, a <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> 📦 for *reversible* reproducible documents. redoc() your .Rmd, edit in Word, dedoc() it back. Built-in diffing, Critic Markup/track changes support, &amp; RStudio plugins! <a href=""https://t.co/NKveunM8Kz"">https://t.co/NKveunM8Kz</a>. Feedback and contributions welcome! 🙏 <a href=""https://twitter.com/hashtag/rstatsnyc?src=hash&amp;ref_src=twsrc%5Etfw"">#rstatsnyc</a> <a href=""https://t.co/xOXNYO5CgQ"">pic.twitter.com/xOXNYO5CgQ</a></p>&mdash; Noam Ross (@noamross) <a href=""https://twitter.com/noamross/status/1127273301443850240?ref_src=twsrc%5Etfw"">May 11, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",840,FALSE,###  Quotes of the Week,unid,2019-05-13
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Just merged: {data.table} dev supports I/O (fread+fwrite) for CSVY (<a href=""https://t.co/eKhbSZhhAo"">https://t.co/eKhbSZhhAo</a>) format! 🎉<br><br>We&#39;ve all dealt with our share of inscrutable CSV files; we hope facilitating some basic metadata in the file header will be part of a trend towards cleaner non-binary data!</p>&mdash; Michael Chirico (@michael_chirico) <a href=""https://twitter.com/michael_chirico/status/1127180555554934785?ref_src=twsrc%5Etfw"">May 11, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",637,FALSE,###  Quotes of the Week,unid,2019-05-13
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">If you&#39;re having date problems<br>I feel bad for you son<br>You should meet my friend ISO<br>Eighty-Six Oh One</p>&mdash; Sean Kross (@seankross) <a href=""https://twitter.com/seankross/status/870455293108510720?ref_src=twsrc%5Etfw"">June 2, 2017</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",408,FALSE,###  Quotes of the Week,unid,2019-05-13

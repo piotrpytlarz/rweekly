@@ -1,86 +1,86 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-4-2
-"title: R Weekly 2018-14 reticulate, R-Ladies, BotRNot",53,FALSE,NA,NA,unid,2018-4-2
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-4-2
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-4-2
----,3,FALSE,NA,NA,unid,2018-4-2
-+ [reticulate: R interface to Python](http://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/),107,FALSE,NA,###  Highlight,link,2018-4-2
-+ [R Consortium welcomes R-Ladies as a top level project](https://www.r-consortium.org/announcement/2018/03/27/r-consortium-welcomes-r-ladies-as-a-top-level-project),165,FALSE,NA,###  Highlight,link,2018-4-2
-+ [BotRNot: An R app to detect Twitter bots](http://blog.revolutionanalytics.com/2018/03/twitter-bot-or-not.html),113,FALSE,NA,###  Highlight,link,2018-4-2
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-4-2
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-4-2
-"+ [Feb 2018: ""Top 40"" New Package Picks](https://rviews.rstudio.com/2018/03/29/feb-2018-top-40-new-package-picks/)",114,FALSE,NA,###  New Packages,link,2018-4-2
-+ [dynprog](https://mailund.github.io/dynprog/) - dynamic programming domain-specific language,94,FALSE,NA,###  New Packages,link,2018-4-2
-+ [ggdag](https://malco.io/2018/03/28/ggdag-0-1-0/) - tidy causal directed acyclic graphs,89,FALSE,NA,###  New Packages,link,2018-4-2
-![ggdag](https://raw.githubusercontent.com/rweekly/image/master/2018-8/ggdag.png),81,FALSE,NA,###  New Packages,image,2018-4-2
-+ [realtR](http://asbcllc.com/r_packages/realtR/2018/introduction/index.html) - Your gateway to residential property information.,129,FALSE,NA,###  New Packages,link,2018-4-2
-+ [reticulate](http://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/) - R interface to Python,108,FALSE,NA,###  New Packages,link,2018-4-2
-+ [DoOR](https://ropensci.org/blog/2018/03/27/door/) - The Database of Odorant Responses,88,FALSE,NA,###  New Packages,link,2018-4-2
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-4-2
-+ [mathart: create mathematical art with R](https://github.com/marcusvolz/mathart),82,FALSE,NA,###  New Packages,link,2018-4-2
-+ [smoothr 0.0.1](http://strimas.com/smoothr/) - Spatial Feature Smoothing in R,79,FALSE,NA,### Package Releases,link,2018-4-2
-+ [auk 0.2.0](https://cornelllabofornithology.github.io/auk/) - eBird data extraction and processing,100,FALSE,NA,### Package Releases,link,2018-4-2
-"+ [DT 0.4](https://blog.rstudio.com/2018/03/29/dt-0-4/) - Editing Tables, Smart Filtering, and More",99,FALSE,NA,### Package Releases,link,2018-4-2
-+ [A titanic kaggle solve using caret and tidy-tools](https://rsangole.netlify.com/project/yet-another-titanic-solve/),118,FALSE,NA,###  Resources,link,2018-4-2
-* [CRANalerts - Get email alerts when a CRAN package gets updated](https://cranalerts.com/),91,FALSE,NA,###  Resources,unid,2018-4-2
-"+ [Lintr Bot, lintr's Hester egg](http://www.masalmon.eu/2018/03/30/lintr-bot/)",79,FALSE,NA,### Insights,link,2018-4-2
-+ [Global Terrorism](https://dominikkoch.github.io/Global-Terrorism/),69,FALSE,NA,### Insights,link,2018-4-2
-![Global Terrorism](https://raw.githubusercontent.com/rweekly/image/master/2018-8/Global-Terrorism-Map.png),107,FALSE,NA,### Insights,image,2018-4-2
-+ [What’s a variable in R?](http://rex-analytics.com/whats-variable-r/),71,FALSE,NA,### Insights,link,2018-4-2
-+ [Startup with Secrets - A Poor Man's Approach](https://www.jottr.org/2018/03/30/startup-secrets/),99,FALSE,NA,### Insights,link,2018-4-2
-+ [Which world leaders are twitter bots?](https://blog.jumpingrivers.com/posts/2018/rtweet_leaders/),100,FALSE,NA,### Insights,link,2018-4-2
-![Which world leaders are twitter bots?](https://cdn.rawgit.com/rweekly/image/master/2018-8/bot.svg),100,FALSE,NA,### Insights,image,2018-4-2
-+ [R Consortium welcomes R-Ladies as a top level project](https://www.r-consortium.org/announcement/2018/03/27/r-consortium-welcomes-r-ladies-as-a-top-level-project),165,FALSE,NA,###  R in Organizations,link,2018-4-2
-+ [Building a shinydashboard that features an adapted JAWS statistic for evaluating nominees and members of a MLB franchise's Hall of Fame](https://erbo.rbind.io/blog/2018-03-09-a-baseball-dashboard-in-time-for-opening-weekend-part-one/),237,FALSE,NA,### R in the Real World,link,2018-4-2
-+ [How to map public debt data with ggplot2](http://www.sharpsightlabs.com/blog/map-public-debt-ggplot2/),105,FALSE,NA,### R in the Real World,link,2018-4-2
-![How to map public debt data with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2018-8/euro_debt_map.png),124,FALSE,NA,### R in the Real World,image,2018-4-2
-+ [BotRNot: An R app to detect Twitter bots](http://blog.revolutionanalytics.com/2018/03/twitter-bot-or-not.html),113,FALSE,NA,### R in the Real World,link,2018-4-2
-+ [Autoformation avec swirl ](https://tutoriels-data-mining.blogspot.fr/2018/03/autoformation-avec-swirl.html),110,FALSE,NA,### R Internationally,link,2018-4-2
-+ [R⁶ — Capturing [YouTube] Captions](https://rud.is/b/2018/03/29/r%E2%81%B6-capturing-youtube-captions/),105,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Settlers of Catan](https://emmavestesson.netlify.com/2018/03/settlers-of-catan/),83,FALSE,NA,###  Tutorials,link,2018-4-2
-"+ [Exploring NSE: enquo, quos and ...](https://www.daeconomist.com/post/2018-03-27-exploring-nse-enquo-and-quos/) -  How do you make your customs play well with your favourite tidyverse packages?",195,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [A vignette and introduction to a tiny package that creates node and edge lists for use in working with text and network data. Uses a public dataset as an example.](https://aczane.netlify.com/2018/03/27/the-biblionetwork-package/),232,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [What is Tidy Eval and Why Should I Care?](https://thisisnic.github.io/2018/03/29/what-is-tidy-eval-and-why-should-i-care/),125,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Exploring Tidy Eval at a Snail's Pace](https://thisisnic.github.io/2018/02/20/exploring-tidy-eval-snails-pace/),114,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Using tidy eval with dplyr::filter](https://thisisnic.github.io/2018/03/27/using-tidy-eval-with-dplyr-filter/),113,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Exploring the underlying theory of the chi-square test through simulation - part 2](https://www.rdatagen.net/post/a-little-intuition-and-simulation-behind-the-chi-square-test-of-independence-part-2/),202,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Parsing data part 1. The minilexer package - A Simple Lexer in R](https://coolbutuseless.bitbucket.io/2018/03/26/parsing-data-part-1.-the-minilexer-package---a-simple-lexer-in-r/),182,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Freeing Educational Data With A Shiny App](http://kgilds.rbind.io/2018/03/26/freeing-educational-data-with-a-shiny-app/),123,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Use let() to Re-Map Names](http://www.win-vector.com/blog/2018/03/r-tip-use-let-to-re-map-names/),100,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Explorations in Markov Chain Monte Carlo (MCMC) - comparing results from MCMCglmm and lme4](https://jrosen48.github.io/blog/explorations-in-markov-chain-monte-carlo-mcmc/),174,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [a small chess plotting package for R :)](http://www.robert-hickman.eu/post/hello-world-a-small-chess-plotting-package/),122,FALSE,NA,###  Tutorials,link,2018-4-2
-![a small chess plotting package for R :)](https://raw.githubusercontent.com/rweekly/image/master/2018-8/immortal_game.gif),123,FALSE,NA,###  Tutorials,image,2018-4-2
-+ [Unstandardizing coefficients from a GLMM](https://aosmith.rbind.io/2018/03/26/unstandardizing-coefficients/),111,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [a null hypothesis with a 99% probability to be true…](https://xianblog.wordpress.com/2018/03/28/a-null-hypothesis-with-a-99-probability-to-be-true/),151,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Generate image captions with the Computer Vision API](http://blog.revolutionanalytics.com/2018/03/computer-vision-api.html),126,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Use Lists to re-Map Values](http://www.win-vector.com/blog/2018/03/r-tip-use-lists-to-re-map-values/),104,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Use Named Vectors to Re-Map Values](http://www.win-vector.com/blog/2018/03/r-tip-use-named-vectors-to-re-map-values/),120,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Great Circles with R](https://jessesadler.com/post/great-circles-sp-sf/),75,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Discriminant Analysis: Statistics All The Way](https://r-posts.com/discriminant-analysis-statistics-all-the-way/),116,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Steps to Perform Survival Analysis in R](https://r-posts.com/steps-to-perform-survival-analysis-in-r/),105,FALSE,NA,###  Tutorials,link,2018-4-2
-+ [Data Visualization Website with Shiny](https://r-video-tutorial.blogspot.hk/2018/03/data-visualization-website-with-shiny.html),130,FALSE,NA,###  Tutorials,link,2018-4-2
-"+ [Adding arguments to existing R functions, or A Weirdly Esoteric Thing I'll Probably Never Do Again](https://blog.karawoo.com/2018/03/31/adding-arguments-to-existing-r-functions)",180,FALSE,NA,###  Tutorials,link,2018-4-2
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-4-2
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-4-2
-"+ `match.arg()` more carefully chooses the environment for constucting default `choices`, fixing PR#17401 as proposed by Duncan Murdoch.",136,FALSE,NA,###  R Project Updates,unid,2018-4-2
-"+ `optim(*, control = list(warn.1d.NelderMead = FALSE))` allows to turn off the warning when applying the default `""Nelder-Mead""` method to 1-dimensional problems.",163,FALSE,NA,###  R Project Updates,unid,2018-4-2
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-+ New York R conference **Aprl 20-21** <br />,45,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-"[New York R conference](https://www.rstats.nyc/), Discount Code : rladies",73,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-+ [eRum 2018](http://2018.erum.io) **May 14-16** <br />,55,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-2
-"European R Users Meeting @ Budapest, Hungary",44,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-+ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-+ [CascadiaRConf](https://cascadiarconf.com/) **June 2**,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-2
-"Portland, OR, US",16,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-<!--,4,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-+ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-2
-Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-+ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-2
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-+ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-2
-"Buenos Aires, Argentina. -->",28,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-2
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-4-2
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">using <a href=""https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw"">#Python</a> and <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> in the same RMarkdown document is pretty awesome with the Reticulate Package. Objects from Python are accessible in R using the magic `py` object. Pretty amazing, imo. <a href=""https://t.co/iQPqWuJ4RN"">pic.twitter.com/iQPqWuJ4RN</a></p>&mdash; JD Long (@CMastication) <a href=""https://twitter.com/CMastication/status/978920075041361921?ref_src=twsrc%5Etfw"">March 28, 2018</a></blockquote>",650,FALSE,NA,###  Quotes of the Week,unid,2018-4-2
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">devtools: my life coach <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/65OpAOHM26"">pic.twitter.com/65OpAOHM26</a></p>&mdash; Max Kuhn (@topepos) <a href=""https://twitter.com/topepos/status/980060227214217217?ref_src=twsrc%5Etfw"">March 31, 2018</a></blockquote>",397,FALSE,NA,###  Quotes of the Week,unid,2018-4-2
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-4-2
+"title: R Weekly 2018-14 reticulate, R-Ladies, BotRNot",53,FALSE,NA,unid,2018-4-2
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-4-2
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-4-2
+---,3,FALSE,NA,unid,2018-4-2
++ [reticulate: R interface to Python](http://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/),107,FALSE,###  Highlight,link,2018-4-2
++ [R Consortium welcomes R-Ladies as a top level project](https://www.r-consortium.org/announcement/2018/03/27/r-consortium-welcomes-r-ladies-as-a-top-level-project),165,FALSE,###  Highlight,link,2018-4-2
++ [BotRNot: An R app to detect Twitter bots](http://blog.revolutionanalytics.com/2018/03/twitter-bot-or-not.html),113,FALSE,###  Highlight,link,2018-4-2
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-4-2
+**CRAN**,8,FALSE,###  New Packages,unid,2018-4-2
+"+ [Feb 2018: ""Top 40"" New Package Picks](https://rviews.rstudio.com/2018/03/29/feb-2018-top-40-new-package-picks/)",114,FALSE,###  New Packages,link,2018-4-2
++ [dynprog](https://mailund.github.io/dynprog/) - dynamic programming domain-specific language,94,FALSE,###  New Packages,link,2018-4-2
++ [ggdag](https://malco.io/2018/03/28/ggdag-0-1-0/) - tidy causal directed acyclic graphs,89,FALSE,###  New Packages,link,2018-4-2
+![ggdag](https://raw.githubusercontent.com/rweekly/image/master/2018-8/ggdag.png),81,FALSE,###  New Packages,image,2018-4-2
++ [realtR](http://asbcllc.com/r_packages/realtR/2018/introduction/index.html) - Your gateway to residential property information.,129,FALSE,###  New Packages,link,2018-4-2
++ [reticulate](http://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/) - R interface to Python,108,FALSE,###  New Packages,link,2018-4-2
++ [DoOR](https://ropensci.org/blog/2018/03/27/door/) - The Database of Odorant Responses,88,FALSE,###  New Packages,link,2018-4-2
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2018-4-2
++ [mathart: create mathematical art with R](https://github.com/marcusvolz/mathart),82,FALSE,###  New Packages,link,2018-4-2
++ [smoothr 0.0.1](http://strimas.com/smoothr/) - Spatial Feature Smoothing in R,79,FALSE,### Package Releases,link,2018-4-2
++ [auk 0.2.0](https://cornelllabofornithology.github.io/auk/) - eBird data extraction and processing,100,FALSE,### Package Releases,link,2018-4-2
+"+ [DT 0.4](https://blog.rstudio.com/2018/03/29/dt-0-4/) - Editing Tables, Smart Filtering, and More",99,FALSE,### Package Releases,link,2018-4-2
++ [A titanic kaggle solve using caret and tidy-tools](https://rsangole.netlify.com/project/yet-another-titanic-solve/),118,FALSE,###  Resources,link,2018-4-2
+* [CRANalerts - Get email alerts when a CRAN package gets updated](https://cranalerts.com/),91,FALSE,###  Resources,unid,2018-4-2
+"+ [Lintr Bot, lintr's Hester egg](http://www.masalmon.eu/2018/03/30/lintr-bot/)",79,FALSE,### Insights,link,2018-4-2
++ [Global Terrorism](https://dominikkoch.github.io/Global-Terrorism/),69,FALSE,### Insights,link,2018-4-2
+![Global Terrorism](https://raw.githubusercontent.com/rweekly/image/master/2018-8/Global-Terrorism-Map.png),107,FALSE,### Insights,image,2018-4-2
++ [What’s a variable in R?](http://rex-analytics.com/whats-variable-r/),71,FALSE,### Insights,link,2018-4-2
++ [Startup with Secrets - A Poor Man's Approach](https://www.jottr.org/2018/03/30/startup-secrets/),99,FALSE,### Insights,link,2018-4-2
++ [Which world leaders are twitter bots?](https://blog.jumpingrivers.com/posts/2018/rtweet_leaders/),100,FALSE,### Insights,link,2018-4-2
+![Which world leaders are twitter bots?](https://cdn.rawgit.com/rweekly/image/master/2018-8/bot.svg),100,FALSE,### Insights,image,2018-4-2
++ [R Consortium welcomes R-Ladies as a top level project](https://www.r-consortium.org/announcement/2018/03/27/r-consortium-welcomes-r-ladies-as-a-top-level-project),165,FALSE,###  R in Organizations,link,2018-4-2
++ [Building a shinydashboard that features an adapted JAWS statistic for evaluating nominees and members of a MLB franchise's Hall of Fame](https://erbo.rbind.io/blog/2018-03-09-a-baseball-dashboard-in-time-for-opening-weekend-part-one/),237,FALSE,### R in the Real World,link,2018-4-2
++ [How to map public debt data with ggplot2](http://www.sharpsightlabs.com/blog/map-public-debt-ggplot2/),105,FALSE,### R in the Real World,link,2018-4-2
+![How to map public debt data with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2018-8/euro_debt_map.png),124,FALSE,### R in the Real World,image,2018-4-2
++ [BotRNot: An R app to detect Twitter bots](http://blog.revolutionanalytics.com/2018/03/twitter-bot-or-not.html),113,FALSE,### R in the Real World,link,2018-4-2
++ [Autoformation avec swirl ](https://tutoriels-data-mining.blogspot.fr/2018/03/autoformation-avec-swirl.html),110,FALSE,### R Internationally,link,2018-4-2
++ [R⁶ — Capturing [YouTube] Captions](https://rud.is/b/2018/03/29/r%E2%81%B6-capturing-youtube-captions/),105,FALSE,###  Tutorials,link,2018-4-2
++ [Settlers of Catan](https://emmavestesson.netlify.com/2018/03/settlers-of-catan/),83,FALSE,###  Tutorials,link,2018-4-2
+"+ [Exploring NSE: enquo, quos and ...](https://www.daeconomist.com/post/2018-03-27-exploring-nse-enquo-and-quos/) -  How do you make your customs play well with your favourite tidyverse packages?",195,FALSE,###  Tutorials,link,2018-4-2
++ [A vignette and introduction to a tiny package that creates node and edge lists for use in working with text and network data. Uses a public dataset as an example.](https://aczane.netlify.com/2018/03/27/the-biblionetwork-package/),232,FALSE,###  Tutorials,link,2018-4-2
++ [What is Tidy Eval and Why Should I Care?](https://thisisnic.github.io/2018/03/29/what-is-tidy-eval-and-why-should-i-care/),125,FALSE,###  Tutorials,link,2018-4-2
++ [Exploring Tidy Eval at a Snail's Pace](https://thisisnic.github.io/2018/02/20/exploring-tidy-eval-snails-pace/),114,FALSE,###  Tutorials,link,2018-4-2
++ [Using tidy eval with dplyr::filter](https://thisisnic.github.io/2018/03/27/using-tidy-eval-with-dplyr-filter/),113,FALSE,###  Tutorials,link,2018-4-2
++ [Exploring the underlying theory of the chi-square test through simulation - part 2](https://www.rdatagen.net/post/a-little-intuition-and-simulation-behind-the-chi-square-test-of-independence-part-2/),202,FALSE,###  Tutorials,link,2018-4-2
++ [Parsing data part 1. The minilexer package - A Simple Lexer in R](https://coolbutuseless.bitbucket.io/2018/03/26/parsing-data-part-1.-the-minilexer-package---a-simple-lexer-in-r/),182,FALSE,###  Tutorials,link,2018-4-2
++ [Freeing Educational Data With A Shiny App](http://kgilds.rbind.io/2018/03/26/freeing-educational-data-with-a-shiny-app/),123,FALSE,###  Tutorials,link,2018-4-2
++ [Use let() to Re-Map Names](http://www.win-vector.com/blog/2018/03/r-tip-use-let-to-re-map-names/),100,FALSE,###  Tutorials,link,2018-4-2
++ [Explorations in Markov Chain Monte Carlo (MCMC) - comparing results from MCMCglmm and lme4](https://jrosen48.github.io/blog/explorations-in-markov-chain-monte-carlo-mcmc/),174,FALSE,###  Tutorials,link,2018-4-2
++ [a small chess plotting package for R :)](http://www.robert-hickman.eu/post/hello-world-a-small-chess-plotting-package/),122,FALSE,###  Tutorials,link,2018-4-2
+![a small chess plotting package for R :)](https://raw.githubusercontent.com/rweekly/image/master/2018-8/immortal_game.gif),123,FALSE,###  Tutorials,image,2018-4-2
++ [Unstandardizing coefficients from a GLMM](https://aosmith.rbind.io/2018/03/26/unstandardizing-coefficients/),111,FALSE,###  Tutorials,link,2018-4-2
++ [a null hypothesis with a 99% probability to be true…](https://xianblog.wordpress.com/2018/03/28/a-null-hypothesis-with-a-99-probability-to-be-true/),151,FALSE,###  Tutorials,link,2018-4-2
++ [Generate image captions with the Computer Vision API](http://blog.revolutionanalytics.com/2018/03/computer-vision-api.html),126,FALSE,###  Tutorials,link,2018-4-2
++ [Use Lists to re-Map Values](http://www.win-vector.com/blog/2018/03/r-tip-use-lists-to-re-map-values/),104,FALSE,###  Tutorials,link,2018-4-2
++ [Use Named Vectors to Re-Map Values](http://www.win-vector.com/blog/2018/03/r-tip-use-named-vectors-to-re-map-values/),120,FALSE,###  Tutorials,link,2018-4-2
++ [Great Circles with R](https://jessesadler.com/post/great-circles-sp-sf/),75,FALSE,###  Tutorials,link,2018-4-2
++ [Discriminant Analysis: Statistics All The Way](https://r-posts.com/discriminant-analysis-statistics-all-the-way/),116,FALSE,###  Tutorials,link,2018-4-2
++ [Steps to Perform Survival Analysis in R](https://r-posts.com/steps-to-perform-survival-analysis-in-r/),105,FALSE,###  Tutorials,link,2018-4-2
++ [Data Visualization Website with Shiny](https://r-video-tutorial.blogspot.hk/2018/03/data-visualization-website-with-shiny.html),130,FALSE,###  Tutorials,link,2018-4-2
+"+ [Adding arguments to existing R functions, or A Weirdly Esoteric Thing I'll Probably Never Do Again](https://blog.karawoo.com/2018/03/31/adding-arguments-to-existing-r-functions)",180,FALSE,###  Tutorials,link,2018-4-2
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2018-4-2
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2018-4-2
+"+ `match.arg()` more carefully chooses the environment for constucting default `choices`, fixing PR#17401 as proposed by Duncan Murdoch.",136,FALSE,###  R Project Updates,unid,2018-4-2
+"+ `optim(*, control = list(warn.1d.NelderMead = FALSE))` allows to turn off the warning when applying the default `""Nelder-Mead""` method to 1-dimensional problems.",163,FALSE,###  R Project Updates,unid,2018-4-2
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
++ New York R conference **Aprl 20-21** <br />,45,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
+"[New York R conference](https://www.rstats.nyc/), Discount Code : rladies",73,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
++ [eRum 2018](http://2018.erum.io) **May 14-16** <br />,55,FALSE,###  Upcoming Events in 3 Months,link,2018-4-2
+"European R Users Meeting @ Budapest, Hungary",44,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
+[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
++ [CascadiaRConf](https://cascadiarconf.com/) **June 2**,56,FALSE,###  Upcoming Events in 3 Months,link,2018-4-2
+"Portland, OR, US",16,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
+<!--,4,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,###  Upcoming Events in 3 Months,link,2018-4-2
+Rennes - Agrocampus,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
++ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,###  Upcoming Events in 3 Months,link,2018-4-2
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,###  Upcoming Events in 3 Months,link,2018-4-2
+"Buenos Aires, Argentina. -->",28,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-2
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-4-2
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">using <a href=""https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw"">#Python</a> and <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> in the same RMarkdown document is pretty awesome with the Reticulate Package. Objects from Python are accessible in R using the magic `py` object. Pretty amazing, imo. <a href=""https://t.co/iQPqWuJ4RN"">pic.twitter.com/iQPqWuJ4RN</a></p>&mdash; JD Long (@CMastication) <a href=""https://twitter.com/CMastication/status/978920075041361921?ref_src=twsrc%5Etfw"">March 28, 2018</a></blockquote>",650,FALSE,###  Quotes of the Week,unid,2018-4-2
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">devtools: my life coach <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/65OpAOHM26"">pic.twitter.com/65OpAOHM26</a></p>&mdash; Max Kuhn (@topepos) <a href=""https://twitter.com/topepos/status/980060227214217217?ref_src=twsrc%5Etfw"">March 31, 2018</a></blockquote>",397,FALSE,###  Quotes of the Week,unid,2018-4-2

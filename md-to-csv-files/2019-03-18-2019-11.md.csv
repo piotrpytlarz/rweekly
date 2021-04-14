@@ -1,69 +1,69 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-03-18
-"title: R Weekly 2019-11 R 3.5.3, R Consortium, chirunconf",57,FALSE,NA,NA,unid,2019-03-18
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-03-18
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-03-18
----,3,FALSE,NA,NA,unid,2019-03-18
-+ [R 3.5.3 now available](https://blog.revolutionanalytics.com/2019/03/r-353-now-available.html),96,FALSE,NA,###  Highlight,link,2019-03-18
-+ [2019 Update One: R Consortium and ISC Announce the Newest Funded Projects for the R Community](https://www.r-consortium.org/blog/2019/03/12/2019-update-one-r-consortium-and-isc-announce-the-newest-funded-projects-for-the-r-community),236,FALSE,NA,###  Highlight,link,2019-03-18
-+ [#chirunconf](https://sharla.party/posts/chirunconf/),55,FALSE,NA,###  Highlight,link,2019-03-18
-+ [R 3.5.3 now available](https://blog.revolutionanalytics.com/2019/03/r-353-now-available.html),96,FALSE,NA,### Insights,link,2019-03-18
-+ [Anonymous Functions in R (Part 1)](https://coolbutuseless.github.io/2019/03/13/anonymous-functions-in-r-part-1/),115,FALSE,NA,### Insights,link,2019-03-18
-+ [10 things R can do that might surprise you](https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/),131,FALSE,NA,### Insights,link,2019-03-18
-+ [#20: Dependencies. Now with badges!](http://dirk.eddelbuettel.com/blog/2019/03/14#020_dependency_badges),107,FALSE,NA,### Insights,link,2019-03-18
-+ [RStudio 1.2 Preview: Jobs](https://blog.rstudio.com/2019/03/14/rstudio-1-2-jobs/),84,FALSE,NA,### Insights,link,2019-03-18
-+ [#chirunconf](https://sharla.party/posts/chirunconf/),55,FALSE,NA,### Insights,link,2019-03-18
-+ [Collecting Content Security Policy Violation Reports in S3 ('Effortlessly'/'Freely')](https://rud.is/b/2019/03/14/collecting-content-security-policy-violation-reports-in-s3-effortlessly-freely/),197,FALSE,NA,### R in the Real World,link,2019-03-18
-+ [Plotting Manager Elo Ratings by Club (Part 1)](https://otstats.github.io/2019-03-12-plot-manager-elo-part-1/),112,FALSE,NA,### R in the Real World,link,2019-03-18
-+ [A Football Auto-Encoder with Keras](http://dm13450.github.io/2019/03/08/Football-Autoencoder.html),101,FALSE,NA,### R in the Real World,link,2019-03-18
-+ [Exploring Swings in Australian Federal Elections](http://freerangestats.info/blog/2019/03/11/aust-election-2-swings),119,FALSE,NA,### R in the Real World,link,2019-03-18
-+ [Exploring 11 Years of Chicago Blackhawk’s Data using Principal Components Analysis](https://mattkmiecik.com/post-Exploring-11-Years-of-Chicago-Blackhawks-Data-using-Principal-Components-Analysis.html),203,FALSE,NA,### R in the Real World,link,2019-03-18
-![](https://mattkmiecik.com/post-Exploring-11-Years-of-Chicago-Blackhawks-Data-using-Principal-Components-Analysis_files/figure-html/unnamed-chunk-19-1.png),156,FALSE,NA,### R in the Real World,image,2019-03-18
-+ [A case where prospective matching may limit bias in a randomized trial](https://www.rdatagen.net/post/a-case-where-prospecitve-matching-may-limit-bias/),155,FALSE,NA,### R in the Real World,link,2019-03-18
-+ [World population growth through time](https://nowosad.github.io/post/world-pop-change2/),91,FALSE,NA,### R in the Real World,link,2019-03-18
-![World population growth through time](https://raw.githubusercontent.com/rweekly/image/master/2019/11/worlds_animate.gif),122,FALSE,NA,### R in the Real World,image,2019-03-18
-+ [Mixing Up Your Office March Madness Competition](https://nielsenmark.us/2019/03/14/mixing-up-march-madness/),111,FALSE,NA,### R in the Real World,link,2019-03-18
-+ [What If Each State Allocated Their Electoral College Votes Proportionally?](https://www.thecrosstab.com/2019/03/08/electoral-college-proportional/),150,FALSE,NA,### R in the Real World,link,2019-03-18
-+ [2019 Update One: R Consortium and ISC Announce the Newest Funded Projects for the R Community](https://www.r-consortium.org/blog/2019/03/12/2019-update-one-r-consortium-and-isc-announce-the-newest-funded-projects-for-the-r-community),236,FALSE,NA,###  R in Organizations,link,2019-03-18
-+ [Unconference Toolbox](https://github.com/unconf-toolbox) - Just about everything you need to host your own unconference. Created at the 2019 Chicago R Unconference,166,FALSE,NA,###  Resources,link,2019-03-18
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-03-18
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-03-18
-+ [ggasym](https://jhrcook.github.io/ggasym/) - Asymmetric Matrix Plotting in 'ggplot2',87,FALSE,NA,###  New Packages,link,2019-03-18
-![ggasym](https://raw.githubusercontent.com/rweekly/image/master/2019/11/ggasym_example.png),92,FALSE,NA,###  New Packages,image,2019-03-18
-+ [leafpm](https://cran.r-project.org/package=leafpm) - Leaflet Map Plugin for Drawing and Editing,98,FALSE,NA,###  New Packages,link,2019-03-18
-+ [waiter](https://cran.r-project.org/package=waiter) - Loading Screen for 'Shiny',82,FALSE,NA,###  New Packages,link,2019-03-18
-+ [yum](https://cran.r-project.org/package=yum) - Utilities to Extract and Process YAML Fragments,97,FALSE,NA,###  New Packages,link,2019-03-18
-+ [rbin](https://blog.rsquaredacademy.com/binning-data-with-rbin/) - a set of tools for binning/discretization of data,118,FALSE,NA,###  New Packages,link,2019-03-18
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-03-18
-+ [footrulr](https://github.com/kanishkamisra/footrulr) - Compare sentences using Machine Translation and Text Summarization evaluation metrics,143,FALSE,NA,###  New Packages,link,2019-03-18
-+ [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse,110,FALSE,NA,###  New Packages,link,2019-03-18
-![brickr](https://raw.githubusercontent.com/rweekly/image/master/2019/11/brickr.gif),84,FALSE,NA,###  New Packages,image,2019-03-18
-+ [Anonymous Functions in R - Part 3: Introducing the 'anon' package](https://coolbutuseless.github.io/2019/03/14/anonymous-functions-in-r-part-3-introducing-the-anon-package/)`,177,FALSE,NA,###  New Packages,link,2019-03-18
-+ [rlangtip](https://github.com/revodavid/rlangtip) - R package to generate a helpful tip about R,97,FALSE,NA,###  New Packages,link,2019-03-18
-"+ [sparklyr](https://blog.rstudio.com/2019/03/15/sparklyr-1-0/) 1.0: Apache Arrow, XGBoost, Broom and TFRecords]",112,FALSE,NA,### Updated Packages,link,2019-03-18
-"+ [Credibly Curious Episode 7 (Moving)](https://soundcloud.com/crediblycurious/episode-7-moving) - Nick and Saskia discuss moving, RStudio Conference, hexbin plots and the scales package",186,FALSE,NA,###  Videos and Podcasts,link,2019-03-18
-"+ [Not So Standard Deviations Episode 76 (Barely a Data Scientist)](http://nssdeviations.com/76-barely-a-data-scientist) - Hilary and Roger discuss the other jobs of the data scientist, using notebooks, Getting Things Done (on paper), keeping packages on CRAN, and the Women in Data Science Conference.",302,FALSE,NA,###  Videos and Podcasts,link,2019-03-18
-+ [gt_examples](https://frm1789.github.io/gt_examples/) - This is a small list with 25 visualizations using the `gt` package,124,FALSE,NA,###  Tutorials,link,2019-03-18
-+ [Unit Tests in R](http://www.win-vector.com/blog/2019/03/unit-tests-in-r/),76,FALSE,NA,###  Tutorials,link,2019-03-18
-+ [Wrangling Content Security Policies in R](https://rud.is/b/2019/03/10/wrangling-content-security-policies-in-r/),115,FALSE,NA,###  Tutorials,link,2019-03-18
-"+ [Math, code, concepts: A third road to deep learning](https://blogs.rstudio.com/tensorflow/posts/2019-03-15-concepts-way-to-dl/)",130,FALSE,NA,###  Tutorials,link,2019-03-18
-"+ [A case study for Branch Network Optimization, using R as a GIS tool.](https://www.jla-data.net/eng/branch-network-optimization-in-r/index.html)",146,FALSE,NA,###  Tutorials,link,2019-03-18
-"![A case study for Branch Network Optimization, using R as a GIS tool.](https://raw.githubusercontent.com/rweekly/image/master/2019/11/allocate-data-to-grid-3.png)",163,FALSE,NA,###  Tutorials,image,2019-03-18
-+ [Data Manipulation Corner Cases](http://www.win-vector.com/blog/2019/03/data-manipulation-corner-cases/),106,FALSE,NA,###  Tutorials,link,2019-03-18
-+ [Create interactive ggplot2 graphs with plotly](https://www.littlemissdata.com/blog/interactiveplots)`,104,FALSE,NA,###  Tutorials,link,2019-03-18
-+ [group_split/map/modify() in dplyr 0.8.1 (still in development)](https://coolbutuseless.github.io/2019/03/15/group_split-map-modify-in-dplyr-0.8.1-still-in-development/),171,FALSE,NA,###  Tutorials,link,2019-03-18
-+ [Software Dependencies and Risk](http://www.win-vector.com/blog/2019/03/software-dependencies-and-risk/),106,FALSE,NA,###  Tutorials,link,2019-03-18
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2019-03-18
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-03-18
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-03-18
-+ [satRday Johannesburg - 6th April](https://joburg2019.satrdays.org/),70,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-03-18
-+ [satRday Newcastle - 6th April](https://newcastle2019.satrdays.org/),70,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-03-18
-+ [satRday Los Angeles - 6th April](https://losangeles2019.satrdays.org/),73,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-03-18
-+ [The Uncoast Unconference - 14th to 16th April](http://uuconf.rbind.io/),74,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-03-18
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-03-18
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-03-18
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-03-18
-+ [satRday Chicago - 27th April](https://chicago2019.satrdays.org/),67,FALSE,NA,###  Call for Participation,link,2019-03-18
-+ [Community Call - Research Applications of rOpenSci Taxonomy and Biodiversity Tools](https://ropensci.org/blog/2019/03/11/commcall-mar2019/),142,FALSE,NA,###  Call for Participation,link,2019-03-18
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-03-18
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">The 2nd day of <a href=""https://twitter.com/hashtag/chirunconf?src=hash&amp;ref_src=twsrc%5Etfw"">#chirunconf</a> was filled w/ progress on many pkgs/issues. <br><br>People:<br>✅ completed their 1st PR<br>✅ made their 1st R pkg<br>✅ created their 1st Shiny app<br><br>But to me the best part was the people. We laughed. We ate. We learned. We rejoiced in the R culture and community! <a href=""https://t.co/kXHDawQm41"">pic.twitter.com/kXHDawQm41</a></p>&mdash; Joshua Goldberg (@GoldbergData) <a href=""https://twitter.com/GoldbergData/status/1105175443865567232?ref_src=twsrc%5Etfw"">March 11, 2019</a></blockquote>",669,FALSE,NA,###  Quotes of the Week,unid,2019-03-18
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-03-18
+"title: R Weekly 2019-11 R 3.5.3, R Consortium, chirunconf",57,FALSE,NA,unid,2019-03-18
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-03-18
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-03-18
+---,3,FALSE,NA,unid,2019-03-18
++ [R 3.5.3 now available](https://blog.revolutionanalytics.com/2019/03/r-353-now-available.html),96,FALSE,###  Highlight,link,2019-03-18
++ [2019 Update One: R Consortium and ISC Announce the Newest Funded Projects for the R Community](https://www.r-consortium.org/blog/2019/03/12/2019-update-one-r-consortium-and-isc-announce-the-newest-funded-projects-for-the-r-community),236,FALSE,###  Highlight,link,2019-03-18
++ [#chirunconf](https://sharla.party/posts/chirunconf/),55,FALSE,###  Highlight,link,2019-03-18
++ [R 3.5.3 now available](https://blog.revolutionanalytics.com/2019/03/r-353-now-available.html),96,FALSE,### Insights,link,2019-03-18
++ [Anonymous Functions in R (Part 1)](https://coolbutuseless.github.io/2019/03/13/anonymous-functions-in-r-part-1/),115,FALSE,### Insights,link,2019-03-18
++ [10 things R can do that might surprise you](https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/),131,FALSE,### Insights,link,2019-03-18
++ [#20: Dependencies. Now with badges!](http://dirk.eddelbuettel.com/blog/2019/03/14#020_dependency_badges),107,FALSE,### Insights,link,2019-03-18
++ [RStudio 1.2 Preview: Jobs](https://blog.rstudio.com/2019/03/14/rstudio-1-2-jobs/),84,FALSE,### Insights,link,2019-03-18
++ [#chirunconf](https://sharla.party/posts/chirunconf/),55,FALSE,### Insights,link,2019-03-18
++ [Collecting Content Security Policy Violation Reports in S3 ('Effortlessly'/'Freely')](https://rud.is/b/2019/03/14/collecting-content-security-policy-violation-reports-in-s3-effortlessly-freely/),197,FALSE,### R in the Real World,link,2019-03-18
++ [Plotting Manager Elo Ratings by Club (Part 1)](https://otstats.github.io/2019-03-12-plot-manager-elo-part-1/),112,FALSE,### R in the Real World,link,2019-03-18
++ [A Football Auto-Encoder with Keras](http://dm13450.github.io/2019/03/08/Football-Autoencoder.html),101,FALSE,### R in the Real World,link,2019-03-18
++ [Exploring Swings in Australian Federal Elections](http://freerangestats.info/blog/2019/03/11/aust-election-2-swings),119,FALSE,### R in the Real World,link,2019-03-18
++ [Exploring 11 Years of Chicago Blackhawk’s Data using Principal Components Analysis](https://mattkmiecik.com/post-Exploring-11-Years-of-Chicago-Blackhawks-Data-using-Principal-Components-Analysis.html),203,FALSE,### R in the Real World,link,2019-03-18
+![](https://mattkmiecik.com/post-Exploring-11-Years-of-Chicago-Blackhawks-Data-using-Principal-Components-Analysis_files/figure-html/unnamed-chunk-19-1.png),156,FALSE,### R in the Real World,image,2019-03-18
++ [A case where prospective matching may limit bias in a randomized trial](https://www.rdatagen.net/post/a-case-where-prospecitve-matching-may-limit-bias/),155,FALSE,### R in the Real World,link,2019-03-18
++ [World population growth through time](https://nowosad.github.io/post/world-pop-change2/),91,FALSE,### R in the Real World,link,2019-03-18
+![World population growth through time](https://raw.githubusercontent.com/rweekly/image/master/2019/11/worlds_animate.gif),122,FALSE,### R in the Real World,image,2019-03-18
++ [Mixing Up Your Office March Madness Competition](https://nielsenmark.us/2019/03/14/mixing-up-march-madness/),111,FALSE,### R in the Real World,link,2019-03-18
++ [What If Each State Allocated Their Electoral College Votes Proportionally?](https://www.thecrosstab.com/2019/03/08/electoral-college-proportional/),150,FALSE,### R in the Real World,link,2019-03-18
++ [2019 Update One: R Consortium and ISC Announce the Newest Funded Projects for the R Community](https://www.r-consortium.org/blog/2019/03/12/2019-update-one-r-consortium-and-isc-announce-the-newest-funded-projects-for-the-r-community),236,FALSE,###  R in Organizations,link,2019-03-18
++ [Unconference Toolbox](https://github.com/unconf-toolbox) - Just about everything you need to host your own unconference. Created at the 2019 Chicago R Unconference,166,FALSE,###  Resources,link,2019-03-18
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-03-18
+**CRAN**,8,FALSE,###  New Packages,unid,2019-03-18
++ [ggasym](https://jhrcook.github.io/ggasym/) - Asymmetric Matrix Plotting in 'ggplot2',87,FALSE,###  New Packages,link,2019-03-18
+![ggasym](https://raw.githubusercontent.com/rweekly/image/master/2019/11/ggasym_example.png),92,FALSE,###  New Packages,image,2019-03-18
++ [leafpm](https://cran.r-project.org/package=leafpm) - Leaflet Map Plugin for Drawing and Editing,98,FALSE,###  New Packages,link,2019-03-18
++ [waiter](https://cran.r-project.org/package=waiter) - Loading Screen for 'Shiny',82,FALSE,###  New Packages,link,2019-03-18
++ [yum](https://cran.r-project.org/package=yum) - Utilities to Extract and Process YAML Fragments,97,FALSE,###  New Packages,link,2019-03-18
++ [rbin](https://blog.rsquaredacademy.com/binning-data-with-rbin/) - a set of tools for binning/discretization of data,118,FALSE,###  New Packages,link,2019-03-18
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-03-18
++ [footrulr](https://github.com/kanishkamisra/footrulr) - Compare sentences using Machine Translation and Text Summarization evaluation metrics,143,FALSE,###  New Packages,link,2019-03-18
++ [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse,110,FALSE,###  New Packages,link,2019-03-18
+![brickr](https://raw.githubusercontent.com/rweekly/image/master/2019/11/brickr.gif),84,FALSE,###  New Packages,image,2019-03-18
++ [Anonymous Functions in R - Part 3: Introducing the 'anon' package](https://coolbutuseless.github.io/2019/03/14/anonymous-functions-in-r-part-3-introducing-the-anon-package/)`,177,FALSE,###  New Packages,link,2019-03-18
++ [rlangtip](https://github.com/revodavid/rlangtip) - R package to generate a helpful tip about R,97,FALSE,###  New Packages,link,2019-03-18
+"+ [sparklyr](https://blog.rstudio.com/2019/03/15/sparklyr-1-0/) 1.0: Apache Arrow, XGBoost, Broom and TFRecords]",112,FALSE,### Updated Packages,link,2019-03-18
+"+ [Credibly Curious Episode 7 (Moving)](https://soundcloud.com/crediblycurious/episode-7-moving) - Nick and Saskia discuss moving, RStudio Conference, hexbin plots and the scales package",186,FALSE,###  Videos and Podcasts,link,2019-03-18
+"+ [Not So Standard Deviations Episode 76 (Barely a Data Scientist)](http://nssdeviations.com/76-barely-a-data-scientist) - Hilary and Roger discuss the other jobs of the data scientist, using notebooks, Getting Things Done (on paper), keeping packages on CRAN, and the Women in Data Science Conference.",302,FALSE,###  Videos and Podcasts,link,2019-03-18
++ [gt_examples](https://frm1789.github.io/gt_examples/) - This is a small list with 25 visualizations using the `gt` package,124,FALSE,###  Tutorials,link,2019-03-18
++ [Unit Tests in R](http://www.win-vector.com/blog/2019/03/unit-tests-in-r/),76,FALSE,###  Tutorials,link,2019-03-18
++ [Wrangling Content Security Policies in R](https://rud.is/b/2019/03/10/wrangling-content-security-policies-in-r/),115,FALSE,###  Tutorials,link,2019-03-18
+"+ [Math, code, concepts: A third road to deep learning](https://blogs.rstudio.com/tensorflow/posts/2019-03-15-concepts-way-to-dl/)",130,FALSE,###  Tutorials,link,2019-03-18
+"+ [A case study for Branch Network Optimization, using R as a GIS tool.](https://www.jla-data.net/eng/branch-network-optimization-in-r/index.html)",146,FALSE,###  Tutorials,link,2019-03-18
+"![A case study for Branch Network Optimization, using R as a GIS tool.](https://raw.githubusercontent.com/rweekly/image/master/2019/11/allocate-data-to-grid-3.png)",163,FALSE,###  Tutorials,image,2019-03-18
++ [Data Manipulation Corner Cases](http://www.win-vector.com/blog/2019/03/data-manipulation-corner-cases/),106,FALSE,###  Tutorials,link,2019-03-18
++ [Create interactive ggplot2 graphs with plotly](https://www.littlemissdata.com/blog/interactiveplots)`,104,FALSE,###  Tutorials,link,2019-03-18
++ [group_split/map/modify() in dplyr 0.8.1 (still in development)](https://coolbutuseless.github.io/2019/03/15/group_split-map-modify-in-dplyr-0.8.1-still-in-development/),171,FALSE,###  Tutorials,link,2019-03-18
++ [Software Dependencies and Risk](http://www.win-vector.com/blog/2019/03/software-dependencies-and-risk/),106,FALSE,###  Tutorials,link,2019-03-18
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2019-03-18
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-03-18
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-03-18
++ [satRday Johannesburg - 6th April](https://joburg2019.satrdays.org/),70,FALSE,###  Upcoming Events in 3 Months,link,2019-03-18
++ [satRday Newcastle - 6th April](https://newcastle2019.satrdays.org/),70,FALSE,###  Upcoming Events in 3 Months,link,2019-03-18
++ [satRday Los Angeles - 6th April](https://losangeles2019.satrdays.org/),73,FALSE,###  Upcoming Events in 3 Months,link,2019-03-18
++ [The Uncoast Unconference - 14th to 16th April](http://uuconf.rbind.io/),74,FALSE,###  Upcoming Events in 3 Months,link,2019-03-18
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-03-18
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-03-18
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-03-18
++ [satRday Chicago - 27th April](https://chicago2019.satrdays.org/),67,FALSE,###  Call for Participation,link,2019-03-18
++ [Community Call - Research Applications of rOpenSci Taxonomy and Biodiversity Tools](https://ropensci.org/blog/2019/03/11/commcall-mar2019/),142,FALSE,###  Call for Participation,link,2019-03-18
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-03-18
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">The 2nd day of <a href=""https://twitter.com/hashtag/chirunconf?src=hash&amp;ref_src=twsrc%5Etfw"">#chirunconf</a> was filled w/ progress on many pkgs/issues. <br><br>People:<br>✅ completed their 1st PR<br>✅ made their 1st R pkg<br>✅ created their 1st Shiny app<br><br>But to me the best part was the people. We laughed. We ate. We learned. We rejoiced in the R culture and community! <a href=""https://t.co/kXHDawQm41"">pic.twitter.com/kXHDawQm41</a></p>&mdash; Joshua Goldberg (@GoldbergData) <a href=""https://twitter.com/GoldbergData/status/1105175443865567232?ref_src=twsrc%5Etfw"">March 11, 2019</a></blockquote>",669,FALSE,###  Quotes of the Week,unid,2019-03-18

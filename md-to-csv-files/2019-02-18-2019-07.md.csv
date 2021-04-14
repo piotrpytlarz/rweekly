@@ -1,112 +1,112 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-02-18
-"title: R Weekly 2019-07 Flipbook, package building",50,FALSE,NA,NA,unid,2019-02-18
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-02-18
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-02-18
----,3,FALSE,NA,NA,unid,2019-02-18
-+ [The `ggplot2` flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1),103,FALSE,NA,###  Highlights,link,2019-02-18
-![ggplot2 flipbook screenshot](https://cdn.jsdelivr.net/gh/rweekly/image/2019/ggplot2-flipbook.gif),99,FALSE,NA,###  Highlights,image,2019-02-18
-"+ [Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](http://laderast.github.io/2019/02/12/package-building-description-namespace/)",181,FALSE,NA,###  Highlights,link,2019-02-18
-"![diagram from Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](https://cdn.jsdelivr.net/gh/rweekly/image/2019/description.png)",179,FALSE,NA,###  Highlights,image,2019-02-18
-"+ [""Correlation is not causation"". So what is?](https://iyarlin.github.io/2019/02/08/correlation-is-not-causation-so-what-is/)",126,FALSE,NA,### Insights,link,2019-02-18
-+ [Most popular machine learning R packages – part 2](https://eranraviv.com/most-popular-machine-learning-r-packages-part-2/),125,FALSE,NA,### Insights,link,2019-02-18
-+ [Mastering your day as a programmer](https://lorenzwalthert.netlify.com/post/mastering-your-day-as-a-programmer-2/),117,FALSE,NA,### Insights,link,2019-02-18
-+ [`ggplot2` extensions gallery](https://www.ggplot2-exts.org/gallery/),71,FALSE,NA,###  Resources,link,2019-02-18
-+ [R for Journalism](https://learn.r-journalism.com/en/),56,FALSE,NA,###  Resources,link,2019-02-18
-+ [R for Political Data](https://www.thecrosstab.com/categories/r-for-political-data/),86,FALSE,NA,###  Resources,link,2019-02-18
-+ [What Do Freelance Writers Make?](http://www.storybench.org/what-do-freelance-writers-make/),94,FALSE,NA,### R in the Real World,link,2019-02-18
-+ [Trump tweet time](https://apps.garrickadenbuie.coma/trump-tweet-time/),73,FALSE,NA,### R in the Real World,link,2019-02-18
-![Trump tweet time app screenshot](https://cdn.jsdelivr.net/gh/rweekly/image/2019/trumptweettime.jpg),101,FALSE,NA,### R in the Real World,image,2019-02-18
-+ [How did Axios rectangle Trump's PDF schedule? A try with R](https://masalmon.eu/2019/02/11/trump-schedule/),110,FALSE,NA,### R in the Real World,link,2019-02-18
-+ [Liverpool is the Most Popular City in the World (relative to use as password per inhabitant)](http://www.sastibe.de/2019/02/liverpool-is-the-most-popular-city-in-the-world-relative-to-use-as-password-per-inhabitant/),219,FALSE,NA,### R in the Real World,link,2019-02-18
-+ [Text mining the EU withdrawal bill Hansard II](https://www.mattchaib.com/post/2019/02/11/text-mining-the-eu-withdrawal-bill-hansard-ii/),139,FALSE,NA,### R in the Real World,link,2019-02-18
-+ [R for Political Data Science Week 7: The 2020 Twitter Primary](https://www.thecrosstab.com/2019/02/15/2020-twitter-primary/),127,FALSE,NA,### R in the Real World,link,2019-02-18
-+ [Visualizing Brooklyn Nine-Nine with R!](http://Ryo-N7.github.io/2019-02-15-visualize-brooklyn-nine-nine/),108,FALSE,NA,### R in the Real World,link,2019-02-18
-+ [Use algebra and calculus with R and yacas to find Chidi's optimal level of pizza and frozen yogurt consumption](https://www.andrewheiss.com/blog/2019/02/16/algebra-calculus-r-yacas/),185,FALSE,NA,### R in the Real World,link,2019-02-18
-+ [H-indexes of CRAN package maintainers. Search your own.](https://nacnudus.github.io/duncangarmonsway/posts/2019-02-08-cran-h-index/),135,FALSE,NA,### R in the Real World,link,2019-02-18
-"![Figure from ""H-indexes of CRAN package maintainers. Search your own.""](https://cdn.jsdelivr.net/gh/rweekly/image/2019/hindex.png)",131,FALSE,NA,### R in the Real World,image,2019-02-18
-+ [Community Call Follow-up - Governance of Open Source Research Software Organizationss](https://ropensci.org/blog/2019/02/12/governance/),139,FALSE,NA,###  R in Organizations,link,2019-02-18
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-02-18
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-02-18
-+ [`shinyalert`: Easily create pretty popup messages (modals) in Shiny](https://deanattali.com/blog/shinyalert-package/),120,FALSE,NA,###  New Packages,link,2019-02-18
-"+ [`olsrr`](https://blog.aravindhebbali.com/2019/02/07/introducing-olsrr/), a set of tools for improved output from linear regression models, designed keeping in mind beginner/intermediate R users.",197,FALSE,NA,###  New Packages,link,2019-02-18
-+ [Introducing `tidyLPA` (an R package for carrying out Latent Profile Analysis)](https://jrosen48.github.io/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/),189,FALSE,NA,###  New Packages,link,2019-02-18
-+ [Using the `ropendata` R Package to Access Petabytes of Free Internet Telemetry Data from Rapid7](https://rud.is/b/2019/02/14/using-the-ropendata-r-package-to-access-petabytes-of-free-internet-telemetry-data-from-rapid7/)  ,225,FALSE,NA,###  New Packages,link,2019-02-18
-+ [Announcing the First Release of `noaaoceans`](https://www.seanwarlick.com/post/release-of-noaaoceans/),105,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`sdpt3r`](https://cran.r-project.org/package=sdpt3r): Semi-Definite Quadratic Linear Programming Solver,106,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`sparsenet`](https://cran.r-project.org/package=sparsenet): Fit Sparse Linear Regression Models via Nonconvex Optimization,125,FALSE,NA,###  New Packages,link,2019-02-18
-"+ [`calendar`](https://cran.r-project.org/package=calendar): Create, Read, Write, and Work with 'iCalander' Files, Calendarsand Scheduling Data",143,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`TmCalculator`](https://cran.r-project.org/package=TmCalculator): Melting Temperature of Nucleic Acid Sequences,114,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`Rfssa`](https://cran.r-project.org/package=Rfssa): Functional Singular Spectrum Analysis,92,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`expSBM`](https://cran.r-project.org/package=expSBM): An Exponential Stochastic Block Model for Interaction Lengths,118,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`IrregLong`](https://cran.r-project.org/package=IrregLong): Analysis of Longitudinal Data with Irregular Observation Times,125,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`CB2`](https://cran.r-project.org/package=CB2): CRISPR Pooled Screen Analysis using Beta-Binomial Test,105,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`matsindf`](https://cran.r-project.org/package=matsindf): Matrices in data frames,84,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`leiden`](https://cran.r-project.org/package=leiden): Implementation of the 'Python leidenalg' Module,104,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`metaMix`](https://cran.r-project.org/package=metaMix): Bayesian Mixture Analysis for Metagenomic Community Profiling,120,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`rrum`](https://cran.r-project.org/package=rrum): Bayesian Estimation of the Reduced Reparameterized Unified Modelwith Gibbs Sampling,136,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`uclust`](https://cran.r-project.org/package=uclust): Clustering and Classification Inference with U-Statistics,114,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`rPACI`](https://cran.r-project.org/package=rPACI): Placido Analysis of Corneal Irregularity,95,FALSE,NA,###  New Packages,link,2019-02-18
-"+ [`HRW`](https://cran.r-project.org/package=HRW): Datasets, Functions and Scripts for Semiparametric Regression Supporting Harezlak, Ruppert & Wand (2018)",155,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`Ropj`](https://cran.r-project.org/package=Ropj): Import Origin(R) Project Files,83,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`cgwtools`](https://cran.r-project.org/package=cgwtools): Miscellaneous Tools,80,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`rosr`](https://cran.r-project.org/package=rosr): Create Reproducible Research Projects,90,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`ptmixed`](https://cran.r-project.org/package=ptmixed): Poisson-Tweedie Generalized Linear Mixed Model,105,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`Claddis`](https://cran.r-project.org/package=Claddis): Measuring Morphological Diversity and Evolutionary Tempo,115,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`seedwater`](https://cran.r-project.org/package=seedwater): Models for Drying and Soaking Kinetics of Seeds,110,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`EGRETci`](https://cran.r-project.org/package=EGRETci): Exploration and Graphics for RivEr Trends Confidence Intervals,121,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`rcitoid`](https://cran.r-project.org/package=rcitoid): Client for 'Citoid',78,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`tidystopwords`](https://cran.r-project.org/package=tidystopwords): Customizable Lists of Stopwords in 53 Languages,118,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`fxtract`](https://cran.r-project.org/package=fxtract): Feature Extraction from Grouped Data,95,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`ICD10gm`](https://cran.r-project.org/package=ICD10gm): Metadata Processing for the German Modification of the ICD-10Coding System,133,FALSE,NA,###  New Packages,link,2019-02-18
-"+ [`mRMRe`](https://cran.r-project.org/package=mRMRe): Parallelized Minimum Redundancy, Maximum Relevance (mRMR)Ensemble Feature Selection",138,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`mlbgameday`](https://cran.r-project.org/package=mlbgameday): Tools to Gather Data from Major League Baseball Advanced Media,127,FALSE,NA,###  New Packages,link,2019-02-18
-+ [`pointdexter`](https://cran.r-project.org/package=pointdexter) - Labels longitudinal and latitudinal coordinates located inside a polygon,140,FALSE,NA,###  New Packages,link,2019-02-18
-"<a href=""https://cenuno.github.io/pointdexter/"">",48,FALSE,NA,###  New Packages,unid,2019-02-18
-"<img src=""https://github.com/cenuno/pointdexter/raw/master/man/figures/logo.png"" align=""middle"" width=""200""/>",109,FALSE,NA,###  New Packages,unid,2019-02-18
-</a>,4,FALSE,NA,###  New Packages,unid,2019-02-18
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-02-18
-+ [`VapoRwave`](https://github.com/moldach/vapoRwave): Featuring three vaporwave `ggplot2` themes and 13 (lucky) color palettes 🏂 ,130,FALSE,NA,###  New Packages,link,2019-02-18
-"+ [`ghactions`](https://github.com/maxheld83/ghactions), GitHub actions for R and accompanying R package.",105,FALSE,NA,###  New Packages,link,2019-02-18
-![flowchart from ghactions README](https://cdn.jsdelivr.net/gh/rweekly/image/2019/ghactions.gif),96,FALSE,NA,###  New Packages,image,2019-02-18
-"+ [`cbrt`](http://users.metu.edu.tr/etaymaz/cbrt-2019.html), provides functions for finding, and downloading data from the Central Bank of the Republic of Turkey's database (more than 22,000 time series variables on Turkish economy).",233,FALSE,NA,###  New Packages,link,2019-02-18
-"+ [`staplr`](https://pridiltal.github.io/staplr/), toolkit to manipulate PDF files.",83,FALSE,NA,### Updated Packages,link,2019-02-18
-+ [`vcr`](https://github.com/ropensci/vcr/releases/tag/v0.2.6) - Record test suite 'HTTP' requests and replays them during future runs.,135,FALSE,NA,### Updated Packages,link,2019-02-18
-+ [A Major Upgrade of the `V8` package](https://ropensci.org/technotes/2019/02/11/v8-20/),89,FALSE,NA,### Updated Packages,link,2019-02-18
-"+ [NSSD Episode 74 - I Draw the Line at Fans](http://nssdeviations.com/74-i-draw-the-line-at-fans): Hilary and Roger discuss Roger's foray into cloud computing and how they determine whether they can trust an algorithm or R package. Also, a bonus discussion of the state of data science as a field.",298,FALSE,NA,###  Videos and Podcasts,link,2019-02-18
-"+ [R-Podcast Episode 27 - Get the {gt} Tables!](https://r-podcast.org/27): Eric shares a behind-the-scenes look at his `rstudio::conf` 2019 presentation about Shiny modules, and talks to RStudio software engineer Rich Iannone about his journey from atmospheric science to creating the `DiagrammeR` and `gt` packages.",316,FALSE,NA,###  Videos and Podcasts,link,2019-02-18
-+ [Inserting “Edit on GitHub” Buttons in a Single R Markdown Document](https://liao961120.github.io/2019/02/10/rmd_edit_btn.html),129,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [Web Scraping 🕸️🤖 Google Sheets with RSelenium](https://towardsdatascience.com/web-scraping-google-sheets-with-rselenium-9001eda399b0),136,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [Writing Text in Minecraft with R](https://kbroman.org/blog/2019/02/11/writing_text_in_minecraft_with_r/),107,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [Coupling Web scraping with Functional Programming in R for scale](https://towardsdatascience.com/coupling-web-scraping-with-functional-programming-in-r-for-scale-1bc4509eef29),178,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [`cdata` Control Table Keys](http://www.win-vector.com/blog/2019/02/cdata-control-table-keys/),96,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [Quick Hit: Speeding Up a Slow/Mundane Task with a Little `Rcpp`](https://rud.is/b/2019/02/09/quick-hit-speeding-up-a-slow-mundane-task-with-a-little-rcpp/),158,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [Investigating words distribution with R – Zipf’s law](https://appsilon.com/investigating-words-distribution-with-r-zipfs-law/),129,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [8 out of 10 cats does countdown - part 2](https://coolbutuseless.github.io/2019/02/11/8-out-of-10-cats-does-countdown-part-2/),129,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [object of type 'closure' is not(?) subsettable](https://coolbutuseless.github.io/2019/02/12/object-of-type-closure-is-not-subsettable/),138,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [A Shiny app for your perfect circle](http://staff.math.su.se/hoehle/blog/2019/02/15/shinycircle.html),104,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [Anatomy of a logistic growth curve](https://tjmahr.github.io/anatomy-of-a-logistic-growth-curve/),100,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [tfestimators - Package: Embeddings for Categorical Variables](http://flovv.github.io/Embeddings_with_tf/),108,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [Connecting R and arduino wirelessly through websockets](https://zhuhao.org/post/connecting-r-and-arduino-through-websockets/),128,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [Verbose data.table and uncovering hidden cedta's data table awareness decisions](https://jozefhajnala.gitlab.io/r/r911-datatable-cedta/),139,FALSE,NA,###  Tutorials,link,2019-02-18
-+ [Query Generation in R](http://www.win-vector.com/blog/2019/02/query-generation-in-r/),88,FALSE,NA,###  Tutorials,link,2019-02-18
-"+ [Excel email address cleaner & aggregator in R (#readxl, #openxlsx)](https://rickpackblog.wordpress.com/2019/02/14/excel-email-cleaner-aggregator-r-script-readxl-stringr/)",173,FALSE,NA,###  Tutorials,link,2019-02-18
-"+ [Meetup API tracking in R (Part 1) - Analytics>Forward in RTP, NC](https://rickpackblog.wordpress.com/2019/02/13/analyticsforward-2019-meetup-api-tracking-in-r-pt-1/)",168,FALSE,NA,###  Tutorials,link,2019-02-18
-"<!--div class=""post-more-begi",29,FALSE,NA,###  Tutorials,unid,2019-02-18
-"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2019-02-18
-Updates from [R Core](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,80,FALSE,NA,###  R Project Updates,unid,2019-02-18
-+ [Staged Install](https://developer.r-project.org/Blog/public/2019/02/14/staged-install/),90,FALSE,NA,###  R Project Updates,link,2019-02-18
-+ `R CMD check` has more comprehensive checks on the `data` directory and the functioning of `data() in a package. ,115,FALSE,NA,###  R Project Updates,unid,2019-02-18
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-02-18
-+ [satRday Paris - 23rd February](https://paris2019.satrdays.org/),66,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-18
-+ [satRday Johannesburg - 6th April](https://joburg2019.satrdays.org/),70,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-18
-+ [satRday Newcastle - 6th April](https://newcastle2019.satrdays.org/),70,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-18
-+ [satRday Los Angeles - 6th April](https://losangeles2019.satrdays.org/),73,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-18
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-18
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-02-18
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-02-18
-"+ [RStudio Summer interns, application deadline 02/22](https://blog.rstudio.com/2019/01/18/summer-internships-2019/)",116,FALSE,NA,### Jobs,link,2019-02-18
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-02-18
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Roses are red,<br>Iris data forgettable.<br>Objects of type closure,<br>Are not subsettable<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> valentine</p>&mdash; Danielle Navarro (@djnavarro) <a href=""https://twitter.com/djnavarro/status/1095638129812205568?ref_src=twsrc%5Etfw"">13 de febrer de 2019</a></blockquote>",428,FALSE,NA,###  Quotes of the Week,unid,2019-02-18
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> R-hub is on Twitter now! 👋<br><br>Stay tuned for further updates, we&#39;ll soon launch a docs website and a blog! 🎇<br><br>In the meantime find<br>🔗 our 📦builder <a href=""https://t.co/QG8jwaCoto"">https://t.co/QG8jwaCoto</a><br>🔗 our Github organization <a href=""https://t.co/tR4d94ZHSj"">https://t.co/tR4d94ZHSj</a></p>&mdash; R-hub (@rhub_) <a href=""https://twitter.com/rhub_/status/1095649725188055040?ref_src=twsrc%5Etfw"">13 de febrer de 2019</a></blockquote>",624,FALSE,NA,###  Quotes of the Week,unid,2019-02-18
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Are you an <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> user in Africa? Do you want to be updated on R-related activities and help promote R in Africa? Sign up on this form! <a href=""https://twitter.com/hashtag/africaR?src=hash&amp;ref_src=twsrc%5Etfw"">#africaR</a> <a href=""https://t.co/Qztgzc9lzb"">https://t.co/Qztgzc9lzb</a></p>&mdash; Shel 🇰🇪 (@Shel_Kariuki) <a href=""https://twitter.com/Shel_Kariuki/status/1096270026917769216?ref_src=twsrc%5Etfw"">15 de febrer de 2019</a></blockquote>",607,FALSE,NA,###  Quotes of the Week,unid,2019-02-18
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-02-18
+"title: R Weekly 2019-07 Flipbook, package building",50,FALSE,NA,unid,2019-02-18
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-02-18
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-02-18
+---,3,FALSE,NA,unid,2019-02-18
++ [The `ggplot2` flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1),103,FALSE,###  Highlights,link,2019-02-18
+![ggplot2 flipbook screenshot](https://cdn.jsdelivr.net/gh/rweekly/image/2019/ggplot2-flipbook.gif),99,FALSE,###  Highlights,image,2019-02-18
+"+ [Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](http://laderast.github.io/2019/02/12/package-building-description-namespace/)",181,FALSE,###  Highlights,link,2019-02-18
+"![diagram from Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](https://cdn.jsdelivr.net/gh/rweekly/image/2019/description.png)",179,FALSE,###  Highlights,image,2019-02-18
+"+ [""Correlation is not causation"". So what is?](https://iyarlin.github.io/2019/02/08/correlation-is-not-causation-so-what-is/)",126,FALSE,### Insights,link,2019-02-18
++ [Most popular machine learning R packages – part 2](https://eranraviv.com/most-popular-machine-learning-r-packages-part-2/),125,FALSE,### Insights,link,2019-02-18
++ [Mastering your day as a programmer](https://lorenzwalthert.netlify.com/post/mastering-your-day-as-a-programmer-2/),117,FALSE,### Insights,link,2019-02-18
++ [`ggplot2` extensions gallery](https://www.ggplot2-exts.org/gallery/),71,FALSE,###  Resources,link,2019-02-18
++ [R for Journalism](https://learn.r-journalism.com/en/),56,FALSE,###  Resources,link,2019-02-18
++ [R for Political Data](https://www.thecrosstab.com/categories/r-for-political-data/),86,FALSE,###  Resources,link,2019-02-18
++ [What Do Freelance Writers Make?](http://www.storybench.org/what-do-freelance-writers-make/),94,FALSE,### R in the Real World,link,2019-02-18
++ [Trump tweet time](https://apps.garrickadenbuie.coma/trump-tweet-time/),73,FALSE,### R in the Real World,link,2019-02-18
+![Trump tweet time app screenshot](https://cdn.jsdelivr.net/gh/rweekly/image/2019/trumptweettime.jpg),101,FALSE,### R in the Real World,image,2019-02-18
++ [How did Axios rectangle Trump's PDF schedule? A try with R](https://masalmon.eu/2019/02/11/trump-schedule/),110,FALSE,### R in the Real World,link,2019-02-18
++ [Liverpool is the Most Popular City in the World (relative to use as password per inhabitant)](http://www.sastibe.de/2019/02/liverpool-is-the-most-popular-city-in-the-world-relative-to-use-as-password-per-inhabitant/),219,FALSE,### R in the Real World,link,2019-02-18
++ [Text mining the EU withdrawal bill Hansard II](https://www.mattchaib.com/post/2019/02/11/text-mining-the-eu-withdrawal-bill-hansard-ii/),139,FALSE,### R in the Real World,link,2019-02-18
++ [R for Political Data Science Week 7: The 2020 Twitter Primary](https://www.thecrosstab.com/2019/02/15/2020-twitter-primary/),127,FALSE,### R in the Real World,link,2019-02-18
++ [Visualizing Brooklyn Nine-Nine with R!](http://Ryo-N7.github.io/2019-02-15-visualize-brooklyn-nine-nine/),108,FALSE,### R in the Real World,link,2019-02-18
++ [Use algebra and calculus with R and yacas to find Chidi's optimal level of pizza and frozen yogurt consumption](https://www.andrewheiss.com/blog/2019/02/16/algebra-calculus-r-yacas/),185,FALSE,### R in the Real World,link,2019-02-18
++ [H-indexes of CRAN package maintainers. Search your own.](https://nacnudus.github.io/duncangarmonsway/posts/2019-02-08-cran-h-index/),135,FALSE,### R in the Real World,link,2019-02-18
+"![Figure from ""H-indexes of CRAN package maintainers. Search your own.""](https://cdn.jsdelivr.net/gh/rweekly/image/2019/hindex.png)",131,FALSE,### R in the Real World,image,2019-02-18
++ [Community Call Follow-up - Governance of Open Source Research Software Organizationss](https://ropensci.org/blog/2019/02/12/governance/),139,FALSE,###  R in Organizations,link,2019-02-18
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-02-18
+**CRAN**,8,FALSE,###  New Packages,unid,2019-02-18
++ [`shinyalert`: Easily create pretty popup messages (modals) in Shiny](https://deanattali.com/blog/shinyalert-package/),120,FALSE,###  New Packages,link,2019-02-18
+"+ [`olsrr`](https://blog.aravindhebbali.com/2019/02/07/introducing-olsrr/), a set of tools for improved output from linear regression models, designed keeping in mind beginner/intermediate R users.",197,FALSE,###  New Packages,link,2019-02-18
++ [Introducing `tidyLPA` (an R package for carrying out Latent Profile Analysis)](https://jrosen48.github.io/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/),189,FALSE,###  New Packages,link,2019-02-18
++ [Using the `ropendata` R Package to Access Petabytes of Free Internet Telemetry Data from Rapid7](https://rud.is/b/2019/02/14/using-the-ropendata-r-package-to-access-petabytes-of-free-internet-telemetry-data-from-rapid7/)  ,225,FALSE,###  New Packages,link,2019-02-18
++ [Announcing the First Release of `noaaoceans`](https://www.seanwarlick.com/post/release-of-noaaoceans/),105,FALSE,###  New Packages,link,2019-02-18
++ [`sdpt3r`](https://cran.r-project.org/package=sdpt3r): Semi-Definite Quadratic Linear Programming Solver,106,FALSE,###  New Packages,link,2019-02-18
++ [`sparsenet`](https://cran.r-project.org/package=sparsenet): Fit Sparse Linear Regression Models via Nonconvex Optimization,125,FALSE,###  New Packages,link,2019-02-18
+"+ [`calendar`](https://cran.r-project.org/package=calendar): Create, Read, Write, and Work with 'iCalander' Files, Calendarsand Scheduling Data",143,FALSE,###  New Packages,link,2019-02-18
++ [`TmCalculator`](https://cran.r-project.org/package=TmCalculator): Melting Temperature of Nucleic Acid Sequences,114,FALSE,###  New Packages,link,2019-02-18
++ [`Rfssa`](https://cran.r-project.org/package=Rfssa): Functional Singular Spectrum Analysis,92,FALSE,###  New Packages,link,2019-02-18
++ [`expSBM`](https://cran.r-project.org/package=expSBM): An Exponential Stochastic Block Model for Interaction Lengths,118,FALSE,###  New Packages,link,2019-02-18
++ [`IrregLong`](https://cran.r-project.org/package=IrregLong): Analysis of Longitudinal Data with Irregular Observation Times,125,FALSE,###  New Packages,link,2019-02-18
++ [`CB2`](https://cran.r-project.org/package=CB2): CRISPR Pooled Screen Analysis using Beta-Binomial Test,105,FALSE,###  New Packages,link,2019-02-18
++ [`matsindf`](https://cran.r-project.org/package=matsindf): Matrices in data frames,84,FALSE,###  New Packages,link,2019-02-18
++ [`leiden`](https://cran.r-project.org/package=leiden): Implementation of the 'Python leidenalg' Module,104,FALSE,###  New Packages,link,2019-02-18
++ [`metaMix`](https://cran.r-project.org/package=metaMix): Bayesian Mixture Analysis for Metagenomic Community Profiling,120,FALSE,###  New Packages,link,2019-02-18
++ [`rrum`](https://cran.r-project.org/package=rrum): Bayesian Estimation of the Reduced Reparameterized Unified Modelwith Gibbs Sampling,136,FALSE,###  New Packages,link,2019-02-18
++ [`uclust`](https://cran.r-project.org/package=uclust): Clustering and Classification Inference with U-Statistics,114,FALSE,###  New Packages,link,2019-02-18
++ [`rPACI`](https://cran.r-project.org/package=rPACI): Placido Analysis of Corneal Irregularity,95,FALSE,###  New Packages,link,2019-02-18
+"+ [`HRW`](https://cran.r-project.org/package=HRW): Datasets, Functions and Scripts for Semiparametric Regression Supporting Harezlak, Ruppert & Wand (2018)",155,FALSE,###  New Packages,link,2019-02-18
++ [`Ropj`](https://cran.r-project.org/package=Ropj): Import Origin(R) Project Files,83,FALSE,###  New Packages,link,2019-02-18
++ [`cgwtools`](https://cran.r-project.org/package=cgwtools): Miscellaneous Tools,80,FALSE,###  New Packages,link,2019-02-18
++ [`rosr`](https://cran.r-project.org/package=rosr): Create Reproducible Research Projects,90,FALSE,###  New Packages,link,2019-02-18
++ [`ptmixed`](https://cran.r-project.org/package=ptmixed): Poisson-Tweedie Generalized Linear Mixed Model,105,FALSE,###  New Packages,link,2019-02-18
++ [`Claddis`](https://cran.r-project.org/package=Claddis): Measuring Morphological Diversity and Evolutionary Tempo,115,FALSE,###  New Packages,link,2019-02-18
++ [`seedwater`](https://cran.r-project.org/package=seedwater): Models for Drying and Soaking Kinetics of Seeds,110,FALSE,###  New Packages,link,2019-02-18
++ [`EGRETci`](https://cran.r-project.org/package=EGRETci): Exploration and Graphics for RivEr Trends Confidence Intervals,121,FALSE,###  New Packages,link,2019-02-18
++ [`rcitoid`](https://cran.r-project.org/package=rcitoid): Client for 'Citoid',78,FALSE,###  New Packages,link,2019-02-18
++ [`tidystopwords`](https://cran.r-project.org/package=tidystopwords): Customizable Lists of Stopwords in 53 Languages,118,FALSE,###  New Packages,link,2019-02-18
++ [`fxtract`](https://cran.r-project.org/package=fxtract): Feature Extraction from Grouped Data,95,FALSE,###  New Packages,link,2019-02-18
++ [`ICD10gm`](https://cran.r-project.org/package=ICD10gm): Metadata Processing for the German Modification of the ICD-10Coding System,133,FALSE,###  New Packages,link,2019-02-18
+"+ [`mRMRe`](https://cran.r-project.org/package=mRMRe): Parallelized Minimum Redundancy, Maximum Relevance (mRMR)Ensemble Feature Selection",138,FALSE,###  New Packages,link,2019-02-18
++ [`mlbgameday`](https://cran.r-project.org/package=mlbgameday): Tools to Gather Data from Major League Baseball Advanced Media,127,FALSE,###  New Packages,link,2019-02-18
++ [`pointdexter`](https://cran.r-project.org/package=pointdexter) - Labels longitudinal and latitudinal coordinates located inside a polygon,140,FALSE,###  New Packages,link,2019-02-18
+"<a href=""https://cenuno.github.io/pointdexter/"">",48,FALSE,###  New Packages,unid,2019-02-18
+"<img src=""https://github.com/cenuno/pointdexter/raw/master/man/figures/logo.png"" align=""middle"" width=""200""/>",109,FALSE,###  New Packages,unid,2019-02-18
+</a>,4,FALSE,###  New Packages,unid,2019-02-18
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-02-18
++ [`VapoRwave`](https://github.com/moldach/vapoRwave): Featuring three vaporwave `ggplot2` themes and 13 (lucky) color palettes 🏂 ,130,FALSE,###  New Packages,link,2019-02-18
+"+ [`ghactions`](https://github.com/maxheld83/ghactions), GitHub actions for R and accompanying R package.",105,FALSE,###  New Packages,link,2019-02-18
+![flowchart from ghactions README](https://cdn.jsdelivr.net/gh/rweekly/image/2019/ghactions.gif),96,FALSE,###  New Packages,image,2019-02-18
+"+ [`cbrt`](http://users.metu.edu.tr/etaymaz/cbrt-2019.html), provides functions for finding, and downloading data from the Central Bank of the Republic of Turkey's database (more than 22,000 time series variables on Turkish economy).",233,FALSE,###  New Packages,link,2019-02-18
+"+ [`staplr`](https://pridiltal.github.io/staplr/), toolkit to manipulate PDF files.",83,FALSE,### Updated Packages,link,2019-02-18
++ [`vcr`](https://github.com/ropensci/vcr/releases/tag/v0.2.6) - Record test suite 'HTTP' requests and replays them during future runs.,135,FALSE,### Updated Packages,link,2019-02-18
++ [A Major Upgrade of the `V8` package](https://ropensci.org/technotes/2019/02/11/v8-20/),89,FALSE,### Updated Packages,link,2019-02-18
+"+ [NSSD Episode 74 - I Draw the Line at Fans](http://nssdeviations.com/74-i-draw-the-line-at-fans): Hilary and Roger discuss Roger's foray into cloud computing and how they determine whether they can trust an algorithm or R package. Also, a bonus discussion of the state of data science as a field.",298,FALSE,###  Videos and Podcasts,link,2019-02-18
+"+ [R-Podcast Episode 27 - Get the {gt} Tables!](https://r-podcast.org/27): Eric shares a behind-the-scenes look at his `rstudio::conf` 2019 presentation about Shiny modules, and talks to RStudio software engineer Rich Iannone about his journey from atmospheric science to creating the `DiagrammeR` and `gt` packages.",316,FALSE,###  Videos and Podcasts,link,2019-02-18
++ [Inserting “Edit on GitHub” Buttons in a Single R Markdown Document](https://liao961120.github.io/2019/02/10/rmd_edit_btn.html),129,FALSE,###  Tutorials,link,2019-02-18
++ [Web Scraping 🕸️🤖 Google Sheets with RSelenium](https://towardsdatascience.com/web-scraping-google-sheets-with-rselenium-9001eda399b0),136,FALSE,###  Tutorials,link,2019-02-18
++ [Writing Text in Minecraft with R](https://kbroman.org/blog/2019/02/11/writing_text_in_minecraft_with_r/),107,FALSE,###  Tutorials,link,2019-02-18
++ [Coupling Web scraping with Functional Programming in R for scale](https://towardsdatascience.com/coupling-web-scraping-with-functional-programming-in-r-for-scale-1bc4509eef29),178,FALSE,###  Tutorials,link,2019-02-18
++ [`cdata` Control Table Keys](http://www.win-vector.com/blog/2019/02/cdata-control-table-keys/),96,FALSE,###  Tutorials,link,2019-02-18
++ [Quick Hit: Speeding Up a Slow/Mundane Task with a Little `Rcpp`](https://rud.is/b/2019/02/09/quick-hit-speeding-up-a-slow-mundane-task-with-a-little-rcpp/),158,FALSE,###  Tutorials,link,2019-02-18
++ [Investigating words distribution with R – Zipf’s law](https://appsilon.com/investigating-words-distribution-with-r-zipfs-law/),129,FALSE,###  Tutorials,link,2019-02-18
++ [8 out of 10 cats does countdown - part 2](https://coolbutuseless.github.io/2019/02/11/8-out-of-10-cats-does-countdown-part-2/),129,FALSE,###  Tutorials,link,2019-02-18
++ [object of type 'closure' is not(?) subsettable](https://coolbutuseless.github.io/2019/02/12/object-of-type-closure-is-not-subsettable/),138,FALSE,###  Tutorials,link,2019-02-18
++ [A Shiny app for your perfect circle](http://staff.math.su.se/hoehle/blog/2019/02/15/shinycircle.html),104,FALSE,###  Tutorials,link,2019-02-18
++ [Anatomy of a logistic growth curve](https://tjmahr.github.io/anatomy-of-a-logistic-growth-curve/),100,FALSE,###  Tutorials,link,2019-02-18
++ [tfestimators - Package: Embeddings for Categorical Variables](http://flovv.github.io/Embeddings_with_tf/),108,FALSE,###  Tutorials,link,2019-02-18
++ [Connecting R and arduino wirelessly through websockets](https://zhuhao.org/post/connecting-r-and-arduino-through-websockets/),128,FALSE,###  Tutorials,link,2019-02-18
++ [Verbose data.table and uncovering hidden cedta's data table awareness decisions](https://jozefhajnala.gitlab.io/r/r911-datatable-cedta/),139,FALSE,###  Tutorials,link,2019-02-18
++ [Query Generation in R](http://www.win-vector.com/blog/2019/02/query-generation-in-r/),88,FALSE,###  Tutorials,link,2019-02-18
+"+ [Excel email address cleaner & aggregator in R (#readxl, #openxlsx)](https://rickpackblog.wordpress.com/2019/02/14/excel-email-cleaner-aggregator-r-script-readxl-stringr/)",173,FALSE,###  Tutorials,link,2019-02-18
+"+ [Meetup API tracking in R (Part 1) - Analytics>Forward in RTP, NC](https://rickpackblog.wordpress.com/2019/02/13/analyticsforward-2019-meetup-api-tracking-in-r-pt-1/)",168,FALSE,###  Tutorials,link,2019-02-18
+"<!--div class=""post-more-begi",29,FALSE,###  Tutorials,unid,2019-02-18
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,###  Tutorials,unid,2019-02-18
+Updates from [R Core](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,80,FALSE,###  R Project Updates,unid,2019-02-18
++ [Staged Install](https://developer.r-project.org/Blog/public/2019/02/14/staged-install/),90,FALSE,###  R Project Updates,link,2019-02-18
++ `R CMD check` has more comprehensive checks on the `data` directory and the functioning of `data() in a package. ,115,FALSE,###  R Project Updates,unid,2019-02-18
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-02-18
++ [satRday Paris - 23rd February](https://paris2019.satrdays.org/),66,FALSE,###  Upcoming Events in 3 Months,link,2019-02-18
++ [satRday Johannesburg - 6th April](https://joburg2019.satrdays.org/),70,FALSE,###  Upcoming Events in 3 Months,link,2019-02-18
++ [satRday Newcastle - 6th April](https://newcastle2019.satrdays.org/),70,FALSE,###  Upcoming Events in 3 Months,link,2019-02-18
++ [satRday Los Angeles - 6th April](https://losangeles2019.satrdays.org/),73,FALSE,###  Upcoming Events in 3 Months,link,2019-02-18
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-02-18
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-02-18
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-02-18
+"+ [RStudio Summer interns, application deadline 02/22](https://blog.rstudio.com/2019/01/18/summer-internships-2019/)",116,FALSE,### Jobs,link,2019-02-18
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-02-18
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Roses are red,<br>Iris data forgettable.<br>Objects of type closure,<br>Are not subsettable<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> valentine</p>&mdash; Danielle Navarro (@djnavarro) <a href=""https://twitter.com/djnavarro/status/1095638129812205568?ref_src=twsrc%5Etfw"">13 de febrer de 2019</a></blockquote>",428,FALSE,###  Quotes of the Week,unid,2019-02-18
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> R-hub is on Twitter now! 👋<br><br>Stay tuned for further updates, we&#39;ll soon launch a docs website and a blog! 🎇<br><br>In the meantime find<br>🔗 our 📦builder <a href=""https://t.co/QG8jwaCoto"">https://t.co/QG8jwaCoto</a><br>🔗 our Github organization <a href=""https://t.co/tR4d94ZHSj"">https://t.co/tR4d94ZHSj</a></p>&mdash; R-hub (@rhub_) <a href=""https://twitter.com/rhub_/status/1095649725188055040?ref_src=twsrc%5Etfw"">13 de febrer de 2019</a></blockquote>",624,FALSE,###  Quotes of the Week,unid,2019-02-18
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Are you an <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> user in Africa? Do you want to be updated on R-related activities and help promote R in Africa? Sign up on this form! <a href=""https://twitter.com/hashtag/africaR?src=hash&amp;ref_src=twsrc%5Etfw"">#africaR</a> <a href=""https://t.co/Qztgzc9lzb"">https://t.co/Qztgzc9lzb</a></p>&mdash; Shel 🇰🇪 (@Shel_Kariuki) <a href=""https://twitter.com/Shel_Kariuki/status/1096270026917769216?ref_src=twsrc%5Etfw"">15 de febrer de 2019</a></blockquote>",607,FALSE,###  Quotes of the Week,unid,2019-02-18

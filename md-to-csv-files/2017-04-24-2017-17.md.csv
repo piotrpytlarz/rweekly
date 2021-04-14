@@ -1,86 +1,86 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2017-04-24
-layout: post,12,FALSE,NA,NA,unid,2017-04-24
-title: R Weekly 2017 Issue 17,29,FALSE,NA,NA,unid,2017-04-24
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-04-24
----,3,FALSE,NA,NA,unid,2017-04-24
-+ [**R 3.4.0 is released!**](https://stat.ethz.ch/pipermail/r-announce/2017/000612.html),88,FALSE,NA,###  Highlight,link,2017-04-24
-+ [Release 'open' data from their PDF prisons using tabulizer](http://ropensci.org/blog/blog/2017/04/18/tabulizer),114,FALSE,NA,###  Highlight,link,2017-04-24
-+ [glue](https://github.com/tidyverse/glue) - Interpreted String Literals,73,FALSE,NA,###  Highlight,link,2017-04-24
-+ [What programming languages are used late at night?](https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/),132,FALSE,NA,###  R in the Real World,link,2017-04-24
-![What programming languages are used late at night?](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/04/traffic_by_day_hour-1-1600x1000.png),166,FALSE,NA,###  R in the Real World,image,2017-04-24
-<!--Gender Roles with Text Mining and N-grams](http://juliasilge.com/blog/Gender-Pronouns/)-->,94,FALSE,NA,###  R in the Real World,unid,2017-04-24
-+ [Of kernels and beeswarms: Comparing the distribution of house values to household income](http://lenkiefer.github.io/2017/04/16/house-price-to-income-acs-2015),162,FALSE,NA,###  R in the Real World,link,2017-04-24
-+ [Pokemon Types Distribution by Region [OC]](https://www.reddit.com/r/dataisbeautiful/comments/65vxvk/pokemon_types_distribution_by_region_oc/?sort=old),153,FALSE,NA,###  R in the Real World,link,2017-04-24
-![Pokemon Types Distribution by Region [OC]](https://i.redd.it/b2iio5i3l4sy.png),80,FALSE,NA,###  R in the Real World,image,2017-04-24
-+ [Shuttering Pies With Retiring Stores](https://rud.is/b/2017/04/21/shuttering-pies-with-retiring-stores/),107,FALSE,NA,###  R in the Real World,link,2017-04-24
-"<!-- !The Representativeness of UK Parliament](https://ewenme.github.io/blog/UK_Parliament_Representativeness/) - A data-driven study of representativeness in government, to empower voters and encourage transparency ahead of a snap election in the UK. -->",255,FALSE,NA,###  R in the Real World,unid,2017-04-24
-<!-- !The Representativeness of UK Parliament](https://ewenme.github.io/figs/2017-04-23-UK_Parliament_Representativeness/unnamed-chunk-91-1.png)-->,147,FALSE,NA,###  R in the Real World,unid,2017-04-24
-+ [Personal data collection and analysis](https://randomjohn.github.io/personal-data-collection/),97,FALSE,NA,###  R in the Real World,link,2017-04-24
-+ [Gather round and spread the word: Wrangling global house price data](http://lenkiefer.github.io/2017/04/20/global-hpi-readxl),128,FALSE,NA,###  R in the Real World,link,2017-04-24
-+ [Microsoft R Server 9.1 now available](http://blog.revolutionanalytics.com/2017/04/microsoft-r-server-91-now-available.html),126,FALSE,NA,###  R in Organizations,link,2017-04-24
-+ [First openEO hackaton report](http://r-spatial.org//r/2017/04/19/first-openeo-hackaton.html),95,FALSE,NA,###  R in Organizations,link,2017-04-24
-+ [Book Review: Introduction to Empirical Bayes by David Robinson](https://dandermotj.github.io/post/2017-04-03-book-review-introduction-to-empirical-bayes/),157,FALSE,NA,###  Insights,link,2017-04-24
-+ [mabbles - The missing piece of a unified theory of tidyness](https://4dpiecharts.com/2017/04/20/mabbles-the-missing-piece-of-a-unified-theory-of-tidyness/),158,FALSE,NA,###  Insights,link,2017-04-24
-"<p class=""hide-support added-hostname support-rweekly""></p>",59,FALSE,NA,###  Insights,unid,2017-04-24
-"<center class=""only-rss""><a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">Your support will keep R Weekly team moving! Support with Patreon.  💖</a></center>",202,FALSE,NA,###  Insights,unid,2017-04-24
-+ [Computing and Fitting Monotone Splines](http://rpubs.com/deleeuw/268327),75,FALSE,NA,###  Resources,link,2017-04-24
-+ [Circular Visualization in R](http://zuguang.de/circlize_book/book/),70,FALSE,NA,###  Resources,link,2017-04-24
-+ [Easy XML to Data Frames with xml2 while mapping power outages](https://rud.is/rpubs/xml2power/),98,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Decomposing Composers with R](https://rud.is/b/2017/04/23/decomposing-composers-with-r/),91,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Random GeoJSON and WKT with randgeo](http://ropensci.org/blog/technotes/2017/04/20/randgeo),94,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [How to use the US National Map as a base layer for your US mapping processes](https://owi.usgs.gov/blog/basemaps/),117,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Prophet Explore: A Simple Shiny App to Get Introduced to Prophet](http://omaymas.github.io/prophet_explore/),111,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Network visualization with R](http://kateto.net/network-visualization),73,FALSE,NA,###  Tutorials,link,2017-04-24
-![Network visualization with R](https://raw.githubusercontent.com/qinwf/doc/gh-pages/temp/pp.png),97,FALSE,NA,###  Tutorials,image,2017-04-24
-+ [When Homoglyphs Attack! Generating Phishing Domain Names with R](https://rud.is/b/2017/04/17/when-homoglyphs-attack-generating-phishing-domain-names-with-r/),160,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [A Shiny App for Importing and Forecasting Commodities Prices from Quandl](https://rviews.rstudio.com/2017/04/21/a-shiny-app-for-importing-and-forecasting-commodities-prices-from-quandl/),189,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [R for Enterprise: Understanding R’s Startup ](https://rviews.rstudio.com/2017/04/19/r-for-enterprise-understanding-r-s-startup/),131,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Let's Pixelate America](http://lenkiefer.github.io/2017/04/17/pixel-map),75,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Composing reproducible manuscripts using R Markdown](http://r-posts.com/composing-reproducible-manuscripts-using-r-markdown/),128,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Comprehensive Guide on t-SNE algorithm with implementation in R & Python](https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/?utm_content=bufferfa130&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer),238,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Encoding categorical variables: one-hot and beyond](http://www.win-vector.com/blog/2017/04/encoding-categorical-variables-one-hot-and-beyond/),145,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Online But In-Class Examinations (with an R Example)](https://matloff.wordpress.com/2017/04/15/online-but-in-class-examinations-with-an-r-example/),150,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Happy EasteR: Plotting hare populations in Germany](https://shiring.github.io/ggplot2/2017/04/16/hasen),106,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Playing with Prophet on Bike Sharing Demand Time Series](https://medium.com/@ichbinjras/playing-with-prophet-on-bike-sharing-demand-time-series-1f14255f7ff0),160,FALSE,NA,###  Tutorials,link,2017-04-24
-![Playing with Prophet on Bike Sharing Demand Time Series](https://cdn-images-1.medium.com/max/2000/1*cbUA4ML4LUiZ4lD44-cn1w.jpeg),130,FALSE,NA,###  Tutorials,image,2017-04-24
-+ [Generating Dynamic Nomograms using DynNom](http://r-posts.com/generating-dynamic-nomograms-using-dynnom/),108,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Housing gets off to a good start](http://lenkiefer.github.io/2017/04/18/housing-good-start),94,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Bland-Altman Plot for Age Comparisons?](http://derekogle.com/fishR/2017-04-20-Modified_BlandAltmanPlot),106,FALSE,NA,###  Tutorials,link,2017-04-24
-"<div class=""post-more-begin""></div>",35,FALSE,NA,###  Tutorials,unid,2017-04-24
-"+ [Creating Interactive Charts with R, Shiny, MySQL and AnyChart JS via Template](http://r-posts.com/creating-interactive-charts-with-r-shiny-mysql-and-anychart-js-via-template/)",178,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Reproducible Data Science with R](http://blog.revolutionanalytics.com/2017/04/reproducible-data-science-with-r.html),119,FALSE,NA,###  Tutorials,link,2017-04-24
-+ [Programming over R](http://www.win-vector.com/blog/2017/04/programming-over-r/),82,FALSE,NA,###  Tutorials,link,2017-04-24
-"<div class=""post-more-end""></div>",33,FALSE,NA,###  Tutorials,unid,2017-04-24
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2017-04-24
-+ [antiword](https://github.com/ropensci/antiword) - Wraps the AntiWord utility to extract text from Microsoft Word documents.,126,FALSE,NA,###  New Packages,link,2017-04-24
-+ [JeffLeekMeme](https://github.com/wlandau/JeffLeekMeme) - 'True' facts about Jeff Leek,88,FALSE,NA,###  New Packages,link,2017-04-24
-"+ [hgr](https://github.com/hrbrmstr/hgr) -  Tools to Work with the  Postlight Mercury API. Mercury takes any web article and returns only the relevant content — headline, author, body text, relevant images and more. ",216,FALSE,NA,###  New Packages,link,2017-04-24
-+ [mastodon](https://github.com/ThomasChln/mastodon) - R based Mastodon client,78,FALSE,NA,###  New Packages,link,2017-04-24
-"+ [roadoi](https://github.com/njahn82/roadoi/) -  Use oaDOI.org with R, a simple interface which links DOIs and open access versions of scholarly works. oaDOI powers unpaywall.",176,FALSE,NA,###  New Packages,link,2017-04-24
-"+ [hoardr](https://cran.r-project.org/web/packages/hoardr/index.html) - Suite of tools for managing cached files, targeting use in other R packages.",148,FALSE,NA,###  New Packages,link,2017-04-24
-+ [glue](https://github.com/tidyverse/glue) - Interpreted String Literals,73,FALSE,NA,###  New Packages,link,2017-04-24
-+ [March '17 New Package Picks](https://rviews.rstudio.com/2017/04/14/march-17-new-package-picks/),98,FALSE,NA,###  New Packages,link,2017-04-24
-+ [**R 3.4.0 is released!**](https://stat.ethz.ch/pipermail/r-announce/2017/000612.html),88,FALSE,NA,###  Package Releases,link,2017-04-24
-+ [huxtable 0.2.0](https://hughjonesd.github.io/huxtable) - an R package for creating HTML and LaTeX tables,107,FALSE,NA,###  Package Releases,link,2017-04-24
-+ [ompr 0.6.0](https://cran.r-project.org/web/packages/ompr/index.html) - Model and Solve Mixed Integer Linear Programs,119,FALSE,NA,###  Package Releases,link,2017-04-24
-+ [RcppQuantuccia 0.0.1](http://dirk.eddelbuettel.com/blog/2017/04/19#rcppquantuccia_0.0.1) - ,94,FALSE,NA,###  Package Releases,link,2017-04-24
-header only essentials of QuantLib,34,FALSE,NA,###  Package Releases,unid,2017-04-24
-+ [readxl 1.0.0](https://blog.rstudio.org/2017/04/19/readxl-1-0-0/) - The readxl package makes it easy to get data out of Excel and into R. ,140,FALSE,NA,###  Package Releases,link,2017-04-24
-+ [Rblpapi 0.3.6](http://dirk.eddelbuettel.com/blog/2017/04/20#rblpapi_0.3.6) - Connecting R to Bloomberg,105,FALSE,NA,###  Package Releases,link,2017-04-24
-+ [Technical Program Manager at Johns Hopkins University](https://jobs.jhu.edu/jhujobs/jobview.cfm?reqId=313969&postId=14568),125,FALSE,NA,###  Jobs,link,2017-04-24
-+ [2017 China-R Beijing **May 19-21**](http://china-r.org/bj2017/index.html) - The biggest R conference in China.,113,FALSE,NA,###  Call for Participation,link,2017-04-24
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-04-24
-+ [Changes in R 3.4.0](https://stat.ethz.ch/pipermail/r-announce/2017/000612.html),82,FALSE,NA,###  R Project Updates,link,2017-04-24
-"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,NA,###  Upcoming Events,link,2017-04-24
-"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance. ",177,FALSE,NA,###  Upcoming Events,unid,2017-04-24
-"+ [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />",81,FALSE,NA,###  Upcoming Events,link,2017-04-24
-Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.,224,FALSE,NA,###  Upcoming Events,unid,2017-04-24
-"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,###  Upcoming Events,link,2017-04-24
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events,unid,2017-04-24
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-04-24
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> R version 3.4.0 &quot;You Stupid Darkness&quot; (source version) is out of the door now</p>&mdash; Peter Dalgaard (@pdalgd) <a href=""https://twitter.com/pdalgd/status/855362320247246849"">April 21, 2017</a></blockquote>",356,FALSE,NA,###  Quotes of the Week,unid,2017-04-24
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Clippy is sad, because readxl v1.0.0 is out! He&#39;s afraid you&#39;ll move your data out of Excel and into <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a>. <a href=""https://t.co/nG0NmwYYkl"">https://t.co/nG0NmwYYkl</a> <a href=""https://t.co/yfSwc0UfOm"">pic.twitter.com/yfSwc0UfOm</a></p>&mdash; Jenny Bryan (@JennyBryan) <a href=""https://twitter.com/JennyBryan/status/854836679131111424"">April 19, 2017</a></blockquote>",510,FALSE,NA,###  Quotes of the Week,unid,2017-04-24
-"<script async src=""//platform.twitter.com/widgets.js"" charset=""utf-8""></script>",79,FALSE,NA,###  Quotes of the Week,unid,2017-04-24
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">R and <a href=""https://twitter.com/hashtag/Python?src=hash"">#Python</a> cheatsheets for <a href=""https://twitter.com/hashtag/DataScientists?src=hash"">#DataScientists</a>: <a href=""https://t.co/1uZN8FgNL9"">https://t.co/1uZN8FgNL9</a> <a href=""https://twitter.com/hashtag/abdsc?src=hash"">#abdsc</a> <a href=""https://twitter.com/hashtag/BigData?src=hash"">#BigData</a> <a href=""https://twitter.com/hashtag/DataScience?src=hash"">#DataScience</a> <a href=""https://twitter.com/hashtag/Rstats?src=hash"">#Rstats</a> <a href=""https://twitter.com/hashtag/MachineLearning?src=hash"">#MachineLearning</a> <a href=""https://twitter.com/rstudio"">@rstudio</a> <a href=""https://t.co/MGLvkedX69"">pic.twitter.com/MGLvkedX69</a></p>&mdash; Kirk Borne (@KirkDBorne) <a href=""https://twitter.com/KirkDBorne/status/854536038487863296"">April 19, 2017</a></blockquote>",913,FALSE,NA,###  Quotes of the Week,unid,2017-04-24
-"<script async src=""//platform.twitter.com/widgets.js"" charset=""utf-8""></script>",79,FALSE,NA,###  Quotes of the Week,unid,2017-04-24
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2017-04-24
+layout: post,12,FALSE,NA,unid,2017-04-24
+title: R Weekly 2017 Issue 17,29,FALSE,NA,unid,2017-04-24
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2017-04-24
+---,3,FALSE,NA,unid,2017-04-24
++ [**R 3.4.0 is released!**](https://stat.ethz.ch/pipermail/r-announce/2017/000612.html),88,FALSE,###  Highlight,link,2017-04-24
++ [Release 'open' data from their PDF prisons using tabulizer](http://ropensci.org/blog/blog/2017/04/18/tabulizer),114,FALSE,###  Highlight,link,2017-04-24
++ [glue](https://github.com/tidyverse/glue) - Interpreted String Literals,73,FALSE,###  Highlight,link,2017-04-24
++ [What programming languages are used late at night?](https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/),132,FALSE,###  R in the Real World,link,2017-04-24
+![What programming languages are used late at night?](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/04/traffic_by_day_hour-1-1600x1000.png),166,FALSE,###  R in the Real World,image,2017-04-24
+<!--Gender Roles with Text Mining and N-grams](http://juliasilge.com/blog/Gender-Pronouns/)-->,94,FALSE,###  R in the Real World,unid,2017-04-24
++ [Of kernels and beeswarms: Comparing the distribution of house values to household income](http://lenkiefer.github.io/2017/04/16/house-price-to-income-acs-2015),162,FALSE,###  R in the Real World,link,2017-04-24
++ [Pokemon Types Distribution by Region [OC]](https://www.reddit.com/r/dataisbeautiful/comments/65vxvk/pokemon_types_distribution_by_region_oc/?sort=old),153,FALSE,###  R in the Real World,link,2017-04-24
+![Pokemon Types Distribution by Region [OC]](https://i.redd.it/b2iio5i3l4sy.png),80,FALSE,###  R in the Real World,image,2017-04-24
++ [Shuttering Pies With Retiring Stores](https://rud.is/b/2017/04/21/shuttering-pies-with-retiring-stores/),107,FALSE,###  R in the Real World,link,2017-04-24
+"<!-- !The Representativeness of UK Parliament](https://ewenme.github.io/blog/UK_Parliament_Representativeness/) - A data-driven study of representativeness in government, to empower voters and encourage transparency ahead of a snap election in the UK. -->",255,FALSE,###  R in the Real World,unid,2017-04-24
+<!-- !The Representativeness of UK Parliament](https://ewenme.github.io/figs/2017-04-23-UK_Parliament_Representativeness/unnamed-chunk-91-1.png)-->,147,FALSE,###  R in the Real World,unid,2017-04-24
++ [Personal data collection and analysis](https://randomjohn.github.io/personal-data-collection/),97,FALSE,###  R in the Real World,link,2017-04-24
++ [Gather round and spread the word: Wrangling global house price data](http://lenkiefer.github.io/2017/04/20/global-hpi-readxl),128,FALSE,###  R in the Real World,link,2017-04-24
++ [Microsoft R Server 9.1 now available](http://blog.revolutionanalytics.com/2017/04/microsoft-r-server-91-now-available.html),126,FALSE,###  R in Organizations,link,2017-04-24
++ [First openEO hackaton report](http://r-spatial.org//r/2017/04/19/first-openeo-hackaton.html),95,FALSE,###  R in Organizations,link,2017-04-24
++ [Book Review: Introduction to Empirical Bayes by David Robinson](https://dandermotj.github.io/post/2017-04-03-book-review-introduction-to-empirical-bayes/),157,FALSE,###  Insights,link,2017-04-24
++ [mabbles - The missing piece of a unified theory of tidyness](https://4dpiecharts.com/2017/04/20/mabbles-the-missing-piece-of-a-unified-theory-of-tidyness/),158,FALSE,###  Insights,link,2017-04-24
+"<p class=""hide-support added-hostname support-rweekly""></p>",59,FALSE,###  Insights,unid,2017-04-24
+"<center class=""only-rss""><a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">Your support will keep R Weekly team moving! Support with Patreon.  💖</a></center>",202,FALSE,###  Insights,unid,2017-04-24
++ [Computing and Fitting Monotone Splines](http://rpubs.com/deleeuw/268327),75,FALSE,###  Resources,link,2017-04-24
++ [Circular Visualization in R](http://zuguang.de/circlize_book/book/),70,FALSE,###  Resources,link,2017-04-24
++ [Easy XML to Data Frames with xml2 while mapping power outages](https://rud.is/rpubs/xml2power/),98,FALSE,###  Tutorials,link,2017-04-24
++ [Decomposing Composers with R](https://rud.is/b/2017/04/23/decomposing-composers-with-r/),91,FALSE,###  Tutorials,link,2017-04-24
++ [Random GeoJSON and WKT with randgeo](http://ropensci.org/blog/technotes/2017/04/20/randgeo),94,FALSE,###  Tutorials,link,2017-04-24
++ [How to use the US National Map as a base layer for your US mapping processes](https://owi.usgs.gov/blog/basemaps/),117,FALSE,###  Tutorials,link,2017-04-24
++ [Prophet Explore: A Simple Shiny App to Get Introduced to Prophet](http://omaymas.github.io/prophet_explore/),111,FALSE,###  Tutorials,link,2017-04-24
++ [Network visualization with R](http://kateto.net/network-visualization),73,FALSE,###  Tutorials,link,2017-04-24
+![Network visualization with R](https://raw.githubusercontent.com/qinwf/doc/gh-pages/temp/pp.png),97,FALSE,###  Tutorials,image,2017-04-24
++ [When Homoglyphs Attack! Generating Phishing Domain Names with R](https://rud.is/b/2017/04/17/when-homoglyphs-attack-generating-phishing-domain-names-with-r/),160,FALSE,###  Tutorials,link,2017-04-24
++ [A Shiny App for Importing and Forecasting Commodities Prices from Quandl](https://rviews.rstudio.com/2017/04/21/a-shiny-app-for-importing-and-forecasting-commodities-prices-from-quandl/),189,FALSE,###  Tutorials,link,2017-04-24
++ [R for Enterprise: Understanding R’s Startup ](https://rviews.rstudio.com/2017/04/19/r-for-enterprise-understanding-r-s-startup/),131,FALSE,###  Tutorials,link,2017-04-24
++ [Let's Pixelate America](http://lenkiefer.github.io/2017/04/17/pixel-map),75,FALSE,###  Tutorials,link,2017-04-24
++ [Composing reproducible manuscripts using R Markdown](http://r-posts.com/composing-reproducible-manuscripts-using-r-markdown/),128,FALSE,###  Tutorials,link,2017-04-24
++ [Comprehensive Guide on t-SNE algorithm with implementation in R & Python](https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/?utm_content=bufferfa130&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer),238,FALSE,###  Tutorials,link,2017-04-24
++ [Encoding categorical variables: one-hot and beyond](http://www.win-vector.com/blog/2017/04/encoding-categorical-variables-one-hot-and-beyond/),145,FALSE,###  Tutorials,link,2017-04-24
++ [Online But In-Class Examinations (with an R Example)](https://matloff.wordpress.com/2017/04/15/online-but-in-class-examinations-with-an-r-example/),150,FALSE,###  Tutorials,link,2017-04-24
++ [Happy EasteR: Plotting hare populations in Germany](https://shiring.github.io/ggplot2/2017/04/16/hasen),106,FALSE,###  Tutorials,link,2017-04-24
++ [Playing with Prophet on Bike Sharing Demand Time Series](https://medium.com/@ichbinjras/playing-with-prophet-on-bike-sharing-demand-time-series-1f14255f7ff0),160,FALSE,###  Tutorials,link,2017-04-24
+![Playing with Prophet on Bike Sharing Demand Time Series](https://cdn-images-1.medium.com/max/2000/1*cbUA4ML4LUiZ4lD44-cn1w.jpeg),130,FALSE,###  Tutorials,image,2017-04-24
++ [Generating Dynamic Nomograms using DynNom](http://r-posts.com/generating-dynamic-nomograms-using-dynnom/),108,FALSE,###  Tutorials,link,2017-04-24
++ [Housing gets off to a good start](http://lenkiefer.github.io/2017/04/18/housing-good-start),94,FALSE,###  Tutorials,link,2017-04-24
++ [Bland-Altman Plot for Age Comparisons?](http://derekogle.com/fishR/2017-04-20-Modified_BlandAltmanPlot),106,FALSE,###  Tutorials,link,2017-04-24
+"<div class=""post-more-begin""></div>",35,FALSE,###  Tutorials,unid,2017-04-24
+"+ [Creating Interactive Charts with R, Shiny, MySQL and AnyChart JS via Template](http://r-posts.com/creating-interactive-charts-with-r-shiny-mysql-and-anychart-js-via-template/)",178,FALSE,###  Tutorials,link,2017-04-24
++ [Reproducible Data Science with R](http://blog.revolutionanalytics.com/2017/04/reproducible-data-science-with-r.html),119,FALSE,###  Tutorials,link,2017-04-24
++ [Programming over R](http://www.win-vector.com/blog/2017/04/programming-over-r/),82,FALSE,###  Tutorials,link,2017-04-24
+"<div class=""post-more-end""></div>",33,FALSE,###  Tutorials,unid,2017-04-24
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2017-04-24
++ [antiword](https://github.com/ropensci/antiword) - Wraps the AntiWord utility to extract text from Microsoft Word documents.,126,FALSE,###  New Packages,link,2017-04-24
++ [JeffLeekMeme](https://github.com/wlandau/JeffLeekMeme) - 'True' facts about Jeff Leek,88,FALSE,###  New Packages,link,2017-04-24
+"+ [hgr](https://github.com/hrbrmstr/hgr) -  Tools to Work with the  Postlight Mercury API. Mercury takes any web article and returns only the relevant content — headline, author, body text, relevant images and more. ",216,FALSE,###  New Packages,link,2017-04-24
++ [mastodon](https://github.com/ThomasChln/mastodon) - R based Mastodon client,78,FALSE,###  New Packages,link,2017-04-24
+"+ [roadoi](https://github.com/njahn82/roadoi/) -  Use oaDOI.org with R, a simple interface which links DOIs and open access versions of scholarly works. oaDOI powers unpaywall.",176,FALSE,###  New Packages,link,2017-04-24
+"+ [hoardr](https://cran.r-project.org/web/packages/hoardr/index.html) - Suite of tools for managing cached files, targeting use in other R packages.",148,FALSE,###  New Packages,link,2017-04-24
++ [glue](https://github.com/tidyverse/glue) - Interpreted String Literals,73,FALSE,###  New Packages,link,2017-04-24
++ [March '17 New Package Picks](https://rviews.rstudio.com/2017/04/14/march-17-new-package-picks/),98,FALSE,###  New Packages,link,2017-04-24
++ [**R 3.4.0 is released!**](https://stat.ethz.ch/pipermail/r-announce/2017/000612.html),88,FALSE,###  Package Releases,link,2017-04-24
++ [huxtable 0.2.0](https://hughjonesd.github.io/huxtable) - an R package for creating HTML and LaTeX tables,107,FALSE,###  Package Releases,link,2017-04-24
++ [ompr 0.6.0](https://cran.r-project.org/web/packages/ompr/index.html) - Model and Solve Mixed Integer Linear Programs,119,FALSE,###  Package Releases,link,2017-04-24
++ [RcppQuantuccia 0.0.1](http://dirk.eddelbuettel.com/blog/2017/04/19#rcppquantuccia_0.0.1) - ,94,FALSE,###  Package Releases,link,2017-04-24
+header only essentials of QuantLib,34,FALSE,###  Package Releases,unid,2017-04-24
++ [readxl 1.0.0](https://blog.rstudio.org/2017/04/19/readxl-1-0-0/) - The readxl package makes it easy to get data out of Excel and into R. ,140,FALSE,###  Package Releases,link,2017-04-24
++ [Rblpapi 0.3.6](http://dirk.eddelbuettel.com/blog/2017/04/20#rblpapi_0.3.6) - Connecting R to Bloomberg,105,FALSE,###  Package Releases,link,2017-04-24
++ [Technical Program Manager at Johns Hopkins University](https://jobs.jhu.edu/jhujobs/jobview.cfm?reqId=313969&postId=14568),125,FALSE,###  Jobs,link,2017-04-24
++ [2017 China-R Beijing **May 19-21**](http://china-r.org/bj2017/index.html) - The biggest R conference in China.,113,FALSE,###  Call for Participation,link,2017-04-24
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2017-04-24
++ [Changes in R 3.4.0](https://stat.ethz.ch/pipermail/r-announce/2017/000612.html),82,FALSE,###  R Project Updates,link,2017-04-24
+"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,###  Upcoming Events,link,2017-04-24
+"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance. ",177,FALSE,###  Upcoming Events,unid,2017-04-24
+"+ [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />",81,FALSE,###  Upcoming Events,link,2017-04-24
+Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.,224,FALSE,###  Upcoming Events,unid,2017-04-24
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,###  Upcoming Events,link,2017-04-24
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,###  Upcoming Events,unid,2017-04-24
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events,unid,2017-04-24
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> R version 3.4.0 &quot;You Stupid Darkness&quot; (source version) is out of the door now</p>&mdash; Peter Dalgaard (@pdalgd) <a href=""https://twitter.com/pdalgd/status/855362320247246849"">April 21, 2017</a></blockquote>",356,FALSE,###  Quotes of the Week,unid,2017-04-24
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Clippy is sad, because readxl v1.0.0 is out! He&#39;s afraid you&#39;ll move your data out of Excel and into <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a>. <a href=""https://t.co/nG0NmwYYkl"">https://t.co/nG0NmwYYkl</a> <a href=""https://t.co/yfSwc0UfOm"">pic.twitter.com/yfSwc0UfOm</a></p>&mdash; Jenny Bryan (@JennyBryan) <a href=""https://twitter.com/JennyBryan/status/854836679131111424"">April 19, 2017</a></blockquote>",510,FALSE,###  Quotes of the Week,unid,2017-04-24
+"<script async src=""//platform.twitter.com/widgets.js"" charset=""utf-8""></script>",79,FALSE,###  Quotes of the Week,unid,2017-04-24
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">R and <a href=""https://twitter.com/hashtag/Python?src=hash"">#Python</a> cheatsheets for <a href=""https://twitter.com/hashtag/DataScientists?src=hash"">#DataScientists</a>: <a href=""https://t.co/1uZN8FgNL9"">https://t.co/1uZN8FgNL9</a> <a href=""https://twitter.com/hashtag/abdsc?src=hash"">#abdsc</a> <a href=""https://twitter.com/hashtag/BigData?src=hash"">#BigData</a> <a href=""https://twitter.com/hashtag/DataScience?src=hash"">#DataScience</a> <a href=""https://twitter.com/hashtag/Rstats?src=hash"">#Rstats</a> <a href=""https://twitter.com/hashtag/MachineLearning?src=hash"">#MachineLearning</a> <a href=""https://twitter.com/rstudio"">@rstudio</a> <a href=""https://t.co/MGLvkedX69"">pic.twitter.com/MGLvkedX69</a></p>&mdash; Kirk Borne (@KirkDBorne) <a href=""https://twitter.com/KirkDBorne/status/854536038487863296"">April 19, 2017</a></blockquote>",913,FALSE,###  Quotes of the Week,unid,2017-04-24
+"<script async src=""//platform.twitter.com/widgets.js"" charset=""utf-8""></script>",79,FALSE,###  Quotes of the Week,unid,2017-04-24

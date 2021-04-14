@@ -1,95 +1,95 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-3-5
-"title: R Weekly 2018-10 Dependencies, Gun Control",49,FALSE,NA,NA,unid,2018-3-5
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-3-5
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-3-5
----,3,FALSE,NA,NA,unid,2018-3-5
-+ [Persistence of Public Interest in Gun Control After Mass Shooting Events in the US](https://rawgit.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master/README.html) - Is the Stoneman Douglas High School Event Different?,237,FALSE,NA,###  Highlight,link,2018-3-5
-+ [Annotating phylogenetic tree with images using ggtree and ggimage](https://guangchuangyu.github.io/2018/03/annotating-phylogenetic-tree-with-images-using-ggtree-and-ggimage/),177,FALSE,NA,###  Highlight,link,2018-3-5
-+ [And They Closed a Valid Question on StackOverflow Again](https://yihui.name/en/2018/02/closed-so-question/),110,FALSE,NA,### Insights,link,2018-3-5
-+ [#17: Dependencies.](http://dirk.eddelbuettel.com/blog/2018/02/28#017_dependencies),85,FALSE,NA,### Insights,link,2018-3-5
-+ [Test Driving readxl package](http://kgilds.rbind.io/2018/02/26/test-driving-readxl-package/),95,FALSE,NA,### Insights,link,2018-3-5
-+ [Tail Recursion Optimisation in R](https://mailund.github.io/r-programmer-blog/2018/03/02/tailr--tail-recursion-optimisation/),128,FALSE,NA,### Insights,link,2018-3-5
-+ [Project workflow](https://www.youtube.com/watch?v=boKFxBniUH0),65,FALSE,NA,###  Videos and Podcasts,link,2018-3-5
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-3-5
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-3-5
-+ [tailr](https://cran.r-project.org/web/packages/tailr/) — Automatic translation of tail-recursive functions into looping functions.,133,FALSE,NA,###  New Packages,link,2018-3-5
-+ [crypto](https://CRAN.R-project.org/package=crypto) - cryptocurrency market data,82,FALSE,NA,###  New Packages,link,2018-3-5
-+ [dockerfiler](http://colinfay.me/dockerfiler-cran/) -  Easy Dockerfile Creation,81,FALSE,NA,###  New Packages,link,2018-3-5
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-3-5
-+ [ViewPipeSteps](https://daranzolin.github.io/articles/2018-02/ViewPipeSteps) - an RStudio Addin for 'observable programming,125,FALSE,NA,###  New Packages,link,2018-3-5
-+ [ggplot2pipes](https://coolbutuseless.bitbucket.io/2018/02/27/introducing-the-ggplot2pipes-package/) - ggplot2 with pipes,123,FALSE,NA,###  New Packages,link,2018-3-5
-+ [pmatch 0.1.2](https://cran.r-project.org/web/packages/pmatch/) —  Haskell-like pattern matching in R.,104,FALSE,NA,### Package Releases,link,2018-3-5
-+ [huxtable 3.0.0](https://cran.r-project.org/package=huxtable) - support for Excel output,90,FALSE,NA,### Package Releases,link,2018-3-5
-+ [RcppArmadillo 0.8.400.0.0](http://dirk.eddelbuettel.com/blog/2018/03/01#rcpparmadillo_0.8.400.0.0) - interface from R to and from Armadillo,142,FALSE,NA,### Package Releases,link,2018-3-5
-+ [RStudio Connect v1.5.14](https://blog.rstudio.com/2018/03/02/rstudio-connect-v1-5-14/),89,FALSE,NA,### Package Releases,link,2018-3-5
-+ [Easy analysis of large (>3 GB) text files with dplyr verbs via the chunked package](https://gist.github.com/benmarwick/20eac969ce9199756dc074801f5b531d),155,FALSE,NA,### Gist & Cookbook,link,2018-3-5
-+ [Collection of small base-R expressions (r snippets)](https://github.com/amrrs/30-seconds-of-r-code),102,FALSE,NA,###  Resources,link,2018-3-5
-+ [Training Courses for mlr: Machine Learning in R](https://mlr-org.github.io/mlr-training-courses/),100,FALSE,NA,###  Resources,link,2018-3-5
-+ [The R Consortium has funded half a million dollars to R projects](http://blog.revolutionanalytics.com/2018/02/r-consortium-milestone.html),141,FALSE,NA,###  R in Organizations,link,2018-3-5
-+ [Comparing 2017 Maine Lobster Landings To Historical Landings](https://rud.is/b/2018/03/02/comparing-2017-maine-lobster-landings-to-historical-landings/),155,FALSE,NA,### R in the Real World,link,2018-3-5
-![Comparing 2017 Maine Lobster Landings To Historical Landings](https://raw.githubusercontent.com/rweekly/image/master/2018-8/2017-lobster-landings.png),152,FALSE,NA,### R in the Real World,image,2018-3-5
-+ [Investigating how NVIDIA's new TITAN V performs in R and a few other applications!](https://www.brucemeng.ca/post/titan-v-and-r-performance/),144,FALSE,NA,### R in the Real World,link,2018-3-5
-+ [Persistence of Public Interest in Gun Control After Mass Shooting Events in the US: Is the Stoneman Douglas High School Event Different?](https://rawgit.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master/README.html),236,FALSE,NA,### R in the Real World,link,2018-3-5
-![The Stoneman Douglas event resulted in the most Wikipedia page views](https://raw.githubusercontent.com/rweekly/image/master/2018-8/guns.png),143,FALSE,NA,### R in the Real World,image,2018-3-5
-+ [Stability testing: How do you know whether your single-cell clusters are ‘real’?](http://jef.works/blog/2018/02/28/stability-testing/),137,FALSE,NA,### R in the Real World,link,2018-3-5
-+ [EDA using fiftystater](https://pradeepadhokshaja.wordpress.com/2018/02/27/exploratory-data-analysis-of-the-zillow-housing-data/),131,FALSE,NA,### R in the Real World,link,2018-3-5
-+ [Mapping how Staten Island voted in 2016 (and what it might mean for 2018)](https://mattherman.info/blog/cd11-vote/),118,FALSE,NA,### R in the Real World,link,2018-3-5
-![Mapping how Staten Island voted in 2016 (and what it might mean for 2018)](https://raw.githubusercontent.com/rweekly/image/master/2018-8/votes.png),149,FALSE,NA,### R in the Real World,image,2018-3-5
-+ [Analysis of Hall of Fame recipes found on all-recipes](https://p-mckenzie.github.io/r/2018/02/23/allrecipes-hall-of-fame/),125,FALSE,NA,### R in the Real World,link,2018-3-5
-+ [Dplyr tutorial part 3 - Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/),121,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Exploring Estimates of the Tuberculosis Case Fatality Ratio - with getTBinR](http://www.samabbott.co.uk/post/est-cfr-gettbinr/),130,FALSE,NA,###  Tutorials,link,2018-3-5
-![Exploring Estimates of the Tuberculosis Case Fatality Ratio - with getTBinR](https://raw.githubusercontent.com/rweekly/image/master/2018-8/gettbinr2.png),155,FALSE,NA,###  Tutorials,image,2018-3-5
-+ [Using RcppArmadillo to price European Put Options](http://gallery.rcpp.org//articles/black-scholes-three-ways/),114,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Working through the Strings chapter in R for Data Science](http://annamarbut.blogspot.com/2018/02/working-with-strings.html),127,FALSE,NA,###  Tutorials,link,2018-3-5
-"+ [Sequel to previously published blog post, looking at different packages that can be used for summarising data in R](https://dabblingwithdata.wordpress.com/2018/02/26/r-packages-for-summarising-data-part-2/)",209,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [The TAMU Theme for xaringan](https://yihui.name/en/2018/02/tamu-theme-xaringan/),83,FALSE,NA,###  Tutorials,link,2018-3-5
-![The TAMU Theme for xaringan](https://raw.githubusercontent.com/rweekly/image/master/2018-8/tamu.png),102,FALSE,NA,###  Tutorials,image,2018-3-5
-+ [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229),126,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Web Scraping Matrimonial Website with R](https://www.listendata.com/2018/02/web-scraping-website-with-r.html),112,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Parallel Processing Baseball Data with R and mlbgameday](http://www.datascienceriot.com//r/mlbgameday-basics/),113,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [A web scraping tutorial using rvest on fivebooks.com](https://edomt.github.io/Rvest-Fivebooks/),98,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Using ggplot with pipes](https://coolbutuseless.bitbucket.io/2018/02/25/using-ggplot-with-pipes/),100,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Wanted: cdata Test Pilots](http://www.win-vector.com/blog/2018/02/wanted-cdata-test-pilots/),95,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [emoji domain names with the puny package](https://purrple.cat/blog/2018/02/26/emoji-domain-names-with-the-puny-package/),123,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [R Tip: Use drop = FALSE with data.frames](http://www.win-vector.com/blog/2018/02/r-tip-use-drop-false-with-data-frames/),123,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Using R/exams for Short Exams during a Statistics Course](http://www.R-exams.org/general/uni_koblenz_landau/),112,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Test Driving The Readxl package](http://kgilds.rbind.io/2018/02/26/test-driving-readxl-package/),99,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Annotating phylogenetic tree with images using ggtree and ggimage](https://guangchuangyu.github.io/2018/03/annotating-phylogenetic-tree-with-images-using-ggtree-and-ggimage/),177,FALSE,NA,###  Tutorials,link,2018-3-5
-![Annotating phylogenetic tree with images using ggtree and ggimage](https://raw.githubusercontent.com/rweekly/image/master/2018-8/annotating.png),146,FALSE,NA,###  Tutorials,image,2018-3-5
-"+ [""Bite-Sized"" Pull Requests](https://yihui.name/en/2018/02/bite-sized-pull-requests/)",87,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [R Tip: Make Arguments Explicit in magrittr/dplyr Pipelines](http://www.win-vector.com/blog/2018/03/r-tip-make-arguments-explicit-in-magrittr-dplyr-pipelines/),161,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Free Azure credits for students](http://blog.revolutionanalytics.com/2018/03/free-azure-credits-for-students.html),117,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Quantities for R -- First working prototype](http://r-spatial.org//r/2018/03/01/quantities-first-prototype.html),115,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Cluster Analysis - Naming Pattern in the last Century.](http://flovv.github.io/Cluster_analysis/),100,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [multiple lags with tidy evaluation](https://purrple.cat/blog/2018/03/02/multiple-lags-with-tidy-evaluation/),111,FALSE,NA,###  Tutorials,link,2018-3-5
-+ [Visualizing the Capital Asset Pricing Model](https://rviews.rstudio.com/2018/03/02/capm-and-visualization/),110,FALSE,NA,###  Tutorials,link,2018-3-5
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-3-5
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-3-5
-+ The declaratation of `pythag()` in `Rmath.h` has been removed - it has not been provided since R 2.14.0.,106,FALSE,NA,###  R Project Updates,unid,2018-3-5
-"+ C99 functions `expm1`, `hypot` and `log1p` are now required.",62,FALSE,NA,###  R Project Updates,unid,2018-3-5
-+ `R CMD INSTALL` now correctly sets C++ compiler flags when all source files are in sub-directories of `src`.,110,FALSE,NA,###  R Project Updates,unid,2018-3-5
-"+ `scale.default(x, center, scale)` now also allows `center` or `scale` to be “numeric-alike”, i.e., such that `as.numeric(.)` coerces them correctly. This also eliminates a wrong error message in such cases.",208,FALSE,NA,###  R Project Updates,unid,2018-3-5
-+ satRday Cape Town 2018 **March 17** <br />,44,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-[satRday Cape Town](http://capetown2018.satrdays.org/),54,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-+ New York R conference **Aprl 20-21** <br />,45,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-"[New York R conference](https://www.rstats.nyc/),Discount Code : rladies",72,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-+ [eRum 2018](http://2018.erum.io) **May 14-16** <br />,55,FALSE,NA,###  Upcoming Events,link,2018-3-5
-"European R Users Meeting @ Budapest, Hungary",44,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-+ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-"+ [CascadiaRConf](https://cascadiarconf.com/) **June 2, 2018**",62,FALSE,NA,###  Upcoming Events,link,2018-3-5
-"Portland, OR, US",16,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-+ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **5 & 6 July 2018** <br />,89,FALSE,NA,###  Upcoming Events,link,2018-3-5
-Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-"+ [useR! 2018](https://user2018.r-project.org/) **July 10, 2018** <br />",72,FALSE,NA,###  Upcoming Events,link,2018-3-5
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-+ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events,link,2018-3-5
-"Buenos Aires, Argentina.",24,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2018-3-5
-+ [R-Ladies NYC April 2018 Book Club](https://www.goodreads.com/group/show/225365-r-ladies-nyc) R-Ladies NYC are still gathering suggestions for the bookclub.,158,FALSE,NA,###  Call for Participation,link,2018-3-5
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-3-5
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">I&#39;ll be speaking about &quot;why you can’t do data science in a GUI&quot; at ACM Chicago on March 7: <a href=""https://t.co/bvOrOFvuht"">https://t.co/bvOrOFvuht</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/968157467136921600?ref_src=twsrc%5Etfw"">February 26, 2018</a></blockquote>",496,FALSE,NA,###  Quotes of the Week,unid,2018-3-5
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Why do you build me up R CMD javareconf, baby<br>Just to let me down and mess me around?<br><br>And then worst of all, you never compile, baby<br>When you say you will<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Max Kuhn (@topepos) <a href=""https://twitter.com/topepos/status/969716011078438912?ref_src=twsrc%5Etfw"">March 2, 2018</a></blockquote>",474,FALSE,NA,###  Quotes of the Week,unid,2018-3-5
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Heya <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> dam, what is your favourite music to listen to while working? I find movie soundtracks pretty good for coding - Interstellar, TRON, Jurassic Park, and Lord of the Rings are some of my go tos - what am I missing out on?</p>&mdash; Nicholas Tierney (@nj_tierney) <a href=""https://twitter.com/nj_tierney/status/968987448553324544?ref_src=twsrc%5Etfw"">28 de febrer de 2018</a></blockquote>",552,FALSE,NA,###  Quotes of the Week,unid,2018-3-5
-"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,NA,###  Quotes of the Week,unid,2018-3-5
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-3-5
+"title: R Weekly 2018-10 Dependencies, Gun Control",49,FALSE,NA,unid,2018-3-5
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-3-5
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-3-5
+---,3,FALSE,NA,unid,2018-3-5
++ [Persistence of Public Interest in Gun Control After Mass Shooting Events in the US](https://rawgit.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master/README.html) - Is the Stoneman Douglas High School Event Different?,237,FALSE,###  Highlight,link,2018-3-5
++ [Annotating phylogenetic tree with images using ggtree and ggimage](https://guangchuangyu.github.io/2018/03/annotating-phylogenetic-tree-with-images-using-ggtree-and-ggimage/),177,FALSE,###  Highlight,link,2018-3-5
++ [And They Closed a Valid Question on StackOverflow Again](https://yihui.name/en/2018/02/closed-so-question/),110,FALSE,### Insights,link,2018-3-5
++ [#17: Dependencies.](http://dirk.eddelbuettel.com/blog/2018/02/28#017_dependencies),85,FALSE,### Insights,link,2018-3-5
++ [Test Driving readxl package](http://kgilds.rbind.io/2018/02/26/test-driving-readxl-package/),95,FALSE,### Insights,link,2018-3-5
++ [Tail Recursion Optimisation in R](https://mailund.github.io/r-programmer-blog/2018/03/02/tailr--tail-recursion-optimisation/),128,FALSE,### Insights,link,2018-3-5
++ [Project workflow](https://www.youtube.com/watch?v=boKFxBniUH0),65,FALSE,###  Videos and Podcasts,link,2018-3-5
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-3-5
+**CRAN**,8,FALSE,###  New Packages,unid,2018-3-5
++ [tailr](https://cran.r-project.org/web/packages/tailr/) — Automatic translation of tail-recursive functions into looping functions.,133,FALSE,###  New Packages,link,2018-3-5
++ [crypto](https://CRAN.R-project.org/package=crypto) - cryptocurrency market data,82,FALSE,###  New Packages,link,2018-3-5
++ [dockerfiler](http://colinfay.me/dockerfiler-cran/) -  Easy Dockerfile Creation,81,FALSE,###  New Packages,link,2018-3-5
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2018-3-5
++ [ViewPipeSteps](https://daranzolin.github.io/articles/2018-02/ViewPipeSteps) - an RStudio Addin for 'observable programming,125,FALSE,###  New Packages,link,2018-3-5
++ [ggplot2pipes](https://coolbutuseless.bitbucket.io/2018/02/27/introducing-the-ggplot2pipes-package/) - ggplot2 with pipes,123,FALSE,###  New Packages,link,2018-3-5
++ [pmatch 0.1.2](https://cran.r-project.org/web/packages/pmatch/) —  Haskell-like pattern matching in R.,104,FALSE,### Package Releases,link,2018-3-5
++ [huxtable 3.0.0](https://cran.r-project.org/package=huxtable) - support for Excel output,90,FALSE,### Package Releases,link,2018-3-5
++ [RcppArmadillo 0.8.400.0.0](http://dirk.eddelbuettel.com/blog/2018/03/01#rcpparmadillo_0.8.400.0.0) - interface from R to and from Armadillo,142,FALSE,### Package Releases,link,2018-3-5
++ [RStudio Connect v1.5.14](https://blog.rstudio.com/2018/03/02/rstudio-connect-v1-5-14/),89,FALSE,### Package Releases,link,2018-3-5
++ [Easy analysis of large (>3 GB) text files with dplyr verbs via the chunked package](https://gist.github.com/benmarwick/20eac969ce9199756dc074801f5b531d),155,FALSE,### Gist & Cookbook,link,2018-3-5
++ [Collection of small base-R expressions (r snippets)](https://github.com/amrrs/30-seconds-of-r-code),102,FALSE,###  Resources,link,2018-3-5
++ [Training Courses for mlr: Machine Learning in R](https://mlr-org.github.io/mlr-training-courses/),100,FALSE,###  Resources,link,2018-3-5
++ [The R Consortium has funded half a million dollars to R projects](http://blog.revolutionanalytics.com/2018/02/r-consortium-milestone.html),141,FALSE,###  R in Organizations,link,2018-3-5
++ [Comparing 2017 Maine Lobster Landings To Historical Landings](https://rud.is/b/2018/03/02/comparing-2017-maine-lobster-landings-to-historical-landings/),155,FALSE,### R in the Real World,link,2018-3-5
+![Comparing 2017 Maine Lobster Landings To Historical Landings](https://raw.githubusercontent.com/rweekly/image/master/2018-8/2017-lobster-landings.png),152,FALSE,### R in the Real World,image,2018-3-5
++ [Investigating how NVIDIA's new TITAN V performs in R and a few other applications!](https://www.brucemeng.ca/post/titan-v-and-r-performance/),144,FALSE,### R in the Real World,link,2018-3-5
++ [Persistence of Public Interest in Gun Control After Mass Shooting Events in the US: Is the Stoneman Douglas High School Event Different?](https://rawgit.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master/README.html),236,FALSE,### R in the Real World,link,2018-3-5
+![The Stoneman Douglas event resulted in the most Wikipedia page views](https://raw.githubusercontent.com/rweekly/image/master/2018-8/guns.png),143,FALSE,### R in the Real World,image,2018-3-5
++ [Stability testing: How do you know whether your single-cell clusters are ‘real’?](http://jef.works/blog/2018/02/28/stability-testing/),137,FALSE,### R in the Real World,link,2018-3-5
++ [EDA using fiftystater](https://pradeepadhokshaja.wordpress.com/2018/02/27/exploratory-data-analysis-of-the-zillow-housing-data/),131,FALSE,### R in the Real World,link,2018-3-5
++ [Mapping how Staten Island voted in 2016 (and what it might mean for 2018)](https://mattherman.info/blog/cd11-vote/),118,FALSE,### R in the Real World,link,2018-3-5
+![Mapping how Staten Island voted in 2016 (and what it might mean for 2018)](https://raw.githubusercontent.com/rweekly/image/master/2018-8/votes.png),149,FALSE,### R in the Real World,image,2018-3-5
++ [Analysis of Hall of Fame recipes found on all-recipes](https://p-mckenzie.github.io/r/2018/02/23/allrecipes-hall-of-fame/),125,FALSE,### R in the Real World,link,2018-3-5
++ [Dplyr tutorial part 3 - Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/),121,FALSE,###  Tutorials,link,2018-3-5
++ [Exploring Estimates of the Tuberculosis Case Fatality Ratio - with getTBinR](http://www.samabbott.co.uk/post/est-cfr-gettbinr/),130,FALSE,###  Tutorials,link,2018-3-5
+![Exploring Estimates of the Tuberculosis Case Fatality Ratio - with getTBinR](https://raw.githubusercontent.com/rweekly/image/master/2018-8/gettbinr2.png),155,FALSE,###  Tutorials,image,2018-3-5
++ [Using RcppArmadillo to price European Put Options](http://gallery.rcpp.org//articles/black-scholes-three-ways/),114,FALSE,###  Tutorials,link,2018-3-5
++ [Working through the Strings chapter in R for Data Science](http://annamarbut.blogspot.com/2018/02/working-with-strings.html),127,FALSE,###  Tutorials,link,2018-3-5
+"+ [Sequel to previously published blog post, looking at different packages that can be used for summarising data in R](https://dabblingwithdata.wordpress.com/2018/02/26/r-packages-for-summarising-data-part-2/)",209,FALSE,###  Tutorials,link,2018-3-5
++ [The TAMU Theme for xaringan](https://yihui.name/en/2018/02/tamu-theme-xaringan/),83,FALSE,###  Tutorials,link,2018-3-5
+![The TAMU Theme for xaringan](https://raw.githubusercontent.com/rweekly/image/master/2018-8/tamu.png),102,FALSE,###  Tutorials,image,2018-3-5
++ [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229),126,FALSE,###  Tutorials,link,2018-3-5
++ [Web Scraping Matrimonial Website with R](https://www.listendata.com/2018/02/web-scraping-website-with-r.html),112,FALSE,###  Tutorials,link,2018-3-5
++ [Parallel Processing Baseball Data with R and mlbgameday](http://www.datascienceriot.com//r/mlbgameday-basics/),113,FALSE,###  Tutorials,link,2018-3-5
++ [A web scraping tutorial using rvest on fivebooks.com](https://edomt.github.io/Rvest-Fivebooks/),98,FALSE,###  Tutorials,link,2018-3-5
++ [Using ggplot with pipes](https://coolbutuseless.bitbucket.io/2018/02/25/using-ggplot-with-pipes/),100,FALSE,###  Tutorials,link,2018-3-5
++ [Wanted: cdata Test Pilots](http://www.win-vector.com/blog/2018/02/wanted-cdata-test-pilots/),95,FALSE,###  Tutorials,link,2018-3-5
++ [emoji domain names with the puny package](https://purrple.cat/blog/2018/02/26/emoji-domain-names-with-the-puny-package/),123,FALSE,###  Tutorials,link,2018-3-5
++ [R Tip: Use drop = FALSE with data.frames](http://www.win-vector.com/blog/2018/02/r-tip-use-drop-false-with-data-frames/),123,FALSE,###  Tutorials,link,2018-3-5
++ [Using R/exams for Short Exams during a Statistics Course](http://www.R-exams.org/general/uni_koblenz_landau/),112,FALSE,###  Tutorials,link,2018-3-5
++ [Test Driving The Readxl package](http://kgilds.rbind.io/2018/02/26/test-driving-readxl-package/),99,FALSE,###  Tutorials,link,2018-3-5
++ [Annotating phylogenetic tree with images using ggtree and ggimage](https://guangchuangyu.github.io/2018/03/annotating-phylogenetic-tree-with-images-using-ggtree-and-ggimage/),177,FALSE,###  Tutorials,link,2018-3-5
+![Annotating phylogenetic tree with images using ggtree and ggimage](https://raw.githubusercontent.com/rweekly/image/master/2018-8/annotating.png),146,FALSE,###  Tutorials,image,2018-3-5
+"+ [""Bite-Sized"" Pull Requests](https://yihui.name/en/2018/02/bite-sized-pull-requests/)",87,FALSE,###  Tutorials,link,2018-3-5
++ [R Tip: Make Arguments Explicit in magrittr/dplyr Pipelines](http://www.win-vector.com/blog/2018/03/r-tip-make-arguments-explicit-in-magrittr-dplyr-pipelines/),161,FALSE,###  Tutorials,link,2018-3-5
++ [Free Azure credits for students](http://blog.revolutionanalytics.com/2018/03/free-azure-credits-for-students.html),117,FALSE,###  Tutorials,link,2018-3-5
++ [Quantities for R -- First working prototype](http://r-spatial.org//r/2018/03/01/quantities-first-prototype.html),115,FALSE,###  Tutorials,link,2018-3-5
++ [Cluster Analysis - Naming Pattern in the last Century.](http://flovv.github.io/Cluster_analysis/),100,FALSE,###  Tutorials,link,2018-3-5
++ [multiple lags with tidy evaluation](https://purrple.cat/blog/2018/03/02/multiple-lags-with-tidy-evaluation/),111,FALSE,###  Tutorials,link,2018-3-5
++ [Visualizing the Capital Asset Pricing Model](https://rviews.rstudio.com/2018/03/02/capm-and-visualization/),110,FALSE,###  Tutorials,link,2018-3-5
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2018-3-5
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2018-3-5
++ The declaratation of `pythag()` in `Rmath.h` has been removed - it has not been provided since R 2.14.0.,106,FALSE,###  R Project Updates,unid,2018-3-5
+"+ C99 functions `expm1`, `hypot` and `log1p` are now required.",62,FALSE,###  R Project Updates,unid,2018-3-5
++ `R CMD INSTALL` now correctly sets C++ compiler flags when all source files are in sub-directories of `src`.,110,FALSE,###  R Project Updates,unid,2018-3-5
+"+ `scale.default(x, center, scale)` now also allows `center` or `scale` to be “numeric-alike”, i.e., such that `as.numeric(.)` coerces them correctly. This also eliminates a wrong error message in such cases.",208,FALSE,###  R Project Updates,unid,2018-3-5
++ satRday Cape Town 2018 **March 17** <br />,44,FALSE,###  Upcoming Events,unid,2018-3-5
+[satRday Cape Town](http://capetown2018.satrdays.org/),54,FALSE,###  Upcoming Events,unid,2018-3-5
++ New York R conference **Aprl 20-21** <br />,45,FALSE,###  Upcoming Events,unid,2018-3-5
+"[New York R conference](https://www.rstats.nyc/),Discount Code : rladies",72,FALSE,###  Upcoming Events,unid,2018-3-5
++ [eRum 2018](http://2018.erum.io) **May 14-16** <br />,55,FALSE,###  Upcoming Events,link,2018-3-5
+"European R Users Meeting @ Budapest, Hungary",44,FALSE,###  Upcoming Events,unid,2018-3-5
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,###  Upcoming Events,unid,2018-3-5
+[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,###  Upcoming Events,unid,2018-3-5
+"+ [CascadiaRConf](https://cascadiarconf.com/) **June 2, 2018**",62,FALSE,###  Upcoming Events,link,2018-3-5
+"Portland, OR, US",16,FALSE,###  Upcoming Events,unid,2018-3-5
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **5 & 6 July 2018** <br />,89,FALSE,###  Upcoming Events,link,2018-3-5
+Rennes - Agrocampus,19,FALSE,###  Upcoming Events,unid,2018-3-5
+"+ [useR! 2018](https://user2018.r-project.org/) **July 10, 2018** <br />",72,FALSE,###  Upcoming Events,link,2018-3-5
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,###  Upcoming Events,unid,2018-3-5
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,###  Upcoming Events,link,2018-3-5
+"Buenos Aires, Argentina.",24,FALSE,###  Upcoming Events,unid,2018-3-5
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events,unid,2018-3-5
++ [R-Ladies NYC April 2018 Book Club](https://www.goodreads.com/group/show/225365-r-ladies-nyc) R-Ladies NYC are still gathering suggestions for the bookclub.,158,FALSE,###  Call for Participation,link,2018-3-5
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-3-5
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">I&#39;ll be speaking about &quot;why you can’t do data science in a GUI&quot; at ACM Chicago on March 7: <a href=""https://t.co/bvOrOFvuht"">https://t.co/bvOrOFvuht</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/968157467136921600?ref_src=twsrc%5Etfw"">February 26, 2018</a></blockquote>",496,FALSE,###  Quotes of the Week,unid,2018-3-5
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Why do you build me up R CMD javareconf, baby<br>Just to let me down and mess me around?<br><br>And then worst of all, you never compile, baby<br>When you say you will<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Max Kuhn (@topepos) <a href=""https://twitter.com/topepos/status/969716011078438912?ref_src=twsrc%5Etfw"">March 2, 2018</a></blockquote>",474,FALSE,###  Quotes of the Week,unid,2018-3-5
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Heya <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> dam, what is your favourite music to listen to while working? I find movie soundtracks pretty good for coding - Interstellar, TRON, Jurassic Park, and Lord of the Rings are some of my go tos - what am I missing out on?</p>&mdash; Nicholas Tierney (@nj_tierney) <a href=""https://twitter.com/nj_tierney/status/968987448553324544?ref_src=twsrc%5Etfw"">28 de febrer de 2018</a></blockquote>",552,FALSE,###  Quotes of the Week,unid,2018-3-5
+"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,###  Quotes of the Week,unid,2018-3-5

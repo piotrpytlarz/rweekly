@@ -1,72 +1,72 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-09-23
-"title: R Weekly 2018-39 Radix, Tidyverse, Design",48,FALSE,NA,NA,unid,2018-09-23
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-09-23
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-09-23
----,3,FALSE,NA,NA,unid,2018-09-23
-+ [Radix for R Markdown](https://blog.rstudio.com/2018/09/19/radix-for-r-markdown/) - A new R Markdown format optimized for scientific and technical communication,162,FALSE,NA,###  Highlight,link,2018-09-23
-+ [The actual tidyverse](http://giorasimchoni.com/2018/09/17/2018-09-17-the-actual-tidyverse/) - Scraping over 1000 R Blog Posts to Visualize How People Actually Use the Tidyverse Functions,189,FALSE,NA,###  Highlight,link,2018-09-23
-+ [The design of everyday functions -  Hadley Wickham](https://www.youtube.com/watch?v=fTwh9mE8jLQ),99,FALSE,NA,###  Highlight,link,2018-09-23
-+ [Am I crazy for loving R as a general-purpose high-level language?](https://www.reddit.com/r/rstats/comments/9hviwd/am_i_crazy_for_loving_r_as_a_generalpurpose/),163,FALSE,NA,### Insights,link,2018-09-23
-+ [The actual tidyverse](http://giorasimchoni.com/2018/09/17/2018-09-17-the-actual-tidyverse/) - Scraping over 1000 R Blog Posts to Visualize How People Actually Use the Tidyverse Functions,189,FALSE,NA,### Insights,link,2018-09-23
-"+ [3 reasons to not write that new code, and how I failed at it.](https://jozefhajnala.gitlab.io/r/r904-dont-write-that-code/)",126,FALSE,NA,### Insights,link,2018-09-23
-+ [Data visualisation pitfalls: how to avoid barbarplots ?](https://rtask.thinkr.fr/blog/data-visualisation-pitfalls-how-to-avoid-barbarplots/),143,FALSE,NA,### Insights,link,2018-09-23
-+ [Labelling dataviz](https://mikewk.com/post/2018-09-20-labelling-dataviz/),76,FALSE,NA,### Insights,link,2018-09-23
-![Labelling dataviz](https://raw.githubusercontent.com/rweekly/image/master/2018-8/tick-marks-final.png),104,FALSE,NA,### Insights,image,2018-09-23
-+ [How to Avoid For Loop in R](https://statcompute.wordpress.com/2018/09/15/how-to-avoid-for-loop-in-r/),104,FALSE,NA,### Insights,link,2018-09-23
-+ [Chat with the rOpenSci team at upcoming meetings](https://ropensci.org/blog/2018/09/21/ropensci-at-meetings/),112,FALSE,NA,###  R in Organizations,link,2018-09-23
-+ [Evaluation of an R script created in 2000. ](https://www.jumpingrivers.com/blog/r-from-the-turn-of-the-century/),115,FALSE,NA,### R in the Real World,link,2018-09-23
-+ [Access the Internet Archive Advanced Search/Scrape API with wayback (+ links to a new vignette & pkgdown site)](https://rud.is/b/2018/09/17/access-the-internet-archive-advanced-search-scrape-api-with-wayback-a-links-to-a-new-vignette-pkgdown-site/),251,FALSE,NA,### R in the Real World,link,2018-09-23
-+ [Differences in Word Use Across Music Genres in Pitchfork Album Reviews](https://methodmatters.blogspot.com/2018/09/differences-in-word-use-across-music.html),160,FALSE,NA,### R in the Real World,link,2018-09-23
-![Differences in Word Use Across Music Genres in Pitchfork Album Reviews](https://raw.githubusercontent.com/rweekly/image/master/2018-8/comp_cloud_genre_blog.png),162,FALSE,NA,### R in the Real World,image,2018-09-23
-+ [Musings on Statistical Models vs. Machine Learning in Health Research](http://fharrell.com/talk/mlhealth/),109,FALSE,NA,### R in the Real World,link,2018-09-23
-+ [Taking a Tour of the Pirate Ship 'GitHub DMCA' with R](https://rud.is/b/2018/09/19/taking-a-tour-of-the-pirate-ship-github-dmca-with-r/),139,FALSE,NA,### R in the Real World,link,2018-09-23
-+ [A Follow-Up Post on My Early Career Crisis Post (Finally)](https://yihui.name/en/2018/09/career-crisis-follow-up/),117,FALSE,NA,### R in the Real World,link,2018-09-23
-+ [Applications of R presented at EARL London 2018](http://blog.revolutionanalytics.com/2018/09/earl-london-2018.html),118,FALSE,NA,### R in the Real World,link,2018-09-23
-"+ [Shiny App, video, code, and model description using Machine Learning to predict payments on insurance claims](https://www.tychobra.com/posts/claims-ml/)",155,FALSE,NA,###  Resources,link,2018-09-23
-"+ [AI, Machine Learning and Data Science Roundup: September 2018](http://blog.revolutionanalytics.com/2018/09/ai-roundup-september-2018.html)",141,FALSE,NA,###  Resources,link,2018-09-23
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-09-23
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-09-23
-+ [binb 0.0.1: binb is not Beamer](http://dirk.eddelbuettel.com/blog/2018/09/19#binb_0.0.1),91,FALSE,NA,###  New Packages,link,2018-09-23
-+ [Radix for R Markdown](https://blog.rstudio.com/2018/09/19/radix-for-r-markdown/) - A new R Markdown format optimized for scientific and technical communication,162,FALSE,NA,###  New Packages,link,2018-09-23
-![Radix for R Markdown](https://d33wubrfki0l68.cloudfront.net/5348bf6dff2d38c059dcc9c98c7b7fb82ef9880c/0d3f7/images/2018-09-17-radix-fullscreen-layout.png),155,FALSE,NA,###  New Packages,image,2018-09-23
-"+ [udpipe 0.7](http://bnosac.be/index.php/blog/81-udpipe-version-0-7-for-natural-language-processing-nlp-alongside-tidytext-quanteda-tm) - Natural Language Processing alongside tidytext, quanteda, tm",199,FALSE,NA,### Package Releases,link,2018-09-23
-"+ [RStudio Connect 1.6.8](https://blog.rstudio.com/2018/09/20/rstudio-connect-1-6-8-emails-apis-and-titles/)  - Emails, APIs, and Titles",136,FALSE,NA,### Package Releases,link,2018-09-23
-+ [The design of everyday functions -  Hadley Wickham](https://www.youtube.com/watch?v=fTwh9mE8jLQ),99,FALSE,NA,###  Videos and Podcasts,link,2018-09-23
-+ [Múltiples escalas de colores en ggplot2](https://eliocamp.github.io/codigo-r/2018/09/multiples-escalas-colores-ggplot2/),123,FALSE,NA,### R Internationally,link,2018-09-23
-+ [Become a Better R Programmer with the Awesome ‘lobstr’ Package](https://medium.com/analytics-vidhya/become-a-better-r-programmer-with-the-awesome-lobstr-package-af97fcd22602),177,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [Snakes in a Package: combining Python and R with reticulate](https://www.mango-solutions.com/blog/snakes-in-a-package-combining-python-and-r-with-reticulate),160,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [Better R Code with wrapr Dot Arrow](http://www.win-vector.com/blog/2018/09/better-r-code-with-wrapr-dot-arrow/),114,FALSE,NA,###  Tutorials,link,2018-09-23
-"+ [On ""Competition"" in the R Ecosystem](http://www.win-vector.com/blog/2018/09/on-competition-in-the-r-ecosystem/)",114,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [Parameterizing with bquote](http://www.win-vector.com/blog/2018/09/parameterizing-with-bquote/),98,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [Intersection of multiple vectors](https://coolbutuseless.github.io/2018/09/17/intersection-of-multiple-vectors/),115,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/),109,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [Not Hotdog: A shiny app using the Custom Vision API](http://blog.revolutionanalytics.com/2018/09/not-hotdog-a-shiny-app-using-the-custom-vision-api.html),156,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [Multiple color (and fill) scales with ggplot2](https://eliocamp.github.io/codigo-r/2018/09/multiple-color-fill-scales-ggplot2/),130,FALSE,NA,###  Tutorials,link,2018-09-23
-![Multiple color (and fill) scales with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2018-8/color-ggplot-2.png),130,FALSE,NA,###  Tutorials,image,2018-09-23
-+ [Introducing debkeepr](https://jessesadler.com/post/debkeepr-intro/),70,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [How to Put All Your Code in the Appendix in R Markdown](https://yihui.name/en/2018/09/code-appendix/),104,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [The log-0 problem: analysis strategies and options for choosing c in log(y + c) ](https://aosmith.rbind.io/2018/09/19/the-log-0-problem/),140,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [Find all sequences of a given length with the given sum](https://coolbutuseless.github.io/2018/09/20/find-all-sequences-of-a-given-length-with-the-given-sum/),161,FALSE,NA,###  Tutorials,link,2018-09-23
-"+ [Shiny application in production with ShinyProxy, Docker and Debian](https://rtask.thinkr.fr/blog/shiny-application-in-production-with-shinyproxy-docker-and-debian/)",167,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [Interactive plots in Shiny](https://rviews.rstudio.com/2018/09/20/shiny-r2d3/),81,FALSE,NA,###  Tutorials,link,2018-09-23
-![Interactive plots in Shiny](https://raw.githubusercontent.com/rweekly/image/master/2018-8/shiny-plot.png),107,FALSE,NA,###  Tutorials,image,2018-09-23
-+ [Using a Column as a Column Index](http://www.win-vector.com/blog/2018/09/using-a-column-as-a-column-index/),110,FALSE,NA,###  Tutorials,link,2018-09-23
-+ [Timing Column Indexing in R](http://www.win-vector.com/blog/2018/09/timing-column-indexing-in-r/),100,FALSE,NA,###  Tutorials,link,2018-09-23
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-09-23
-"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-09-23
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-09-23
-"+ `sQuote()` and `dQuote()` get an explicit `q` argument with obvious default instead of using `getOption(""fancyQuotes"")` implicitly and unconditionally.",153,FALSE,NA,###  R Project Updates,unid,2018-09-23
-"+ `lm.influence()`, `influence.measures()`, `rstudent()` etc now work (more) correctly for multivariate models (`""mlm""`), thanks to (anonymous) stackoverflow remarks.",166,FALSE,NA,###  R Project Updates,unid,2018-09-23
-"+ `sample.int(2.9, *, replace=TRUE)` again behaves as documented and as in R < 3.0.0, namely identically to `sample.int(2, ..)`.",128,FALSE,NA,###  R Project Updates,unid,2018-09-23
-"+ `download.file(*, method = ""curl"", cacheOK = FALSE)` should work now on Windows, thanks to Kevin Ushey's patch in PR#17323.",125,FALSE,NA,###  R Project Updates,unid,2018-09-23
-+ Fixes to `convertColor()` for chromatic adaptation; thanks to Brodie Gaslam PR#17473.,87,FALSE,NA,###  R Project Updates,unid,2018-09-23
-"+ `nextn(n)` now also works for larger `n` and no longer loops infinitely for e.g, `n <- 214e7`.",96,FALSE,NA,###  R Project Updates,unid,2018-09-23
-"+ In `.col(dim)` and `.row(dim)`, `dim` now may also be an integer valued `""double""`.",85,FALSE,NA,###  R Project Updates,unid,2018-09-23
-"+ `cooks.distance()` and `rstandard()` now work correctly for multivariate models (`""mlm""`).",92,FALSE,NA,###  R Project Updates,unid,2018-09-23
-"+ `polym()` and corresponding `lm()` prediction now also work for a boundary ""vector"" case fixing PR#17474, reported by Alexandre Courtiol.",139,FALSE,NA,###  R Project Updates,unid,2018-09-23
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-09-23
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-09-23
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-09-23
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-09-23
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> tip of the day:<br><br>There is a shortcut in <a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a> that will open up a keyboard shortcut quick reference sheet to see all available shortcuts!!!<br><br>Windows: Alt + Shift + K<br>Mac: Option + Shift + K <a href=""https://t.co/PHMP5pJfqu"">pic.twitter.com/PHMP5pJfqu</a></p>&mdash; Dana Linnell Wanzer, MA (@danawanzer) <a href=""https://twitter.com/danawanzer/status/1043541685911748609?ref_src=twsrc%5Etfw"">September 22, 2018</a></blockquote>",669,FALSE,NA,###  Quotes of the Week,unid,2018-09-23
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-09-23
+"title: R Weekly 2018-39 Radix, Tidyverse, Design",48,FALSE,NA,unid,2018-09-23
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-09-23
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-09-23
+---,3,FALSE,NA,unid,2018-09-23
++ [Radix for R Markdown](https://blog.rstudio.com/2018/09/19/radix-for-r-markdown/) - A new R Markdown format optimized for scientific and technical communication,162,FALSE,###  Highlight,link,2018-09-23
++ [The actual tidyverse](http://giorasimchoni.com/2018/09/17/2018-09-17-the-actual-tidyverse/) - Scraping over 1000 R Blog Posts to Visualize How People Actually Use the Tidyverse Functions,189,FALSE,###  Highlight,link,2018-09-23
++ [The design of everyday functions -  Hadley Wickham](https://www.youtube.com/watch?v=fTwh9mE8jLQ),99,FALSE,###  Highlight,link,2018-09-23
++ [Am I crazy for loving R as a general-purpose high-level language?](https://www.reddit.com/r/rstats/comments/9hviwd/am_i_crazy_for_loving_r_as_a_generalpurpose/),163,FALSE,### Insights,link,2018-09-23
++ [The actual tidyverse](http://giorasimchoni.com/2018/09/17/2018-09-17-the-actual-tidyverse/) - Scraping over 1000 R Blog Posts to Visualize How People Actually Use the Tidyverse Functions,189,FALSE,### Insights,link,2018-09-23
+"+ [3 reasons to not write that new code, and how I failed at it.](https://jozefhajnala.gitlab.io/r/r904-dont-write-that-code/)",126,FALSE,### Insights,link,2018-09-23
++ [Data visualisation pitfalls: how to avoid barbarplots ?](https://rtask.thinkr.fr/blog/data-visualisation-pitfalls-how-to-avoid-barbarplots/),143,FALSE,### Insights,link,2018-09-23
++ [Labelling dataviz](https://mikewk.com/post/2018-09-20-labelling-dataviz/),76,FALSE,### Insights,link,2018-09-23
+![Labelling dataviz](https://raw.githubusercontent.com/rweekly/image/master/2018-8/tick-marks-final.png),104,FALSE,### Insights,image,2018-09-23
++ [How to Avoid For Loop in R](https://statcompute.wordpress.com/2018/09/15/how-to-avoid-for-loop-in-r/),104,FALSE,### Insights,link,2018-09-23
++ [Chat with the rOpenSci team at upcoming meetings](https://ropensci.org/blog/2018/09/21/ropensci-at-meetings/),112,FALSE,###  R in Organizations,link,2018-09-23
++ [Evaluation of an R script created in 2000. ](https://www.jumpingrivers.com/blog/r-from-the-turn-of-the-century/),115,FALSE,### R in the Real World,link,2018-09-23
++ [Access the Internet Archive Advanced Search/Scrape API with wayback (+ links to a new vignette & pkgdown site)](https://rud.is/b/2018/09/17/access-the-internet-archive-advanced-search-scrape-api-with-wayback-a-links-to-a-new-vignette-pkgdown-site/),251,FALSE,### R in the Real World,link,2018-09-23
++ [Differences in Word Use Across Music Genres in Pitchfork Album Reviews](https://methodmatters.blogspot.com/2018/09/differences-in-word-use-across-music.html),160,FALSE,### R in the Real World,link,2018-09-23
+![Differences in Word Use Across Music Genres in Pitchfork Album Reviews](https://raw.githubusercontent.com/rweekly/image/master/2018-8/comp_cloud_genre_blog.png),162,FALSE,### R in the Real World,image,2018-09-23
++ [Musings on Statistical Models vs. Machine Learning in Health Research](http://fharrell.com/talk/mlhealth/),109,FALSE,### R in the Real World,link,2018-09-23
++ [Taking a Tour of the Pirate Ship 'GitHub DMCA' with R](https://rud.is/b/2018/09/19/taking-a-tour-of-the-pirate-ship-github-dmca-with-r/),139,FALSE,### R in the Real World,link,2018-09-23
++ [A Follow-Up Post on My Early Career Crisis Post (Finally)](https://yihui.name/en/2018/09/career-crisis-follow-up/),117,FALSE,### R in the Real World,link,2018-09-23
++ [Applications of R presented at EARL London 2018](http://blog.revolutionanalytics.com/2018/09/earl-london-2018.html),118,FALSE,### R in the Real World,link,2018-09-23
+"+ [Shiny App, video, code, and model description using Machine Learning to predict payments on insurance claims](https://www.tychobra.com/posts/claims-ml/)",155,FALSE,###  Resources,link,2018-09-23
+"+ [AI, Machine Learning and Data Science Roundup: September 2018](http://blog.revolutionanalytics.com/2018/09/ai-roundup-september-2018.html)",141,FALSE,###  Resources,link,2018-09-23
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-09-23
+**CRAN**,8,FALSE,###  New Packages,unid,2018-09-23
++ [binb 0.0.1: binb is not Beamer](http://dirk.eddelbuettel.com/blog/2018/09/19#binb_0.0.1),91,FALSE,###  New Packages,link,2018-09-23
++ [Radix for R Markdown](https://blog.rstudio.com/2018/09/19/radix-for-r-markdown/) - A new R Markdown format optimized for scientific and technical communication,162,FALSE,###  New Packages,link,2018-09-23
+![Radix for R Markdown](https://d33wubrfki0l68.cloudfront.net/5348bf6dff2d38c059dcc9c98c7b7fb82ef9880c/0d3f7/images/2018-09-17-radix-fullscreen-layout.png),155,FALSE,###  New Packages,image,2018-09-23
+"+ [udpipe 0.7](http://bnosac.be/index.php/blog/81-udpipe-version-0-7-for-natural-language-processing-nlp-alongside-tidytext-quanteda-tm) - Natural Language Processing alongside tidytext, quanteda, tm",199,FALSE,### Package Releases,link,2018-09-23
+"+ [RStudio Connect 1.6.8](https://blog.rstudio.com/2018/09/20/rstudio-connect-1-6-8-emails-apis-and-titles/)  - Emails, APIs, and Titles",136,FALSE,### Package Releases,link,2018-09-23
++ [The design of everyday functions -  Hadley Wickham](https://www.youtube.com/watch?v=fTwh9mE8jLQ),99,FALSE,###  Videos and Podcasts,link,2018-09-23
++ [Múltiples escalas de colores en ggplot2](https://eliocamp.github.io/codigo-r/2018/09/multiples-escalas-colores-ggplot2/),123,FALSE,### R Internationally,link,2018-09-23
++ [Become a Better R Programmer with the Awesome ‘lobstr’ Package](https://medium.com/analytics-vidhya/become-a-better-r-programmer-with-the-awesome-lobstr-package-af97fcd22602),177,FALSE,###  Tutorials,link,2018-09-23
++ [Snakes in a Package: combining Python and R with reticulate](https://www.mango-solutions.com/blog/snakes-in-a-package-combining-python-and-r-with-reticulate),160,FALSE,###  Tutorials,link,2018-09-23
++ [Better R Code with wrapr Dot Arrow](http://www.win-vector.com/blog/2018/09/better-r-code-with-wrapr-dot-arrow/),114,FALSE,###  Tutorials,link,2018-09-23
+"+ [On ""Competition"" in the R Ecosystem](http://www.win-vector.com/blog/2018/09/on-competition-in-the-r-ecosystem/)",114,FALSE,###  Tutorials,link,2018-09-23
++ [Parameterizing with bquote](http://www.win-vector.com/blog/2018/09/parameterizing-with-bquote/),98,FALSE,###  Tutorials,link,2018-09-23
++ [Intersection of multiple vectors](https://coolbutuseless.github.io/2018/09/17/intersection-of-multiple-vectors/),115,FALSE,###  Tutorials,link,2018-09-23
++ [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/),109,FALSE,###  Tutorials,link,2018-09-23
++ [Not Hotdog: A shiny app using the Custom Vision API](http://blog.revolutionanalytics.com/2018/09/not-hotdog-a-shiny-app-using-the-custom-vision-api.html),156,FALSE,###  Tutorials,link,2018-09-23
++ [Multiple color (and fill) scales with ggplot2](https://eliocamp.github.io/codigo-r/2018/09/multiple-color-fill-scales-ggplot2/),130,FALSE,###  Tutorials,link,2018-09-23
+![Multiple color (and fill) scales with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2018-8/color-ggplot-2.png),130,FALSE,###  Tutorials,image,2018-09-23
++ [Introducing debkeepr](https://jessesadler.com/post/debkeepr-intro/),70,FALSE,###  Tutorials,link,2018-09-23
++ [How to Put All Your Code in the Appendix in R Markdown](https://yihui.name/en/2018/09/code-appendix/),104,FALSE,###  Tutorials,link,2018-09-23
++ [The log-0 problem: analysis strategies and options for choosing c in log(y + c) ](https://aosmith.rbind.io/2018/09/19/the-log-0-problem/),140,FALSE,###  Tutorials,link,2018-09-23
++ [Find all sequences of a given length with the given sum](https://coolbutuseless.github.io/2018/09/20/find-all-sequences-of-a-given-length-with-the-given-sum/),161,FALSE,###  Tutorials,link,2018-09-23
+"+ [Shiny application in production with ShinyProxy, Docker and Debian](https://rtask.thinkr.fr/blog/shiny-application-in-production-with-shinyproxy-docker-and-debian/)",167,FALSE,###  Tutorials,link,2018-09-23
++ [Interactive plots in Shiny](https://rviews.rstudio.com/2018/09/20/shiny-r2d3/),81,FALSE,###  Tutorials,link,2018-09-23
+![Interactive plots in Shiny](https://raw.githubusercontent.com/rweekly/image/master/2018-8/shiny-plot.png),107,FALSE,###  Tutorials,image,2018-09-23
++ [Using a Column as a Column Index](http://www.win-vector.com/blog/2018/09/using-a-column-as-a-column-index/),110,FALSE,###  Tutorials,link,2018-09-23
++ [Timing Column Indexing in R](http://www.win-vector.com/blog/2018/09/timing-column-indexing-in-r/),100,FALSE,###  Tutorials,link,2018-09-23
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2018-09-23
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,###  Tutorials,unid,2018-09-23
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2018-09-23
+"+ `sQuote()` and `dQuote()` get an explicit `q` argument with obvious default instead of using `getOption(""fancyQuotes"")` implicitly and unconditionally.",153,FALSE,###  R Project Updates,unid,2018-09-23
+"+ `lm.influence()`, `influence.measures()`, `rstudent()` etc now work (more) correctly for multivariate models (`""mlm""`), thanks to (anonymous) stackoverflow remarks.",166,FALSE,###  R Project Updates,unid,2018-09-23
+"+ `sample.int(2.9, *, replace=TRUE)` again behaves as documented and as in R < 3.0.0, namely identically to `sample.int(2, ..)`.",128,FALSE,###  R Project Updates,unid,2018-09-23
+"+ `download.file(*, method = ""curl"", cacheOK = FALSE)` should work now on Windows, thanks to Kevin Ushey's patch in PR#17323.",125,FALSE,###  R Project Updates,unid,2018-09-23
++ Fixes to `convertColor()` for chromatic adaptation; thanks to Brodie Gaslam PR#17473.,87,FALSE,###  R Project Updates,unid,2018-09-23
+"+ `nextn(n)` now also works for larger `n` and no longer loops infinitely for e.g, `n <- 214e7`.",96,FALSE,###  R Project Updates,unid,2018-09-23
+"+ In `.col(dim)` and `.row(dim)`, `dim` now may also be an integer valued `""double""`.",85,FALSE,###  R Project Updates,unid,2018-09-23
+"+ `cooks.distance()` and `rstandard()` now work correctly for multivariate models (`""mlm""`).",92,FALSE,###  R Project Updates,unid,2018-09-23
+"+ `polym()` and corresponding `lm()` prediction now also work for a boundary ""vector"" case fixing PR#17474, reported by Alexandre Courtiol.",139,FALSE,###  R Project Updates,unid,2018-09-23
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-09-23
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2018-09-23
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-09-23
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-09-23
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> tip of the day:<br><br>There is a shortcut in <a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a> that will open up a keyboard shortcut quick reference sheet to see all available shortcuts!!!<br><br>Windows: Alt + Shift + K<br>Mac: Option + Shift + K <a href=""https://t.co/PHMP5pJfqu"">pic.twitter.com/PHMP5pJfqu</a></p>&mdash; Dana Linnell Wanzer, MA (@danawanzer) <a href=""https://twitter.com/danawanzer/status/1043541685911748609?ref_src=twsrc%5Etfw"">September 22, 2018</a></blockquote>",669,FALSE,###  Quotes of the Week,unid,2018-09-23

@@ -1,52 +1,52 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-11-26
-title: R Weekly 2018-48 ozunconf18,34,FALSE,NA,NA,unid,2018-11-26
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-11-26
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-11-26
----,3,FALSE,NA,NA,unid,2018-11-26
-+ [RStudio 1.2 Preview: The Little Things](https://blog.rstudio.com/2018/11/19/rstudio-1-2-preview-the-little-things/),118,FALSE,NA,###  Highlight,link,2018-11-26
-+ [ozunconf18](https://github.com/ropensci/ozunconf18/blob/master/content/projects.md) - R OpenSci ozunconference 2018 Projects,127,FALSE,NA,###  Highlight,link,2018-11-26
-+ [R > Python: a Concrete Example](https://matloff.wordpress.com/2018/11/20/r-python-a-concrete-example/),105,FALSE,NA,### Insights,link,2018-11-26
-+ [Checklist Recipe - How we created a template to standardize species data](https://ropensci.org/blog/2018/11/20/checklist-recipe/),132,FALSE,NA,### Insights,link,2018-11-26
-+ [Tis the Season to Check your SSL/TLS Cipher List Thrice (RCurl/curl/openssl)](https://rud.is/b/2018/11/17/tis-the-season-to-check-your-ssl-tls-cipher-list-thrice-rcurl-curl-openssl/),185,FALSE,NA,### Insights,link,2018-11-26
-+ [The Distribution of Time Between Recessions: Revisited (with MCHT)](https://ntguardian.wordpress.com/2018/11/19/distribution-time-between-recessions-revisited-mcht/),168,FALSE,NA,### R in the Real World,link,2018-11-26
-+ [Tweeting wikidata info](https://blog.rmhogervorst.nl/blog/2018/11/19/tweeting-wikidata-info/),96,FALSE,NA,### R in the Real World,link,2018-11-26
-+ [Hacking Bioconductor](https://www.jumpingrivers.com/blog/security-r-hacking-bioconductor/),93,FALSE,NA,### R in the Real World,link,2018-11-26
-![Hacking Bioconductor](https://raw.githubusercontent.com/rweekly/image/master/2018/blog-security.png),102,FALSE,NA,### R in the Real World,image,2018-11-26
-+ [EARL conference recap: Seattle 2018](https://bayesball.blogspot.com/2018/11/earl-conference-recap-seattle-2018.html),119,FALSE,NA,###  R in Organizations,link,2018-11-26
-+ [ozunconf18](https://github.com/ropensci/ozunconf18/blob/master/content/projects.md) - R OpenSci ozunconference 2018 Projects,127,FALSE,NA,###  Resources,link,2018-11-26
-"+ [AI, Machine Learning and Data Science Roundup: November 2018](https://blog.revolutionanalytics.com/2018/11/ai-roundup-nov-2018.html)",135,FALSE,NA,###  Resources,link,2018-11-26
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-11-26
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-11-26
-+ [rsppfp](https://melvidoni.github.io/rsppfp/) - Implements different algorithms for transforming graphs in the Shortest Path Problem with Forbidden Paths,155,FALSE,NA,###  New Packages,link,2018-11-26
-+ [RFishBC](http://derekogle.com/fishR/2018-11-22-RFishBC-Release) - Back-Calculation of Fish Length,100,FALSE,NA,###  New Packages,link,2018-11-26
-+ [grrr](https://coolbutuseless.github.io/2018/11/20/grrr-a-package-for-changing-default-function-arguments/)  - Package for changing default function arguments,160,FALSE,NA,###  New Packages,link,2018-11-26
-+ [citr](https://github.com/crsh/citr) - RStudio Addin to Insert Markdown Citations,83,FALSE,NA,###  New Packages,link,2018-11-26
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-11-26
-+ [generativeart](https://github.com/cutterkom/generativeart) - Generative Art,78,FALSE,NA,###  New Packages,link,2018-11-26
-![generativeart](https://raw.githubusercontent.com/rweekly/image/master/2018/generativeart.png),95,FALSE,NA,###  New Packages,image,2018-11-26
-+ [vitae](https://github.com/ropenscilabs/vitae) - R Markdown Résumé/CV templates,81,FALSE,NA,###  New Packages,link,2018-11-26
-+ [crrri](https://github.com/RLesur/crrri) - A Chrome Remote Interface written in R,83,FALSE,NA,###  New Packages,link,2018-11-26
-+ [OpenCPU 2.1](https://www.opencpu.org/posts/opencpu-201/) - Scalable R Apps and Services,90,FALSE,NA,### Package Releases,link,2018-11-26
-+ [RcppMsgPack 0.2.3](http://dirk.eddelbuettel.com/blog/2018/11/18#rcppmsgpack_0.2.3) - MsgPack Headers for R,109,FALSE,NA,### Package Releases,link,2018-11-26
-+ [Hyperlinking text in a ggplot2 visualization](https://stackoverflow.com/questions/42259826/hyperlinking-text-in-a-ggplot2-visualization),139,FALSE,NA,###  Tutorials,link,2018-11-26
-+ [Rayshading With Base R](https://www.brodieg.com/2018/10/23/do-not-shade-r/),78,FALSE,NA,###  Tutorials,link,2018-11-26
-![Compare base R render with Rayshader render](https://raw.githubusercontent.com/rweekly/image/master/2018/do-not-shade-shadows.png),132,FALSE,NA,###  Tutorials,image,2018-11-26
-+ [Security issues with installing bioconductor](https://www.jumpingrivers.com/blog/security-r-hacking-bioconductor/),117,FALSE,NA,###  Tutorials,link,2018-11-26
-+ [Interactive Graphics with R Shiny](http://www.theusrus.de/blog/interactive-graphics-with-r-shiny/),101,FALSE,NA,###  Tutorials,link,2018-11-26
-+ [RStudio 1.2 Preview: The Little Things](https://blog.rstudio.com/2018/11/19/rstudio-1-2-preview-the-little-things/),118,FALSE,NA,###  Tutorials,link,2018-11-26
-+ [digitizing and tidying tables from images](https://luisdva.github.io/rstats/pic-to-tibble/),94,FALSE,NA,###  Tutorials,link,2018-11-26
-+ [A more systematic look at suppressed data](http://freerangestats.info/blog/2018/11/18/suppressed-data-2),107,FALSE,NA,###  Tutorials,link,2018-11-26
-![A more systematic look at suppressed data](https://raw.githubusercontent.com/rweekly/image/master/2018/suppressed.png),120,FALSE,NA,###  Tutorials,image,2018-11-26
-+ [Many Factor Models](https://rviews.rstudio.com/2018/11/19/many-factor-models/),81,FALSE,NA,###  Tutorials,link,2018-11-26
-+ [Generating data to explore the myriad causal effects that can be estimated in observational data analysis](https://www.rdatagen.net/post/generating-data-to-explore-the-myriad-causal-effects/),194,FALSE,NA,###  Tutorials,link,2018-11-26
-![Generating data to explore the myriad causal effects that can be estimated in observational data analysis](https://raw.githubusercontent.com/rweekly/image/master/2018/myriad.png),180,FALSE,NA,###  Tutorials,image,2018-11-26
-+ [The best way to visit Luxembourguish castles is doing data science + combinatorial optimization](http://www.brodrigues.co/blog/2018-11-21-lux_castle/),153,FALSE,NA,###  Tutorials,link,2018-11-26
-+ [Buying a heat pump the data scientist way](https://www.simoncoulombe.com/2018/11/22/heatpump/),97,FALSE,NA,###  Tutorials,link,2018-11-26
-+ [Counting digits](http://freerangestats.info/blog/2018/11/24/counting-digits),79,FALSE,NA,###  Tutorials,link,2018-11-26
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-11-26
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-11-26
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-11-26
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-11-26
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-11-26
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">⚡️ “R Animated GIFs” - curated collection of animated GIFs by various authors on <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> topics.<a href=""https://t.co/hWpwrJPF52"">https://t.co/hWpwrJPF52</a></p>&mdash; Nic Crane (@nic_crane) <a href=""https://twitter.com/nic_crane/status/1065912089791873024?ref_src=twsrc%5Etfw"">November 23, 2018</a></blockquote>",467,FALSE,NA,###  Quotes of the Week,unid,2018-11-26
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-11-26
+title: R Weekly 2018-48 ozunconf18,34,FALSE,NA,unid,2018-11-26
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-11-26
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-11-26
+---,3,FALSE,NA,unid,2018-11-26
++ [RStudio 1.2 Preview: The Little Things](https://blog.rstudio.com/2018/11/19/rstudio-1-2-preview-the-little-things/),118,FALSE,###  Highlight,link,2018-11-26
++ [ozunconf18](https://github.com/ropensci/ozunconf18/blob/master/content/projects.md) - R OpenSci ozunconference 2018 Projects,127,FALSE,###  Highlight,link,2018-11-26
++ [R > Python: a Concrete Example](https://matloff.wordpress.com/2018/11/20/r-python-a-concrete-example/),105,FALSE,### Insights,link,2018-11-26
++ [Checklist Recipe - How we created a template to standardize species data](https://ropensci.org/blog/2018/11/20/checklist-recipe/),132,FALSE,### Insights,link,2018-11-26
++ [Tis the Season to Check your SSL/TLS Cipher List Thrice (RCurl/curl/openssl)](https://rud.is/b/2018/11/17/tis-the-season-to-check-your-ssl-tls-cipher-list-thrice-rcurl-curl-openssl/),185,FALSE,### Insights,link,2018-11-26
++ [The Distribution of Time Between Recessions: Revisited (with MCHT)](https://ntguardian.wordpress.com/2018/11/19/distribution-time-between-recessions-revisited-mcht/),168,FALSE,### R in the Real World,link,2018-11-26
++ [Tweeting wikidata info](https://blog.rmhogervorst.nl/blog/2018/11/19/tweeting-wikidata-info/),96,FALSE,### R in the Real World,link,2018-11-26
++ [Hacking Bioconductor](https://www.jumpingrivers.com/blog/security-r-hacking-bioconductor/),93,FALSE,### R in the Real World,link,2018-11-26
+![Hacking Bioconductor](https://raw.githubusercontent.com/rweekly/image/master/2018/blog-security.png),102,FALSE,### R in the Real World,image,2018-11-26
++ [EARL conference recap: Seattle 2018](https://bayesball.blogspot.com/2018/11/earl-conference-recap-seattle-2018.html),119,FALSE,###  R in Organizations,link,2018-11-26
++ [ozunconf18](https://github.com/ropensci/ozunconf18/blob/master/content/projects.md) - R OpenSci ozunconference 2018 Projects,127,FALSE,###  Resources,link,2018-11-26
+"+ [AI, Machine Learning and Data Science Roundup: November 2018](https://blog.revolutionanalytics.com/2018/11/ai-roundup-nov-2018.html)",135,FALSE,###  Resources,link,2018-11-26
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-11-26
+**CRAN**,8,FALSE,###  New Packages,unid,2018-11-26
++ [rsppfp](https://melvidoni.github.io/rsppfp/) - Implements different algorithms for transforming graphs in the Shortest Path Problem with Forbidden Paths,155,FALSE,###  New Packages,link,2018-11-26
++ [RFishBC](http://derekogle.com/fishR/2018-11-22-RFishBC-Release) - Back-Calculation of Fish Length,100,FALSE,###  New Packages,link,2018-11-26
++ [grrr](https://coolbutuseless.github.io/2018/11/20/grrr-a-package-for-changing-default-function-arguments/)  - Package for changing default function arguments,160,FALSE,###  New Packages,link,2018-11-26
++ [citr](https://github.com/crsh/citr) - RStudio Addin to Insert Markdown Citations,83,FALSE,###  New Packages,link,2018-11-26
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2018-11-26
++ [generativeart](https://github.com/cutterkom/generativeart) - Generative Art,78,FALSE,###  New Packages,link,2018-11-26
+![generativeart](https://raw.githubusercontent.com/rweekly/image/master/2018/generativeart.png),95,FALSE,###  New Packages,image,2018-11-26
++ [vitae](https://github.com/ropenscilabs/vitae) - R Markdown Résumé/CV templates,81,FALSE,###  New Packages,link,2018-11-26
++ [crrri](https://github.com/RLesur/crrri) - A Chrome Remote Interface written in R,83,FALSE,###  New Packages,link,2018-11-26
++ [OpenCPU 2.1](https://www.opencpu.org/posts/opencpu-201/) - Scalable R Apps and Services,90,FALSE,### Package Releases,link,2018-11-26
++ [RcppMsgPack 0.2.3](http://dirk.eddelbuettel.com/blog/2018/11/18#rcppmsgpack_0.2.3) - MsgPack Headers for R,109,FALSE,### Package Releases,link,2018-11-26
++ [Hyperlinking text in a ggplot2 visualization](https://stackoverflow.com/questions/42259826/hyperlinking-text-in-a-ggplot2-visualization),139,FALSE,###  Tutorials,link,2018-11-26
++ [Rayshading With Base R](https://www.brodieg.com/2018/10/23/do-not-shade-r/),78,FALSE,###  Tutorials,link,2018-11-26
+![Compare base R render with Rayshader render](https://raw.githubusercontent.com/rweekly/image/master/2018/do-not-shade-shadows.png),132,FALSE,###  Tutorials,image,2018-11-26
++ [Security issues with installing bioconductor](https://www.jumpingrivers.com/blog/security-r-hacking-bioconductor/),117,FALSE,###  Tutorials,link,2018-11-26
++ [Interactive Graphics with R Shiny](http://www.theusrus.de/blog/interactive-graphics-with-r-shiny/),101,FALSE,###  Tutorials,link,2018-11-26
++ [RStudio 1.2 Preview: The Little Things](https://blog.rstudio.com/2018/11/19/rstudio-1-2-preview-the-little-things/),118,FALSE,###  Tutorials,link,2018-11-26
++ [digitizing and tidying tables from images](https://luisdva.github.io/rstats/pic-to-tibble/),94,FALSE,###  Tutorials,link,2018-11-26
++ [A more systematic look at suppressed data](http://freerangestats.info/blog/2018/11/18/suppressed-data-2),107,FALSE,###  Tutorials,link,2018-11-26
+![A more systematic look at suppressed data](https://raw.githubusercontent.com/rweekly/image/master/2018/suppressed.png),120,FALSE,###  Tutorials,image,2018-11-26
++ [Many Factor Models](https://rviews.rstudio.com/2018/11/19/many-factor-models/),81,FALSE,###  Tutorials,link,2018-11-26
++ [Generating data to explore the myriad causal effects that can be estimated in observational data analysis](https://www.rdatagen.net/post/generating-data-to-explore-the-myriad-causal-effects/),194,FALSE,###  Tutorials,link,2018-11-26
+![Generating data to explore the myriad causal effects that can be estimated in observational data analysis](https://raw.githubusercontent.com/rweekly/image/master/2018/myriad.png),180,FALSE,###  Tutorials,image,2018-11-26
++ [The best way to visit Luxembourguish castles is doing data science + combinatorial optimization](http://www.brodrigues.co/blog/2018-11-21-lux_castle/),153,FALSE,###  Tutorials,link,2018-11-26
++ [Buying a heat pump the data scientist way](https://www.simoncoulombe.com/2018/11/22/heatpump/),97,FALSE,###  Tutorials,link,2018-11-26
++ [Counting digits](http://freerangestats.info/blog/2018/11/24/counting-digits),79,FALSE,###  Tutorials,link,2018-11-26
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-11-26
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2018-11-26
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2018-11-26
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-11-26
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-11-26
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">⚡️ “R Animated GIFs” - curated collection of animated GIFs by various authors on <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> topics.<a href=""https://t.co/hWpwrJPF52"">https://t.co/hWpwrJPF52</a></p>&mdash; Nic Crane (@nic_crane) <a href=""https://twitter.com/nic_crane/status/1065912089791873024?ref_src=twsrc%5Etfw"">November 23, 2018</a></blockquote>",467,FALSE,###  Quotes of the Week,unid,2018-11-26

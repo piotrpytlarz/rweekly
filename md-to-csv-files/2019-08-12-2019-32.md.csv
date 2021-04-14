@@ -1,77 +1,77 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-08-12
-"title: R Weekly 2019-32 ggtext, arrow, Shiny Developer Series",61,FALSE,NA,NA,unid,2019-08-12
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-08-12
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-08-12
----,3,FALSE,NA,NA,unid,2019-08-12
-+ [ggtext - Improved text rendering support for {ggplot2}](https://github.com/clauswilke/ggtext),96,FALSE,NA,###  Highlight,link,2019-08-12
-+ [Reduce the size of model objects saved to disk](https://jcahoon.netlify.com/post/2019/08/08/model-butcher/),110,FALSE,NA,###  Highlight,link,2019-08-12
-+ [The Shiny Developer Series](https://blog.rstudio.com/2019/08/05/the-shiny-developer-series/),95,FALSE,NA,###  Highlight,link,2019-08-12
-+ [{arrow}: Apache Arrow R Package](http://arrow.apache.org/blog/2019/08/08/r-package-on-cran/),95,FALSE,NA,###  Highlight,link,2019-08-12
-+ [Remember the change in the sample() function of R 3.6.0](https://f.briatte.org/r/change-in-sample-function-r-3-6-0),118,FALSE,NA,### Insights,link,2019-08-12
-+ [Reduce the size of model objects saved to disk](https://jcahoon.netlify.com/post/2019/08/08/model-butcher/),110,FALSE,NA,### Insights,link,2019-08-12
-+ [The Shiny Developer Series](https://blog.rstudio.com/2019/08/05/the-shiny-developer-series/),95,FALSE,NA,### R in the Real World,link,2019-08-12
-"+ [Using parallelization, multiple git repositories and setting permissions when automating R applications with Jenkins](https://jozef.io/r919-jenkins-pipelines-parallel/)",171,FALSE,NA,### R in the Real World,link,2019-08-12
-+ [In search of the perfect partial plot](https://sethdobson.netlify.com/2019/08/08/in-search-of-the-perfect-partial-plot/),123,FALSE,NA,### R in the Real World,link,2019-08-12
-![In search of the perfect partial plot](https://sethdobson.netlify.com/post/2019-08-08-in-search-of-the-perfect-partial-plot_files/figure-html/unnamed-chunk-6-1.png),166,FALSE,NA,### R in the Real World,image,2019-08-12
-+ [Creating Excel Workbooks with multiple sheets in R](https://finderding.com/creating-excel-workbooks-with-multiple-sheets-in-r/),130,FALSE,NA,### R in the Real World,link,2019-08-12
-"+ [How to generate meaningful fake data for learning, experimentation and teaching](https://www.programmingwithr.com/how-to-generate-meaningful-fake-data-for-learning-experimentation-and-teaching/)",197,FALSE,NA,### R in the Real World,link,2019-08-12
-+ [Authorship classification with tidymodels and textrecipes](https://www.hvitfeldt.me/blog/authorship-classification-with-tidymodels-and-textrecipes/),151,FALSE,NA,### R in the Real World,link,2019-08-12
-+ [Community Call - Reproducible Workflows at Scale with drake](https://ropensci.org/blog/2019/08/08/commcall-sep2019/),119,FALSE,NA,###  R in Organizations,link,2019-08-12
-+ [rstudio::conf(2020) call for submissions](https://blog.rstudio.com/2019/08/09/rstudio-conf-2020-call-for-submissions/),121,FALSE,NA,###  R in Organizations,link,2019-08-12
-+ [Shiny app: Open Trade Statistics](https://github.com/tradestatistics/visualization-with-shiny),97,FALSE,NA,###  Resources,link,2019-08-12
-+ [R Markdown Workshop](https://www.cillianmchugh.com/rblog/rmarkdown-workshop),79,FALSE,NA,###  Resources,link,2019-08-12
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-08-12
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-08-12
-+ [{arrow}: Apache Arrow R Package](http://arrow.apache.org/blog/2019/08/08/r-package-on-cran/),95,FALSE,NA,###  New Packages,link,2019-08-12
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-08-12
-"+ [{pdqr}: Create, transform, and summarize custom random variables with distribution functions (analogues of `p*()`, `d*()`, `q*()`, and `r*()` functions from base R)](https://github.com/echasnovski/pdqr)",205,FALSE,NA,###  New Packages,link,2019-08-12
-+ [{ggtext}: Improved text rendering support for {ggplot2}](https://github.com/clauswilke/ggtext),97,FALSE,NA,###  New Packages,link,2019-08-12
-![Improved text rendering support](https://raw.githubusercontent.com/clauswilke/ggtext/9a92b12ecc62988838185c2a788d9751f27b48b6/man/figures/README-unnamed-chunk-5-1.png),169,FALSE,NA,###  New Packages,image,2019-08-12
-+ [{roxytest}: Inline tests with roxygen and testthat.](https://github.com/mikldk/roxytest),91,FALSE,NA,###  New Packages,link,2019-08-12
-+ [{opendatatoronto}: Access the Toronto Open Data Portal API](https://github.com/sharlagelfand/opendatatoronto),112,FALSE,NA,###  New Packages,link,2019-08-12
-+ [{lofi}: Low-fidelity/Low-bit data representations](https://coolbutuseless.github.io/2019/08/06/introducing-the-lofi-package-for-low-fidelity-low-bit-data-representations/)`,175,FALSE,NA,###  New Packages,link,2019-08-12
-+ [{ggforce 0.3.0}: A Flurry of Facets](https://www.data-imaginist.com/2019/a-flurry-of-facets/),96,FALSE,NA,### Updated Packages,link,2019-08-12
-+ [{mlr 2.15.0}](https://mlr.mlr-org.com/),42,FALSE,NA,### Updated Packages,link,2019-08-12
-+ [{RQuantLib 0.4.10}](http://dirk.eddelbuettel.com/blog/2019/08/07#rquantlib_0.4.10),85,FALSE,NA,### Updated Packages,link,2019-08-12
-+ [Interview with Joe Cheng - useR! 2019](https://www.youtube.com/watch?v=elG0gvnaSIs&feature=youtu.be),103,FALSE,NA,###  Videos and Podcasts,link,2019-08-12
-+ [Bayesian Thinking Podcast](https://fharrell.com/talk/pspodcastbayes/),72,FALSE,NA,###  Videos and Podcasts,link,2019-08-12
-+ [Keeping up with Tidyverse Functions using Tidy Tuesday Screencasts](http://www.notesofdabbler.com/2019/08/06/tidyscreencastfuncs/),133,FALSE,NA,###  Videos and Podcasts,link,2019-08-12
-![Keeping up with Tidyverse Functions using Tidy Tuesday Screencasts](https://raw.githubusercontent.com/notesofdabbler/blog_notesofdabbler/master/popularTidyVerseFuncs/figure/libcntplt-1.png),191,FALSE,NA,###  Videos and Podcasts,image,2019-08-12
-+ [tibble subsetting and subassignment](https://tibble.tidyverse.org/dev/articles/subassign.html),97,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [First part of a series on how I setup this RStudio distill themed blog with Netlify](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/),157,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [Beginners Cookbook for Interactive Visualization in R with highcharter](https://www.programmingwithr.com/beginners-cookbook-for-interactive-visualization-in-r-with-highcharter/),180,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [Automatic {testthat} test skeletons with new R package {roxytest} extending {roxygen2}](https://mikl.dk/post/2019-roxytest/),127,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [PowerPoint report generation with Shiny](https://www.tychobra.com/posts/2019_07_29_ppt_report_generation/),109,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [{gganimate} your hex!](https://www.ddrive.no/post/gganimate-your-hex/),73,FALSE,NA,###  Tutorials,link,2019-08-12
-![{gganimate} your hex!](https://www.ddrive.no/post/2019-08-06-gganimate-your-hex_files/animated_card.gif),106,FALSE,NA,###  Tutorials,image,2019-08-12
-+ [Announcing pdqr: package for working with custom distribution functions](http://www.questionflow.org/2019/08/01/announcing-pdqr/),132,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [Arguments of stats::density(): Anamated illustrations of how arguments affect output of `stats::density()`](http://www.questionflow.org/2019/08/06/arguments-of-stats-density/),178,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [#23: Debugging with Docker and Rocker – A Concrete Example helping on macOS](http://dirk.eddelbuettel.com/blog/2019/08/05#023_rocker_debug_example),150,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [Causal inference with DAGs in R](https://paoloeusebi.blog/2019/08/06/causal-inference-with-dags-in-r/),105,FALSE,NA,###  Tutorials,link,2019-08-12
-![Causal inference with DAGs in R](https://paoloeusebi.files.wordpress.com/2019/08/ggdag2.png),94,FALSE,NA,###  Tutorials,image,2019-08-12
-+ [Returning to Tides](http://www.win-vector.com/blog/2019/08/returning-to-tides/),82,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [Arguments of stats::density()](http://www.questionflow.org/2019/08/06/arguments-of-stats-density/),101,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [The Colors of xcolor](https://www.garrickadenbuie.com/blog/colors-of-xcolor/),80,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [Interactive Visualization in R with apexcharter](https://www.programmingwithr.com/interactive-visualization-in-r-with-apexcharter/),134,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [Finding duplicates in data frame across columns and replacing them with unique values using R](https://tomaztsql.wordpress.com/2019/08/05/finding-duplicates-in-data-frame-across-columns-and-replacing-them-with-unique-values-using-r/),236,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [How to make Square (Pie) Charts for Infographics in R](https://www.programmingwithr.com/how-to-make-square-pie-charts-for-infographics-in-r/),144,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [Check your (Mixed) Model for Multicollinearity with 'performance'](https://easystats.github.io/blog/posts/performance_check_collinearity/),141,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [Shapiro-Wilk Test for Normality in R](https://jointhedatathread.com/2019/08/08/shapiro-wilk-test-for-normality-in-r/),120,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [Beginners Cookbook for Interactive Visualization in R with highcharter](https://www.programmingwithr.com/beginners-cookbook-for-interactive-visualization-in-r-with-highcharter/),180,FALSE,NA,###  Tutorials,link,2019-08-12
-+ [Speeding up Bayesian sampling with map_rect](https://www.briancallander.com/posts/map_rect/speeding_up_bayesian_sampling_with_map_rect.html),143,FALSE,NA,###  Tutorials,link,2019-08-12
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-08-12
-"n></div><div class=""post-more-end""></div>-->",44,FALSE,NA,###  Tutorials,unid,2019-08-12
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-08-12
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-08-12
-"+ [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools",166,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-12
-"+ [R/Pharma Conference 2019, August 21 - 23](http://rinpharma.com/)",67,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-12
-"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)",63,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-12
-"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-12
-"+ [rOpenSci OzUnconf (Sydney, Australia), December 11 - 13 2019](https://ozunconf19.ropensci.org/)",98,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-12
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-12
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-12
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-08-12
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-08-12
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">R Assignment Alignment Chart <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a><br><br>(building in my own opinion regarding `=` 😁) <a href=""https://t.co/BXfGMJfkcU"">pic.twitter.com/BXfGMJfkcU</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href=""https://twitter.com/tylermorganwall/status/1160273084517158912?ref_src=twsrc%5Etfw"">August 10, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",552,FALSE,NA,###  Quotes of the Week,unid,2019-08-12
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">R is quickly becoming the tool of choice for data analysis in science. Lists of excellent resources to learn <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> have been compiled in multiple places (I will mention here the amazing work of <a href=""https://twitter.com/djnavarro?ref_src=twsrc%5Etfw"">@djnavarro</a> <a href=""https://twitter.com/MattCrump_?ref_src=twsrc%5Etfw"">@MattCrump_</a> and of course <a href=""https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw"">@hadleywickham</a> , links below) 1/6</p>&mdash; David Moreau (@davidwmoreau) <a href=""https://twitter.com/davidwmoreau/status/1158181303226781696?ref_src=twsrc%5Etfw"">August 5, 2019</a></blockquote>",764,FALSE,NA,###  Quotes of the Week,unid,2019-08-12
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-08-12
+"title: R Weekly 2019-32 ggtext, arrow, Shiny Developer Series",61,FALSE,NA,unid,2019-08-12
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-08-12
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-08-12
+---,3,FALSE,NA,unid,2019-08-12
++ [ggtext - Improved text rendering support for {ggplot2}](https://github.com/clauswilke/ggtext),96,FALSE,###  Highlight,link,2019-08-12
++ [Reduce the size of model objects saved to disk](https://jcahoon.netlify.com/post/2019/08/08/model-butcher/),110,FALSE,###  Highlight,link,2019-08-12
++ [The Shiny Developer Series](https://blog.rstudio.com/2019/08/05/the-shiny-developer-series/),95,FALSE,###  Highlight,link,2019-08-12
++ [{arrow}: Apache Arrow R Package](http://arrow.apache.org/blog/2019/08/08/r-package-on-cran/),95,FALSE,###  Highlight,link,2019-08-12
++ [Remember the change in the sample() function of R 3.6.0](https://f.briatte.org/r/change-in-sample-function-r-3-6-0),118,FALSE,### Insights,link,2019-08-12
++ [Reduce the size of model objects saved to disk](https://jcahoon.netlify.com/post/2019/08/08/model-butcher/),110,FALSE,### Insights,link,2019-08-12
++ [The Shiny Developer Series](https://blog.rstudio.com/2019/08/05/the-shiny-developer-series/),95,FALSE,### R in the Real World,link,2019-08-12
+"+ [Using parallelization, multiple git repositories and setting permissions when automating R applications with Jenkins](https://jozef.io/r919-jenkins-pipelines-parallel/)",171,FALSE,### R in the Real World,link,2019-08-12
++ [In search of the perfect partial plot](https://sethdobson.netlify.com/2019/08/08/in-search-of-the-perfect-partial-plot/),123,FALSE,### R in the Real World,link,2019-08-12
+![In search of the perfect partial plot](https://sethdobson.netlify.com/post/2019-08-08-in-search-of-the-perfect-partial-plot_files/figure-html/unnamed-chunk-6-1.png),166,FALSE,### R in the Real World,image,2019-08-12
++ [Creating Excel Workbooks with multiple sheets in R](https://finderding.com/creating-excel-workbooks-with-multiple-sheets-in-r/),130,FALSE,### R in the Real World,link,2019-08-12
+"+ [How to generate meaningful fake data for learning, experimentation and teaching](https://www.programmingwithr.com/how-to-generate-meaningful-fake-data-for-learning-experimentation-and-teaching/)",197,FALSE,### R in the Real World,link,2019-08-12
++ [Authorship classification with tidymodels and textrecipes](https://www.hvitfeldt.me/blog/authorship-classification-with-tidymodels-and-textrecipes/),151,FALSE,### R in the Real World,link,2019-08-12
++ [Community Call - Reproducible Workflows at Scale with drake](https://ropensci.org/blog/2019/08/08/commcall-sep2019/),119,FALSE,###  R in Organizations,link,2019-08-12
++ [rstudio::conf(2020) call for submissions](https://blog.rstudio.com/2019/08/09/rstudio-conf-2020-call-for-submissions/),121,FALSE,###  R in Organizations,link,2019-08-12
++ [Shiny app: Open Trade Statistics](https://github.com/tradestatistics/visualization-with-shiny),97,FALSE,###  Resources,link,2019-08-12
++ [R Markdown Workshop](https://www.cillianmchugh.com/rblog/rmarkdown-workshop),79,FALSE,###  Resources,link,2019-08-12
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-08-12
+**CRAN**,8,FALSE,###  New Packages,unid,2019-08-12
++ [{arrow}: Apache Arrow R Package](http://arrow.apache.org/blog/2019/08/08/r-package-on-cran/),95,FALSE,###  New Packages,link,2019-08-12
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-08-12
+"+ [{pdqr}: Create, transform, and summarize custom random variables with distribution functions (analogues of `p*()`, `d*()`, `q*()`, and `r*()` functions from base R)](https://github.com/echasnovski/pdqr)",205,FALSE,###  New Packages,link,2019-08-12
++ [{ggtext}: Improved text rendering support for {ggplot2}](https://github.com/clauswilke/ggtext),97,FALSE,###  New Packages,link,2019-08-12
+![Improved text rendering support](https://raw.githubusercontent.com/clauswilke/ggtext/9a92b12ecc62988838185c2a788d9751f27b48b6/man/figures/README-unnamed-chunk-5-1.png),169,FALSE,###  New Packages,image,2019-08-12
++ [{roxytest}: Inline tests with roxygen and testthat.](https://github.com/mikldk/roxytest),91,FALSE,###  New Packages,link,2019-08-12
++ [{opendatatoronto}: Access the Toronto Open Data Portal API](https://github.com/sharlagelfand/opendatatoronto),112,FALSE,###  New Packages,link,2019-08-12
++ [{lofi}: Low-fidelity/Low-bit data representations](https://coolbutuseless.github.io/2019/08/06/introducing-the-lofi-package-for-low-fidelity-low-bit-data-representations/)`,175,FALSE,###  New Packages,link,2019-08-12
++ [{ggforce 0.3.0}: A Flurry of Facets](https://www.data-imaginist.com/2019/a-flurry-of-facets/),96,FALSE,### Updated Packages,link,2019-08-12
++ [{mlr 2.15.0}](https://mlr.mlr-org.com/),42,FALSE,### Updated Packages,link,2019-08-12
++ [{RQuantLib 0.4.10}](http://dirk.eddelbuettel.com/blog/2019/08/07#rquantlib_0.4.10),85,FALSE,### Updated Packages,link,2019-08-12
++ [Interview with Joe Cheng - useR! 2019](https://www.youtube.com/watch?v=elG0gvnaSIs&feature=youtu.be),103,FALSE,###  Videos and Podcasts,link,2019-08-12
++ [Bayesian Thinking Podcast](https://fharrell.com/talk/pspodcastbayes/),72,FALSE,###  Videos and Podcasts,link,2019-08-12
++ [Keeping up with Tidyverse Functions using Tidy Tuesday Screencasts](http://www.notesofdabbler.com/2019/08/06/tidyscreencastfuncs/),133,FALSE,###  Videos and Podcasts,link,2019-08-12
+![Keeping up with Tidyverse Functions using Tidy Tuesday Screencasts](https://raw.githubusercontent.com/notesofdabbler/blog_notesofdabbler/master/popularTidyVerseFuncs/figure/libcntplt-1.png),191,FALSE,###  Videos and Podcasts,image,2019-08-12
++ [tibble subsetting and subassignment](https://tibble.tidyverse.org/dev/articles/subassign.html),97,FALSE,###  Tutorials,link,2019-08-12
++ [First part of a series on how I setup this RStudio distill themed blog with Netlify](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/),157,FALSE,###  Tutorials,link,2019-08-12
++ [Beginners Cookbook for Interactive Visualization in R with highcharter](https://www.programmingwithr.com/beginners-cookbook-for-interactive-visualization-in-r-with-highcharter/),180,FALSE,###  Tutorials,link,2019-08-12
++ [Automatic {testthat} test skeletons with new R package {roxytest} extending {roxygen2}](https://mikl.dk/post/2019-roxytest/),127,FALSE,###  Tutorials,link,2019-08-12
++ [PowerPoint report generation with Shiny](https://www.tychobra.com/posts/2019_07_29_ppt_report_generation/),109,FALSE,###  Tutorials,link,2019-08-12
++ [{gganimate} your hex!](https://www.ddrive.no/post/gganimate-your-hex/),73,FALSE,###  Tutorials,link,2019-08-12
+![{gganimate} your hex!](https://www.ddrive.no/post/2019-08-06-gganimate-your-hex_files/animated_card.gif),106,FALSE,###  Tutorials,image,2019-08-12
++ [Announcing pdqr: package for working with custom distribution functions](http://www.questionflow.org/2019/08/01/announcing-pdqr/),132,FALSE,###  Tutorials,link,2019-08-12
++ [Arguments of stats::density(): Anamated illustrations of how arguments affect output of `stats::density()`](http://www.questionflow.org/2019/08/06/arguments-of-stats-density/),178,FALSE,###  Tutorials,link,2019-08-12
++ [#23: Debugging with Docker and Rocker – A Concrete Example helping on macOS](http://dirk.eddelbuettel.com/blog/2019/08/05#023_rocker_debug_example),150,FALSE,###  Tutorials,link,2019-08-12
++ [Causal inference with DAGs in R](https://paoloeusebi.blog/2019/08/06/causal-inference-with-dags-in-r/),105,FALSE,###  Tutorials,link,2019-08-12
+![Causal inference with DAGs in R](https://paoloeusebi.files.wordpress.com/2019/08/ggdag2.png),94,FALSE,###  Tutorials,image,2019-08-12
++ [Returning to Tides](http://www.win-vector.com/blog/2019/08/returning-to-tides/),82,FALSE,###  Tutorials,link,2019-08-12
++ [Arguments of stats::density()](http://www.questionflow.org/2019/08/06/arguments-of-stats-density/),101,FALSE,###  Tutorials,link,2019-08-12
++ [The Colors of xcolor](https://www.garrickadenbuie.com/blog/colors-of-xcolor/),80,FALSE,###  Tutorials,link,2019-08-12
++ [Interactive Visualization in R with apexcharter](https://www.programmingwithr.com/interactive-visualization-in-r-with-apexcharter/),134,FALSE,###  Tutorials,link,2019-08-12
++ [Finding duplicates in data frame across columns and replacing them with unique values using R](https://tomaztsql.wordpress.com/2019/08/05/finding-duplicates-in-data-frame-across-columns-and-replacing-them-with-unique-values-using-r/),236,FALSE,###  Tutorials,link,2019-08-12
++ [How to make Square (Pie) Charts for Infographics in R](https://www.programmingwithr.com/how-to-make-square-pie-charts-for-infographics-in-r/),144,FALSE,###  Tutorials,link,2019-08-12
++ [Check your (Mixed) Model for Multicollinearity with 'performance'](https://easystats.github.io/blog/posts/performance_check_collinearity/),141,FALSE,###  Tutorials,link,2019-08-12
++ [Shapiro-Wilk Test for Normality in R](https://jointhedatathread.com/2019/08/08/shapiro-wilk-test-for-normality-in-r/),120,FALSE,###  Tutorials,link,2019-08-12
++ [Beginners Cookbook for Interactive Visualization in R with highcharter](https://www.programmingwithr.com/beginners-cookbook-for-interactive-visualization-in-r-with-highcharter/),180,FALSE,###  Tutorials,link,2019-08-12
++ [Speeding up Bayesian sampling with map_rect](https://www.briancallander.com/posts/map_rect/speeding_up_bayesian_sampling_with_map_rect.html),143,FALSE,###  Tutorials,link,2019-08-12
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2019-08-12
+"n></div><div class=""post-more-end""></div>-->",44,FALSE,###  Tutorials,unid,2019-08-12
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-08-12
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-08-12
+"+ [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools",166,FALSE,###  Upcoming Events in 3 Months,link,2019-08-12
+"+ [R/Pharma Conference 2019, August 21 - 23](http://rinpharma.com/)",67,FALSE,###  Upcoming Events in 3 Months,link,2019-08-12
+"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)",63,FALSE,###  Upcoming Events in 3 Months,link,2019-08-12
+"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,###  Upcoming Events in 3 Months,link,2019-08-12
+"+ [rOpenSci OzUnconf (Sydney, Australia), December 11 - 13 2019](https://ozunconf19.ropensci.org/)",98,FALSE,###  Upcoming Events in 3 Months,link,2019-08-12
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-08-12
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-08-12
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-08-12
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-08-12
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">R Assignment Alignment Chart <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a><br><br>(building in my own opinion regarding `=` 😁) <a href=""https://t.co/BXfGMJfkcU"">pic.twitter.com/BXfGMJfkcU</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href=""https://twitter.com/tylermorganwall/status/1160273084517158912?ref_src=twsrc%5Etfw"">August 10, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",552,FALSE,###  Quotes of the Week,unid,2019-08-12
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">R is quickly becoming the tool of choice for data analysis in science. Lists of excellent resources to learn <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> have been compiled in multiple places (I will mention here the amazing work of <a href=""https://twitter.com/djnavarro?ref_src=twsrc%5Etfw"">@djnavarro</a> <a href=""https://twitter.com/MattCrump_?ref_src=twsrc%5Etfw"">@MattCrump_</a> and of course <a href=""https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw"">@hadleywickham</a> , links below) 1/6</p>&mdash; David Moreau (@davidwmoreau) <a href=""https://twitter.com/davidwmoreau/status/1158181303226781696?ref_src=twsrc%5Etfw"">August 5, 2019</a></blockquote>",764,FALSE,###  Quotes of the Week,unid,2019-08-12

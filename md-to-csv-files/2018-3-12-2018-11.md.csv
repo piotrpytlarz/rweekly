@@ -1,93 +1,93 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-3-12
-"title: R Weekly 2018-11 rstudio::conf 2018, lime",48,FALSE,NA,NA,unid,2018-3-12
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-3-12
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-3-12
----,3,FALSE,NA,NA,unid,2018-3-12
-+ [lime v0.4: The kitten picture edition](https://www.data-imaginist.com/2018/lime-v0-4-the-kitten-picture-edition/),116,FALSE,NA,###  Highlight,link,2018-3-12
-+ [RStudio conf 2018 Videos](https://www.rstudio.com/resources/webinars/#rstudioconf2018),89,FALSE,NA,###  Highlight,link,2018-3-12
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-3-12
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-3-12
-+ [textfeatures](https://cran.r-project.org/package=textfeatures) - Extracts Features from Text (A simple package for extracting useful features from character objects),168,FALSE,NA,###  New Packages,link,2018-3-12
-![textfeatures](https://raw.githubusercontent.com/rweekly/image/master/2018/text.png),85,FALSE,NA,###  New Packages,image,2018-3-12
-+ [autoplotly](https://CRAN.R-project.org/package=autoplotly) - Automatic Generation of Interactive Visualizations for Popular Statistical Results,146,FALSE,NA,###  New Packages,link,2018-3-12
-+ [onnx](https://CRAN.R-project.org/package=onnx) - R Interface to [Open Neural Network Exchange (ONNX)](https://onnx.ai/),122,FALSE,NA,###  New Packages,link,2018-3-12
-**BioC**,8,FALSE,NA,###  New Packages,unid,2018-3-12
-+ [wiggleplotr](https://bioconductor.org/packages/release/bioc/html/wiggleplotr.html) - Make read coverage plots from BigWig files,130,FALSE,NA,###  New Packages,link,2018-3-12
-![wiggleplotr](https://raw.githubusercontent.com/rweekly/image/master/2018/wigget.png),86,FALSE,NA,###  New Packages,image,2018-3-12
-* [ggfortify 	0.4.3](https://CRAN.R-project.org/package=ggfortify) - Unified Interface to Visualize Statistical Result of Popular R Packages,140,FALSE,NA,### Package Releases,unid,2018-3-12
-+ [lime v0.4](https://www.data-imaginist.com/2018/lime-v0-4-the-kitten-picture-edition/) - The kitten picture edition,117,FALSE,NA,### Package Releases,link,2018-3-12
-![lime v0.4](https://raw.githubusercontent.com/rweekly/image/master/2018/lime.png),82,FALSE,NA,### Package Releases,image,2018-3-12
-+ [Demonstration of statistical concepts or programming](http://m-clark.github.io/documents/),93,FALSE,NA,###  Resources,link,2018-3-12
-+ [RStudio conf 2018 Videos](https://www.rstudio.com/resources/webinars/#rstudioconf2018),89,FALSE,NA,###  Videos and Podcasts,link,2018-3-12
-+ [Platform Deprecation Strategy](https://blog.rstudio.com/2018/03/07/platform-deprecation-strategy/),101,FALSE,NA,### Insights,link,2018-3-12
-+ [File organization best practices](https://andrewbtran.github.io/NICAR/2018/workflow/docs/01-workflow_intro.html),115,FALSE,NA,### Insights,link,2018-3-12
-+ [Reflections on 4 months of GitHub: my advice to beginners](https://suzan.rbind.io/2018/03/reflections-4-months-of-github/),125,FALSE,NA,### Insights,link,2018-3-12
-+ [CUDA in R on macOS X](https://mattstats.wordpress.com/2018/03/05/cuda-in-r-on-macos-x/),90,FALSE,NA,### Insights,link,2018-3-12
-+ [JC and the Vignettes](https://jcarroll.com.au/2018/03/06/jc-and-the-vignettes/),82,FALSE,NA,### Insights,link,2018-3-12
-+ [Tidy Text Analysis of R Weekly](https://tonyelhabr.rbind.io/posts/tidy-text-analysis-rweekly/),97,FALSE,NA,### R in the Real World,link,2018-3-12
-+ [Tidytext analysis of Grimms' Fairy Tales](http://annamarbut.blogspot.com/2018/03/grimms-fairy-tales-tidytext-analysis.html),126,FALSE,NA,### R in the Real World,link,2018-3-12
-+ [Analyzing Metadata for CRAN Packages](https://rviews.rstudio.com/2018/03/08/cran-package-metadata/),102,FALSE,NA,### R in the Real World,link,2018-3-12
-+ [Generating codebooks in R using the dataMaid package](http://sandsynligvis.dk/articles/18/codebook.html),107,FALSE,NA,###  Tutorials,link,2018-3-12
-![Generating codebooks in R using the dataMaid package](https://raw.githubusercontent.com/rweekly/image/master/2018/codebook2.png),130,FALSE,NA,###  Tutorials,image,2018-3-12
-+ [Handling Semantic Version Strings Like a Boss with the semver Package](https://rud.is/b/2018/03/07/handling-semantic-version-string-like-a-boss-with-the-semver-package/),172,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Some Tools for Writing Shiny Apps](http://skranz.github.io//r/2018/03/08/Tools_for_Writing_Shiny_Apps.html),110,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [autoplotly - one line of R code to build interactive visualizations for popular statistical results](https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/),165,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Tao of Tidygraph - analysis of “Tao Te Programming” alliance graph within tidy network analysis framework](http://www.questionflow.org/2018/03/06/tao-of-tidygraph/),167,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [A gentle introduction to git with a focus on R users](https://github.com/lorenzwalthert/ethz-tutorials/blob/master/git-tutorial/slides-git.pdf),146,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Finding Datasets in R](http://ilustat.com/post/finding-datasets-in-r/),73,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [The 5 Steps to Get Google Analytics Ready for Data Science](https://www.linkedin.com/pulse/5-steps-get-google-analytics-ready-data-science-papageorgiou/),156,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [How to create shiny app](https://github.com/tabyani/shinyblog/blob/master/Shinyblogger.Rmd),94,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Improving Research Through Safer Learning from Data](http://fharrell.com/post/improve-research/),99,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [The R Markdown Source Documents of My Presentations](https://yihui.name/en/2018/03/pres-rmd-source/),103,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Hacking the R (HTML) Help Pages](https://yihui.name/en/2018/03/hacking-rd/),78,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [The Second Pull Request Could be (Much) Better](https://yihui.name/en/2018/03/second-pull-request/),102,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [a one-chance meeting [puzzle]](https://xianblog.wordpress.com/2018/03/06/a-one-chance-meeting-puzzle/),105,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [first dplyr mondays](https://purrple.cat/blog/2018/03/06/first-dplyr-mondays/),81,FALSE,NA,###  Tutorials,link,2018-3-12
-"+ [R Tip: Use vector(mode = ""list"") to Pre-Allocate Lists](http://www.win-vector.com/blog/2018/03/r-tip-use-vectormode-list-to-pre-allocate-lists/)",147,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Integrating data from weathercan](https://ropensci.org/blog/2018/03/06/weathercan/),86,FALSE,NA,###  Tutorials,link,2018-3-12
-![Integrating data from weathercan](https://raw.githubusercontent.com/rweekly/image/master/2018/mapview-1.png),110,FALSE,NA,###  Tutorials,image,2018-3-12
-+ [Choosing Priors: Double-Yolk Bayesian Egg](http://blog.revolutionanalytics.com/2018/03/bayesian-egg.html),108,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Another reason to be careful about what you control for](https://www.rdatagen.net/post/another-reason-to-be-careful-about-what-you-control-for/),147,FALSE,NA,###  Tutorials,link,2018-3-12
-"+ [arrow, rrrow, rcher, spurrrow](https://purrple.cat/blog/2018/03/07/arrow-rrrow-rcher-spurrrow/)",98,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [chop(): A tidyverse-style split()](https://coolbutuseless.bitbucket.io/2018/03/07/chop-a-tidyverse-style-split/),115,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Exploring influence in networks](http://selbydavid.com/2018/03/07/influence/),80,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [uniform on the sphere [or not]](https://xianblog.wordpress.com/2018/03/08/uniform-on-the-sphere-or-not/),107,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [R Tip: Introduce Indices to Avoid for() Class Loss Issues](http://www.win-vector.com/blog/2018/03/r-tip-introduce-indices-to-avoid-for-class-loss-issues/),157,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Compare outlier detection methods with the OutliersO3 package](http://blog.revolutionanalytics.com/2018/03/outliers.html),124,FALSE,NA,###  Tutorials,link,2018-3-12
-"+ [R data concepts, for Excel users](http://blog.revolutionanalytics.com/2018/03/r-data-concepts-for-excel-users.html)",118,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Building Distribution Reference Tables in R](https://roh.engineering/post/building-distribution-reference-tables-in-r/),122,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Extend broom's tidy() and glance() to work with lists of multiply imputed regression models](https://www.andrewheiss.com/blog/2018/03/08/amelia-broom-huxtable/),163,FALSE,NA,###  Tutorials,link,2018-3-12
-+ [Use tidyverse functions to correctly meld/pool coefficients and other results from multiply imputed models](https://www.andrewheiss.com/blog/2018/03/07/amelia-tidy-melding/),176,FALSE,NA,###  Tutorials,link,2018-3-12
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-3-12
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-3-12
-"+ Some `as.data.frame()` methods, notably the `matrix` one, are now more careful in not accepting duplicated or `NA` row names, and by default produce unique non-NA row names. This is based on `row.names(x, make.names = *) <- rNms` where `make.names` is a new logical, with back compatible default.",298,FALSE,NA,###  R Project Updates,unid,2018-3-12
-+ `par*apply` and `par*applyLB` gain an optional argument `chunk.size` which allows to specify the granularity of scheduling.,125,FALSE,NA,###  R Project Updates,unid,2018-3-12
-"+ `parLapplyLB` and `parSapplyLB` have been fixed to do load balancing (dynamic scheduling). This also means that results of computations depending on random number generators will now really be non-reproducible, as documented.",227,FALSE,NA,###  R Project Updates,unid,2018-3-12
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-+ satRday Cape Town 2018 **March 17** <br />,44,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-[satRday Cape Town](http://capetown2018.satrdays.org/),54,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-+ New York R conference **Aprl 20-21** <br />,45,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-"[New York R conference](https://www.rstats.nyc/), Discount Code : rladies",73,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-+ [eRum 2018](http://2018.erum.io) **May 14-16** <br />,55,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-3-12
-"European R Users Meeting @ Budapest, Hungary",44,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-+ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-+ [CascadiaRConf](https://cascadiarconf.com/) **June 2**,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-3-12
-"Portland, OR, US",16,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-<!--,4,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-+ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-3-12
-Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-+ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-3-12
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-+ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-3-12
-"Buenos Aires, Argentina. -->",28,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-3-12
-+ [R-Ladies NYC April 2018 Book Club](https://www.goodreads.com/group/show/225365-r-ladies-nyc) R-Ladies NYC are still gathering suggestions for the bookclub.,158,FALSE,NA,###  Call for Participation,link,2018-3-12
-"+ [LatinR 2018 Call for papers](http://latin-r.com/blog/call-for-papers) Abstract submission deadline: April 13, 2018.",118,FALSE,NA,###  Call for Participation,link,2018-3-12
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-3-12
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">💜 Thanks for sharing a wonderful <a href=""https://twitter.com/hashtag/IWD2018?src=hash&amp;ref_src=twsrc%5Etfw"">#IWD2018</a> with us! 💜<br><br>✒️🗒️ Blog post with <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> details coming soon! 🗒️🖋️<br><br>⬇️ <a href=""https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw"">#rladies</a>, don&#39;t forget to follow <a href=""https://twitter.com/hfcfrick?ref_src=twsrc%5Etfw"">@hfcfrick</a>&#39;s advice below! ⬇️ <a href=""https://t.co/j0wp3A0RGB"">https://t.co/j0wp3A0RGB</a></p>&mdash; IWD 2018 featured R-Ladies (@rladies_iwd2018) <a href=""https://twitter.com/rladies_iwd2018/status/972072302727892992?ref_src=twsrc%5Etfw"">9 de març de 2018</a></blockquote>",822,FALSE,NA,###  Quotes of the Week,unid,2018-3-12
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Here&#39;s the evolution of Irish Population density 1841-&gt;2002 on a DED level. You can see the devastating impact of the Famine, the gradual thinning of the rural population and the late-20th c. suburban sprawl <a href=""https://twitter.com/hashtag/history?src=hash&amp;ref_src=twsrc%5Etfw"">#history</a> <a href=""https://twitter.com/hashtag/ireland?src=hash&amp;ref_src=twsrc%5Etfw"">#ireland</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/SOwSyHvPIN"">pic.twitter.com/SOwSyHvPIN</a></p>&mdash; Alan Fernihough (@DiffusePrioR) <a href=""https://twitter.com/DiffusePrioR/status/972042199675359232?ref_src=twsrc%5Etfw"">March 9, 2018</a></blockquote>",788,FALSE,NA,###  Quotes of the Week,unid,2018-3-12
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">When you mess up a decimal point simplifying polygons in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> and you go full Picasso during his cubism period... <a href=""https://t.co/MBrgQ4crjZ"">pic.twitter.com/MBrgQ4crjZ</a></p>&mdash; Juan Carlos (@villasenor_jc) <a href=""https://twitter.com/villasenor_jc/status/971508384838008836?ref_src=twsrc%5Etfw"">March 7, 2018</a></blockquote>",496,FALSE,NA,###  Quotes of the Week,unid,2018-3-12
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Dear Past Me,<br><br>Thank you for:<br><br>* documenting your code.<br><br>* standardizing menial tasks in Bash &amp; <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> scripts.<br><br>* using version control.<br><br>* using makefiles.<br><br>I pledge to continue this behavior for Future Me, &amp; for anyone else who needs to make changes to my projects.</p>&mdash; Ezra Brooks (@ezbrooks) <a href=""https://twitter.com/ezbrooks/status/972111069501149184?ref_src=twsrc%5Etfw"">March 9, 2018</a></blockquote>",618,FALSE,NA,###  Quotes of the Week,unid,2018-3-12
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Day in my <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> life:<br><br>0930: How lucky I am to work on clean datasets curated by true professionals.<br>1330: Huh. Some inconsistencies here. No bigs. I&#39;ll just write up some quick and dirty regex to clean this up.<br>1720: I WILL BURN THIS HERETICAL DATA CENTER AND SCATTER ITS ASHES</p>&mdash; Mario Martinez (@Kwarizmi) <a href=""https://twitter.com/Kwarizmi/status/971059152595296256?ref_src=twsrc%5Etfw"">March 6, 2018</a></blockquote>",604,FALSE,NA,###  Quotes of the Week,unid,2018-3-12
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-3-12
+"title: R Weekly 2018-11 rstudio::conf 2018, lime",48,FALSE,NA,unid,2018-3-12
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-3-12
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-3-12
+---,3,FALSE,NA,unid,2018-3-12
++ [lime v0.4: The kitten picture edition](https://www.data-imaginist.com/2018/lime-v0-4-the-kitten-picture-edition/),116,FALSE,###  Highlight,link,2018-3-12
++ [RStudio conf 2018 Videos](https://www.rstudio.com/resources/webinars/#rstudioconf2018),89,FALSE,###  Highlight,link,2018-3-12
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-3-12
+**CRAN**,8,FALSE,###  New Packages,unid,2018-3-12
++ [textfeatures](https://cran.r-project.org/package=textfeatures) - Extracts Features from Text (A simple package for extracting useful features from character objects),168,FALSE,###  New Packages,link,2018-3-12
+![textfeatures](https://raw.githubusercontent.com/rweekly/image/master/2018/text.png),85,FALSE,###  New Packages,image,2018-3-12
++ [autoplotly](https://CRAN.R-project.org/package=autoplotly) - Automatic Generation of Interactive Visualizations for Popular Statistical Results,146,FALSE,###  New Packages,link,2018-3-12
++ [onnx](https://CRAN.R-project.org/package=onnx) - R Interface to [Open Neural Network Exchange (ONNX)](https://onnx.ai/),122,FALSE,###  New Packages,link,2018-3-12
+**BioC**,8,FALSE,###  New Packages,unid,2018-3-12
++ [wiggleplotr](https://bioconductor.org/packages/release/bioc/html/wiggleplotr.html) - Make read coverage plots from BigWig files,130,FALSE,###  New Packages,link,2018-3-12
+![wiggleplotr](https://raw.githubusercontent.com/rweekly/image/master/2018/wigget.png),86,FALSE,###  New Packages,image,2018-3-12
+* [ggfortify 	0.4.3](https://CRAN.R-project.org/package=ggfortify) - Unified Interface to Visualize Statistical Result of Popular R Packages,140,FALSE,### Package Releases,unid,2018-3-12
++ [lime v0.4](https://www.data-imaginist.com/2018/lime-v0-4-the-kitten-picture-edition/) - The kitten picture edition,117,FALSE,### Package Releases,link,2018-3-12
+![lime v0.4](https://raw.githubusercontent.com/rweekly/image/master/2018/lime.png),82,FALSE,### Package Releases,image,2018-3-12
++ [Demonstration of statistical concepts or programming](http://m-clark.github.io/documents/),93,FALSE,###  Resources,link,2018-3-12
++ [RStudio conf 2018 Videos](https://www.rstudio.com/resources/webinars/#rstudioconf2018),89,FALSE,###  Videos and Podcasts,link,2018-3-12
++ [Platform Deprecation Strategy](https://blog.rstudio.com/2018/03/07/platform-deprecation-strategy/),101,FALSE,### Insights,link,2018-3-12
++ [File organization best practices](https://andrewbtran.github.io/NICAR/2018/workflow/docs/01-workflow_intro.html),115,FALSE,### Insights,link,2018-3-12
++ [Reflections on 4 months of GitHub: my advice to beginners](https://suzan.rbind.io/2018/03/reflections-4-months-of-github/),125,FALSE,### Insights,link,2018-3-12
++ [CUDA in R on macOS X](https://mattstats.wordpress.com/2018/03/05/cuda-in-r-on-macos-x/),90,FALSE,### Insights,link,2018-3-12
++ [JC and the Vignettes](https://jcarroll.com.au/2018/03/06/jc-and-the-vignettes/),82,FALSE,### Insights,link,2018-3-12
++ [Tidy Text Analysis of R Weekly](https://tonyelhabr.rbind.io/posts/tidy-text-analysis-rweekly/),97,FALSE,### R in the Real World,link,2018-3-12
++ [Tidytext analysis of Grimms' Fairy Tales](http://annamarbut.blogspot.com/2018/03/grimms-fairy-tales-tidytext-analysis.html),126,FALSE,### R in the Real World,link,2018-3-12
++ [Analyzing Metadata for CRAN Packages](https://rviews.rstudio.com/2018/03/08/cran-package-metadata/),102,FALSE,### R in the Real World,link,2018-3-12
++ [Generating codebooks in R using the dataMaid package](http://sandsynligvis.dk/articles/18/codebook.html),107,FALSE,###  Tutorials,link,2018-3-12
+![Generating codebooks in R using the dataMaid package](https://raw.githubusercontent.com/rweekly/image/master/2018/codebook2.png),130,FALSE,###  Tutorials,image,2018-3-12
++ [Handling Semantic Version Strings Like a Boss with the semver Package](https://rud.is/b/2018/03/07/handling-semantic-version-string-like-a-boss-with-the-semver-package/),172,FALSE,###  Tutorials,link,2018-3-12
++ [Some Tools for Writing Shiny Apps](http://skranz.github.io//r/2018/03/08/Tools_for_Writing_Shiny_Apps.html),110,FALSE,###  Tutorials,link,2018-3-12
++ [autoplotly - one line of R code to build interactive visualizations for popular statistical results](https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/),165,FALSE,###  Tutorials,link,2018-3-12
++ [Tao of Tidygraph - analysis of “Tao Te Programming” alliance graph within tidy network analysis framework](http://www.questionflow.org/2018/03/06/tao-of-tidygraph/),167,FALSE,###  Tutorials,link,2018-3-12
++ [A gentle introduction to git with a focus on R users](https://github.com/lorenzwalthert/ethz-tutorials/blob/master/git-tutorial/slides-git.pdf),146,FALSE,###  Tutorials,link,2018-3-12
++ [Finding Datasets in R](http://ilustat.com/post/finding-datasets-in-r/),73,FALSE,###  Tutorials,link,2018-3-12
++ [The 5 Steps to Get Google Analytics Ready for Data Science](https://www.linkedin.com/pulse/5-steps-get-google-analytics-ready-data-science-papageorgiou/),156,FALSE,###  Tutorials,link,2018-3-12
++ [How to create shiny app](https://github.com/tabyani/shinyblog/blob/master/Shinyblogger.Rmd),94,FALSE,###  Tutorials,link,2018-3-12
++ [Improving Research Through Safer Learning from Data](http://fharrell.com/post/improve-research/),99,FALSE,###  Tutorials,link,2018-3-12
++ [The R Markdown Source Documents of My Presentations](https://yihui.name/en/2018/03/pres-rmd-source/),103,FALSE,###  Tutorials,link,2018-3-12
++ [Hacking the R (HTML) Help Pages](https://yihui.name/en/2018/03/hacking-rd/),78,FALSE,###  Tutorials,link,2018-3-12
++ [The Second Pull Request Could be (Much) Better](https://yihui.name/en/2018/03/second-pull-request/),102,FALSE,###  Tutorials,link,2018-3-12
++ [a one-chance meeting [puzzle]](https://xianblog.wordpress.com/2018/03/06/a-one-chance-meeting-puzzle/),105,FALSE,###  Tutorials,link,2018-3-12
++ [first dplyr mondays](https://purrple.cat/blog/2018/03/06/first-dplyr-mondays/),81,FALSE,###  Tutorials,link,2018-3-12
+"+ [R Tip: Use vector(mode = ""list"") to Pre-Allocate Lists](http://www.win-vector.com/blog/2018/03/r-tip-use-vectormode-list-to-pre-allocate-lists/)",147,FALSE,###  Tutorials,link,2018-3-12
++ [Integrating data from weathercan](https://ropensci.org/blog/2018/03/06/weathercan/),86,FALSE,###  Tutorials,link,2018-3-12
+![Integrating data from weathercan](https://raw.githubusercontent.com/rweekly/image/master/2018/mapview-1.png),110,FALSE,###  Tutorials,image,2018-3-12
++ [Choosing Priors: Double-Yolk Bayesian Egg](http://blog.revolutionanalytics.com/2018/03/bayesian-egg.html),108,FALSE,###  Tutorials,link,2018-3-12
++ [Another reason to be careful about what you control for](https://www.rdatagen.net/post/another-reason-to-be-careful-about-what-you-control-for/),147,FALSE,###  Tutorials,link,2018-3-12
+"+ [arrow, rrrow, rcher, spurrrow](https://purrple.cat/blog/2018/03/07/arrow-rrrow-rcher-spurrrow/)",98,FALSE,###  Tutorials,link,2018-3-12
++ [chop(): A tidyverse-style split()](https://coolbutuseless.bitbucket.io/2018/03/07/chop-a-tidyverse-style-split/),115,FALSE,###  Tutorials,link,2018-3-12
++ [Exploring influence in networks](http://selbydavid.com/2018/03/07/influence/),80,FALSE,###  Tutorials,link,2018-3-12
++ [uniform on the sphere [or not]](https://xianblog.wordpress.com/2018/03/08/uniform-on-the-sphere-or-not/),107,FALSE,###  Tutorials,link,2018-3-12
++ [R Tip: Introduce Indices to Avoid for() Class Loss Issues](http://www.win-vector.com/blog/2018/03/r-tip-introduce-indices-to-avoid-for-class-loss-issues/),157,FALSE,###  Tutorials,link,2018-3-12
++ [Compare outlier detection methods with the OutliersO3 package](http://blog.revolutionanalytics.com/2018/03/outliers.html),124,FALSE,###  Tutorials,link,2018-3-12
+"+ [R data concepts, for Excel users](http://blog.revolutionanalytics.com/2018/03/r-data-concepts-for-excel-users.html)",118,FALSE,###  Tutorials,link,2018-3-12
++ [Building Distribution Reference Tables in R](https://roh.engineering/post/building-distribution-reference-tables-in-r/),122,FALSE,###  Tutorials,link,2018-3-12
++ [Extend broom's tidy() and glance() to work with lists of multiply imputed regression models](https://www.andrewheiss.com/blog/2018/03/08/amelia-broom-huxtable/),163,FALSE,###  Tutorials,link,2018-3-12
++ [Use tidyverse functions to correctly meld/pool coefficients and other results from multiply imputed models](https://www.andrewheiss.com/blog/2018/03/07/amelia-tidy-melding/),176,FALSE,###  Tutorials,link,2018-3-12
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2018-3-12
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2018-3-12
+"+ Some `as.data.frame()` methods, notably the `matrix` one, are now more careful in not accepting duplicated or `NA` row names, and by default produce unique non-NA row names. This is based on `row.names(x, make.names = *) <- rNms` where `make.names` is a new logical, with back compatible default.",298,FALSE,###  R Project Updates,unid,2018-3-12
++ `par*apply` and `par*applyLB` gain an optional argument `chunk.size` which allows to specify the granularity of scheduling.,125,FALSE,###  R Project Updates,unid,2018-3-12
+"+ `parLapplyLB` and `parSapplyLB` have been fixed to do load balancing (dynamic scheduling). This also means that results of computations depending on random number generators will now really be non-reproducible, as documented.",227,FALSE,###  R Project Updates,unid,2018-3-12
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
++ satRday Cape Town 2018 **March 17** <br />,44,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
+[satRday Cape Town](http://capetown2018.satrdays.org/),54,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
++ New York R conference **Aprl 20-21** <br />,45,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
+"[New York R conference](https://www.rstats.nyc/), Discount Code : rladies",73,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
++ [eRum 2018](http://2018.erum.io) **May 14-16** <br />,55,FALSE,###  Upcoming Events in 3 Months,link,2018-3-12
+"European R Users Meeting @ Budapest, Hungary",44,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
+[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
++ [CascadiaRConf](https://cascadiarconf.com/) **June 2**,56,FALSE,###  Upcoming Events in 3 Months,link,2018-3-12
+"Portland, OR, US",16,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
+<!--,4,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,###  Upcoming Events in 3 Months,link,2018-3-12
+Rennes - Agrocampus,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
++ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,###  Upcoming Events in 3 Months,link,2018-3-12
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,###  Upcoming Events in 3 Months,link,2018-3-12
+"Buenos Aires, Argentina. -->",28,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-3-12
++ [R-Ladies NYC April 2018 Book Club](https://www.goodreads.com/group/show/225365-r-ladies-nyc) R-Ladies NYC are still gathering suggestions for the bookclub.,158,FALSE,###  Call for Participation,link,2018-3-12
+"+ [LatinR 2018 Call for papers](http://latin-r.com/blog/call-for-papers) Abstract submission deadline: April 13, 2018.",118,FALSE,###  Call for Participation,link,2018-3-12
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-3-12
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">💜 Thanks for sharing a wonderful <a href=""https://twitter.com/hashtag/IWD2018?src=hash&amp;ref_src=twsrc%5Etfw"">#IWD2018</a> with us! 💜<br><br>✒️🗒️ Blog post with <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> details coming soon! 🗒️🖋️<br><br>⬇️ <a href=""https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw"">#rladies</a>, don&#39;t forget to follow <a href=""https://twitter.com/hfcfrick?ref_src=twsrc%5Etfw"">@hfcfrick</a>&#39;s advice below! ⬇️ <a href=""https://t.co/j0wp3A0RGB"">https://t.co/j0wp3A0RGB</a></p>&mdash; IWD 2018 featured R-Ladies (@rladies_iwd2018) <a href=""https://twitter.com/rladies_iwd2018/status/972072302727892992?ref_src=twsrc%5Etfw"">9 de març de 2018</a></blockquote>",822,FALSE,###  Quotes of the Week,unid,2018-3-12
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Here&#39;s the evolution of Irish Population density 1841-&gt;2002 on a DED level. You can see the devastating impact of the Famine, the gradual thinning of the rural population and the late-20th c. suburban sprawl <a href=""https://twitter.com/hashtag/history?src=hash&amp;ref_src=twsrc%5Etfw"">#history</a> <a href=""https://twitter.com/hashtag/ireland?src=hash&amp;ref_src=twsrc%5Etfw"">#ireland</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/SOwSyHvPIN"">pic.twitter.com/SOwSyHvPIN</a></p>&mdash; Alan Fernihough (@DiffusePrioR) <a href=""https://twitter.com/DiffusePrioR/status/972042199675359232?ref_src=twsrc%5Etfw"">March 9, 2018</a></blockquote>",788,FALSE,###  Quotes of the Week,unid,2018-3-12
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">When you mess up a decimal point simplifying polygons in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> and you go full Picasso during his cubism period... <a href=""https://t.co/MBrgQ4crjZ"">pic.twitter.com/MBrgQ4crjZ</a></p>&mdash; Juan Carlos (@villasenor_jc) <a href=""https://twitter.com/villasenor_jc/status/971508384838008836?ref_src=twsrc%5Etfw"">March 7, 2018</a></blockquote>",496,FALSE,###  Quotes of the Week,unid,2018-3-12
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Dear Past Me,<br><br>Thank you for:<br><br>* documenting your code.<br><br>* standardizing menial tasks in Bash &amp; <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> scripts.<br><br>* using version control.<br><br>* using makefiles.<br><br>I pledge to continue this behavior for Future Me, &amp; for anyone else who needs to make changes to my projects.</p>&mdash; Ezra Brooks (@ezbrooks) <a href=""https://twitter.com/ezbrooks/status/972111069501149184?ref_src=twsrc%5Etfw"">March 9, 2018</a></blockquote>",618,FALSE,###  Quotes of the Week,unid,2018-3-12
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Day in my <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> life:<br><br>0930: How lucky I am to work on clean datasets curated by true professionals.<br>1330: Huh. Some inconsistencies here. No bigs. I&#39;ll just write up some quick and dirty regex to clean this up.<br>1720: I WILL BURN THIS HERETICAL DATA CENTER AND SCATTER ITS ASHES</p>&mdash; Mario Martinez (@Kwarizmi) <a href=""https://twitter.com/Kwarizmi/status/971059152595296256?ref_src=twsrc%5Etfw"">March 6, 2018</a></blockquote>",604,FALSE,###  Quotes of the Week,unid,2018-3-12

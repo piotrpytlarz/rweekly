@@ -1,74 +1,74 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2016-11-28
-layout: post,12,FALSE,NA,NA,unid,2016-11-28
-title: Issue 27,15,FALSE,NA,NA,unid,2016-11-28
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2016-11-28
----,3,FALSE,NA,NA,unid,2016-11-28
-Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-11-28
-*Digested by R Weekly Members*,30,FALSE,NA,### Highlight,unid,2016-11-28
-+ [Announcing ggforce: Accelerating ggplot2](http://www.data-imaginist.com/2016/Announcing-ggforce/),100,FALSE,NA,### Highlight,link,2016-11-28
-"+ [DataChats Episode 1 - An Interview With Max Kuhn, Creator of Caret](https://www.youtube.com/watch?v=YVMlyOh_eyk&list=PLjgj6kdf_snYAqMEWOlql_DVMPbh8dtP1&index=1)",163,FALSE,NA,### Highlight,link,2016-11-28
-+ [Eight visualisation challenges with ggplot2](https://speakerdeck.com/hadley/eight-visualisation-challenges-with-ggplot2),123,FALSE,NA,### Highlight,link,2016-11-28
-+ [Launch RStudio Server in the Google Cloud with two lines of R](http://code.markedmondson.me/launch-rstudio-server-google-cloud-in-two-lines-r/),146,FALSE,NA,### Tutorials,link,2016-11-28
-+ [Choosing which method to use for “optimizing” functions](https://nashjc.wordpress.com/2016/11/20/choosing-which-method-to-use-for-optimizating-functions/),157,FALSE,NA,### Tutorials,link,2016-11-28
-+ [Lord’s Paradox in R](http://hagutierrezro.blogspot.com/2016/11/lord-paradox-in-r.html),89,FALSE,NA,### Tutorials,link,2016-11-28
-+ [Reading data from google sheets into R](http://www.opiniomics.org/reading-data-from-google-sheets-into-r/),109,FALSE,NA,### Tutorials,link,2016-11-28
-+ [R Phone Home: Notifications with pushoverr](http://bconnelly.net/2016/11/R-phone-home/),90,FALSE,NA,### Tutorials,link,2016-11-28
-+ [An extensive tutorial of D3partitionR 0.2](https://antoineguillot.wordpress.com/2016/11/20/an-extensive-tutorial-of-d3partitionr-0-2/),137,FALSE,NA,### Tutorials,link,2016-11-28
-![An extensive tutorial of D3partitionR 0.2](https://antoineguillot.files.wordpress.com/2016/11/japantradedemo.gif?w=616),121,FALSE,NA,### Tutorials,image,2016-11-28
-"+ [Deploying R, RStudio and Shiny applications on Unbuntu Server](https://www.r-bloggers.com/deploying-r-rstudio-and-shiny-applications-on-unbuntu-server/)",155,FALSE,NA,### Tutorials,link,2016-11-28
-+ [LR03: Residuals and RMSE](http://rbertolusso.github.io/posts/LR03-residuals-RMSE),84,FALSE,NA,### Tutorials,link,2016-11-28
-+ [Tracking progress in R](https://kevinkuang.net/tracking-progress-in-r-ad97998c359f?source=rss----a1ff9aea4bf1--r_programming),128,FALSE,NA,### Tutorials,link,2016-11-28
-+ [“smooth” package for R. es() function. Part III. Multiplicative models](http://forecasting.svetunkov.ru/en/2016/11/18/smooth-package-for-r-es-function-part-iii-multiplicative-models/),186,FALSE,NA,### Tutorials,link,2016-11-28
-+ [Use Rstats to Share Google Map Stars with Friends](https://mikejacktzen.wordpress.com/2016/11/21/use-rstats-to-share-google-map-stars-with-friends/),151,FALSE,NA,### Tutorials,link,2016-11-28
-+ [Determine optimal cutpoints for numerical variables in survival plots](http://r-addict.com/2016/11/21/Optimal-Cutpoint-maxstat.html),135,FALSE,NA,### Tutorials,link,2016-11-28
-![Determine optimal cutpoints for numerical variables in survival plots](https://cdn.rawgit.com/MarcinKosinski/MarcinKosinski.github.io/f754b61c7c166f11b2bfeb497daeb6aee3b843a9/images/fulls/maxstat.png),202,FALSE,NA,### Tutorials,image,2016-11-28
-+ [Reading data from google sheets into R](http://www.opiniomics.org/reading-data-from-google-sheets-into-r/),109,FALSE,NA,### Tutorials,link,2016-11-28
-+ [RStanARM basics: visualizing uncertainty in linear regression](https://tjmahr.github.io/visualizing-uncertainty-rstanarm/),125,FALSE,NA,### Tutorials,link,2016-11-28
-+ [MySql in a container](http://www.win-vector.com/blog/2016/11/mysql-in-a-container/),86,FALSE,NA,### Tutorials,link,2016-11-28
-+ [Popularity of Baby Names Since 1880](http://michaeltoth.me/popularity-of-baby-names-since-1880.html),103,FALSE,NA,### Tutorials,link,2016-11-28
-![Popularity of Baby Names Since 1880](https://cdn.rawgit.com/michaeltoth/michaeltoth/bcabd2d5effcf5cbb2a28f829f424786435b1ec1/content/images/yearly-birth-names-with-trails.gif),177,FALSE,NA,### Tutorials,image,2016-11-28
-+ [Accessing ensemble weather models with rNOMADS](https://bovineaerospace.wordpress.com/2016/11/24/accessing-ensemble-weather-models-with-rnomads/),148,FALSE,NA,### Tutorials,link,2016-11-28
-+ [Calculating AUC: the area under a ROC Curve](http://blog.revolutionanalytics.com/2016/11/calculating-auc.html),113,FALSE,NA,### Tutorials,link,2016-11-28
-+ [RStudio Server on OS X Sierra](http://pacha.hk/2016-11-25_rstudio_server_sierra.html),88,FALSE,NA,### Tutorials,link,2016-11-28
-+ [Create an interactive web map with geotagged photos](http://www.seascapemodels.org/rstats/2016/11/23/mapping-abundance-photos.html),134,FALSE,NA,### Tutorials,link,2016-11-28
-+ [Declining sea ice in the Arctic](http://ellisp.github.io/blog/2016/11/24/seaice),83,FALSE,NA,### R in the Real World,link,2016-11-28
-![Declining sea ice in the Arctic](https://ellisp.github.io/img/0069-seaice-final.svg),86,FALSE,NA,### R in the Real World,image,2016-11-28
-<!--Measuring Gobbledygook](http://juliasilge.com/blog/Gobbledygook/) - A text’s readability measures how hard or easy it is for a reader to read and understand what a text is saying.-->,186,FALSE,NA,### R in the Real World,unid,2016-11-28
-+ [Earthquake energy over time](http://ellisp.github.io/blog/2016/11/19/earthquakes),84,FALSE,NA,### R in the Real World,link,2016-11-28
-+ [Crime Analysis – Denver-Part 2](http://stoltzmaniac.com/crime-analysis-denver-part-2/),89,FALSE,NA,### R in the Real World,link,2016-11-28
-+ [Analysing the Gilmore Girls’ coffee addiction with R](https://shiring.github.io/text_analysis/2016/11/20/gilmore_girls_part2_post),133,FALSE,NA,### R in the Real World,link,2016-11-28
-+ [The 5 most popular R packages](http://blog.revolutionanalytics.com/2016/11/most-popular-r-packages.html),107,FALSE,NA,### R in the Real World,link,2016-11-28
-<!-- !Some Technical Reading JBR](https://www.rstudio.com/rviews/2016/11/25/some-technical-reading-jbr/)-->,107,FALSE,NA,### R in the Real World,unid,2016-11-28
-+ [Reproducible Finance with R: A Sharpe Ratio Shiny App](https://www.rstudio.com/rviews/2016/11/18/reproducible-finance-with-r-a-sharpe-ratio-shiny-app/),154,FALSE,NA,### R in the Real World,link,2016-11-28
-+ [:fr: Data & Vinyles — Exploration d’une bibliothèque Discogs avec R](http://colinfay.me/data-vinyles-bibliotheque-discogs-r/) - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://colinfay.me/data-vinyles-bibliotheque-discogs-r/),267,FALSE,NA,### International R,link,2016-11-28
-+ [:fr: #RStats — 3 livres à lire en novembre](http://data-bzh.fr/rstats-3-livres-a-lire-novembre/) - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://data-bzh.fr/rstats-3-livres-a-lire-novembre/),234,FALSE,NA,### International R,link,2016-11-28
-+ [How-to organize a satRday conference (v0.1)](http://datascience.la/how-to-organize-a-satrday-conference-v0-1/),113,FALSE,NA,### R in Organization,link,2016-11-28
-+ [Tutorial: Build a live rental prediction service with SQL Server R Services](http://blog.revolutionanalytics.com/2016/11/r-services-intelligent-app.html),156,FALSE,NA,### R in Organization,link,2016-11-28
-"+ [RL10N hits its first milestone](https://www.r-consortium.org/blog/2016/11/22/rl10n-hits-its-first-milestone) - R is gradually taking over the world (of data analysis).  However, proficiency in English remains a prerequisite for effectively working with R.",258,FALSE,NA,### R in Organization,link,2016-11-28
-"+ [DataChats Episode 1 - An Interview With Max Kuhn, Creator of Caret](https://www.youtube.com/watch?v=YVMlyOh_eyk&list=PLjgj6kdf_snYAqMEWOlql_DVMPbh8dtP1&index=1)",163,FALSE,NA,### Videos and Podcasts,link,2016-11-28
-+ [Eight visualisation challenges with ggplot2](https://speakerdeck.com/hadley/eight-visualisation-challenges-with-ggplot2),123,FALSE,NA,### Resources,link,2016-11-28
-+ [Top Books on Time Series Forecasting With R](http://machinelearningmastery.com/books-on-time-series-forecasting-with-r/),123,FALSE,NA,### Resources,link,2016-11-28
-+ [Learning R programming by reading books: A book list #rstats](http://statisticalestimation.blogspot.com/2016/11/learning-r-programming-by-reading-books.html),160,FALSE,NA,### Resources,link,2016-11-28
-+ [RLightGBM](https://github.com/bwilbertz/RLightGBM) - R interface to Light Gradient Boosting Machine library.,111,FALSE,NA,### New Packages and Tools,link,2016-11-28
-+ [replyr](http://www.win-vector.com/blog/2016/11/new-r-package-replyr-get-a-grip-on-remote-dplyr-data-services/) - Convenience functions for working in R with tbl and dplyr.,174,FALSE,NA,### New Packages and Tools,link,2016-11-28
-+ [ggforce](http://www.data-imaginist.com/2016/Announcing-ggforce/) - Announcing ggforce: Accelerating ggplot2.,111,FALSE,NA,### New Packages and Tools,link,2016-11-28
-+ [ggstance](https://github.com/lionel-/ggstance) - Horizontal ggplot2 components,81,FALSE,NA,### New Packages and Tools,link,2016-11-28
-![ggstance](https://cdn.rawgit.com/lionel-/ggstance/readme/boxplot.png),71,FALSE,NA,### New Packages and Tools,image,2016-11-28
-+ [roxygen2md](https://github.com/krlmlr/roxygen2md) - Converts elements of roxygen documentation to markdown.,110,FALSE,NA,### New Packages and Tools,link,2016-11-28
-"+ [prediction](https://github.com/leeper/prediction) - Tidy, Type-Safe 'prediction()' Methods.",94,FALSE,NA,### New Packages and Tools,link,2016-11-28
-+ [ratelimitr](https://github.com/tarakc02/ratelimitr) - Rate limiting for R functions.,87,FALSE,NA,### New Packages and Tools,link,2016-11-28
-+ [OCRinShiny](https://github.com/longhowlam/OCRinShiny) - OCR an image and get a word cloud.,93,FALSE,NA,### New Packages and Tools,link,2016-11-28
-+ [ggsn](https://github.com/oswaldosantos/ggsn) - R package to add north symbols and scale bars to maps created with ggplot or ggmap.,133,FALSE,NA,### New Packages and Tools,link,2016-11-28
-+ [Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2](https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html) - Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2.,202,FALSE,NA,### New Packages and Tools,link,2016-11-28
-![Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2](https://pbs.twimg.com/media/Cxy2xltXAAE3Bcz.jpg),115,FALSE,NA,### New Packages and Tools,image,2016-11-28
-+ [The rOpenSci geospatial suite](http://ropensci.org/blog/blog/2016/11/22/geospatial-suite),92,FALSE,NA,### New Packages and Tools,link,2016-11-28
-+ [October Package Picks](https://www.rstudio.com/rviews/2016/11/23/october-package-picks/),91,FALSE,NA,### New Releases,link,2016-11-28
-+ [RcppExamples 0.1.8](http://dirk.eddelbuettel.com/blog/2016/11/24#rcppexamples_0.1.8) - The RcppExamples package provides a handful of short examples detailing by concrete working examples how to set up basic R data structures in C++.,236,FALSE,NA,### New Releases,link,2016-11-28
-+ [data.table 1.9.8](https://cran.r-project.org/web/packages/data.table/news.html) - Extension of Data.frame,108,FALSE,NA,### New Releases,link,2016-11-28
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,### R Project Updates,unid,2016-11-28
-+ `getDLLRegisteredRoutines()` now produces its warning correctly when multiple DLLs match.,91,FALSE,NA,### R Project Updates,unid,2016-11-28
-"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>",93,FALSE,NA,### Upcoming Events,link,2016-11-28
-The conference about all things R and RStudio.<br />,52,FALSE,NA,### Upcoming Events,unid,2016-11-28
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Do you use SQL with R? With R Markdown and R Notebooks, you can run SQL statements right inside the editor. <a href=""https://t.co/4IG1QWIkz6"">https://t.co/4IG1QWIkz6</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://t.co/3dyKBUwBOq"">pic.twitter.com/3dyKBUwBOq</a></p>&mdash; RStudio Tips (@rstudiotips) <a href=""https://twitter.com/rstudiotips/status/800761452361486336""></a></blockquote>",497,FALSE,NA,### Quote of the Week,unid,2016-11-28
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/Rhub?src=hash"">#Rhub</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> package builder has artifacts now, including binary packages: <a href=""https://t.co/YZSZMlv9j2"">https://t.co/YZSZMlv9j2</a></p>&mdash; Gabor Csardi (@GaborCsardi) <a href=""https://twitter.com/GaborCsardi/status/801049795628560384""></a></blockquote>",448,FALSE,NA,### Quote of the Week,unid,2016-11-28
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2016-11-28
+layout: post,12,FALSE,NA,unid,2016-11-28
+title: Issue 27,15,FALSE,NA,unid,2016-11-28
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2016-11-28
+---,3,FALSE,NA,unid,2016-11-28
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,unid,2016-11-28
+*Digested by R Weekly Members*,30,FALSE,### Highlight,unid,2016-11-28
++ [Announcing ggforce: Accelerating ggplot2](http://www.data-imaginist.com/2016/Announcing-ggforce/),100,FALSE,### Highlight,link,2016-11-28
+"+ [DataChats Episode 1 - An Interview With Max Kuhn, Creator of Caret](https://www.youtube.com/watch?v=YVMlyOh_eyk&list=PLjgj6kdf_snYAqMEWOlql_DVMPbh8dtP1&index=1)",163,FALSE,### Highlight,link,2016-11-28
++ [Eight visualisation challenges with ggplot2](https://speakerdeck.com/hadley/eight-visualisation-challenges-with-ggplot2),123,FALSE,### Highlight,link,2016-11-28
++ [Launch RStudio Server in the Google Cloud with two lines of R](http://code.markedmondson.me/launch-rstudio-server-google-cloud-in-two-lines-r/),146,FALSE,### Tutorials,link,2016-11-28
++ [Choosing which method to use for “optimizing” functions](https://nashjc.wordpress.com/2016/11/20/choosing-which-method-to-use-for-optimizating-functions/),157,FALSE,### Tutorials,link,2016-11-28
++ [Lord’s Paradox in R](http://hagutierrezro.blogspot.com/2016/11/lord-paradox-in-r.html),89,FALSE,### Tutorials,link,2016-11-28
++ [Reading data from google sheets into R](http://www.opiniomics.org/reading-data-from-google-sheets-into-r/),109,FALSE,### Tutorials,link,2016-11-28
++ [R Phone Home: Notifications with pushoverr](http://bconnelly.net/2016/11/R-phone-home/),90,FALSE,### Tutorials,link,2016-11-28
++ [An extensive tutorial of D3partitionR 0.2](https://antoineguillot.wordpress.com/2016/11/20/an-extensive-tutorial-of-d3partitionr-0-2/),137,FALSE,### Tutorials,link,2016-11-28
+![An extensive tutorial of D3partitionR 0.2](https://antoineguillot.files.wordpress.com/2016/11/japantradedemo.gif?w=616),121,FALSE,### Tutorials,image,2016-11-28
+"+ [Deploying R, RStudio and Shiny applications on Unbuntu Server](https://www.r-bloggers.com/deploying-r-rstudio-and-shiny-applications-on-unbuntu-server/)",155,FALSE,### Tutorials,link,2016-11-28
++ [LR03: Residuals and RMSE](http://rbertolusso.github.io/posts/LR03-residuals-RMSE),84,FALSE,### Tutorials,link,2016-11-28
++ [Tracking progress in R](https://kevinkuang.net/tracking-progress-in-r-ad97998c359f?source=rss----a1ff9aea4bf1--r_programming),128,FALSE,### Tutorials,link,2016-11-28
++ [“smooth” package for R. es() function. Part III. Multiplicative models](http://forecasting.svetunkov.ru/en/2016/11/18/smooth-package-for-r-es-function-part-iii-multiplicative-models/),186,FALSE,### Tutorials,link,2016-11-28
++ [Use Rstats to Share Google Map Stars with Friends](https://mikejacktzen.wordpress.com/2016/11/21/use-rstats-to-share-google-map-stars-with-friends/),151,FALSE,### Tutorials,link,2016-11-28
++ [Determine optimal cutpoints for numerical variables in survival plots](http://r-addict.com/2016/11/21/Optimal-Cutpoint-maxstat.html),135,FALSE,### Tutorials,link,2016-11-28
+![Determine optimal cutpoints for numerical variables in survival plots](https://cdn.rawgit.com/MarcinKosinski/MarcinKosinski.github.io/f754b61c7c166f11b2bfeb497daeb6aee3b843a9/images/fulls/maxstat.png),202,FALSE,### Tutorials,image,2016-11-28
++ [Reading data from google sheets into R](http://www.opiniomics.org/reading-data-from-google-sheets-into-r/),109,FALSE,### Tutorials,link,2016-11-28
++ [RStanARM basics: visualizing uncertainty in linear regression](https://tjmahr.github.io/visualizing-uncertainty-rstanarm/),125,FALSE,### Tutorials,link,2016-11-28
++ [MySql in a container](http://www.win-vector.com/blog/2016/11/mysql-in-a-container/),86,FALSE,### Tutorials,link,2016-11-28
++ [Popularity of Baby Names Since 1880](http://michaeltoth.me/popularity-of-baby-names-since-1880.html),103,FALSE,### Tutorials,link,2016-11-28
+![Popularity of Baby Names Since 1880](https://cdn.rawgit.com/michaeltoth/michaeltoth/bcabd2d5effcf5cbb2a28f829f424786435b1ec1/content/images/yearly-birth-names-with-trails.gif),177,FALSE,### Tutorials,image,2016-11-28
++ [Accessing ensemble weather models with rNOMADS](https://bovineaerospace.wordpress.com/2016/11/24/accessing-ensemble-weather-models-with-rnomads/),148,FALSE,### Tutorials,link,2016-11-28
++ [Calculating AUC: the area under a ROC Curve](http://blog.revolutionanalytics.com/2016/11/calculating-auc.html),113,FALSE,### Tutorials,link,2016-11-28
++ [RStudio Server on OS X Sierra](http://pacha.hk/2016-11-25_rstudio_server_sierra.html),88,FALSE,### Tutorials,link,2016-11-28
++ [Create an interactive web map with geotagged photos](http://www.seascapemodels.org/rstats/2016/11/23/mapping-abundance-photos.html),134,FALSE,### Tutorials,link,2016-11-28
++ [Declining sea ice in the Arctic](http://ellisp.github.io/blog/2016/11/24/seaice),83,FALSE,### R in the Real World,link,2016-11-28
+![Declining sea ice in the Arctic](https://ellisp.github.io/img/0069-seaice-final.svg),86,FALSE,### R in the Real World,image,2016-11-28
+<!--Measuring Gobbledygook](http://juliasilge.com/blog/Gobbledygook/) - A text’s readability measures how hard or easy it is for a reader to read and understand what a text is saying.-->,186,FALSE,### R in the Real World,unid,2016-11-28
++ [Earthquake energy over time](http://ellisp.github.io/blog/2016/11/19/earthquakes),84,FALSE,### R in the Real World,link,2016-11-28
++ [Crime Analysis – Denver-Part 2](http://stoltzmaniac.com/crime-analysis-denver-part-2/),89,FALSE,### R in the Real World,link,2016-11-28
++ [Analysing the Gilmore Girls’ coffee addiction with R](https://shiring.github.io/text_analysis/2016/11/20/gilmore_girls_part2_post),133,FALSE,### R in the Real World,link,2016-11-28
++ [The 5 most popular R packages](http://blog.revolutionanalytics.com/2016/11/most-popular-r-packages.html),107,FALSE,### R in the Real World,link,2016-11-28
+<!-- !Some Technical Reading JBR](https://www.rstudio.com/rviews/2016/11/25/some-technical-reading-jbr/)-->,107,FALSE,### R in the Real World,unid,2016-11-28
++ [Reproducible Finance with R: A Sharpe Ratio Shiny App](https://www.rstudio.com/rviews/2016/11/18/reproducible-finance-with-r-a-sharpe-ratio-shiny-app/),154,FALSE,### R in the Real World,link,2016-11-28
++ [:fr: Data & Vinyles — Exploration d’une bibliothèque Discogs avec R](http://colinfay.me/data-vinyles-bibliotheque-discogs-r/) - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://colinfay.me/data-vinyles-bibliotheque-discogs-r/),267,FALSE,### International R,link,2016-11-28
++ [:fr: #RStats — 3 livres à lire en novembre](http://data-bzh.fr/rstats-3-livres-a-lire-novembre/) - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://data-bzh.fr/rstats-3-livres-a-lire-novembre/),234,FALSE,### International R,link,2016-11-28
++ [How-to organize a satRday conference (v0.1)](http://datascience.la/how-to-organize-a-satrday-conference-v0-1/),113,FALSE,### R in Organization,link,2016-11-28
++ [Tutorial: Build a live rental prediction service with SQL Server R Services](http://blog.revolutionanalytics.com/2016/11/r-services-intelligent-app.html),156,FALSE,### R in Organization,link,2016-11-28
+"+ [RL10N hits its first milestone](https://www.r-consortium.org/blog/2016/11/22/rl10n-hits-its-first-milestone) - R is gradually taking over the world (of data analysis).  However, proficiency in English remains a prerequisite for effectively working with R.",258,FALSE,### R in Organization,link,2016-11-28
+"+ [DataChats Episode 1 - An Interview With Max Kuhn, Creator of Caret](https://www.youtube.com/watch?v=YVMlyOh_eyk&list=PLjgj6kdf_snYAqMEWOlql_DVMPbh8dtP1&index=1)",163,FALSE,### Videos and Podcasts,link,2016-11-28
++ [Eight visualisation challenges with ggplot2](https://speakerdeck.com/hadley/eight-visualisation-challenges-with-ggplot2),123,FALSE,### Resources,link,2016-11-28
++ [Top Books on Time Series Forecasting With R](http://machinelearningmastery.com/books-on-time-series-forecasting-with-r/),123,FALSE,### Resources,link,2016-11-28
++ [Learning R programming by reading books: A book list #rstats](http://statisticalestimation.blogspot.com/2016/11/learning-r-programming-by-reading-books.html),160,FALSE,### Resources,link,2016-11-28
++ [RLightGBM](https://github.com/bwilbertz/RLightGBM) - R interface to Light Gradient Boosting Machine library.,111,FALSE,### New Packages and Tools,link,2016-11-28
++ [replyr](http://www.win-vector.com/blog/2016/11/new-r-package-replyr-get-a-grip-on-remote-dplyr-data-services/) - Convenience functions for working in R with tbl and dplyr.,174,FALSE,### New Packages and Tools,link,2016-11-28
++ [ggforce](http://www.data-imaginist.com/2016/Announcing-ggforce/) - Announcing ggforce: Accelerating ggplot2.,111,FALSE,### New Packages and Tools,link,2016-11-28
++ [ggstance](https://github.com/lionel-/ggstance) - Horizontal ggplot2 components,81,FALSE,### New Packages and Tools,link,2016-11-28
+![ggstance](https://cdn.rawgit.com/lionel-/ggstance/readme/boxplot.png),71,FALSE,### New Packages and Tools,image,2016-11-28
++ [roxygen2md](https://github.com/krlmlr/roxygen2md) - Converts elements of roxygen documentation to markdown.,110,FALSE,### New Packages and Tools,link,2016-11-28
+"+ [prediction](https://github.com/leeper/prediction) - Tidy, Type-Safe 'prediction()' Methods.",94,FALSE,### New Packages and Tools,link,2016-11-28
++ [ratelimitr](https://github.com/tarakc02/ratelimitr) - Rate limiting for R functions.,87,FALSE,### New Packages and Tools,link,2016-11-28
++ [OCRinShiny](https://github.com/longhowlam/OCRinShiny) - OCR an image and get a word cloud.,93,FALSE,### New Packages and Tools,link,2016-11-28
++ [ggsn](https://github.com/oswaldosantos/ggsn) - R package to add north symbols and scale bars to maps created with ggplot or ggmap.,133,FALSE,### New Packages and Tools,link,2016-11-28
++ [Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2](https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html) - Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2.,202,FALSE,### New Packages and Tools,link,2016-11-28
+![Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2](https://pbs.twimg.com/media/Cxy2xltXAAE3Bcz.jpg),115,FALSE,### New Packages and Tools,image,2016-11-28
++ [The rOpenSci geospatial suite](http://ropensci.org/blog/blog/2016/11/22/geospatial-suite),92,FALSE,### New Packages and Tools,link,2016-11-28
++ [October Package Picks](https://www.rstudio.com/rviews/2016/11/23/october-package-picks/),91,FALSE,### New Releases,link,2016-11-28
++ [RcppExamples 0.1.8](http://dirk.eddelbuettel.com/blog/2016/11/24#rcppexamples_0.1.8) - The RcppExamples package provides a handful of short examples detailing by concrete working examples how to set up basic R data structures in C++.,236,FALSE,### New Releases,link,2016-11-28
++ [data.table 1.9.8](https://cran.r-project.org/web/packages/data.table/news.html) - Extension of Data.frame,108,FALSE,### New Releases,link,2016-11-28
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,### R Project Updates,unid,2016-11-28
++ `getDLLRegisteredRoutines()` now produces its warning correctly when multiple DLLs match.,91,FALSE,### R Project Updates,unid,2016-11-28
+"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>",93,FALSE,### Upcoming Events,link,2016-11-28
+The conference about all things R and RStudio.<br />,52,FALSE,### Upcoming Events,unid,2016-11-28
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Do you use SQL with R? With R Markdown and R Notebooks, you can run SQL statements right inside the editor. <a href=""https://t.co/4IG1QWIkz6"">https://t.co/4IG1QWIkz6</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://t.co/3dyKBUwBOq"">pic.twitter.com/3dyKBUwBOq</a></p>&mdash; RStudio Tips (@rstudiotips) <a href=""https://twitter.com/rstudiotips/status/800761452361486336""></a></blockquote>",497,FALSE,### Quote of the Week,unid,2016-11-28
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/Rhub?src=hash"">#Rhub</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> package builder has artifacts now, including binary packages: <a href=""https://t.co/YZSZMlv9j2"">https://t.co/YZSZMlv9j2</a></p>&mdash; Gabor Csardi (@GaborCsardi) <a href=""https://twitter.com/GaborCsardi/status/801049795628560384""></a></blockquote>",448,FALSE,### Quote of the Week,unid,2016-11-28

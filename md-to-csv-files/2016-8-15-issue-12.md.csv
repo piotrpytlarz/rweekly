@@ -1,75 +1,75 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2016-8-15
-layout: post,12,FALSE,NA,NA,unid,2016-8-15
-title: Issue 12,15,FALSE,NA,NA,unid,2016-8-15
-description: Weekly News in R Community.,40,FALSE,NA,NA,unid,2016-8-15
----,3,FALSE,NA,NA,unid,2016-8-15
-Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-8-15
-*Digested by R Weekly Members*,30,FALSE,NA,## Highlight,unid,2016-8-15
-+ [prettydoc](http://yixuan.cos.name/prettydoc/) - Creating pretty documents with the prettydoc package.,104,FALSE,NA,## Highlight,link,2016-8-15
-+ [giphyr](https://github.com/haozhu233/giphyr) - A R package for giphy API.,76,FALSE,NA,## Highlight,link,2016-8-15
-+ [Text analysis of Trump’s tweets confirms he writes only the (angrier) Android half](http://varianceexplained.org/r/trump-tweets/),132,FALSE,NA,## Highlight,link,2016-8-15
-+ [GitHub-style waffle plots in R](https://mvuorre.github.io/post/2016/2016-03-24-github-waffle-plot/),102,FALSE,NA,## Highlight,link,2016-8-15
-+ [Building a ggplot2 Step by Step](https://matthewdharris.com/2016/08/12/ggplot2-step-by-step/),96,FALSE,NA,#### Tutorials,link,2016-8-15
-![Building a ggplot2 Step by Step](https://matthewdharriscom.files.wordpress.com/2016/08/13.png?w=528&h=264),108,FALSE,NA,#### Tutorials,image,2016-8-15
-+ [Handling required and missing R packages in Microsoft R Services](https://tomaztsql.wordpress.com/2016/08/11/handling-required-and-missing-r-packages-in-microsoft-r-services/),178,FALSE,NA,#### Tutorials,link,2016-8-15
-+ [GitHub-style waffle plots in R](https://mvuorre.github.io/post/2016/2016-03-24-github-waffle-plot/),102,FALSE,NA,#### Tutorials,link,2016-8-15
-+ [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2),130,FALSE,NA,#### Tutorials,link,2016-8-15
-![Plotting background data for groups with ggplot2](https://svbtleusercontent.com/ofzisqe5egsi2w_small.png),107,FALSE,NA,#### Tutorials,image,2016-8-15
-+ [R Packages for Data Access](http://blog.revolutionanalytics.com/2016/08/r-packages-data-access.html),103,FALSE,NA,#### Tutorials,link,2016-8-15
-+ [Google Analytics makes Demo Account available to all](http://www.analyticsforfun.com/2016/08/google-analytics-makes-demo-account.html),137,FALSE,NA,#### Tutorials,link,2016-8-15
-+ [New feature: Dropdown menus in Plotly and R](http://moderndata.plot.ly/new-feature-dropdown-menus-in-plotly-and-r/),118,FALSE,NA,#### Tutorials,link,2016-8-15
-+ [R Posting Multiple Answers to Google Forms](https://data-steve.github.io/post-multiple-answers-to-google-forms/),115,FALSE,NA,#### Tutorials,link,2016-8-15
-+ [Deep Learning Part 1: Comparison of Symbolic Deep Learning Frameworks](http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html),144,FALSE,NA,#### Tutorials,link,2016-8-15
-+ [Network visualization – part 5: Cytoscape (an update) – RCy3](http://www.vesnam.com/Rblog/viznets5/),103,FALSE,NA,#### Tutorials,link,2016-8-15
-+ [The magrittr monad](http://www.win-vector.com/blog/2016/08/the-magrittr-monad/),82,FALSE,NA,#### Tutorials,link,2016-8-15
-+ [Creating Annotated Data Frames from GEO with the GEOquery package](https://rjbioinformatics.com/2016/08/05/creating-annotated-data-frames-from-geo-with-the-geoquery-package/),177,FALSE,NA,#### Tutorials,link,2016-8-15
-+ [Project package libraries and reproducibility](http://www.mango-solutions.com/wp/2016/08/project-package-libraries-and-reproducibility/),139,FALSE,NA,#### Tutorials,link,2016-8-15
-+ [Consumer Credit Trends](http://lenkiefer.com/2016/08/09/trends-in-credit),76,FALSE,NA,#### R in the Real World,link,2016-8-15
-![Consumer Credit Trends](https://cdn.rawgit.com/rweekly/image/master/2016-08-15/debt.gif),90,FALSE,NA,#### R in the Real World,image,2016-8-15
-+ [Building a large database of MMA fight results IV: turning tables into a database with R and SQL](http://www.fightprior.com/2016/08/11/Building_mySQL_fight_db/),163,FALSE,NA,#### R in the Real World,link,2016-8-15
-+ [Text analysis of Trump’s tweets confirms he writes only the (angrier) Android half](http://varianceexplained.org/r/trump-tweets/),132,FALSE,NA,#### R in the Real World,link,2016-8-15
-![Trump’s tweets](https://cdn.rawgit.com/rweekly/image/master/2016-08-15/trump.svg),83,FALSE,NA,#### R in the Real World,image,2016-8-15
-+ [Counting [U.S.] Expatriation with R (a.k.a. a Decade of Desertion)](https://rud.is/b/2016/08/08/counting-u-s-expatriation-with-r-a-k-a-a-decade-of-desertion/),161,FALSE,NA,#### R in the Real World,link,2016-8-15
-![Counting [U.S.] Expatriation with R](https://rud.is/b/wp-content/uploads/2016/08/RStudio.png),95,FALSE,NA,#### R in the Real World,image,2016-8-15
-+ [In case you missed it: July 2016 roundup](http://blog.revolutionanalytics.com/2016/08/in-case-you-missed-it-july-2016-roundup.html),134,FALSE,NA,#### R in the Real World,link,2016-8-15
-+ [Yet the Worst Olympic Chart](http://danielmarcelino.github.io/blog/2016/yet-the-worst-olympic-chart.html),108,FALSE,NA,#### R in the Real World,link,2016-8-15
-![Yet the Worst Olympic Chart](https://danielmarcelino.github.io/img/08-06-2016-yet-the-worst-olympic-chart/NBC-olympic-medals.PNG),131,FALSE,NA,#### R in the Real World,image,2016-8-15
-+ [Machine Learning meets ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss),105,FALSE,NA,#### R in the Real World,link,2016-8-15
-![Machine Learning meets ketosis: how to effectively lose weight](https://cdn.rawgit.com/arielf/weight-loss/1edbe2870f2081c983caef4034f5894f7baac751/weight.2015.png),165,FALSE,NA,#### R in the Real World,image,2016-8-15
-+ [Rapid Big Data Prototyping with Microsoft R Server on Apache Spark](https://blogs.msdn.microsoft.com/azuredatalake/2016/08/09/rapid-big-data-prototyping-with-microsoft-r-server-on-apache-spark-context-switching-spark-tuning/),228,FALSE,NA,#### R in Organization,link,2016-8-15
-+ [Accelerating data scientist access to IBM Watson with CognizeR](https://www.ibm.com/blogs/watson/2016/08/accelerating-data-scientist-access-watson-cognizer/),160,FALSE,NA,#### R in Organization,link,2016-8-15
-+ [Gummy Worms](https://aschinchon.wordpress.com/2016/08/08/gummy-worms/),73,FALSE,NA,#### R for Fun,link,2016-8-15
-"+ [<img style=""display: inline;"" display=""inline"" class=""emoji"" title="":fr:"" alt="":fr:"" src=""https://assets.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png"" align=""absmiddle"" height=""20"" width=""20""> Utiliser la grammaire dplyr pour triturer ses données ](http://www.thinkr.fr/utiliser-la-grammaire-dplyr-pour-triturer-ses-donnees/) - [English](https://translate.google.com/translate?hl=en&sl=fr&u=http://www.thinkr.fr/utiliser-la-grammaire-dplyr-pour-triturer-ses-donnees/)",479,FALSE,NA,#### International R,link,2016-8-15
-+ [What is R Markdown?](https://vimeo.com/178485416),52,FALSE,NA,## Video and Podcast,link,2016-8-15
-+ [New cheat-sheet for the dplyrXdf package](http://blog.revolutionanalytics.com/2016/08/new-cheat-sheet-for-the-dplyrxdf-package.html),135,FALSE,NA,## Resources,link,2016-8-15
-+ [Introduction to R Graphics with ggplot2](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html),103,FALSE,NA,## Resources,link,2016-8-15
-+ [Network visualization with R](http://kateto.net/network-visualization),73,FALSE,NA,## Resources,link,2016-8-15
-+ [Series: Introduction to Working With Raster Data in R](http://neondataskills.org/tutorial-series/raster-data-series/),120,FALSE,NA,## Resources,link,2016-8-15
-"+ [readr 1.0.0](https://blog.rstudio.org/2016/08/05/readr-1-0-0/) - Read flat files (csv, tsv, fwf) into R.",107,FALSE,NA,## New Releases,link,2016-8-15
-+ [DT 0.2.0](https://blog.rstudio.org/2016/08/09/a-new-version-of-dt-0-2-on-cran/) - DataTable widgets in R.,108,FALSE,NA,## New Releases,link,2016-8-15
-+ [drat 0.1.1](http://dirk.eddelbuettel.com/blog/2016/08/07/#drat_0.1.1) - Easily deploy R package repositories.,112,FALSE,NA,## New Releases,link,2016-8-15
-+ [littler 0.3.1](http://dirk.eddelbuettel.com/blog/2016/08/07#littler-0.3.1) - A simplified command-line interface for R.,122,FALSE,NA,## New Releases,link,2016-8-15
-+ [seasonal 1.3](https://usefulr.wordpress.com/2016/08/07/seasonal-1-3-a-better-way-to-seasonal-adjustment-diagnostics/) - A better way to seasonal adjustment diagnostics.,171,FALSE,NA,## New Releases,link,2016-8-15
-+ [ggghost](https://cran.r-project.org/package=ggghost) - Capture the spirit of your ggplot2 calls.,99,FALSE,NA,## New Packages & Tools,link,2016-8-15
-+ [prettydoc](http://yixuan.cos.name/prettydoc/) - Creating pretty documents with the prettydoc package.,104,FALSE,NA,## New Packages & Tools,link,2016-8-15
-+ [forcats](https://github.com/hadley/forcats) - Tools for working with categorical variables (factors).,104,FALSE,NA,## New Packages & Tools,link,2016-8-15
-+ [QuickLookR](https://rud.is/b/2016/08/06/quicklookr-a-macos-quicklook-plugin-for-r-data-files/) - A macOS QuickLook plugin for R Data files.,142,FALSE,NA,## New Packages & Tools,link,2016-8-15
-![QuickLookR](https://rud.is/b/wp-content/uploads/2016/08/Blank_Skitch_Document.png),84,FALSE,NA,## New Packages & Tools,image,2016-8-15
-+ [giphyr](https://github.com/haozhu233/giphyr) - A R package for giphy API.,76,FALSE,NA,## New Packages & Tools,link,2016-8-15
-![giphyr](https://pbs.twimg.com/media/CpljQdDWEAASzBX.jpg),58,FALSE,NA,## New Packages & Tools,image,2016-8-15
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,## R Project Updates,unid,2016-8-15
-"+ `table(x, exclude=NULL)` now sets `useNA = ""ifany""` (instead of `""always""`). Together with the bug fixes for this case, this recovers more consistent behaviour, also compatible to older versions of R. As a consequence, `summary()` for a logical vector no longer reports (zero) counts for `NA` when there are no `NA`s.",319,FALSE,NA,## R Project Updates,unid,2016-8-15
-+ The `plot()` method for `ppr()` has enhanced default labels (`xmin` and `main`).,82,FALSE,NA,## R Project Updates,unid,2016-8-15
-+ `str(x)`'s default method is more “accurate” and hence somewhat more generous in displaying character vectors; this will occasionally change R outputs (and need changes to some `*.Rout(.save)` files).,202,FALSE,NA,## R Project Updates,unid,2016-8-15
-"+ [In progress.] `configure` looks for a flag for the C++ compiler which approximates C++98/C++03 compliance, and uses it as part of the `CXX98` macro in file `etc/Makeconf`. For example, `-std=gnu++98` is selected for `g++` 6.x.",229,FALSE,NA,## R Project Updates,unid,2016-8-15
-"+ There is a new macro `CXXSTD` to help specify the standard for C++ code, e.g. `-std=c++98`. This makes it easier to work with compilers which default to a later standard: for example, with `CXX=g++6 CXXSTD=-std=c++98` `configure` will select commands for `g++` 6.x which conform to C++11 and C++14 where specified but otherwise use C++98.",340,FALSE,NA,## R Project Updates,unid,2016-8-15
-+ `readline` headers (and not just the library) are required unless configuring with `--with-readline=no`.,106,FALSE,NA,## R Project Updates,unid,2016-8-15
-+ `configure` checks for the required header `sys/select.h` (or `sys/time.h` on legacy systems) and system call `select` and aborts if they are not found.,154,FALSE,NA,## R Project Updates,unid,2016-8-15
-"+ [satRday! in Budapest, Hungary](http://budapest.satrdays.org/#cfp)",68,FALSE,NA,## Call for Participation,link,2016-8-15
-+ [R Competition on education in South Africa](http://www.r-bloggers.com/r-competition-on-education-in-south-africa-july-and-august-2016/) **8 July - 21 August**,161,FALSE,NA,## Upcoming Events,link,2016-8-15
-+ [EARL 2016 London](https://earlconf.com/)  **13 September - 15 Septemberth** <br>,83,FALSE,NA,## Upcoming Events,link,2016-8-15
-The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br />,173,FALSE,NA,## Upcoming Events,unid,2016-8-15
-"+ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **12 October - 14 October** <br>",89,FALSE,NA,## Upcoming Events,link,2016-8-15
-"European R users meeting (eRum) is an international conference that aims at integrating users of the R language. eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate. <br />",216,FALSE,NA,## Upcoming Events,unid,2016-8-15
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">.<a href=""https://twitter.com/drob"">@drob</a> has zero natural talent - should not be coding. His analysis is bad &amp; his ggplot2 ability-zilch! <a href=""https://t.co/WTWN3vCpVz"">https://t.co/WTWN3vCpVz</a></p>&mdash; Donald Trump, PhD (@ScientistTrump) <a href=""https://twitter.com/ScientistTrump/status/763226352074055680"">August 10, 2016</a></blockquote>",431,FALSE,NA,## Quote of the Week,unid,2016-8-15
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2016-8-15
+layout: post,12,FALSE,NA,unid,2016-8-15
+title: Issue 12,15,FALSE,NA,unid,2016-8-15
+description: Weekly News in R Community.,40,FALSE,NA,unid,2016-8-15
+---,3,FALSE,NA,unid,2016-8-15
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,unid,2016-8-15
+*Digested by R Weekly Members*,30,FALSE,## Highlight,unid,2016-8-15
++ [prettydoc](http://yixuan.cos.name/prettydoc/) - Creating pretty documents with the prettydoc package.,104,FALSE,## Highlight,link,2016-8-15
++ [giphyr](https://github.com/haozhu233/giphyr) - A R package for giphy API.,76,FALSE,## Highlight,link,2016-8-15
++ [Text analysis of Trump’s tweets confirms he writes only the (angrier) Android half](http://varianceexplained.org/r/trump-tweets/),132,FALSE,## Highlight,link,2016-8-15
++ [GitHub-style waffle plots in R](https://mvuorre.github.io/post/2016/2016-03-24-github-waffle-plot/),102,FALSE,## Highlight,link,2016-8-15
++ [Building a ggplot2 Step by Step](https://matthewdharris.com/2016/08/12/ggplot2-step-by-step/),96,FALSE,#### Tutorials,link,2016-8-15
+![Building a ggplot2 Step by Step](https://matthewdharriscom.files.wordpress.com/2016/08/13.png?w=528&h=264),108,FALSE,#### Tutorials,image,2016-8-15
++ [Handling required and missing R packages in Microsoft R Services](https://tomaztsql.wordpress.com/2016/08/11/handling-required-and-missing-r-packages-in-microsoft-r-services/),178,FALSE,#### Tutorials,link,2016-8-15
++ [GitHub-style waffle plots in R](https://mvuorre.github.io/post/2016/2016-03-24-github-waffle-plot/),102,FALSE,#### Tutorials,link,2016-8-15
++ [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2),130,FALSE,#### Tutorials,link,2016-8-15
+![Plotting background data for groups with ggplot2](https://svbtleusercontent.com/ofzisqe5egsi2w_small.png),107,FALSE,#### Tutorials,image,2016-8-15
++ [R Packages for Data Access](http://blog.revolutionanalytics.com/2016/08/r-packages-data-access.html),103,FALSE,#### Tutorials,link,2016-8-15
++ [Google Analytics makes Demo Account available to all](http://www.analyticsforfun.com/2016/08/google-analytics-makes-demo-account.html),137,FALSE,#### Tutorials,link,2016-8-15
++ [New feature: Dropdown menus in Plotly and R](http://moderndata.plot.ly/new-feature-dropdown-menus-in-plotly-and-r/),118,FALSE,#### Tutorials,link,2016-8-15
++ [R Posting Multiple Answers to Google Forms](https://data-steve.github.io/post-multiple-answers-to-google-forms/),115,FALSE,#### Tutorials,link,2016-8-15
++ [Deep Learning Part 1: Comparison of Symbolic Deep Learning Frameworks](http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html),144,FALSE,#### Tutorials,link,2016-8-15
++ [Network visualization – part 5: Cytoscape (an update) – RCy3](http://www.vesnam.com/Rblog/viznets5/),103,FALSE,#### Tutorials,link,2016-8-15
++ [The magrittr monad](http://www.win-vector.com/blog/2016/08/the-magrittr-monad/),82,FALSE,#### Tutorials,link,2016-8-15
++ [Creating Annotated Data Frames from GEO with the GEOquery package](https://rjbioinformatics.com/2016/08/05/creating-annotated-data-frames-from-geo-with-the-geoquery-package/),177,FALSE,#### Tutorials,link,2016-8-15
++ [Project package libraries and reproducibility](http://www.mango-solutions.com/wp/2016/08/project-package-libraries-and-reproducibility/),139,FALSE,#### Tutorials,link,2016-8-15
++ [Consumer Credit Trends](http://lenkiefer.com/2016/08/09/trends-in-credit),76,FALSE,#### R in the Real World,link,2016-8-15
+![Consumer Credit Trends](https://cdn.rawgit.com/rweekly/image/master/2016-08-15/debt.gif),90,FALSE,#### R in the Real World,image,2016-8-15
++ [Building a large database of MMA fight results IV: turning tables into a database with R and SQL](http://www.fightprior.com/2016/08/11/Building_mySQL_fight_db/),163,FALSE,#### R in the Real World,link,2016-8-15
++ [Text analysis of Trump’s tweets confirms he writes only the (angrier) Android half](http://varianceexplained.org/r/trump-tweets/),132,FALSE,#### R in the Real World,link,2016-8-15
+![Trump’s tweets](https://cdn.rawgit.com/rweekly/image/master/2016-08-15/trump.svg),83,FALSE,#### R in the Real World,image,2016-8-15
++ [Counting [U.S.] Expatriation with R (a.k.a. a Decade of Desertion)](https://rud.is/b/2016/08/08/counting-u-s-expatriation-with-r-a-k-a-a-decade-of-desertion/),161,FALSE,#### R in the Real World,link,2016-8-15
+![Counting [U.S.] Expatriation with R](https://rud.is/b/wp-content/uploads/2016/08/RStudio.png),95,FALSE,#### R in the Real World,image,2016-8-15
++ [In case you missed it: July 2016 roundup](http://blog.revolutionanalytics.com/2016/08/in-case-you-missed-it-july-2016-roundup.html),134,FALSE,#### R in the Real World,link,2016-8-15
++ [Yet the Worst Olympic Chart](http://danielmarcelino.github.io/blog/2016/yet-the-worst-olympic-chart.html),108,FALSE,#### R in the Real World,link,2016-8-15
+![Yet the Worst Olympic Chart](https://danielmarcelino.github.io/img/08-06-2016-yet-the-worst-olympic-chart/NBC-olympic-medals.PNG),131,FALSE,#### R in the Real World,image,2016-8-15
++ [Machine Learning meets ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss),105,FALSE,#### R in the Real World,link,2016-8-15
+![Machine Learning meets ketosis: how to effectively lose weight](https://cdn.rawgit.com/arielf/weight-loss/1edbe2870f2081c983caef4034f5894f7baac751/weight.2015.png),165,FALSE,#### R in the Real World,image,2016-8-15
++ [Rapid Big Data Prototyping with Microsoft R Server on Apache Spark](https://blogs.msdn.microsoft.com/azuredatalake/2016/08/09/rapid-big-data-prototyping-with-microsoft-r-server-on-apache-spark-context-switching-spark-tuning/),228,FALSE,#### R in Organization,link,2016-8-15
++ [Accelerating data scientist access to IBM Watson with CognizeR](https://www.ibm.com/blogs/watson/2016/08/accelerating-data-scientist-access-watson-cognizer/),160,FALSE,#### R in Organization,link,2016-8-15
++ [Gummy Worms](https://aschinchon.wordpress.com/2016/08/08/gummy-worms/),73,FALSE,#### R for Fun,link,2016-8-15
+"+ [<img style=""display: inline;"" display=""inline"" class=""emoji"" title="":fr:"" alt="":fr:"" src=""https://assets.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png"" align=""absmiddle"" height=""20"" width=""20""> Utiliser la grammaire dplyr pour triturer ses données ](http://www.thinkr.fr/utiliser-la-grammaire-dplyr-pour-triturer-ses-donnees/) - [English](https://translate.google.com/translate?hl=en&sl=fr&u=http://www.thinkr.fr/utiliser-la-grammaire-dplyr-pour-triturer-ses-donnees/)",479,FALSE,#### International R,link,2016-8-15
++ [What is R Markdown?](https://vimeo.com/178485416),52,FALSE,## Video and Podcast,link,2016-8-15
++ [New cheat-sheet for the dplyrXdf package](http://blog.revolutionanalytics.com/2016/08/new-cheat-sheet-for-the-dplyrxdf-package.html),135,FALSE,## Resources,link,2016-8-15
++ [Introduction to R Graphics with ggplot2](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html),103,FALSE,## Resources,link,2016-8-15
++ [Network visualization with R](http://kateto.net/network-visualization),73,FALSE,## Resources,link,2016-8-15
++ [Series: Introduction to Working With Raster Data in R](http://neondataskills.org/tutorial-series/raster-data-series/),120,FALSE,## Resources,link,2016-8-15
+"+ [readr 1.0.0](https://blog.rstudio.org/2016/08/05/readr-1-0-0/) - Read flat files (csv, tsv, fwf) into R.",107,FALSE,## New Releases,link,2016-8-15
++ [DT 0.2.0](https://blog.rstudio.org/2016/08/09/a-new-version-of-dt-0-2-on-cran/) - DataTable widgets in R.,108,FALSE,## New Releases,link,2016-8-15
++ [drat 0.1.1](http://dirk.eddelbuettel.com/blog/2016/08/07/#drat_0.1.1) - Easily deploy R package repositories.,112,FALSE,## New Releases,link,2016-8-15
++ [littler 0.3.1](http://dirk.eddelbuettel.com/blog/2016/08/07#littler-0.3.1) - A simplified command-line interface for R.,122,FALSE,## New Releases,link,2016-8-15
++ [seasonal 1.3](https://usefulr.wordpress.com/2016/08/07/seasonal-1-3-a-better-way-to-seasonal-adjustment-diagnostics/) - A better way to seasonal adjustment diagnostics.,171,FALSE,## New Releases,link,2016-8-15
++ [ggghost](https://cran.r-project.org/package=ggghost) - Capture the spirit of your ggplot2 calls.,99,FALSE,## New Packages & Tools,link,2016-8-15
++ [prettydoc](http://yixuan.cos.name/prettydoc/) - Creating pretty documents with the prettydoc package.,104,FALSE,## New Packages & Tools,link,2016-8-15
++ [forcats](https://github.com/hadley/forcats) - Tools for working with categorical variables (factors).,104,FALSE,## New Packages & Tools,link,2016-8-15
++ [QuickLookR](https://rud.is/b/2016/08/06/quicklookr-a-macos-quicklook-plugin-for-r-data-files/) - A macOS QuickLook plugin for R Data files.,142,FALSE,## New Packages & Tools,link,2016-8-15
+![QuickLookR](https://rud.is/b/wp-content/uploads/2016/08/Blank_Skitch_Document.png),84,FALSE,## New Packages & Tools,image,2016-8-15
++ [giphyr](https://github.com/haozhu233/giphyr) - A R package for giphy API.,76,FALSE,## New Packages & Tools,link,2016-8-15
+![giphyr](https://pbs.twimg.com/media/CpljQdDWEAASzBX.jpg),58,FALSE,## New Packages & Tools,image,2016-8-15
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,## R Project Updates,unid,2016-8-15
+"+ `table(x, exclude=NULL)` now sets `useNA = ""ifany""` (instead of `""always""`). Together with the bug fixes for this case, this recovers more consistent behaviour, also compatible to older versions of R. As a consequence, `summary()` for a logical vector no longer reports (zero) counts for `NA` when there are no `NA`s.",319,FALSE,## R Project Updates,unid,2016-8-15
++ The `plot()` method for `ppr()` has enhanced default labels (`xmin` and `main`).,82,FALSE,## R Project Updates,unid,2016-8-15
++ `str(x)`'s default method is more “accurate” and hence somewhat more generous in displaying character vectors; this will occasionally change R outputs (and need changes to some `*.Rout(.save)` files).,202,FALSE,## R Project Updates,unid,2016-8-15
+"+ [In progress.] `configure` looks for a flag for the C++ compiler which approximates C++98/C++03 compliance, and uses it as part of the `CXX98` macro in file `etc/Makeconf`. For example, `-std=gnu++98` is selected for `g++` 6.x.",229,FALSE,## R Project Updates,unid,2016-8-15
+"+ There is a new macro `CXXSTD` to help specify the standard for C++ code, e.g. `-std=c++98`. This makes it easier to work with compilers which default to a later standard: for example, with `CXX=g++6 CXXSTD=-std=c++98` `configure` will select commands for `g++` 6.x which conform to C++11 and C++14 where specified but otherwise use C++98.",340,FALSE,## R Project Updates,unid,2016-8-15
++ `readline` headers (and not just the library) are required unless configuring with `--with-readline=no`.,106,FALSE,## R Project Updates,unid,2016-8-15
++ `configure` checks for the required header `sys/select.h` (or `sys/time.h` on legacy systems) and system call `select` and aborts if they are not found.,154,FALSE,## R Project Updates,unid,2016-8-15
+"+ [satRday! in Budapest, Hungary](http://budapest.satrdays.org/#cfp)",68,FALSE,## Call for Participation,link,2016-8-15
++ [R Competition on education in South Africa](http://www.r-bloggers.com/r-competition-on-education-in-south-africa-july-and-august-2016/) **8 July - 21 August**,161,FALSE,## Upcoming Events,link,2016-8-15
++ [EARL 2016 London](https://earlconf.com/)  **13 September - 15 Septemberth** <br>,83,FALSE,## Upcoming Events,link,2016-8-15
+The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br />,173,FALSE,## Upcoming Events,unid,2016-8-15
+"+ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **12 October - 14 October** <br>",89,FALSE,## Upcoming Events,link,2016-8-15
+"European R users meeting (eRum) is an international conference that aims at integrating users of the R language. eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate. <br />",216,FALSE,## Upcoming Events,unid,2016-8-15
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">.<a href=""https://twitter.com/drob"">@drob</a> has zero natural talent - should not be coding. His analysis is bad &amp; his ggplot2 ability-zilch! <a href=""https://t.co/WTWN3vCpVz"">https://t.co/WTWN3vCpVz</a></p>&mdash; Donald Trump, PhD (@ScientistTrump) <a href=""https://twitter.com/ScientistTrump/status/763226352074055680"">August 10, 2016</a></blockquote>",431,FALSE,## Quote of the Week,unid,2016-8-15

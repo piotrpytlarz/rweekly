@@ -1,132 +1,132 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2017-05-01
-layout: post,12,FALSE,NA,NA,unid,2017-05-01
-"title: R Weekly 2017-18 OpenVisConf, 100k stories mining, emo😘",62,FALSE,NA,NA,unid,2017-05-01
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-05-01
-is_podcast: true,16,FALSE,NA,NA,unid,2017-05-01
-podcast_title: 2017 May - New R packages to handle binary files,63,FALSE,NA,NA,unid,2017-05-01
-podcast_permalink: https://cloud.rweekly.org/2017-may.mp3,57,FALSE,NA,NA,unid,2017-05-01
-podcast_description: |,22,FALSE,NA,NA,unid,2017-05-01
-  <![CDATA[,11,FALSE,NA,NA,unid,2017-05-01
-"  <p>About R 3.4.0 new features, R packages to handle binary files and more.</p>",80,FALSE,NA,NA,unid,2017-05-01
-  <ul>,6,FALSE,NA,NA,unid,2017-05-01
-"  <li>Read <a href=""https://www.rweekly.org/2017-18.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 18</a></li>",116,FALSE,NA,NA,unid,2017-05-01
-  </ul>,7,FALSE,NA,NA,unid,2017-05-01
-  <p></p>,9,FALSE,NA,NA,unid,2017-05-01
-  <ul> ,7,FALSE,NA,NA,unid,2017-05-01
-"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,NA,unid,2017-05-01
-  </ul> ,8,FALSE,NA,NA,unid,2017-05-01
-  <ul>   ,9,FALSE,NA,NA,unid,2017-05-01
-"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>   ",80,FALSE,NA,NA,unid,2017-05-01
-  </ul>,7,FALSE,NA,NA,unid,2017-05-01
-  <ul> ,7,FALSE,NA,NA,unid,2017-05-01
-"  <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>  ",75,FALSE,NA,NA,unid,2017-05-01
-  </ul>,7,FALSE,NA,NA,unid,2017-05-01
-  <ul>,6,FALSE,NA,NA,unid,2017-05-01
-"  <li><a href=""http://freemusicarchive.org/music/gillicuddy/Plays_Guitar_Again/01-adventure-darling"">Music by Gillicuddy</a></li>",129,FALSE,NA,NA,unid,2017-05-01
-  </ul>,7,FALSE,NA,NA,unid,2017-05-01
-  ]]>,5,FALSE,NA,NA,unid,2017-05-01
-podcast_size: 5785797,21,FALSE,NA,NA,unid,2017-05-01
-"podcast_duration: ""3:48""",24,FALSE,NA,NA,unid,2017-05-01
-"podcast_summary: About R 3.4.0 new features, R packages to handle binary files and more. https://rweekly.org/2017-18.html",121,FALSE,NA,NA,unid,2017-05-01
-"podcast_keywords: "", ggplot2""",29,FALSE,NA,NA,unid,2017-05-01
-podcast_subtitle: New R packages to handle binary files,55,FALSE,NA,NA,unid,2017-05-01
----,3,FALSE,NA,NA,unid,2017-05-01
-+ [Slides from OpenVisConf 2017](https://github.com/kbroman/OpenVisConf2017Slides),82,FALSE,NA,###  Highlight,link,2017-05-01
-"+ [Gender and verbs across 100,000 stories: a tidy analysis](http://varianceexplained.org/r/tidytext-gender-plots/) - And more about [the arc of the stories](http://varianceexplained.org/r/tidytext-plots/)",205,FALSE,NA,###  Highlight,link,2017-05-01
-+ [Perceptions of Probability and Numbers](https://github.com/zonination/perceptions),85,FALSE,NA,###  R in the Real World,link,2017-05-01
-![Perceptions of Probability and Numbers](https://raw.githubusercontent.com/zonination/perceptions/master/plot1.png),116,FALSE,NA,###  R in the Real World,image,2017-05-01
-+ [Beautiful boxplots in base R](http://www.opiniomics.org/beautiful-boxplots-in-base-r/),89,FALSE,NA,###  R in the Real World,link,2017-05-01
-+ [NLP with AirBnb](http://blog.nycdatascience.com/student-works/nlp-with-airbnb/),82,FALSE,NA,###  R in the Real World,link,2017-05-01
-+ [Predict French vote with R](http://colinfay.me/predict-french-vote-with-r/),78,FALSE,NA,###  R in the Real World,link,2017-05-01
-+ [R⁶ — Using pandoc from R + A Neat Package For Reading Subtitles](https://rud.is/b/2017/04/30/r%E2%81%B6-using-pandoc-from-r-a-neat-package-for-reading-subtitles/),165,FALSE,NA,###  R in the Real World,link,2017-05-01
-![Using pandoc from R + A Neat Package For Reading Subtitles](https://i2.wp.com/rud.is/b/wp-content/uploads/2017/04/flash.png?ssl=1),132,FALSE,NA,###  R in the Real World,image,2017-05-01
-+ [Population Lines: How and Why I Created It](http://spatial.ly/2017/04/population-lines-how-and-why-i-created-it/),116,FALSE,NA,###  R in the Real World,link,2017-05-01
-![Population Lines: How and Why I Created It](https://i1.wp.com/spatial.ly/wp-content/uploads/2013/09/population_lines_sml.jpg),127,FALSE,NA,###  R in the Real World,image,2017-05-01
-"+ [Where Europe lives, in 14 lines of R Code](http://blog.revolutionanalytics.com/2017/04/where-europe-lives.html)",114,FALSE,NA,###  R in the Real World,link,2017-05-01
-+ [Map of population density lines in R](http://urbandemographics.blogspot.co.za/2017/04/map-of-population-density-lines-in-r.html),131,FALSE,NA,###  R in the Real World,link,2017-05-01
-+ [What's that on the horizon? An awesome dataviz!](http://lenkiefer.github.io/2017/04/23/horizon),98,FALSE,NA,###  R in the Real World,link,2017-05-01
-+ [Using NYC Citi Bike Data to Help Bike Enthusiasts Find their Mate](http://blog.nycdatascience.com/student-works/r-visualization/using-nyc-citi-bike-data-help-bike-enthusiasts-find-mate-dating-app/),200,FALSE,NA,###  R in the Real World,link,2017-05-01
-+ [Creating an animated world map of life expectancy changes from 1950 to 2100 in R ](https://urbandemographics.blogspot.co.uk/2017/03/creating-animated-world-map-of-life.html),176,FALSE,NA,###  R in the Real World,link,2017-05-01
-![Creating an animated world map of life expectancy changes from 1950 to 2100 in R](https://2.bp.blogspot.com/-Ejx33Uob0ho/WNVXKNsBBYI/AAAAAAAABow/7hbCdPNIXsUHtO9CgilNz20dISoM_xmrgCLcB/s640/output4020_old_horitontal.gif),220,FALSE,NA,###  R in the Real World,image,2017-05-01
-+ [Bivariate choropleth maps with R](http://lenkiefer.github.io/2017/04/24/bivariate-map),89,FALSE,NA,###  R in the Real World,link,2017-05-01
-"+ [Examining the arc of 100,000 stories: a tidy analysis](http://varianceexplained.org/r/tidytext-plots/)",105,FALSE,NA,###  R in the Real World,link,2017-05-01
-"+ [Gender and verbs across 100,000 stories: a tidy analysis](http://varianceexplained.org/r/tidytext-gender-plots/)",115,FALSE,NA,###  R in the Real World,link,2017-05-01
-+ [The daily grind](https://gist.github.com/halhen/47bc8f482b18f2d81dd405ec25a70d51),84,FALSE,NA,###  R in the Real World,link,2017-05-01
-![The daily grind](https://raw.githubusercontent.com/rweekly/image/master/2017-05-01/out122.png),96,FALSE,NA,###  R in the Real World,image,2017-05-01
-+ [Where Cohen went wrong – the proportion of overlap between two normal distributions](http://rpsychologist.com/cohen-d-proportion-overlap),140,FALSE,NA,###  R in the Real World,link,2017-05-01
-+ [New R packages to handle binary files - R Weekly 2017 May](https://youtu.be/WL6UHP0LTDg) - [Podcast Feed](https://feeds.feedburner.com/rweeklypodcast?format=xml),164,FALSE,NA,###  Videos and Podcasts,link,2017-05-01
-"+ [NSSD 37 - It's a Seller's Market](https://soundcloud.com/nssd-podcast/episode-37-its-a-sellers-market) - Hilary and Roger talk about the EPA taking down data (or not?), whether statisticians are paternalistic, and how to evaluate machine learning consumer products.",268,FALSE,NA,###  Videos and Podcasts,link,2017-05-01
-+ [Data Science Specialization Community Mentor Content Repository](https://github.com/lgreski/datasciencectacontent),117,FALSE,NA,###  Resources,link,2017-05-01
-"+ [Writing your thesis with R Markdown – Figures, R code and tables](https://rosannavanhespenresearch.wordpress.com/2016/03/18/writing-your-thesis-with-r-markdown-3-figures-r-code-and-tables/)",192,FALSE,NA,###  Resources,link,2017-05-01
-+ [Coding etiquette](https://ourcodingclub.github.io/2017/04/25/etiquette.html),79,FALSE,NA,###  Resources,link,2017-05-01
-+ [Data Carpentry Ecology Workshop](http://www.datacarpentry.org/ecology-workshop/),83,FALSE,NA,###  Resources,link,2017-05-01
-+ [Slides from OpenVisConf 2017](https://github.com/kbroman/OpenVisConf2017Slides),82,FALSE,NA,###  Resources,link,2017-05-01
-+ [Reproducible Data Science with R](http://blog.revolutionanalytics.com/2017/04/reproducible-data-science-with-r.html),119,FALSE,NA,###  Resources,link,2017-05-01
-+ [Visualisation for EDA](https://github.com/hadley/vis-eda),60,FALSE,NA,###  Resources,link,2017-05-01
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving!</p>",248,FALSE,NA,###  Resources,unid,2017-05-01
-+ [Which are the popular languages for Data Science](https://medium.com/@MarutiTech/which-are-the-popular-languages-for-data-science-8e67fb5ef1ff),146,FALSE,NA,###  Insights,link,2017-05-01
-![Which are the popular languages for Data Science](https://github.com/rweekly/image/blob/master/2017-05-01/data-science-lgg.jpeg?raw=true),139,FALSE,NA,###  Insights,image,2017-05-01
-+ [Science really is non-partisan: facts and skepticism annoy everybody](http://simplystats.github.io/2017/04/24/march-for-science/),132,FALSE,NA,###  Insights,link,2017-05-01
-+ [#6: Easiest package registration](http://dirk.eddelbuettel.com/blog/2017/04/30/#006_easiest_package_registration),116,FALSE,NA,###  Insights,link,2017-05-01
-+ [dv01 uses R bring greater transparency to the consumer lending market](http://blog.revolutionanalytics.com/2017/04/dv01-uses-r.html),135,FALSE,NA,###  R in Organizations,link,2017-05-01
-+ [Welcome to our rOpenSci Interns](http://ropensci.org/blog/blog/2017/04/27/ropensci-interns),94,FALSE,NA,###  R in Organizations,link,2017-05-01
-+ [NY R Conference](https://rviews.rstudio.com/2017/04/28/nyr/),63,FALSE,NA,###  R in Organizations,link,2017-05-01
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2017-05-01
-+ [emo](https://github.com/hadley/emo) - 😍😘😙😚😻 Easily insert emoji into RMarkdown ,82,FALSE,NA,###  New Packages,link,2017-05-01
-+ [errors](https://www.enchufa2.es/archives/errors-0-0-1.html) - Error Propagation for R Vectors,96,FALSE,NA,###  New Packages,link,2017-05-01
-+ [greta](https://github.com/goldingn/) - Fast and easy statistical modelling in R,82,FALSE,NA,###  New Packages,link,2017-05-01
-+ [aws.s3](https://github.com/cloudyr/aws.s3) -  Amazon Simple Storage Service (S3) API Client,94,FALSE,NA,###  New Packages,link,2017-05-01
-+ [flexdashboard-poster](https://github.com/odeleongt/flexdashboard-poster) - Minimal template for preparing a conference poster using rmarkdown,144,FALSE,NA,###  New Packages,link,2017-05-01
-![flexdashboard-poster](https://raw.githubusercontent.com/rweekly/image/master/2017-05-01/poster21.png),103,FALSE,NA,###  New Packages,image,2017-05-01
-+ [twidlr](https://github.com/drsimonj/twidlr) - data.frame-first formula-second modelling ,91,FALSE,NA,###  New Packages,link,2017-05-01
-"+ [Health Services Data Science Associate (ZIM1701.17) @ Palo Alto, California](https://www.r-users.com/jobs/health-services-data-science-associate-zim1701-17-palo-alto-california/)",181,FALSE,NA,###  Jobs,link,2017-05-01
-+ [Genetic Music: From Schoenberg to Bach](https://fronkonstin.com/2017/04/27/genetic-music-from-schoenberg-to-bach/),117,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Using R as a GIS](https://realdataweb.wordpress.com/2017/04/22/using-r-as-a-gis/),84,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [A function that adds multiple ggplot2 layers](https://martinsbioblogg.wordpress.com/2017/04/23/using-r-a-function-that-adds-multiple-ggplot2-layers/),152,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [A classical analysis (Radio Swiss classic program)](http://maelle.github.io/2017/04/23/radioswissclassic/),109,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Building an R training environment](https://itsalocke.com/r-training-environment/),85,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [R 3.4.0 now available](http://blog.revolutionanalytics.com/2017/04/r-340-now-available.html),95,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Order Type and Parameter Optimization in quantstrat](https://ntguardian.wordpress.com/2017/04/24/order-type-parameter-optimization-quantstrat/),146,FALSE,NA,###  Tutorials,link,2017-05-01
-![Order Type and Parameter Optimization in quantstrat](https://ntguardian.files.wordpress.com/2017/04/unnamed-chunk-22-1.png?w=680),131,FALSE,NA,###  Tutorials,image,2017-05-01
-+ [Rent Prices and TrelliscopeJS](https://www.stoltzmaniac.com/rent-prices-and-trelliscopejs/),94,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Explaining complex machine learning models with LIME](https://shirinG.github.io/machine_learning/2017/04/23/lime),116,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [More cartograms of New Zealand census data (district and city level)!](http://ellisp.github.io/blog/2017/04/25/more-cartograms),130,FALSE,NA,###  Tutorials,link,2017-05-01
-![More cartograms of New Zealand census data (district and city level)!](https://ellisp.github.io/img/0094-ta1.svg),115,FALSE,NA,###  Tutorials,image,2017-05-01
-+ [Using checkpoint with knitr and RStudio](http://blog.revolutionanalytics.com/2017/04/using-checkpoint-with-knitr-and-rstudio.html),133,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Animate a bivariate choropleth](http://lenkiefer.github.io/2017/04/25/bivariate-animate),91,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [A Shiny application that shows trends in Stack Overflow questions over time](https://dgrtwo.shinyapps.io/so-trends/),119,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Binning Outliers in a Histogram](https://edwinth.github.io/blog/outlier-bin/),80,FALSE,NA,###  Tutorials,link,2017-05-01
-+ ['Digging' into archaeology + leaflet](http://www.austinwehrwein.com/tutorials/digging-archaeology-leaflet/),110,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Age Bias Plot Changes in FSA](http://derekogle.com/fishR/2017-04-26-AgeBias_inFSA),85,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Hacking maps with ggplot2](https://ikashnitsky.github.io/2017/map-hacking/),78,FALSE,NA,###  Tutorials,link,2017-05-01
-![Hacking maps with ggplot2](https://ikashnitsky.github.io/images/170424/hacked-map.png),88,FALSE,NA,###  Tutorials,image,2017-05-01
-+ [Visualizing uncertainty in housing data](http://lenkiefer.github.io/2017/04/26/housing-data-uncertainty),107,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Creating a VIX Futures Term Structure In R From Official CBOE Settlement Data](https://quantstrattrader.wordpress.com/2017/04/27/creating-a-vix-futures-term-structure-in-r-from-official-cboe-settlement-data/),211,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Salaries by alma mater - an interactive visualization with R and plotly](http://www.alexejgossmann.com/salaries_by_school_plotly_viz/),137,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Setup encrypted Rstudio and Shiny dashboard solution in 3 minutes](http://www.56n.dk/setup-encrypted-rstudio-and-shiny-dashboard-solution-in-3-minutes/),155,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [R Quick Tip: Upload multiple files in shiny and consolidate into a dataset](https://itsalocke.com/upload-multiple-files-in-shiny-and-consolidate-into-a-dataset/),164,FALSE,NA,###  Tutorials,link,2017-05-01
-+ [Make pleasingly parallel R code with rxExecBy](http://blog.revolutionanalytics.com/2017/04/rxexecby.html),108,FALSE,NA,###  Tutorials,link,2017-05-01
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2017-05-01
-+ [RcppTOML 0.1.3](http://dirk.eddelbuettel.com/blog/2017/04/25#rcpptoml_0.1.3) - TOML is a configuration file grammar for humans.,130,FALSE,NA,###  Package Releases,link,2017-05-01
-+ [plotly 4.6.0](http://moderndata.plot.ly/plotly-4-6-0-now-on-cran/) - Create interactive web graphics from R via plotly's JavaScript graphing library,151,FALSE,NA,###  Package Releases,link,2017-05-01
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-05-01
-+ `file.mtime()` no longer returns NA on Windows when the file or directory is being used by another process.,109,FALSE,NA,###  R Project Updates,unid,2017-05-01
-"+ New `askYesNo()` function and `""askYesNo""` option to ask the user binary response questions in a customizable but consistent way. ",132,FALSE,NA,###  R Project Updates,unid,2017-05-01
-+ Vignettes listed in `.Rbuildignore` were not being ignored properly.,70,FALSE,NA,###  R Project Updates,unid,2017-05-01
-+ `tempdir(check=TRUE)` recreates the `tmpdir()` if it is no longer valid.,74,FALSE,NA,###  R Project Updates,unid,2017-05-01
-+ `R CMD Sweave` again returns `status = 0` on successful completion.,69,FALSE,NA,###  R Project Updates,unid,2017-05-01
-+ `installed.packages()` on Windows would fail when `file.mtime()` (?) returned NA.,83,FALSE,NA,###  R Project Updates,unid,2017-05-01
-"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,NA,###  Upcoming Events,link,2017-05-01
-"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance.",176,FALSE,NA,###  Upcoming Events,unid,2017-05-01
-"+ [R in Insurance 2017](https://rininsurance17.sciencesconf.org/) **June 8, 2017** <br />",89,FALSE,NA,###  Upcoming Events,link,2017-05-01
-"This one-day conference will focus on applications in insurance and actuarial science that use R, the lingua franca for statistical computation.",144,FALSE,NA,###  Upcoming Events,unid,2017-05-01
-"+ [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />",81,FALSE,NA,###  Upcoming Events,link,2017-05-01
-Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.,224,FALSE,NA,###  Upcoming Events,unid,2017-05-01
-"+ [angletR 2017](http://angletr2017.com/) **June 28 - 30, 2017** <br/>",70,FALSE,NA,###  Upcoming Events,link,2017-05-01
-"angletR aims to provide a national forum to exchange and share ideas on the use of R in different subjects such as visualisation, applied statistics, biostatistics and bioinformatics, Bayesian statistics, data analysis, Big Data, modelling, machine learning, high performance computing, etc.",291,FALSE,NA,###  Upcoming Events,unid,2017-05-01
-"<!-- !useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",68,FALSE,NA,###  Upcoming Events,unid,2017-05-01
-The annual useR! conference is the main meeting of the international R user and developer community.-->,103,FALSE,NA,###  Upcoming Events,unid,2017-05-01
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-05-01
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Does including emoji in your RMarkdown make you go 😦😫😱? Struggle no more: <a href=""https://t.co/wgCTnsgVAn"">https://t.co/wgCTnsgVAn</a> emo::ji(&quot;celebrate&quot;) 🎉 <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/856938704748896258"">April 25, 2017</a></blockquote>",451,FALSE,NA,###  Quotes of the Week,unid,2017-05-01
-"<script async src=""//platform.twitter.com/widgets.js"" charset=""utf-8""></script>",79,FALSE,NA,###  Quotes of the Week,unid,2017-05-01
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2017-05-01
+layout: post,12,FALSE,NA,unid,2017-05-01
+"title: R Weekly 2017-18 OpenVisConf, 100k stories mining, emo😘",62,FALSE,NA,unid,2017-05-01
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2017-05-01
+is_podcast: true,16,FALSE,NA,unid,2017-05-01
+podcast_title: 2017 May - New R packages to handle binary files,63,FALSE,NA,unid,2017-05-01
+podcast_permalink: https://cloud.rweekly.org/2017-may.mp3,57,FALSE,NA,unid,2017-05-01
+podcast_description: |,22,FALSE,NA,unid,2017-05-01
+  <![CDATA[,11,FALSE,NA,unid,2017-05-01
+"  <p>About R 3.4.0 new features, R packages to handle binary files and more.</p>",80,FALSE,NA,unid,2017-05-01
+  <ul>,6,FALSE,NA,unid,2017-05-01
+"  <li>Read <a href=""https://www.rweekly.org/2017-18.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 18</a></li>",116,FALSE,NA,unid,2017-05-01
+  </ul>,7,FALSE,NA,unid,2017-05-01
+  <p></p>,9,FALSE,NA,unid,2017-05-01
+  <ul> ,7,FALSE,NA,unid,2017-05-01
+"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,unid,2017-05-01
+  </ul> ,8,FALSE,NA,unid,2017-05-01
+  <ul>   ,9,FALSE,NA,unid,2017-05-01
+"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>   ",80,FALSE,NA,unid,2017-05-01
+  </ul>,7,FALSE,NA,unid,2017-05-01
+  <ul> ,7,FALSE,NA,unid,2017-05-01
+"  <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>  ",75,FALSE,NA,unid,2017-05-01
+  </ul>,7,FALSE,NA,unid,2017-05-01
+  <ul>,6,FALSE,NA,unid,2017-05-01
+"  <li><a href=""http://freemusicarchive.org/music/gillicuddy/Plays_Guitar_Again/01-adventure-darling"">Music by Gillicuddy</a></li>",129,FALSE,NA,unid,2017-05-01
+  </ul>,7,FALSE,NA,unid,2017-05-01
+  ]]>,5,FALSE,NA,unid,2017-05-01
+podcast_size: 5785797,21,FALSE,NA,unid,2017-05-01
+"podcast_duration: ""3:48""",24,FALSE,NA,unid,2017-05-01
+"podcast_summary: About R 3.4.0 new features, R packages to handle binary files and more. https://rweekly.org/2017-18.html",121,FALSE,NA,unid,2017-05-01
+"podcast_keywords: "", ggplot2""",29,FALSE,NA,unid,2017-05-01
+podcast_subtitle: New R packages to handle binary files,55,FALSE,NA,unid,2017-05-01
+---,3,FALSE,NA,unid,2017-05-01
++ [Slides from OpenVisConf 2017](https://github.com/kbroman/OpenVisConf2017Slides),82,FALSE,###  Highlight,link,2017-05-01
+"+ [Gender and verbs across 100,000 stories: a tidy analysis](http://varianceexplained.org/r/tidytext-gender-plots/) - And more about [the arc of the stories](http://varianceexplained.org/r/tidytext-plots/)",205,FALSE,###  Highlight,link,2017-05-01
++ [Perceptions of Probability and Numbers](https://github.com/zonination/perceptions),85,FALSE,###  R in the Real World,link,2017-05-01
+![Perceptions of Probability and Numbers](https://raw.githubusercontent.com/zonination/perceptions/master/plot1.png),116,FALSE,###  R in the Real World,image,2017-05-01
++ [Beautiful boxplots in base R](http://www.opiniomics.org/beautiful-boxplots-in-base-r/),89,FALSE,###  R in the Real World,link,2017-05-01
++ [NLP with AirBnb](http://blog.nycdatascience.com/student-works/nlp-with-airbnb/),82,FALSE,###  R in the Real World,link,2017-05-01
++ [Predict French vote with R](http://colinfay.me/predict-french-vote-with-r/),78,FALSE,###  R in the Real World,link,2017-05-01
++ [R⁶ — Using pandoc from R + A Neat Package For Reading Subtitles](https://rud.is/b/2017/04/30/r%E2%81%B6-using-pandoc-from-r-a-neat-package-for-reading-subtitles/),165,FALSE,###  R in the Real World,link,2017-05-01
+![Using pandoc from R + A Neat Package For Reading Subtitles](https://i2.wp.com/rud.is/b/wp-content/uploads/2017/04/flash.png?ssl=1),132,FALSE,###  R in the Real World,image,2017-05-01
++ [Population Lines: How and Why I Created It](http://spatial.ly/2017/04/population-lines-how-and-why-i-created-it/),116,FALSE,###  R in the Real World,link,2017-05-01
+![Population Lines: How and Why I Created It](https://i1.wp.com/spatial.ly/wp-content/uploads/2013/09/population_lines_sml.jpg),127,FALSE,###  R in the Real World,image,2017-05-01
+"+ [Where Europe lives, in 14 lines of R Code](http://blog.revolutionanalytics.com/2017/04/where-europe-lives.html)",114,FALSE,###  R in the Real World,link,2017-05-01
++ [Map of population density lines in R](http://urbandemographics.blogspot.co.za/2017/04/map-of-population-density-lines-in-r.html),131,FALSE,###  R in the Real World,link,2017-05-01
++ [What's that on the horizon? An awesome dataviz!](http://lenkiefer.github.io/2017/04/23/horizon),98,FALSE,###  R in the Real World,link,2017-05-01
++ [Using NYC Citi Bike Data to Help Bike Enthusiasts Find their Mate](http://blog.nycdatascience.com/student-works/r-visualization/using-nyc-citi-bike-data-help-bike-enthusiasts-find-mate-dating-app/),200,FALSE,###  R in the Real World,link,2017-05-01
++ [Creating an animated world map of life expectancy changes from 1950 to 2100 in R ](https://urbandemographics.blogspot.co.uk/2017/03/creating-animated-world-map-of-life.html),176,FALSE,###  R in the Real World,link,2017-05-01
+![Creating an animated world map of life expectancy changes from 1950 to 2100 in R](https://2.bp.blogspot.com/-Ejx33Uob0ho/WNVXKNsBBYI/AAAAAAAABow/7hbCdPNIXsUHtO9CgilNz20dISoM_xmrgCLcB/s640/output4020_old_horitontal.gif),220,FALSE,###  R in the Real World,image,2017-05-01
++ [Bivariate choropleth maps with R](http://lenkiefer.github.io/2017/04/24/bivariate-map),89,FALSE,###  R in the Real World,link,2017-05-01
+"+ [Examining the arc of 100,000 stories: a tidy analysis](http://varianceexplained.org/r/tidytext-plots/)",105,FALSE,###  R in the Real World,link,2017-05-01
+"+ [Gender and verbs across 100,000 stories: a tidy analysis](http://varianceexplained.org/r/tidytext-gender-plots/)",115,FALSE,###  R in the Real World,link,2017-05-01
++ [The daily grind](https://gist.github.com/halhen/47bc8f482b18f2d81dd405ec25a70d51),84,FALSE,###  R in the Real World,link,2017-05-01
+![The daily grind](https://raw.githubusercontent.com/rweekly/image/master/2017-05-01/out122.png),96,FALSE,###  R in the Real World,image,2017-05-01
++ [Where Cohen went wrong – the proportion of overlap between two normal distributions](http://rpsychologist.com/cohen-d-proportion-overlap),140,FALSE,###  R in the Real World,link,2017-05-01
++ [New R packages to handle binary files - R Weekly 2017 May](https://youtu.be/WL6UHP0LTDg) - [Podcast Feed](https://feeds.feedburner.com/rweeklypodcast?format=xml),164,FALSE,###  Videos and Podcasts,link,2017-05-01
+"+ [NSSD 37 - It's a Seller's Market](https://soundcloud.com/nssd-podcast/episode-37-its-a-sellers-market) - Hilary and Roger talk about the EPA taking down data (or not?), whether statisticians are paternalistic, and how to evaluate machine learning consumer products.",268,FALSE,###  Videos and Podcasts,link,2017-05-01
++ [Data Science Specialization Community Mentor Content Repository](https://github.com/lgreski/datasciencectacontent),117,FALSE,###  Resources,link,2017-05-01
+"+ [Writing your thesis with R Markdown – Figures, R code and tables](https://rosannavanhespenresearch.wordpress.com/2016/03/18/writing-your-thesis-with-r-markdown-3-figures-r-code-and-tables/)",192,FALSE,###  Resources,link,2017-05-01
++ [Coding etiquette](https://ourcodingclub.github.io/2017/04/25/etiquette.html),79,FALSE,###  Resources,link,2017-05-01
++ [Data Carpentry Ecology Workshop](http://www.datacarpentry.org/ecology-workshop/),83,FALSE,###  Resources,link,2017-05-01
++ [Slides from OpenVisConf 2017](https://github.com/kbroman/OpenVisConf2017Slides),82,FALSE,###  Resources,link,2017-05-01
++ [Reproducible Data Science with R](http://blog.revolutionanalytics.com/2017/04/reproducible-data-science-with-r.html),119,FALSE,###  Resources,link,2017-05-01
++ [Visualisation for EDA](https://github.com/hadley/vis-eda),60,FALSE,###  Resources,link,2017-05-01
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving!</p>",248,FALSE,###  Resources,unid,2017-05-01
++ [Which are the popular languages for Data Science](https://medium.com/@MarutiTech/which-are-the-popular-languages-for-data-science-8e67fb5ef1ff),146,FALSE,###  Insights,link,2017-05-01
+![Which are the popular languages for Data Science](https://github.com/rweekly/image/blob/master/2017-05-01/data-science-lgg.jpeg?raw=true),139,FALSE,###  Insights,image,2017-05-01
++ [Science really is non-partisan: facts and skepticism annoy everybody](http://simplystats.github.io/2017/04/24/march-for-science/),132,FALSE,###  Insights,link,2017-05-01
++ [#6: Easiest package registration](http://dirk.eddelbuettel.com/blog/2017/04/30/#006_easiest_package_registration),116,FALSE,###  Insights,link,2017-05-01
++ [dv01 uses R bring greater transparency to the consumer lending market](http://blog.revolutionanalytics.com/2017/04/dv01-uses-r.html),135,FALSE,###  R in Organizations,link,2017-05-01
++ [Welcome to our rOpenSci Interns](http://ropensci.org/blog/blog/2017/04/27/ropensci-interns),94,FALSE,###  R in Organizations,link,2017-05-01
++ [NY R Conference](https://rviews.rstudio.com/2017/04/28/nyr/),63,FALSE,###  R in Organizations,link,2017-05-01
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2017-05-01
++ [emo](https://github.com/hadley/emo) - 😍😘😙😚😻 Easily insert emoji into RMarkdown ,82,FALSE,###  New Packages,link,2017-05-01
++ [errors](https://www.enchufa2.es/archives/errors-0-0-1.html) - Error Propagation for R Vectors,96,FALSE,###  New Packages,link,2017-05-01
++ [greta](https://github.com/goldingn/) - Fast and easy statistical modelling in R,82,FALSE,###  New Packages,link,2017-05-01
++ [aws.s3](https://github.com/cloudyr/aws.s3) -  Amazon Simple Storage Service (S3) API Client,94,FALSE,###  New Packages,link,2017-05-01
++ [flexdashboard-poster](https://github.com/odeleongt/flexdashboard-poster) - Minimal template for preparing a conference poster using rmarkdown,144,FALSE,###  New Packages,link,2017-05-01
+![flexdashboard-poster](https://raw.githubusercontent.com/rweekly/image/master/2017-05-01/poster21.png),103,FALSE,###  New Packages,image,2017-05-01
++ [twidlr](https://github.com/drsimonj/twidlr) - data.frame-first formula-second modelling ,91,FALSE,###  New Packages,link,2017-05-01
+"+ [Health Services Data Science Associate (ZIM1701.17) @ Palo Alto, California](https://www.r-users.com/jobs/health-services-data-science-associate-zim1701-17-palo-alto-california/)",181,FALSE,###  Jobs,link,2017-05-01
++ [Genetic Music: From Schoenberg to Bach](https://fronkonstin.com/2017/04/27/genetic-music-from-schoenberg-to-bach/),117,FALSE,###  Tutorials,link,2017-05-01
++ [Using R as a GIS](https://realdataweb.wordpress.com/2017/04/22/using-r-as-a-gis/),84,FALSE,###  Tutorials,link,2017-05-01
++ [A function that adds multiple ggplot2 layers](https://martinsbioblogg.wordpress.com/2017/04/23/using-r-a-function-that-adds-multiple-ggplot2-layers/),152,FALSE,###  Tutorials,link,2017-05-01
++ [A classical analysis (Radio Swiss classic program)](http://maelle.github.io/2017/04/23/radioswissclassic/),109,FALSE,###  Tutorials,link,2017-05-01
++ [Building an R training environment](https://itsalocke.com/r-training-environment/),85,FALSE,###  Tutorials,link,2017-05-01
++ [R 3.4.0 now available](http://blog.revolutionanalytics.com/2017/04/r-340-now-available.html),95,FALSE,###  Tutorials,link,2017-05-01
++ [Order Type and Parameter Optimization in quantstrat](https://ntguardian.wordpress.com/2017/04/24/order-type-parameter-optimization-quantstrat/),146,FALSE,###  Tutorials,link,2017-05-01
+![Order Type and Parameter Optimization in quantstrat](https://ntguardian.files.wordpress.com/2017/04/unnamed-chunk-22-1.png?w=680),131,FALSE,###  Tutorials,image,2017-05-01
++ [Rent Prices and TrelliscopeJS](https://www.stoltzmaniac.com/rent-prices-and-trelliscopejs/),94,FALSE,###  Tutorials,link,2017-05-01
++ [Explaining complex machine learning models with LIME](https://shirinG.github.io/machine_learning/2017/04/23/lime),116,FALSE,###  Tutorials,link,2017-05-01
++ [More cartograms of New Zealand census data (district and city level)!](http://ellisp.github.io/blog/2017/04/25/more-cartograms),130,FALSE,###  Tutorials,link,2017-05-01
+![More cartograms of New Zealand census data (district and city level)!](https://ellisp.github.io/img/0094-ta1.svg),115,FALSE,###  Tutorials,image,2017-05-01
++ [Using checkpoint with knitr and RStudio](http://blog.revolutionanalytics.com/2017/04/using-checkpoint-with-knitr-and-rstudio.html),133,FALSE,###  Tutorials,link,2017-05-01
++ [Animate a bivariate choropleth](http://lenkiefer.github.io/2017/04/25/bivariate-animate),91,FALSE,###  Tutorials,link,2017-05-01
++ [A Shiny application that shows trends in Stack Overflow questions over time](https://dgrtwo.shinyapps.io/so-trends/),119,FALSE,###  Tutorials,link,2017-05-01
++ [Binning Outliers in a Histogram](https://edwinth.github.io/blog/outlier-bin/),80,FALSE,###  Tutorials,link,2017-05-01
++ ['Digging' into archaeology + leaflet](http://www.austinwehrwein.com/tutorials/digging-archaeology-leaflet/),110,FALSE,###  Tutorials,link,2017-05-01
++ [Age Bias Plot Changes in FSA](http://derekogle.com/fishR/2017-04-26-AgeBias_inFSA),85,FALSE,###  Tutorials,link,2017-05-01
++ [Hacking maps with ggplot2](https://ikashnitsky.github.io/2017/map-hacking/),78,FALSE,###  Tutorials,link,2017-05-01
+![Hacking maps with ggplot2](https://ikashnitsky.github.io/images/170424/hacked-map.png),88,FALSE,###  Tutorials,image,2017-05-01
++ [Visualizing uncertainty in housing data](http://lenkiefer.github.io/2017/04/26/housing-data-uncertainty),107,FALSE,###  Tutorials,link,2017-05-01
++ [Creating a VIX Futures Term Structure In R From Official CBOE Settlement Data](https://quantstrattrader.wordpress.com/2017/04/27/creating-a-vix-futures-term-structure-in-r-from-official-cboe-settlement-data/),211,FALSE,###  Tutorials,link,2017-05-01
++ [Salaries by alma mater - an interactive visualization with R and plotly](http://www.alexejgossmann.com/salaries_by_school_plotly_viz/),137,FALSE,###  Tutorials,link,2017-05-01
++ [Setup encrypted Rstudio and Shiny dashboard solution in 3 minutes](http://www.56n.dk/setup-encrypted-rstudio-and-shiny-dashboard-solution-in-3-minutes/),155,FALSE,###  Tutorials,link,2017-05-01
++ [R Quick Tip: Upload multiple files in shiny and consolidate into a dataset](https://itsalocke.com/upload-multiple-files-in-shiny-and-consolidate-into-a-dataset/),164,FALSE,###  Tutorials,link,2017-05-01
++ [Make pleasingly parallel R code with rxExecBy](http://blog.revolutionanalytics.com/2017/04/rxexecby.html),108,FALSE,###  Tutorials,link,2017-05-01
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2017-05-01
++ [RcppTOML 0.1.3](http://dirk.eddelbuettel.com/blog/2017/04/25#rcpptoml_0.1.3) - TOML is a configuration file grammar for humans.,130,FALSE,###  Package Releases,link,2017-05-01
++ [plotly 4.6.0](http://moderndata.plot.ly/plotly-4-6-0-now-on-cran/) - Create interactive web graphics from R via plotly's JavaScript graphing library,151,FALSE,###  Package Releases,link,2017-05-01
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2017-05-01
++ `file.mtime()` no longer returns NA on Windows when the file or directory is being used by another process.,109,FALSE,###  R Project Updates,unid,2017-05-01
+"+ New `askYesNo()` function and `""askYesNo""` option to ask the user binary response questions in a customizable but consistent way. ",132,FALSE,###  R Project Updates,unid,2017-05-01
++ Vignettes listed in `.Rbuildignore` were not being ignored properly.,70,FALSE,###  R Project Updates,unid,2017-05-01
++ `tempdir(check=TRUE)` recreates the `tmpdir()` if it is no longer valid.,74,FALSE,###  R Project Updates,unid,2017-05-01
++ `R CMD Sweave` again returns `status = 0` on successful completion.,69,FALSE,###  R Project Updates,unid,2017-05-01
++ `installed.packages()` on Windows would fail when `file.mtime()` (?) returned NA.,83,FALSE,###  R Project Updates,unid,2017-05-01
+"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,###  Upcoming Events,link,2017-05-01
+"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance.",176,FALSE,###  Upcoming Events,unid,2017-05-01
+"+ [R in Insurance 2017](https://rininsurance17.sciencesconf.org/) **June 8, 2017** <br />",89,FALSE,###  Upcoming Events,link,2017-05-01
+"This one-day conference will focus on applications in insurance and actuarial science that use R, the lingua franca for statistical computation.",144,FALSE,###  Upcoming Events,unid,2017-05-01
+"+ [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />",81,FALSE,###  Upcoming Events,link,2017-05-01
+Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.,224,FALSE,###  Upcoming Events,unid,2017-05-01
+"+ [angletR 2017](http://angletr2017.com/) **June 28 - 30, 2017** <br/>",70,FALSE,###  Upcoming Events,link,2017-05-01
+"angletR aims to provide a national forum to exchange and share ideas on the use of R in different subjects such as visualisation, applied statistics, biostatistics and bioinformatics, Bayesian statistics, data analysis, Big Data, modelling, machine learning, high performance computing, etc.",291,FALSE,###  Upcoming Events,unid,2017-05-01
+"<!-- !useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",68,FALSE,###  Upcoming Events,unid,2017-05-01
+The annual useR! conference is the main meeting of the international R user and developer community.-->,103,FALSE,###  Upcoming Events,unid,2017-05-01
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events,unid,2017-05-01
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Does including emoji in your RMarkdown make you go 😦😫😱? Struggle no more: <a href=""https://t.co/wgCTnsgVAn"">https://t.co/wgCTnsgVAn</a> emo::ji(&quot;celebrate&quot;) 🎉 <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href=""https://twitter.com/hadleywickham/status/856938704748896258"">April 25, 2017</a></blockquote>",451,FALSE,###  Quotes of the Week,unid,2017-05-01
+"<script async src=""//platform.twitter.com/widgets.js"" charset=""utf-8""></script>",79,FALSE,###  Quotes of the Week,unid,2017-05-01

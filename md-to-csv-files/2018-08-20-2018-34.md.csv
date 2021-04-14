@@ -1,69 +1,69 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-08-20
-"title: R Weekly 2018-34 Best Practices Badge, Medicine",54,FALSE,NA,NA,unid,2018-08-20
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-08-20
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-08-20
----,3,FALSE,NA,NA,unid,2018-08-20
-+ [CII Best Practices Badge for R Packages – responding to concerns](https://www.r-consortium.org/r-consortium-project/2018/08/16/cii-best-practices-badge-for-r-packages-responding-to-concerns),193,FALSE,NA,###  Highlight,link,2018-08-20
-+ [R/Medicine Conference](https://blog.rstudio.com/2018/08/13/r-medicine-conference/),85,FALSE,NA,###  Highlight,link,2018-08-20
-+ [What's new with R Consortium funded projects in Q2 2018](https://www.r-consortium.org/blog/2018/08/13/whats-new-with-r-consortium-funded-projects-in-q1-2018-2),162,FALSE,NA,###  R in Organizations,link,2018-08-20
-+ [R/Medicine Conference](https://blog.rstudio.com/2018/08/13/r-medicine-conference/),85,FALSE,NA,###  R in Organizations,link,2018-08-20
-![R/Medicine Conference](https://raw.githubusercontent.com/carneybill/images/master/genome-viewer.png),102,FALSE,NA,###  R in Organizations,image,2018-08-20
-+ [TokyoR #71](https://rviews.rstudio.com/2018/08/15/tokyor-71/),64,FALSE,NA,###  R in Organizations,link,2018-08-20
-+ [Stories from YouTube Trend Video](https://nycdatascience.com/blog/student-works/stories-from-youtube-trend-video/),117,FALSE,NA,### R in the Real World,link,2018-08-20
-+ [rstudio::conf diversity scholarships for the worth!](https://d4tagirl.com/2018/08/rstudio-conf-diversity-scholarships-for-the-worth),135,FALSE,NA,### R in the Real World,link,2018-08-20
-![rstudio::conf diversity scholarships for the worth!](https://d4tagirl.com/figure/source/rstudio-conf-diversity-scholarships-for-the-worth/2018-08-16-rstudio-conf-diversity-scholarships-for-the-worth/rladies.JPG),213,FALSE,NA,### R in the Real World,image,2018-08-20
-"+ [Talking Google Analytics dashboards via R, Shiny and Text-to-Speech APIs](http://code.markedmondson.me/talking-google-analytics-dashboards)",142,FALSE,NA,### R in the Real World,link,2018-08-20
-+ [Using Docker containers in R](https://speakerdeck.com/mtoto/using-docker-containers-in-r),92,FALSE,NA,###  Resources,link,2018-08-20
-"+ [AI, Machine Learning and Data Science Roundup: August 2018](http://blog.revolutionanalytics.com/2018/08/ai-roundup-august-2018.html)",135,FALSE,NA,###  Resources,link,2018-08-20
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-08-20
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-08-20
-+ [mscstts](http://blog.revolutionanalytics.com/2018/08/make-r-speak.html) - Make R speak,89,FALSE,NA,###  New Packages,link,2018-08-20
-+ [Microsoft R Open 3.5.1](http://blog.revolutionanalytics.com/2018/08/mro-351-now-available.html),98,FALSE,NA,### Package Releases,link,2018-08-20
-+ [sergeant 1.14.0](https://rud.is/b/2018/08/16/updates-to-the-sergeant-apache-drill-connector-package-apache-drill-1-14-0-release/) - Apache Drill connector Package,165,FALSE,NA,### Package Releases,link,2018-08-20
-"+ [Mongolite 2.0](https://ropensci.org/technotes/2018/08/14/mongolite-20/) - GridFS, connection pooling, and more",113,FALSE,NA,### Package Releases,link,2018-08-20
-+ [RcppArmadillo 0.9.100.5.0](http://dirk.eddelbuettel.com/blog/2018/08/17#rcpparmadillo_0.9.100.5.0) - an interface from R to and from Armadillo,145,FALSE,NA,### Package Releases,link,2018-08-20
-+ [Decouple Code and Output in xaringan slides](https://www.garrickadenbuie.com/blog/2018/08/16/decouple-code-and-output-in-xaringan-slides/),141,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Create GIFs with gifski in knitr Documents](https://yihui.name/en/2018/08/gifski-knitr/),91,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Beyond Basic R - Mapping](https://owi.usgs.gov/blog/beyond-basic-mapping/),77,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Remaking ‘Luminance-gradient-dependent lightness illusion’ with R](https://rtask.thinkr.fr/blog/luminance-gradient-dependent-lightness-illusion/),148,FALSE,NA,###  Tutorials,link,2018-08-20
-"<img src=""https://rtask.thinkr.fr/wp-content/uploads/lightness_illustion.gif"" alt="""" width=""300"" height=""300"" />",112,FALSE,NA,###  Tutorials,unid,2018-08-20
-"+ [R on Kubernetes - serverless Shiny, R APIs and scheduled scripts](http://code.markedmondson.me/r-on-kubernetes-serverless-shiny-r-apis-and-scheduled-scripts/)",161,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Exploring Seinfeld Dialogues using tidytext ](https://pradeepadhokshaja.wordpress.com/2018/08/06/looking-at-seinfeld-dialogues-using-tidytext/),146,FALSE,NA,###  Tutorials,link,2018-08-20
-![Exploring Seinfeld Dialogues using tidytext](https://raw.githubusercontent.com/adhok/Exploratory-Data-Analysis-of-Seinfeld-Dialogues-using-Tidytext/master/test.gif),166,FALSE,NA,###  Tutorials,image,2018-08-20
-+ [3 strategies to parallelize R code on Kubernetes.](http://tamaszilagyi.com/blog/parallelizing-r-code-on-kubernetes/),119,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Animating common data wrangling approaches using gganimate](https://luisdva.github.io/rstats/animate-untangle/),114,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Topic Modelling of Trustpilot Reviews with tidytext](https://peerchristensen.netlify.com/post/topic-modelling-of-trustpilot-reviews-with-r-and-tidytext/),156,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Get Started with landscapemetrics](https://r-spatialecology.github.io/landscapemetrics/articles/getstarted.html),115,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Deep dive into ggplot2's boxplots](https://owi.usgs.gov/blog/boxplots/),74,FALSE,NA,###  Tutorials,link,2018-08-20
-![Deep dive into ggplot2's boxplots](https://owi.usgs.gov/blog/static/boxplots/chlorideWithLegend-1.png),104,FALSE,NA,###  Tutorials,image,2018-08-20
-+ [Mid Table Mediocrity](https://www.johnmackintosh.com/2018-08-11-mid-table-mediocrity/),89,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [gganimate with sprites](https://coolbutuseless.github.io/2018/08/13/gganimate-with-sprites/),95,FALSE,NA,###  Tutorials,link,2018-08-20
-![gganimate with sprites](https://coolbutuseless.github.io/post/2018-08-13-gganimate-sprites_files/figure-html/unnamed-chunk-4-1.png),133,FALSE,NA,###  Tutorials,image,2018-08-20
-+ [Evaluating Olive McBride with the Arkham Horror LCG Chaos Bag Simulator in R](https://ntguardian.wordpress.com/2018/08/13/evaluating-olive-mcbride-arkham-horror-lcg-chaos-bag-simulator-r/),191,FALSE,NA,###  Tutorials,link,2018-08-20
-"+ [In-brief: splashr update + High Performance Scraping with splashr, furrr & TeamHG-Memex's Aquarium](https://rud.is/b/2018/08/13/in-brief-splashr-update-high-performance-scraping-with-splashr-furrr-teamhg-memexs-aquarium/)",224,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Where to go observe birds in Radolfzell? An answer with R and open data](https://ropensci.org/blog/2018/08/14/where-to-bird/),128,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [data.table is Really Good at Sorting](http://www.win-vector.com/blog/2018/08/data-table-is-really-good-at-sorting/),118,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Time series intervention analysis with fuel prices](http://freerangestats.info/blog/2018/08/14/fuel-prices),110,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Multivariate ordinal categorical data generation](https://www.rdatagen.net/post/multivariate-ordinal-categorical-data-generation/),133,FALSE,NA,###  Tutorials,link,2018-08-20
-![Multivariate ordinal categorical data generation](https://www.rdatagen.net/post/2018-08-15-multivariate-ordinal-categorical-data-generation_files/figure-html/unnamed-chunk-4-1.png),182,FALSE,NA,###  Tutorials,image,2018-08-20
-"+ [Announcing Practical Data Science with R, 2nd Edition](http://www.win-vector.com/blog/2018/08/announcing-practical-data-science-with-r-2nd-edition/)",151,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [The Law and Order of Data Science](https://simplystatistics.org/2018/08/15/the-law-and-order-of-data-science/),113,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Remaking 'Luminance-gradient-dependent lightness illusion' with R](https://rtask.thinkr.fr/blog/luminance-gradient-dependent-lightness-illusion/),148,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [CII Best Practices Badge for R Packages – responding to concerns](https://www.r-consortium.org/r-consortium-project/2018/08/16/cii-best-practices-badge-for-r-packages-responding-to-concerns),193,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Relative risk ratios and odds ratios](http://freerangestats.info/blog/2018/08/17/risk-ratios),96,FALSE,NA,###  Tutorials,link,2018-08-20
-+ [Create GIFs with gifski in knitr Documents](https://yihui.name/en/2018/08/gifski-knitr/),91,FALSE,NA,###  Tutorials,link,2018-08-20
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-08-20
-"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-08-20
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-08-20
-+ [SatRday](https://amsterdam2018.satrdays.org/) **Aug 31-Sept 1**<br />,72,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-08-20
-"Amsterdam, the Netherlands.",27,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-08-20
-+ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-08-20
-"Buenos Aires, Argentina.",24,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-08-20
-+ [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />,134,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-08-20
-"Lisbon, Portugal.",17,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-08-20
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-08-20
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-08-20
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-08-20
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Here is the video. I got a bit bored with 2D maps. So, I made this with mapdeck in R. Aggregating 9000+ lat. lng. to highlight the density of Airbnb listings in Hong Kong. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw"">#dataviz</a> <a href=""https://t.co/03aWcK5rp9"">pic.twitter.com/03aWcK5rp9</a></p>&mdash; Samuel Wong (@SamueL_WonG_) <a href=""https://twitter.com/SamueL_WonG_/status/1029371284428189696?ref_src=twsrc%5Etfw"">August 14, 2018</a></blockquote>",652,FALSE,NA,###  Quotes of the Week,unid,2018-08-20
-"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,NA,###  Quotes of the Week,unid,2018-08-20
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-08-20
+"title: R Weekly 2018-34 Best Practices Badge, Medicine",54,FALSE,NA,unid,2018-08-20
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-08-20
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-08-20
+---,3,FALSE,NA,unid,2018-08-20
++ [CII Best Practices Badge for R Packages – responding to concerns](https://www.r-consortium.org/r-consortium-project/2018/08/16/cii-best-practices-badge-for-r-packages-responding-to-concerns),193,FALSE,###  Highlight,link,2018-08-20
++ [R/Medicine Conference](https://blog.rstudio.com/2018/08/13/r-medicine-conference/),85,FALSE,###  Highlight,link,2018-08-20
++ [What's new with R Consortium funded projects in Q2 2018](https://www.r-consortium.org/blog/2018/08/13/whats-new-with-r-consortium-funded-projects-in-q1-2018-2),162,FALSE,###  R in Organizations,link,2018-08-20
++ [R/Medicine Conference](https://blog.rstudio.com/2018/08/13/r-medicine-conference/),85,FALSE,###  R in Organizations,link,2018-08-20
+![R/Medicine Conference](https://raw.githubusercontent.com/carneybill/images/master/genome-viewer.png),102,FALSE,###  R in Organizations,image,2018-08-20
++ [TokyoR #71](https://rviews.rstudio.com/2018/08/15/tokyor-71/),64,FALSE,###  R in Organizations,link,2018-08-20
++ [Stories from YouTube Trend Video](https://nycdatascience.com/blog/student-works/stories-from-youtube-trend-video/),117,FALSE,### R in the Real World,link,2018-08-20
++ [rstudio::conf diversity scholarships for the worth!](https://d4tagirl.com/2018/08/rstudio-conf-diversity-scholarships-for-the-worth),135,FALSE,### R in the Real World,link,2018-08-20
+![rstudio::conf diversity scholarships for the worth!](https://d4tagirl.com/figure/source/rstudio-conf-diversity-scholarships-for-the-worth/2018-08-16-rstudio-conf-diversity-scholarships-for-the-worth/rladies.JPG),213,FALSE,### R in the Real World,image,2018-08-20
+"+ [Talking Google Analytics dashboards via R, Shiny and Text-to-Speech APIs](http://code.markedmondson.me/talking-google-analytics-dashboards)",142,FALSE,### R in the Real World,link,2018-08-20
++ [Using Docker containers in R](https://speakerdeck.com/mtoto/using-docker-containers-in-r),92,FALSE,###  Resources,link,2018-08-20
+"+ [AI, Machine Learning and Data Science Roundup: August 2018](http://blog.revolutionanalytics.com/2018/08/ai-roundup-august-2018.html)",135,FALSE,###  Resources,link,2018-08-20
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-08-20
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2018-08-20
++ [mscstts](http://blog.revolutionanalytics.com/2018/08/make-r-speak.html) - Make R speak,89,FALSE,###  New Packages,link,2018-08-20
++ [Microsoft R Open 3.5.1](http://blog.revolutionanalytics.com/2018/08/mro-351-now-available.html),98,FALSE,### Package Releases,link,2018-08-20
++ [sergeant 1.14.0](https://rud.is/b/2018/08/16/updates-to-the-sergeant-apache-drill-connector-package-apache-drill-1-14-0-release/) - Apache Drill connector Package,165,FALSE,### Package Releases,link,2018-08-20
+"+ [Mongolite 2.0](https://ropensci.org/technotes/2018/08/14/mongolite-20/) - GridFS, connection pooling, and more",113,FALSE,### Package Releases,link,2018-08-20
++ [RcppArmadillo 0.9.100.5.0](http://dirk.eddelbuettel.com/blog/2018/08/17#rcpparmadillo_0.9.100.5.0) - an interface from R to and from Armadillo,145,FALSE,### Package Releases,link,2018-08-20
++ [Decouple Code and Output in xaringan slides](https://www.garrickadenbuie.com/blog/2018/08/16/decouple-code-and-output-in-xaringan-slides/),141,FALSE,###  Tutorials,link,2018-08-20
++ [Create GIFs with gifski in knitr Documents](https://yihui.name/en/2018/08/gifski-knitr/),91,FALSE,###  Tutorials,link,2018-08-20
++ [Beyond Basic R - Mapping](https://owi.usgs.gov/blog/beyond-basic-mapping/),77,FALSE,###  Tutorials,link,2018-08-20
++ [Remaking ‘Luminance-gradient-dependent lightness illusion’ with R](https://rtask.thinkr.fr/blog/luminance-gradient-dependent-lightness-illusion/),148,FALSE,###  Tutorials,link,2018-08-20
+"<img src=""https://rtask.thinkr.fr/wp-content/uploads/lightness_illustion.gif"" alt="""" width=""300"" height=""300"" />",112,FALSE,###  Tutorials,unid,2018-08-20
+"+ [R on Kubernetes - serverless Shiny, R APIs and scheduled scripts](http://code.markedmondson.me/r-on-kubernetes-serverless-shiny-r-apis-and-scheduled-scripts/)",161,FALSE,###  Tutorials,link,2018-08-20
++ [Exploring Seinfeld Dialogues using tidytext ](https://pradeepadhokshaja.wordpress.com/2018/08/06/looking-at-seinfeld-dialogues-using-tidytext/),146,FALSE,###  Tutorials,link,2018-08-20
+![Exploring Seinfeld Dialogues using tidytext](https://raw.githubusercontent.com/adhok/Exploratory-Data-Analysis-of-Seinfeld-Dialogues-using-Tidytext/master/test.gif),166,FALSE,###  Tutorials,image,2018-08-20
++ [3 strategies to parallelize R code on Kubernetes.](http://tamaszilagyi.com/blog/parallelizing-r-code-on-kubernetes/),119,FALSE,###  Tutorials,link,2018-08-20
++ [Animating common data wrangling approaches using gganimate](https://luisdva.github.io/rstats/animate-untangle/),114,FALSE,###  Tutorials,link,2018-08-20
++ [Topic Modelling of Trustpilot Reviews with tidytext](https://peerchristensen.netlify.com/post/topic-modelling-of-trustpilot-reviews-with-r-and-tidytext/),156,FALSE,###  Tutorials,link,2018-08-20
++ [Get Started with landscapemetrics](https://r-spatialecology.github.io/landscapemetrics/articles/getstarted.html),115,FALSE,###  Tutorials,link,2018-08-20
++ [Deep dive into ggplot2's boxplots](https://owi.usgs.gov/blog/boxplots/),74,FALSE,###  Tutorials,link,2018-08-20
+![Deep dive into ggplot2's boxplots](https://owi.usgs.gov/blog/static/boxplots/chlorideWithLegend-1.png),104,FALSE,###  Tutorials,image,2018-08-20
++ [Mid Table Mediocrity](https://www.johnmackintosh.com/2018-08-11-mid-table-mediocrity/),89,FALSE,###  Tutorials,link,2018-08-20
++ [gganimate with sprites](https://coolbutuseless.github.io/2018/08/13/gganimate-with-sprites/),95,FALSE,###  Tutorials,link,2018-08-20
+![gganimate with sprites](https://coolbutuseless.github.io/post/2018-08-13-gganimate-sprites_files/figure-html/unnamed-chunk-4-1.png),133,FALSE,###  Tutorials,image,2018-08-20
++ [Evaluating Olive McBride with the Arkham Horror LCG Chaos Bag Simulator in R](https://ntguardian.wordpress.com/2018/08/13/evaluating-olive-mcbride-arkham-horror-lcg-chaos-bag-simulator-r/),191,FALSE,###  Tutorials,link,2018-08-20
+"+ [In-brief: splashr update + High Performance Scraping with splashr, furrr & TeamHG-Memex's Aquarium](https://rud.is/b/2018/08/13/in-brief-splashr-update-high-performance-scraping-with-splashr-furrr-teamhg-memexs-aquarium/)",224,FALSE,###  Tutorials,link,2018-08-20
++ [Where to go observe birds in Radolfzell? An answer with R and open data](https://ropensci.org/blog/2018/08/14/where-to-bird/),128,FALSE,###  Tutorials,link,2018-08-20
++ [data.table is Really Good at Sorting](http://www.win-vector.com/blog/2018/08/data-table-is-really-good-at-sorting/),118,FALSE,###  Tutorials,link,2018-08-20
++ [Time series intervention analysis with fuel prices](http://freerangestats.info/blog/2018/08/14/fuel-prices),110,FALSE,###  Tutorials,link,2018-08-20
++ [Multivariate ordinal categorical data generation](https://www.rdatagen.net/post/multivariate-ordinal-categorical-data-generation/),133,FALSE,###  Tutorials,link,2018-08-20
+![Multivariate ordinal categorical data generation](https://www.rdatagen.net/post/2018-08-15-multivariate-ordinal-categorical-data-generation_files/figure-html/unnamed-chunk-4-1.png),182,FALSE,###  Tutorials,image,2018-08-20
+"+ [Announcing Practical Data Science with R, 2nd Edition](http://www.win-vector.com/blog/2018/08/announcing-practical-data-science-with-r-2nd-edition/)",151,FALSE,###  Tutorials,link,2018-08-20
++ [The Law and Order of Data Science](https://simplystatistics.org/2018/08/15/the-law-and-order-of-data-science/),113,FALSE,###  Tutorials,link,2018-08-20
++ [Remaking 'Luminance-gradient-dependent lightness illusion' with R](https://rtask.thinkr.fr/blog/luminance-gradient-dependent-lightness-illusion/),148,FALSE,###  Tutorials,link,2018-08-20
++ [CII Best Practices Badge for R Packages – responding to concerns](https://www.r-consortium.org/r-consortium-project/2018/08/16/cii-best-practices-badge-for-r-packages-responding-to-concerns),193,FALSE,###  Tutorials,link,2018-08-20
++ [Relative risk ratios and odds ratios](http://freerangestats.info/blog/2018/08/17/risk-ratios),96,FALSE,###  Tutorials,link,2018-08-20
++ [Create GIFs with gifski in knitr Documents](https://yihui.name/en/2018/08/gifski-knitr/),91,FALSE,###  Tutorials,link,2018-08-20
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2018-08-20
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,###  Tutorials,unid,2018-08-20
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-08-20
++ [SatRday](https://amsterdam2018.satrdays.org/) **Aug 31-Sept 1**<br />,72,FALSE,###  Upcoming Events in 3 Months,link,2018-08-20
+"Amsterdam, the Netherlands.",27,FALSE,###  Upcoming Events in 3 Months,unid,2018-08-20
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,###  Upcoming Events in 3 Months,link,2018-08-20
+"Buenos Aires, Argentina.",24,FALSE,###  Upcoming Events in 3 Months,unid,2018-08-20
++ [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />,134,FALSE,###  Upcoming Events in 3 Months,link,2018-08-20
+"Lisbon, Portugal.",17,FALSE,###  Upcoming Events in 3 Months,unid,2018-08-20
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2018-08-20
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-08-20
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-08-20
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Here is the video. I got a bit bored with 2D maps. So, I made this with mapdeck in R. Aggregating 9000+ lat. lng. to highlight the density of Airbnb listings in Hong Kong. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw"">#dataviz</a> <a href=""https://t.co/03aWcK5rp9"">pic.twitter.com/03aWcK5rp9</a></p>&mdash; Samuel Wong (@SamueL_WonG_) <a href=""https://twitter.com/SamueL_WonG_/status/1029371284428189696?ref_src=twsrc%5Etfw"">August 14, 2018</a></blockquote>",652,FALSE,###  Quotes of the Week,unid,2018-08-20
+"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,###  Quotes of the Week,unid,2018-08-20

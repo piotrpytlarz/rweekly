@@ -1,55 +1,55 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-10-29
-"title: R Weekly 2018-44 Maps, Images",36,FALSE,NA,NA,unid,2018-10-29
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-10-29
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-10-29
----,3,FALSE,NA,NA,unid,2018-10-29
-"+ [Drawing beautiful maps programmatically with R, sf and ggplot2](https://www.r-spatial.org//r/2018/10/25/ggplot2-sf.html)",123,FALSE,NA,###  Highlight,link,2018-10-29
-+ [Community Call - Working with images in R](https://ropensci.org/blog/2018/10/24/commcall-nov2018/),101,FALSE,NA,###  Highlight,link,2018-10-29
-+ [Searching for R Packages](https://rviews.rstudio.com/2018/10/22/searching-for-r-packages/),93,FALSE,NA,### Insights,link,2018-10-29
-+ [CRAN's New Missing Data Task View](https://rviews.rstudio.com/2018/10/26/cran-s-new-missing-values-task-view/),113,FALSE,NA,### Insights,link,2018-10-29
-+ [RConsortium — Building an R Certification](https://rtask.thinkr.fr/blog/rconsortium-building-an-r-certification/),116,FALSE,NA,### Insights,link,2018-10-29
-+ [The tweenr is all grown up](https://www.data-imaginist.com/2018/the-tweenr-is-all-grown-up/),95,FALSE,NA,### Insights,link,2018-10-29
-+ [RStudio 1.2 Preview: Plumber Integration](https://blog.rstudio.com/2018/10/23/rstudio-1-2-preview-plumber-integration/),122,FALSE,NA,### Insights,link,2018-10-29
-![RStudio 1.2 Preview: Plumber Integration](https://raw.githubusercontent.com/rweekly/image/master/2018/swagger_overview.png),125,FALSE,NA,### Insights,image,2018-10-29
-"+ [Mapping the center of gravity for the NFL, NBA, and MLB champions](https://www.chadbixby.com/2018/09/06/2018-09-06-the-nfl-nba-mlb-s-center-of-gravity/)",155,FALSE,NA,### R in the Real World,link,2018-10-29
-+ [Steps for writing a Twitter summary conference blog post](https://lcolladotor.github.io/2018/10/23/steps-for-writing-a-twitter-summary-conference-blog-post/),160,FALSE,NA,### R in the Real World,link,2018-10-29
-+ [Tidyverse developer day 2019](https://github.com/tidyverse/dev-day-2019),75,FALSE,NA,###  R in Organizations,link,2018-10-29
-+ [Summer Intern Projects](https://blog.rstudio.com/2018/10/22/summer-intern-projects/),87,FALSE,NA,###  R in Organizations,link,2018-10-29
-+ [Community Call - Working with images in R](https://ropensci.org/blog/2018/10/24/commcall-nov2018/),101,FALSE,NA,###  R in Organizations,link,2018-10-29
-"+ [AI, Machine Learning and Data Science Roundup: October 2018](https://blog.revolutionanalytics.com/2018/10/ai-roundup-oct-2018.html)",134,FALSE,NA,###  Resources,link,2018-10-29
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-10-29
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-10-29
-+ [precisely](https://github.com/malcolmbarrett/precisely) - An R package for estimating sample size based on precision.,120,FALSE,NA,###  New Packages,link,2018-10-29
-![precisely](https://raw.githubusercontent.com/rweekly/image/master/2018/precisely-1.png),89,FALSE,NA,###  New Packages,image,2018-10-29
-+ [RApiDatetime 0.0.4](http://dirk.eddelbuettel.com/blog/2018/10/21#rapidatetime_0.0.4) - Updates and Extensions,112,FALSE,NA,### Package Releases,link,2018-10-29
-+ [RcppTOML 0.1.4](http://dirk.eddelbuettel.com/blog/2018/10/23#rcpptoml_0.1.4) - Now with TOML v0.5.0,102,FALSE,NA,### Package Releases,link,2018-10-29
-+ [Create a Glossary in R Markdown](https://liao961120.github.io/2018/10/24/glossary-maker.html),96,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [Combining the best of R (magick) and Python (OpenCV) in the new RStudio to detect and average the faces of women on the cover of Vogue](http://giorasimchoni.com/2018/10/24/2018-10-24-source-a-python-there-s-nothing-to-it-vogue/),231,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [A new word cloud geom for ggplot2.](https://lepennec.github.io/ggwordcloud/),79,FALSE,NA,###  Tutorials,link,2018-10-29
-![A new word cloud geom for ggplot2.](https://raw.githubusercontent.com/rweekly/image/master/2018/ggwordcloud.png),114,FALSE,NA,###  Tutorials,image,2018-10-29
-+ [Understanding the Dplyr Package in R](http://factual.ng/blog/2018/10/23/understanding-the-dplyr-package-in-r/),113,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [Faceted Graphs with cdata and ggplot2](http://www.win-vector.com/blog/2018/10/faceted-graphs-with-cdata-and-ggplot2/),120,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [Maximized Monte Carlo Testing with MCHT](https://ntguardian.wordpress.com/2018/10/22/maximized-monte-carlo-testing-mcht/),124,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [Packages for Testing your R Package](https://itsalocke.com/blog/packages-for-testing-your-r-package/),104,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [Cross-over study design with a major constraint](https://www.rdatagen.net/post/when-the-research-question-doesn-t-fit-nicely-into-a-standard-study-design/),158,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [Computer Vision for Model Assessment](https://blog.revolutionanalytics.com/2018/10/human-vs-computer.html),109,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [Introducing gratia](https://www.fromthebottomoftheheap.net/2018/10/23/introducing-gratia/),93,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [AI in Actuarial Science – #ASSA2018](http://ronaldrichman.co.za/2018/10/23/ai-in-actuarial-science-assa2018/),112,FALSE,NA,###  Tutorials,link,2018-10-29
-"+ [""Demystifying Data Science"" remote notes](http://research.libd.org/rstatsclub/2018/10/24/demystifying-data-science-remote-notes/)",132,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [When the numbers don't tell the whole story](https://blog.revolutionanalytics.com/2018/10/anscombes-quartet.html),116,FALSE,NA,###  Tutorials,link,2018-10-29
-"+ [Drawing beautiful maps programmatically with R, sf and ggplot2](https://www.r-spatial.org//r/2018/10/25/ggplot2-sf.html)",123,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [Designing Transforms for Data Reshaping with cdata](http://www.win-vector.com/blog/2018/10/designing-transforms-for-data-reshaping-with-cdata/),146,FALSE,NA,###  Tutorials,link,2018-10-29
-+ [Simulating simple dice games](http://freerangestats.info/blog/2018/10/27/dice-games),87,FALSE,NA,###  Tutorials,link,2018-10-29
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-10-29
-"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-10-29
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-10-29
-"+ When `y` is numeric and `f` a `factor`, `plot(y ~ f)` nicely uses ""y"" and ""f"" as y- and x-labels. The more direct `boxplot(y ~ f)` now does too. New `ann = FALSE` may be used to suppress these.",195,FALSE,NA,###  R Project Updates,unid,2018-10-29
-+ Subassignment to no/empty rows of a data frame now is more consistent and typically a no-op in all cases instead of sometimes an error; part of Emil Bode's PR#17483.,167,FALSE,NA,###  R Project Updates,unid,2018-10-29
-"+ `download.file(*, method = ""curl"", cacheOK = FALSE)` should work now on Windows, thanks to Kevin Ushey's patch in PR#17323.",125,FALSE,NA,###  R Project Updates,unid,2018-10-29
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-10-29
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-10-29
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-10-29
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-10-29
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-10-29
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">ggplot2 3.1.0 was released yesterday and it seems nobody has noticed yet. I think that&#39;s a good sign. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Claus Wilke (@ClausWilke) <a href=""https://twitter.com/ClausWilke/status/1055908183175237632?ref_src=twsrc%5Etfw"">October 26, 2018</a></blockquote>",426,FALSE,NA,###  Quotes of the Week,unid,2018-10-29
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-10-29
+"title: R Weekly 2018-44 Maps, Images",36,FALSE,NA,unid,2018-10-29
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-10-29
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-10-29
+---,3,FALSE,NA,unid,2018-10-29
+"+ [Drawing beautiful maps programmatically with R, sf and ggplot2](https://www.r-spatial.org//r/2018/10/25/ggplot2-sf.html)",123,FALSE,###  Highlight,link,2018-10-29
++ [Community Call - Working with images in R](https://ropensci.org/blog/2018/10/24/commcall-nov2018/),101,FALSE,###  Highlight,link,2018-10-29
++ [Searching for R Packages](https://rviews.rstudio.com/2018/10/22/searching-for-r-packages/),93,FALSE,### Insights,link,2018-10-29
++ [CRAN's New Missing Data Task View](https://rviews.rstudio.com/2018/10/26/cran-s-new-missing-values-task-view/),113,FALSE,### Insights,link,2018-10-29
++ [RConsortium — Building an R Certification](https://rtask.thinkr.fr/blog/rconsortium-building-an-r-certification/),116,FALSE,### Insights,link,2018-10-29
++ [The tweenr is all grown up](https://www.data-imaginist.com/2018/the-tweenr-is-all-grown-up/),95,FALSE,### Insights,link,2018-10-29
++ [RStudio 1.2 Preview: Plumber Integration](https://blog.rstudio.com/2018/10/23/rstudio-1-2-preview-plumber-integration/),122,FALSE,### Insights,link,2018-10-29
+![RStudio 1.2 Preview: Plumber Integration](https://raw.githubusercontent.com/rweekly/image/master/2018/swagger_overview.png),125,FALSE,### Insights,image,2018-10-29
+"+ [Mapping the center of gravity for the NFL, NBA, and MLB champions](https://www.chadbixby.com/2018/09/06/2018-09-06-the-nfl-nba-mlb-s-center-of-gravity/)",155,FALSE,### R in the Real World,link,2018-10-29
++ [Steps for writing a Twitter summary conference blog post](https://lcolladotor.github.io/2018/10/23/steps-for-writing-a-twitter-summary-conference-blog-post/),160,FALSE,### R in the Real World,link,2018-10-29
++ [Tidyverse developer day 2019](https://github.com/tidyverse/dev-day-2019),75,FALSE,###  R in Organizations,link,2018-10-29
++ [Summer Intern Projects](https://blog.rstudio.com/2018/10/22/summer-intern-projects/),87,FALSE,###  R in Organizations,link,2018-10-29
++ [Community Call - Working with images in R](https://ropensci.org/blog/2018/10/24/commcall-nov2018/),101,FALSE,###  R in Organizations,link,2018-10-29
+"+ [AI, Machine Learning and Data Science Roundup: October 2018](https://blog.revolutionanalytics.com/2018/10/ai-roundup-oct-2018.html)",134,FALSE,###  Resources,link,2018-10-29
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-10-29
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2018-10-29
++ [precisely](https://github.com/malcolmbarrett/precisely) - An R package for estimating sample size based on precision.,120,FALSE,###  New Packages,link,2018-10-29
+![precisely](https://raw.githubusercontent.com/rweekly/image/master/2018/precisely-1.png),89,FALSE,###  New Packages,image,2018-10-29
++ [RApiDatetime 0.0.4](http://dirk.eddelbuettel.com/blog/2018/10/21#rapidatetime_0.0.4) - Updates and Extensions,112,FALSE,### Package Releases,link,2018-10-29
++ [RcppTOML 0.1.4](http://dirk.eddelbuettel.com/blog/2018/10/23#rcpptoml_0.1.4) - Now with TOML v0.5.0,102,FALSE,### Package Releases,link,2018-10-29
++ [Create a Glossary in R Markdown](https://liao961120.github.io/2018/10/24/glossary-maker.html),96,FALSE,###  Tutorials,link,2018-10-29
++ [Combining the best of R (magick) and Python (OpenCV) in the new RStudio to detect and average the faces of women on the cover of Vogue](http://giorasimchoni.com/2018/10/24/2018-10-24-source-a-python-there-s-nothing-to-it-vogue/),231,FALSE,###  Tutorials,link,2018-10-29
++ [A new word cloud geom for ggplot2.](https://lepennec.github.io/ggwordcloud/),79,FALSE,###  Tutorials,link,2018-10-29
+![A new word cloud geom for ggplot2.](https://raw.githubusercontent.com/rweekly/image/master/2018/ggwordcloud.png),114,FALSE,###  Tutorials,image,2018-10-29
++ [Understanding the Dplyr Package in R](http://factual.ng/blog/2018/10/23/understanding-the-dplyr-package-in-r/),113,FALSE,###  Tutorials,link,2018-10-29
++ [Faceted Graphs with cdata and ggplot2](http://www.win-vector.com/blog/2018/10/faceted-graphs-with-cdata-and-ggplot2/),120,FALSE,###  Tutorials,link,2018-10-29
++ [Maximized Monte Carlo Testing with MCHT](https://ntguardian.wordpress.com/2018/10/22/maximized-monte-carlo-testing-mcht/),124,FALSE,###  Tutorials,link,2018-10-29
++ [Packages for Testing your R Package](https://itsalocke.com/blog/packages-for-testing-your-r-package/),104,FALSE,###  Tutorials,link,2018-10-29
++ [Cross-over study design with a major constraint](https://www.rdatagen.net/post/when-the-research-question-doesn-t-fit-nicely-into-a-standard-study-design/),158,FALSE,###  Tutorials,link,2018-10-29
++ [Computer Vision for Model Assessment](https://blog.revolutionanalytics.com/2018/10/human-vs-computer.html),109,FALSE,###  Tutorials,link,2018-10-29
++ [Introducing gratia](https://www.fromthebottomoftheheap.net/2018/10/23/introducing-gratia/),93,FALSE,###  Tutorials,link,2018-10-29
++ [AI in Actuarial Science – #ASSA2018](http://ronaldrichman.co.za/2018/10/23/ai-in-actuarial-science-assa2018/),112,FALSE,###  Tutorials,link,2018-10-29
+"+ [""Demystifying Data Science"" remote notes](http://research.libd.org/rstatsclub/2018/10/24/demystifying-data-science-remote-notes/)",132,FALSE,###  Tutorials,link,2018-10-29
++ [When the numbers don't tell the whole story](https://blog.revolutionanalytics.com/2018/10/anscombes-quartet.html),116,FALSE,###  Tutorials,link,2018-10-29
+"+ [Drawing beautiful maps programmatically with R, sf and ggplot2](https://www.r-spatial.org//r/2018/10/25/ggplot2-sf.html)",123,FALSE,###  Tutorials,link,2018-10-29
++ [Designing Transforms for Data Reshaping with cdata](http://www.win-vector.com/blog/2018/10/designing-transforms-for-data-reshaping-with-cdata/),146,FALSE,###  Tutorials,link,2018-10-29
++ [Simulating simple dice games](http://freerangestats.info/blog/2018/10/27/dice-games),87,FALSE,###  Tutorials,link,2018-10-29
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2018-10-29
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,###  Tutorials,unid,2018-10-29
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2018-10-29
+"+ When `y` is numeric and `f` a `factor`, `plot(y ~ f)` nicely uses ""y"" and ""f"" as y- and x-labels. The more direct `boxplot(y ~ f)` now does too. New `ann = FALSE` may be used to suppress these.",195,FALSE,###  R Project Updates,unid,2018-10-29
++ Subassignment to no/empty rows of a data frame now is more consistent and typically a no-op in all cases instead of sometimes an error; part of Emil Bode's PR#17483.,167,FALSE,###  R Project Updates,unid,2018-10-29
+"+ `download.file(*, method = ""curl"", cacheOK = FALSE)` should work now on Windows, thanks to Kevin Ushey's patch in PR#17323.",125,FALSE,###  R Project Updates,unid,2018-10-29
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-10-29
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2018-10-29
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2018-10-29
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-10-29
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-10-29
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">ggplot2 3.1.0 was released yesterday and it seems nobody has noticed yet. I think that&#39;s a good sign. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Claus Wilke (@ClausWilke) <a href=""https://twitter.com/ClausWilke/status/1055908183175237632?ref_src=twsrc%5Etfw"">October 26, 2018</a></blockquote>",426,FALSE,###  Quotes of the Week,unid,2018-10-29

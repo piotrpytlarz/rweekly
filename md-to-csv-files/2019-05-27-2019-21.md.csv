@@ -1,61 +1,61 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-05-27
-"title: R Weekly 2019-21 ITFM, rodev, visualization",50,FALSE,NA,NA,unid,2019-05-27
-description: Weekly News in the the R Community,47,FALSE,NA,NA,unid,2019-05-27
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-05-27
----,3,FALSE,NA,NA,unid,2019-05-27
-"This week's release was curated by [Eric Nantz](https://r-podcast.org), with help from the RWeekly team members and contributors.",129,FALSE,NA,NA,unid,2019-05-27
-+ [From RTFM to ITFM (Improve The Fine Manual)](https://yihui.name/en/2019/05/rtfm-or-itfm/),92,FALSE,NA,###  Highlight,link,2019-05-27
-+ [rodev: helpers for rOpenSci package authors](https://ropensci.org/technotes/2019/05/21/rodev/),97,FALSE,NA,###  Highlight,link,2019-05-27
-+ [Can I do that? Inspiration from a Pudding data visualization.](https://austinwehrwein.com/data-visualization/winningest/),124,FALSE,NA,###  Highlight,link,2019-05-27
-+ [A noLD platform on R-hub package builder](https://blog.r-hub.io/2019/05/21/nold/),84,FALSE,NA,### Insights,link,2019-05-27
-+ [From RTFM to ITFM (Improve The Fine Manual)](https://yihui.name/en/2019/05/rtfm-or-itfm/),92,FALSE,NA,### Insights,link,2019-05-27
-+ [What is the probability that in a box of a dozen donuts picked from 14 flavors there's no more than 3 flavors in the box?](https://ntguardian.wordpress.com/2019/05/20/probability-box-dozen-donuts-no-more-than-3-flavors-in-the-box/),234,FALSE,NA,### R in the Real World,link,2019-05-27
-+ [Add Dressbarn to the Continued Retailpocalypse](https://rud.is/b/2019/05/21/add-dressbarn-to-the-continued-retailpocalypse),126,FALSE,NA,### R in the Real World,link,2019-05-27
-"+ [Analysing the HIV pandemic, Part 4: Classification of lab samples](https://rviews.rstudio.com/2019/05/23/pipeline-for-analysing-hiv-part-4/)",143,FALSE,NA,### R in the Real World,link,2019-05-27
-+ [Can I do that? Inspiration from a Pudding data visualization.](https://austinwehrwein.com/data-visualization/winningest/),124,FALSE,NA,### R in the Real World,link,2019-05-27
-![Pudding viz](https://raw.githubusercontent.com/rweekly/image/master/2019/pudding_data_viz.png),96,FALSE,NA,### R in the Real World,image,2019-05-27
-+ [I co-founded a company! Meet Problem Forward Data Science](https://simplystatistics.org/2019/05/20/i-co-founded-a-company-meet-problem-forward-data-science/),160,FALSE,NA,###  R in Organizations,link,2019-05-27
-+ [Headless Chrome Automation with R](https://speakerdeck.com/rlesur/headless-chrome-automation-with-r-the-crrri-package) - The slides for the talk at @uRosconf on Headless Chrome Automation for the `{crrri}` package by Christophe Dervieux and Romain Lesur,256,FALSE,NA,###  Resources,link,2019-05-27
-+ [RinteRface: Production-ready UIs for Shiny](https://rinterface.com/shiny/talks/index.html),93,FALSE,NA,###  Resources,link,2019-05-27
-+ [Upgrading to R 3.6. on a Mac](https://ibecav.github.io/update_libraries),75,FALSE,NA,###  Resources,link,2019-05-27
-+ [rodev: helpers for rOpenSci package authors](https://ropensci.org/technotes/2019/05/21/rodev/),97,FALSE,NA,###  Resources,link,2019-05-27
-+ [Useful tips to be more productive while working with R Studio. Part 2.](https://appsilon.com/r-studio-shortcuts-and-tips-part-2/),132,FALSE,NA,###  Resources,link,2019-05-27
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-05-27
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-05-27
-+ [`partition` 0.1.0](https://malco.io/2019/05/20/introducing-the-partition-package/): A fast and flexible framework for data reduction,135,FALSE,NA,###  New Packages,link,2019-05-27
-+ [`dde`](https://reside-ic.github.io/blog/dde-1.0.0/) for integrating delay differential equations,99,FALSE,NA,###  New Packages,link,2019-05-27
-+ [`tidycode` Analyze Lines of R Code the Tidy Way](https://cran.r-project.org/package=tidycode),96,FALSE,NA,###  New Packages,link,2019-05-27
-+ [`integr` An Implementation of Interaction Graphs of Aleks Jakulin](https://cran.r-project.org/package=integr),112,FALSE,NA,###  New Packages,link,2019-05-27
-+ [`R62S3` Automatic S3 Method Generation from R6](https://cran.r-project.org/package=R62S3),92,FALSE,NA,###  New Packages,link,2019-05-27
-+ [`bib2df` Parse a BibTeX File to a Data Frame](https://cran.r-project.org/package=bib2df),91,FALSE,NA,###  New Packages,link,2019-05-27
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-05-27
-+ [`Rtistic A package-by-numbers repo](https://emilyriederer.netlify.com/post/rtistic-a-package-by-numbers-repo/),113,FALSE,NA,###  New Packages,link,2019-05-27
-+ [getTBinR 0.6.0 now on CRAN - from 80 Tuberculosis variables to more than 450!](https://www.samabbott.co.uk/post/gettbinr-6-0/),129,FALSE,NA,### Updated Packages,link,2019-05-27
-![Global Tuberculosis incidence rates](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-6-0.png),144,FALSE,NA,### Updated Packages,image,2019-05-27
-+ [Free Video Lecture: Vectors for Programmers and Data Scientists](http://www.win-vector.com/blog/2019/05/free-video-lecture-vectors-for-programmers-and-data-scientists/),171,FALSE,NA,###  Videos and Podcasts,link,2019-05-27
-"+ [NSSD Episode 81 Getting to Yes with Data Analysis](http://nssdeviations.com/81-getting-to-yes-with-data-analysis) - Hilary and Roger discuss the book Getting to Yes and how it applies to data analysis. Also, more sports, breaking changes to R, and sampling.",260,FALSE,NA,###  Videos and Podcasts,link,2019-05-27
-+ [Enquete Origine Destination 2017 et troisieme lien](https://www.simoncoulombe.com/2019/05/eod2017/),102,FALSE,NA,### R Internationally,link,2019-05-27
-+ [Center continuous palettes in ggplot2](https://www.hvitfeldt.me/blog/center-continuous-palettes-in-ggplot2/),111,FALSE,NA,###  Tutorials,link,2019-05-27
-![Cont palettes](https://raw.githubusercontent.com/rweekly/image/master/2019/cont_palette_ggplot2.png),102,FALSE,NA,###  Tutorials,image,2019-05-27
-+ [Create a CLI for R with npm](https://colinfay.me/create-r-cli-npm/),70,FALSE,NA,###  Tutorials,link,2019-05-27
-+ [Vignette: a 'Copy & Paste' R workflow for word clouds](https://martinctc.github.io/blog/Copy-and-paste_wordclouds_in_R/),123,FALSE,NA,###  Tutorials,link,2019-05-27
-+ [Part 2: Simple EDA in R with inspectdf](https://www.littlemissdata.com/blog/inspectdf),89,FALSE,NA,###  Tutorials,link,2019-05-27
-+ [Timing hash functions with the bench package](https://www.jumpingrivers.com/blog/digest-timings-bench-package/),114,FALSE,NA,###  Tutorials,link,2019-05-27
-+ [Turning images into ridgeline plots](https://atrebas.github.io/post/2019-05-18-images-to-ridges/),100,FALSE,NA,###  Tutorials,link,2019-05-27
-+ [Slides on making interactive leaflet maps with R](https://pakillo.github.io/r-leaflet-maps/r-leaflet-maps-slides.html),121,FALSE,NA,###  Tutorials,link,2019-05-27
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-05-27
-"n></div><div class=""post-more-end""></div>-->",44,FALSE,NA,###  Tutorials,unid,2019-05-27
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-05-27
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-05-27
-+ [China-R Beijing 24 May - 26 May](https://cosx.org/2019/03/12th-china-r-beijing-announcement/),96,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-27
-+ [Rstudio & ThinkR roadshow – June 6 – Paris](https://rtask.thinkr.fr/blog/rstudio-thinkr-roadshow-june-6-paris),113,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-27
-"+ [satRday Berlin, June 15th](https://berlin2019.satrdays.org)",62,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-27
-+ [useR2019](http://www.user2019.fr/),37,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-27
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-27
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-27
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-05-27
-+ [R Text Data Compilation](https://github.com/EmilHvitfeldt/R-text-data) - List of textual data sources to be used for text mining in R.,137,FALSE,NA,### Datasets,link,2019-05-27
-"+ [MRAN snapshots, and you](https://blog.revolutionanalytics.com/2019/05/cran-snapshots-and-you.html)",101,FALSE,NA,###  Call for Participation,link,2019-05-27
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-05-27
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">This patch to <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a>-devel by <a href=""https://twitter.com/LukeTierney4?ref_src=twsrc%5Etfw"">@LukeTierney4</a> makes me very happy, thank you! 🎉 <br><br>Thanks also to <a href=""https://twitter.com/HeathrTurnr?ref_src=twsrc%5Etfw"">@HeathrTurnr</a> for encouraging me, and explaining me how, to post to R-devel. 💜 <a href=""https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw"">#rladies</a> <a href=""https://t.co/du9cxtpJ0i"">https://t.co/du9cxtpJ0i</a></p>&mdash; Maëlle Salmon 🐟 (@ma_salmon) <a href=""https://twitter.com/ma_salmon/status/1130842995375214592?ref_src=twsrc%5Etfw"">May 21, 2019</a></blockquote>",777,FALSE,NA,###  Quotes of the Week,unid,2019-05-27
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-05-27
+"title: R Weekly 2019-21 ITFM, rodev, visualization",50,FALSE,NA,unid,2019-05-27
+description: Weekly News in the the R Community,47,FALSE,NA,unid,2019-05-27
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-05-27
+---,3,FALSE,NA,unid,2019-05-27
+"This week's release was curated by [Eric Nantz](https://r-podcast.org), with help from the RWeekly team members and contributors.",129,FALSE,NA,unid,2019-05-27
++ [From RTFM to ITFM (Improve The Fine Manual)](https://yihui.name/en/2019/05/rtfm-or-itfm/),92,FALSE,###  Highlight,link,2019-05-27
++ [rodev: helpers for rOpenSci package authors](https://ropensci.org/technotes/2019/05/21/rodev/),97,FALSE,###  Highlight,link,2019-05-27
++ [Can I do that? Inspiration from a Pudding data visualization.](https://austinwehrwein.com/data-visualization/winningest/),124,FALSE,###  Highlight,link,2019-05-27
++ [A noLD platform on R-hub package builder](https://blog.r-hub.io/2019/05/21/nold/),84,FALSE,### Insights,link,2019-05-27
++ [From RTFM to ITFM (Improve The Fine Manual)](https://yihui.name/en/2019/05/rtfm-or-itfm/),92,FALSE,### Insights,link,2019-05-27
++ [What is the probability that in a box of a dozen donuts picked from 14 flavors there's no more than 3 flavors in the box?](https://ntguardian.wordpress.com/2019/05/20/probability-box-dozen-donuts-no-more-than-3-flavors-in-the-box/),234,FALSE,### R in the Real World,link,2019-05-27
++ [Add Dressbarn to the Continued Retailpocalypse](https://rud.is/b/2019/05/21/add-dressbarn-to-the-continued-retailpocalypse),126,FALSE,### R in the Real World,link,2019-05-27
+"+ [Analysing the HIV pandemic, Part 4: Classification of lab samples](https://rviews.rstudio.com/2019/05/23/pipeline-for-analysing-hiv-part-4/)",143,FALSE,### R in the Real World,link,2019-05-27
++ [Can I do that? Inspiration from a Pudding data visualization.](https://austinwehrwein.com/data-visualization/winningest/),124,FALSE,### R in the Real World,link,2019-05-27
+![Pudding viz](https://raw.githubusercontent.com/rweekly/image/master/2019/pudding_data_viz.png),96,FALSE,### R in the Real World,image,2019-05-27
++ [I co-founded a company! Meet Problem Forward Data Science](https://simplystatistics.org/2019/05/20/i-co-founded-a-company-meet-problem-forward-data-science/),160,FALSE,###  R in Organizations,link,2019-05-27
++ [Headless Chrome Automation with R](https://speakerdeck.com/rlesur/headless-chrome-automation-with-r-the-crrri-package) - The slides for the talk at @uRosconf on Headless Chrome Automation for the `{crrri}` package by Christophe Dervieux and Romain Lesur,256,FALSE,###  Resources,link,2019-05-27
++ [RinteRface: Production-ready UIs for Shiny](https://rinterface.com/shiny/talks/index.html),93,FALSE,###  Resources,link,2019-05-27
++ [Upgrading to R 3.6. on a Mac](https://ibecav.github.io/update_libraries),75,FALSE,###  Resources,link,2019-05-27
++ [rodev: helpers for rOpenSci package authors](https://ropensci.org/technotes/2019/05/21/rodev/),97,FALSE,###  Resources,link,2019-05-27
++ [Useful tips to be more productive while working with R Studio. Part 2.](https://appsilon.com/r-studio-shortcuts-and-tips-part-2/),132,FALSE,###  Resources,link,2019-05-27
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-05-27
+**CRAN**,8,FALSE,###  New Packages,unid,2019-05-27
++ [`partition` 0.1.0](https://malco.io/2019/05/20/introducing-the-partition-package/): A fast and flexible framework for data reduction,135,FALSE,###  New Packages,link,2019-05-27
++ [`dde`](https://reside-ic.github.io/blog/dde-1.0.0/) for integrating delay differential equations,99,FALSE,###  New Packages,link,2019-05-27
++ [`tidycode` Analyze Lines of R Code the Tidy Way](https://cran.r-project.org/package=tidycode),96,FALSE,###  New Packages,link,2019-05-27
++ [`integr` An Implementation of Interaction Graphs of Aleks Jakulin](https://cran.r-project.org/package=integr),112,FALSE,###  New Packages,link,2019-05-27
++ [`R62S3` Automatic S3 Method Generation from R6](https://cran.r-project.org/package=R62S3),92,FALSE,###  New Packages,link,2019-05-27
++ [`bib2df` Parse a BibTeX File to a Data Frame](https://cran.r-project.org/package=bib2df),91,FALSE,###  New Packages,link,2019-05-27
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-05-27
++ [`Rtistic A package-by-numbers repo](https://emilyriederer.netlify.com/post/rtistic-a-package-by-numbers-repo/),113,FALSE,###  New Packages,link,2019-05-27
++ [getTBinR 0.6.0 now on CRAN - from 80 Tuberculosis variables to more than 450!](https://www.samabbott.co.uk/post/gettbinr-6-0/),129,FALSE,### Updated Packages,link,2019-05-27
+![Global Tuberculosis incidence rates](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-6-0.png),144,FALSE,### Updated Packages,image,2019-05-27
++ [Free Video Lecture: Vectors for Programmers and Data Scientists](http://www.win-vector.com/blog/2019/05/free-video-lecture-vectors-for-programmers-and-data-scientists/),171,FALSE,###  Videos and Podcasts,link,2019-05-27
+"+ [NSSD Episode 81 Getting to Yes with Data Analysis](http://nssdeviations.com/81-getting-to-yes-with-data-analysis) - Hilary and Roger discuss the book Getting to Yes and how it applies to data analysis. Also, more sports, breaking changes to R, and sampling.",260,FALSE,###  Videos and Podcasts,link,2019-05-27
++ [Enquete Origine Destination 2017 et troisieme lien](https://www.simoncoulombe.com/2019/05/eod2017/),102,FALSE,### R Internationally,link,2019-05-27
++ [Center continuous palettes in ggplot2](https://www.hvitfeldt.me/blog/center-continuous-palettes-in-ggplot2/),111,FALSE,###  Tutorials,link,2019-05-27
+![Cont palettes](https://raw.githubusercontent.com/rweekly/image/master/2019/cont_palette_ggplot2.png),102,FALSE,###  Tutorials,image,2019-05-27
++ [Create a CLI for R with npm](https://colinfay.me/create-r-cli-npm/),70,FALSE,###  Tutorials,link,2019-05-27
++ [Vignette: a 'Copy & Paste' R workflow for word clouds](https://martinctc.github.io/blog/Copy-and-paste_wordclouds_in_R/),123,FALSE,###  Tutorials,link,2019-05-27
++ [Part 2: Simple EDA in R with inspectdf](https://www.littlemissdata.com/blog/inspectdf),89,FALSE,###  Tutorials,link,2019-05-27
++ [Timing hash functions with the bench package](https://www.jumpingrivers.com/blog/digest-timings-bench-package/),114,FALSE,###  Tutorials,link,2019-05-27
++ [Turning images into ridgeline plots](https://atrebas.github.io/post/2019-05-18-images-to-ridges/),100,FALSE,###  Tutorials,link,2019-05-27
++ [Slides on making interactive leaflet maps with R](https://pakillo.github.io/r-leaflet-maps/r-leaflet-maps-slides.html),121,FALSE,###  Tutorials,link,2019-05-27
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2019-05-27
+"n></div><div class=""post-more-end""></div>-->",44,FALSE,###  Tutorials,unid,2019-05-27
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-05-27
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-05-27
++ [China-R Beijing 24 May - 26 May](https://cosx.org/2019/03/12th-china-r-beijing-announcement/),96,FALSE,###  Upcoming Events in 3 Months,link,2019-05-27
++ [Rstudio & ThinkR roadshow – June 6 – Paris](https://rtask.thinkr.fr/blog/rstudio-thinkr-roadshow-june-6-paris),113,FALSE,###  Upcoming Events in 3 Months,link,2019-05-27
+"+ [satRday Berlin, June 15th](https://berlin2019.satrdays.org)",62,FALSE,###  Upcoming Events in 3 Months,link,2019-05-27
++ [useR2019](http://www.user2019.fr/),37,FALSE,###  Upcoming Events in 3 Months,link,2019-05-27
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-05-27
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-05-27
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-05-27
++ [R Text Data Compilation](https://github.com/EmilHvitfeldt/R-text-data) - List of textual data sources to be used for text mining in R.,137,FALSE,### Datasets,link,2019-05-27
+"+ [MRAN snapshots, and you](https://blog.revolutionanalytics.com/2019/05/cran-snapshots-and-you.html)",101,FALSE,###  Call for Participation,link,2019-05-27
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-05-27
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">This patch to <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a>-devel by <a href=""https://twitter.com/LukeTierney4?ref_src=twsrc%5Etfw"">@LukeTierney4</a> makes me very happy, thank you! 🎉 <br><br>Thanks also to <a href=""https://twitter.com/HeathrTurnr?ref_src=twsrc%5Etfw"">@HeathrTurnr</a> for encouraging me, and explaining me how, to post to R-devel. 💜 <a href=""https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw"">#rladies</a> <a href=""https://t.co/du9cxtpJ0i"">https://t.co/du9cxtpJ0i</a></p>&mdash; Maëlle Salmon 🐟 (@ma_salmon) <a href=""https://twitter.com/ma_salmon/status/1130842995375214592?ref_src=twsrc%5Etfw"">May 21, 2019</a></blockquote>",777,FALSE,###  Quotes of the Week,unid,2019-05-27

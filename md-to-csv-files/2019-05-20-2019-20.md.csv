@@ -1,77 +1,77 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-05-20
-"title: R Weekly 2019-20 stringr, reproducible research, redoc",61,FALSE,NA,NA,unid,2019-05-20
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-05-20
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-05-20
----,3,FALSE,NA,NA,unid,2019-05-20
-Release Date: 2019-05-20,24,FALSE,NA,NA,unid,2019-05-20
-+ [New `stringr` vignette comparing base string functions to their stringr equivalents](https://stringr.tidyverse.org/articles/from-base.html),142,FALSE,NA,###  Highlight,link,2019-05-20
-+ [Putting the R into Reproducible Research (slidedeck)](https://annakrystalli.me/talks/r-in-repro-research.html#1),115,FALSE,NA,###  Highlight,link,2019-05-20
-"+ [`redoc`](https://noamross.github.io/redoc/), reversible reproducible documents. redoc is a package to enable a collaboration via a two-way R Markdown-Microsoft Word workflow. Includes support for diffing, Critic Markup/track changes, and RStudio Add-ins.",257,FALSE,NA,###  Highlight,link,2019-05-20
-+ [A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup),229,FALSE,NA,### Insights,link,2019-05-20
-+ [Read the R source!](https://blog.r-hub.io/2019/05/14/read-the-source/),73,FALSE,NA,### Insights,link,2019-05-20
-+ [Hey pretty](https://djnavarro.net/post/hey-pretty/),54,FALSE,NA,### Insights,link,2019-05-20
-+ [Be some other name](https://djnavarro.net/post/be-some-other-name/),70,FALSE,NA,### Insights,link,2019-05-20
-+ [A Shiny App to explore my NYT Crossword solving statistics](https://aschep.shinyapps.io/crosswordapp/),105,FALSE,NA,### R in the Real World,link,2019-05-20
-+ [Timezones are hard](http://www.citizen-statistician.org/2019/05/timezones-are-hard/),87,FALSE,NA,### R in the Real World,link,2019-05-20
-+ [rOpenSci Dev Guide 0.2.0: Updates Inside and Out](https://ropensci.org/blog/2019/05/16/dev-guide-update/),108,FALSE,NA,###  R in Organizations,link,2019-05-20
-"![cover of rOpenSci dev guide, showing a package production line with small humans discussing, examining and promoting packages](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/ropensci_dev_guide_cover.png)",224,FALSE,NA,###  R in Organizations,image,2019-05-20
-+ [POWER to the People](https://ropensci.org/blog/2019/05/14/nasapower/),72,FALSE,NA,###  R in Academia,link,2019-05-20
-+ [Putting the R into Reproducible Research (slidedeck)](https://annakrystalli.me/talks/r-in-repro-research.html#1),115,FALSE,NA,###  R in Academia,link,2019-05-20
-+ [New `stringr` vignette comparing base string functions to their stringr equivalents](https://stringr.tidyverse.org/articles/from-base.html),142,FALSE,NA,###  Resources,link,2019-05-20
-"+ [New `tidyr` vignette about rectangling including the new functions `unnest_longer()`, `unnest_wider()`, `unnest_auto()`, and `hoist()`](https://tidyr.tidyverse.org/dev/articles/rectangle.html)",195,FALSE,NA,###  Resources,link,2019-05-20
-"+ [`drakeplanner`](https://github.com/wlandau/drakeplanner), a web app to create new drake projects",99,FALSE,NA,###  Resources,link,2019-05-20
-+ [Working with data in elite sport (workshop slides)](https://jacquietran.github.io/2019_may_rladies_akl/R/#1),111,FALSE,NA,###  Resources,link,2019-05-20
-"+ [Interactive web-based data visualization with R, plotly, and shiny (book)](https://plotly-r.com/)",100,FALSE,NA,###  Resources,link,2019-05-20
-"+ [Cheatsheet for `tsbox`, a time series toolkit](https://github.com/rstudio/cheatsheets/raw/master/tsbox.pdf)",110,FALSE,NA,###  Resources,link,2019-05-20
-+ [SatRday LA 2019 Slides on Futures](https://www.jottr.org/2019/05/16/future-satrdayla2019-slides/),100,FALSE,NA,###  Resources,link,2019-05-20
-"+ [Data and code page on Alex Albright's website](https://thelittledataset.com/data_code/). Features data/code for replicating & building on articles about everything from Oscars speeches to names of cats/dogs. Also features a smorgasbord of resources regarding R, websites, CVs, etc. ",285,FALSE,NA,###  Resources,link,2019-05-20
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-05-20
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-05-20
-+ [`vaultr`](https://reside-ic.github.io/blog/vaultr-1.0.2/) for storing and interacting with secrets and sensitive data using HashiCorp's Vault,144,FALSE,NA,###  New Packages,link,2019-05-20
-+ [`rdoc`](https://github.com/mdequeljoe/rdoc) colourised R docs in the terminal,80,FALSE,NA,###  New Packages,link,2019-05-20
-"![screenshot of use of rdoc, colourised R docs in the terminal](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/rdoc.jpg)",139,FALSE,NA,###  New Packages,image,2019-05-20
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-05-20
-"+ [`redoc`](https://noamross.github.io/redoc/), reversible reproducible documents. redoc is a package to enable a collaboration via a two-way R Markdown-Microsoft Word workflow. Includes support for diffing, Critic Markup/track changes, and RStudio Add-ins.",257,FALSE,NA,###  New Packages,link,2019-05-20
-"+ [`g2r`](https://g2r.dev/), grammar of graphics for interactive visualisations",79,FALSE,NA,###  New Packages,link,2019-05-20
-"+ [`distributions`](https://alexpghayes.github.io/distributions/), Probability Distributions as S3 Objects",106,FALSE,NA,###  New Packages,link,2019-05-20
-"+ [`fastmap`](https://r-lib.github.io/fastmap/), fast implementation of a key-value store",89,FALSE,NA,###  New Packages,link,2019-05-20
-+ [Introducing {tvthemes}: ggplot2 palettes and themes from your favorite TV shows!](https://ryo-n7.github.io/2019-05-16-introducing-tvthemes-package/),151,FALSE,NA,###  New Packages,link,2019-05-20
-![Parks and recreation theme from tvthemes](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/tv-themes.png),124,FALSE,NA,###  New Packages,image,2019-05-20
-"+ [`diffobj` 0.2.3](https://github.com/brodieG/diffobj), Compare R Objects with a Diff ",87,FALSE,NA,### Updated Packages,link,2019-05-20
-"+ [`vroom` 1.0.1](http://vroom.r-lib.org/news/index.html#vroom-1-0-1), Read and Write Rectangular Text Data Quickly",115,FALSE,NA,### Updated Packages,link,2019-05-20
-+ [`RcppAnnoy` 0.0.12](http://dirk.eddelbuettel.com/blog/2019/05/12#rcppannoy_0.0.12),85,FALSE,NA,### Updated Packages,link,2019-05-20
-+ [Quick Hit: Updates to QuickLookR and {rdatainfo}](https://rud.is/b/2019/05/12/quick-hit-updates-to-quicklookr-and-rdatainfo/),128,FALSE,NA,### Updated Packages,link,2019-05-20
-+ [`dqrng` 0.2.1](https://stubner.me/post/2019/dqrng-v0-2-1/),61,FALSE,NA,### Updated Packages,link,2019-05-20
-+ [`dplyr` 0.8.1](https://www.tidyverse.org/articles/2019/05/dplyr-0-8-1/),74,FALSE,NA,### Updated Packages,link,2019-05-20
-+ [The Secret of Landusia: A Text Adventure in the R Language](https://lucidmanager.org/text-adventure/),104,FALSE,NA,###  Tutorials,link,2019-05-20
-+ [The small multiples plot: how to combine ggplot2 plots with one shared axis](https://aosmith.rbind.io/2019/05/13/small-multiples-plot/),138,FALSE,NA,###  Tutorials,link,2019-05-20
-![The small multiples plot: how to combine ggplot2 plots with one shared axis](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/multiple-plots.png),164,FALSE,NA,###  Tutorials,image,2019-05-20
-+ [Virtual Morel Foraging with R](https://rviews.rstudio.com/2019/05/13/virtual-morel-foraging-with-r/),103,FALSE,NA,###  Tutorials,link,2019-05-20
-+ [an attempt at code golf](https://xianblog.wordpress.com/2019/05/15/an-attempt-at-code-golf/),95,FALSE,NA,###  Tutorials,link,2019-05-20
-"+ [House effects, herding, and the last few days before the election by @ellis2013nz](http://freerangestats.info/blog/2019/05/15/polls-misc)",140,FALSE,NA,###  Tutorials,link,2019-05-20
-+ [Timing Working With a Row or a Column from a data.frame](http://www.win-vector.com/blog/2019/05/timing-working-with-a-row-or-a-column-from-a-data-frame/),156,FALSE,NA,###  Tutorials,link,2019-05-20
-+ [do_if: if statements with a %>% workflow!](http://www.favstats.eu/post/do_if/),81,FALSE,NA,###  Tutorials,link,2019-05-20
-"+ [Analysing the HIV pandemic, Part 3: Genetic diversity](https://rviews.rstudio.com/2019/05/16/pipeline-for-analysing-hiv-part-3/)",131,FALSE,NA,###  Tutorials,link,2019-05-20
-+ [Four ways to reverse a string in R](https://theautomatic.net/2019/05/17/four-ways-to-reverse-a-string-in-r/),111,FALSE,NA,###  Tutorials,link,2019-05-20
-+ [The Evolution of a ggplot (Ep. 1)](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/),116,FALSE,NA,###  Tutorials,link,2019-05-20
-![The Evolution of a ggplot (Ep. 1)](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/evol-ggplot-1.gif),121,FALSE,NA,###  Tutorials,image,2019-05-20
-+ [Australian Federal Election Forecasts 2019](http://freerangestats.info/elections/oz/index.html),98,FALSE,NA,###  Tutorials,link,2019-05-20
-+ [Polls v results by @ellis2013nz](http://freerangestats.info/blog/2019/05/19/polls-v-results),95,FALSE,NA,###  Tutorials,link,2019-05-20
-"+ [Popular Letters in Baby Names, Animated](https://www.garrickadenbuie.com/blog/popular-letters-in-babynames/)",111,FALSE,NA,###  Tutorials,link,2019-05-20
-+ [Fun with Statistics - Is Usain Bolt really the fastest man on earth?](https://radmuzom.com/2019/05/18/fun-with-statistics-is-usain-bolt-really-the-fastest-man-on-earth/),172,FALSE,NA,###  Tutorials,link,2019-05-20
-+ [Debug your R package on CircleCI via Docker or SSH](https://blog.jdblischak.com/posts/debug-circleci/),105,FALSE,NA,###  Tutorials,link,2019-05-20
-+ [Mapping Tornado Alley with R](https://rud.is/b/2019/05/18/mapping-tornado-alley-with-r/),91,FALSE,NA,###  Tutorials,link,2019-05-20
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-05-20
-"n></div><div class=""post-more-end""></div>-->",44,FALSE,NA,###  Tutorials,unid,2019-05-20
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-05-20
-+ [GFortran Issues with LAPACK](https://developer.r-project.org/Blog/public/2019/05/15/gfortran-issues-with-lapack/),116,FALSE,NA,###  R Project Updates,link,2019-05-20
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-05-20
-"+ [satRday Berlin Diversity Scholarship](https://berlin2019.satrdays.org/scholarships/). Apply no later than Monday 27th May, 2019. Conference June 15th, 2019.",159,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-20
-+ [May 25th: 78th Tokyo.R Users Meetup](https://tokyor.connpass.com/event/130254/),82,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-20
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-20
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-20
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-05-20
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-05-20
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">The moment I realized, my PhD mates included this huuuuuge R into my PhD hat! Just love it! They know me so well ;) <a href=""https://twitter.com/hashtag/phdlife?src=hash&amp;ref_src=twsrc%5Etfw"">#phdlife</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/SRVxS9a6YU"">pic.twitter.com/SRVxS9a6YU</a></p>&mdash; Maja Ilić (@MajaIlicZg) <a href=""https://twitter.com/MajaIlicZg/status/1127932778429997058?ref_src=twsrc%5Etfw"">13 de maig de 2019</a></blockquote>",593,FALSE,NA,###  Quotes of the Week,unid,2019-05-20
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Question for <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> users: what was (or is) the trickiest part for you about learning ggplot? What did you find unintuitive or hard to understand/remember? For teachers: what ggplot concepts do your students struggle with?</p>&mdash; Will Chase (@W_R_Chase) <a href=""https://twitter.com/W_R_Chase/status/1127952758877802497?ref_src=twsrc%5Etfw"">13 de maig de 2019</a></blockquote>",535,FALSE,NA,###  Quotes of the Week,unid,2019-05-20
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-05-20
+"title: R Weekly 2019-20 stringr, reproducible research, redoc",61,FALSE,NA,unid,2019-05-20
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-05-20
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-05-20
+---,3,FALSE,NA,unid,2019-05-20
+Release Date: 2019-05-20,24,FALSE,NA,unid,2019-05-20
++ [New `stringr` vignette comparing base string functions to their stringr equivalents](https://stringr.tidyverse.org/articles/from-base.html),142,FALSE,###  Highlight,link,2019-05-20
++ [Putting the R into Reproducible Research (slidedeck)](https://annakrystalli.me/talks/r-in-repro-research.html#1),115,FALSE,###  Highlight,link,2019-05-20
+"+ [`redoc`](https://noamross.github.io/redoc/), reversible reproducible documents. redoc is a package to enable a collaboration via a two-way R Markdown-Microsoft Word workflow. Includes support for diffing, Critic Markup/track changes, and RStudio Add-ins.",257,FALSE,###  Highlight,link,2019-05-20
++ [A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup),229,FALSE,### Insights,link,2019-05-20
++ [Read the R source!](https://blog.r-hub.io/2019/05/14/read-the-source/),73,FALSE,### Insights,link,2019-05-20
++ [Hey pretty](https://djnavarro.net/post/hey-pretty/),54,FALSE,### Insights,link,2019-05-20
++ [Be some other name](https://djnavarro.net/post/be-some-other-name/),70,FALSE,### Insights,link,2019-05-20
++ [A Shiny App to explore my NYT Crossword solving statistics](https://aschep.shinyapps.io/crosswordapp/),105,FALSE,### R in the Real World,link,2019-05-20
++ [Timezones are hard](http://www.citizen-statistician.org/2019/05/timezones-are-hard/),87,FALSE,### R in the Real World,link,2019-05-20
++ [rOpenSci Dev Guide 0.2.0: Updates Inside and Out](https://ropensci.org/blog/2019/05/16/dev-guide-update/),108,FALSE,###  R in Organizations,link,2019-05-20
+"![cover of rOpenSci dev guide, showing a package production line with small humans discussing, examining and promoting packages](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/ropensci_dev_guide_cover.png)",224,FALSE,###  R in Organizations,image,2019-05-20
++ [POWER to the People](https://ropensci.org/blog/2019/05/14/nasapower/),72,FALSE,###  R in Academia,link,2019-05-20
++ [Putting the R into Reproducible Research (slidedeck)](https://annakrystalli.me/talks/r-in-repro-research.html#1),115,FALSE,###  R in Academia,link,2019-05-20
++ [New `stringr` vignette comparing base string functions to their stringr equivalents](https://stringr.tidyverse.org/articles/from-base.html),142,FALSE,###  Resources,link,2019-05-20
+"+ [New `tidyr` vignette about rectangling including the new functions `unnest_longer()`, `unnest_wider()`, `unnest_auto()`, and `hoist()`](https://tidyr.tidyverse.org/dev/articles/rectangle.html)",195,FALSE,###  Resources,link,2019-05-20
+"+ [`drakeplanner`](https://github.com/wlandau/drakeplanner), a web app to create new drake projects",99,FALSE,###  Resources,link,2019-05-20
++ [Working with data in elite sport (workshop slides)](https://jacquietran.github.io/2019_may_rladies_akl/R/#1),111,FALSE,###  Resources,link,2019-05-20
+"+ [Interactive web-based data visualization with R, plotly, and shiny (book)](https://plotly-r.com/)",100,FALSE,###  Resources,link,2019-05-20
+"+ [Cheatsheet for `tsbox`, a time series toolkit](https://github.com/rstudio/cheatsheets/raw/master/tsbox.pdf)",110,FALSE,###  Resources,link,2019-05-20
++ [SatRday LA 2019 Slides on Futures](https://www.jottr.org/2019/05/16/future-satrdayla2019-slides/),100,FALSE,###  Resources,link,2019-05-20
+"+ [Data and code page on Alex Albright's website](https://thelittledataset.com/data_code/). Features data/code for replicating & building on articles about everything from Oscars speeches to names of cats/dogs. Also features a smorgasbord of resources regarding R, websites, CVs, etc. ",285,FALSE,###  Resources,link,2019-05-20
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-05-20
+**CRAN**,8,FALSE,###  New Packages,unid,2019-05-20
++ [`vaultr`](https://reside-ic.github.io/blog/vaultr-1.0.2/) for storing and interacting with secrets and sensitive data using HashiCorp's Vault,144,FALSE,###  New Packages,link,2019-05-20
++ [`rdoc`](https://github.com/mdequeljoe/rdoc) colourised R docs in the terminal,80,FALSE,###  New Packages,link,2019-05-20
+"![screenshot of use of rdoc, colourised R docs in the terminal](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/rdoc.jpg)",139,FALSE,###  New Packages,image,2019-05-20
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-05-20
+"+ [`redoc`](https://noamross.github.io/redoc/), reversible reproducible documents. redoc is a package to enable a collaboration via a two-way R Markdown-Microsoft Word workflow. Includes support for diffing, Critic Markup/track changes, and RStudio Add-ins.",257,FALSE,###  New Packages,link,2019-05-20
+"+ [`g2r`](https://g2r.dev/), grammar of graphics for interactive visualisations",79,FALSE,###  New Packages,link,2019-05-20
+"+ [`distributions`](https://alexpghayes.github.io/distributions/), Probability Distributions as S3 Objects",106,FALSE,###  New Packages,link,2019-05-20
+"+ [`fastmap`](https://r-lib.github.io/fastmap/), fast implementation of a key-value store",89,FALSE,###  New Packages,link,2019-05-20
++ [Introducing {tvthemes}: ggplot2 palettes and themes from your favorite TV shows!](https://ryo-n7.github.io/2019-05-16-introducing-tvthemes-package/),151,FALSE,###  New Packages,link,2019-05-20
+![Parks and recreation theme from tvthemes](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/tv-themes.png),124,FALSE,###  New Packages,image,2019-05-20
+"+ [`diffobj` 0.2.3](https://github.com/brodieG/diffobj), Compare R Objects with a Diff ",87,FALSE,### Updated Packages,link,2019-05-20
+"+ [`vroom` 1.0.1](http://vroom.r-lib.org/news/index.html#vroom-1-0-1), Read and Write Rectangular Text Data Quickly",115,FALSE,### Updated Packages,link,2019-05-20
++ [`RcppAnnoy` 0.0.12](http://dirk.eddelbuettel.com/blog/2019/05/12#rcppannoy_0.0.12),85,FALSE,### Updated Packages,link,2019-05-20
++ [Quick Hit: Updates to QuickLookR and {rdatainfo}](https://rud.is/b/2019/05/12/quick-hit-updates-to-quicklookr-and-rdatainfo/),128,FALSE,### Updated Packages,link,2019-05-20
++ [`dqrng` 0.2.1](https://stubner.me/post/2019/dqrng-v0-2-1/),61,FALSE,### Updated Packages,link,2019-05-20
++ [`dplyr` 0.8.1](https://www.tidyverse.org/articles/2019/05/dplyr-0-8-1/),74,FALSE,### Updated Packages,link,2019-05-20
++ [The Secret of Landusia: A Text Adventure in the R Language](https://lucidmanager.org/text-adventure/),104,FALSE,###  Tutorials,link,2019-05-20
++ [The small multiples plot: how to combine ggplot2 plots with one shared axis](https://aosmith.rbind.io/2019/05/13/small-multiples-plot/),138,FALSE,###  Tutorials,link,2019-05-20
+![The small multiples plot: how to combine ggplot2 plots with one shared axis](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/multiple-plots.png),164,FALSE,###  Tutorials,image,2019-05-20
++ [Virtual Morel Foraging with R](https://rviews.rstudio.com/2019/05/13/virtual-morel-foraging-with-r/),103,FALSE,###  Tutorials,link,2019-05-20
++ [an attempt at code golf](https://xianblog.wordpress.com/2019/05/15/an-attempt-at-code-golf/),95,FALSE,###  Tutorials,link,2019-05-20
+"+ [House effects, herding, and the last few days before the election by @ellis2013nz](http://freerangestats.info/blog/2019/05/15/polls-misc)",140,FALSE,###  Tutorials,link,2019-05-20
++ [Timing Working With a Row or a Column from a data.frame](http://www.win-vector.com/blog/2019/05/timing-working-with-a-row-or-a-column-from-a-data-frame/),156,FALSE,###  Tutorials,link,2019-05-20
++ [do_if: if statements with a %>% workflow!](http://www.favstats.eu/post/do_if/),81,FALSE,###  Tutorials,link,2019-05-20
+"+ [Analysing the HIV pandemic, Part 3: Genetic diversity](https://rviews.rstudio.com/2019/05/16/pipeline-for-analysing-hiv-part-3/)",131,FALSE,###  Tutorials,link,2019-05-20
++ [Four ways to reverse a string in R](https://theautomatic.net/2019/05/17/four-ways-to-reverse-a-string-in-r/),111,FALSE,###  Tutorials,link,2019-05-20
++ [The Evolution of a ggplot (Ep. 1)](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/),116,FALSE,###  Tutorials,link,2019-05-20
+![The Evolution of a ggplot (Ep. 1)](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/evol-ggplot-1.gif),121,FALSE,###  Tutorials,image,2019-05-20
++ [Australian Federal Election Forecasts 2019](http://freerangestats.info/elections/oz/index.html),98,FALSE,###  Tutorials,link,2019-05-20
++ [Polls v results by @ellis2013nz](http://freerangestats.info/blog/2019/05/19/polls-v-results),95,FALSE,###  Tutorials,link,2019-05-20
+"+ [Popular Letters in Baby Names, Animated](https://www.garrickadenbuie.com/blog/popular-letters-in-babynames/)",111,FALSE,###  Tutorials,link,2019-05-20
++ [Fun with Statistics - Is Usain Bolt really the fastest man on earth?](https://radmuzom.com/2019/05/18/fun-with-statistics-is-usain-bolt-really-the-fastest-man-on-earth/),172,FALSE,###  Tutorials,link,2019-05-20
++ [Debug your R package on CircleCI via Docker or SSH](https://blog.jdblischak.com/posts/debug-circleci/),105,FALSE,###  Tutorials,link,2019-05-20
++ [Mapping Tornado Alley with R](https://rud.is/b/2019/05/18/mapping-tornado-alley-with-r/),91,FALSE,###  Tutorials,link,2019-05-20
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2019-05-20
+"n></div><div class=""post-more-end""></div>-->",44,FALSE,###  Tutorials,unid,2019-05-20
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-05-20
++ [GFortran Issues with LAPACK](https://developer.r-project.org/Blog/public/2019/05/15/gfortran-issues-with-lapack/),116,FALSE,###  R Project Updates,link,2019-05-20
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-05-20
+"+ [satRday Berlin Diversity Scholarship](https://berlin2019.satrdays.org/scholarships/). Apply no later than Monday 27th May, 2019. Conference June 15th, 2019.",159,FALSE,###  Upcoming Events in 3 Months,link,2019-05-20
++ [May 25th: 78th Tokyo.R Users Meetup](https://tokyor.connpass.com/event/130254/),82,FALSE,###  Upcoming Events in 3 Months,link,2019-05-20
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-05-20
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-05-20
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-05-20
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-05-20
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">The moment I realized, my PhD mates included this huuuuuge R into my PhD hat! Just love it! They know me so well ;) <a href=""https://twitter.com/hashtag/phdlife?src=hash&amp;ref_src=twsrc%5Etfw"">#phdlife</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/SRVxS9a6YU"">pic.twitter.com/SRVxS9a6YU</a></p>&mdash; Maja Ilić (@MajaIlicZg) <a href=""https://twitter.com/MajaIlicZg/status/1127932778429997058?ref_src=twsrc%5Etfw"">13 de maig de 2019</a></blockquote>",593,FALSE,###  Quotes of the Week,unid,2019-05-20
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Question for <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> users: what was (or is) the trickiest part for you about learning ggplot? What did you find unintuitive or hard to understand/remember? For teachers: what ggplot concepts do your students struggle with?</p>&mdash; Will Chase (@W_R_Chase) <a href=""https://twitter.com/W_R_Chase/status/1127952758877802497?ref_src=twsrc%5Etfw"">13 de maig de 2019</a></blockquote>",535,FALSE,###  Quotes of the Week,unid,2019-05-20

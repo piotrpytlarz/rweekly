@@ -1,86 +1,86 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2020-01-27
-"title: R Weekly 2020-04 Geographic distance, mutable feeling objects, Github Actions",84,FALSE,NA,NA,unid,2020-01-27
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2020-01-27
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2020-01-27
----,3,FALSE,NA,NA,unid,2020-01-27
-Release Date: 2020-01-27,24,FALSE,NA,NA,unid,2020-01-27
-"This week’s release was curated by [Jonathan Carroll](https://twitter.com/carroll_jono), with help from the RWeekly team members and contributors.",146,FALSE,NA,NA,unid,2020-01-27
-+ [Geographic distance](https://dominicroye.github.io/en/2019/geographic-distance/),83,FALSE,NA,###  Highlight,link,2020-01-27
-![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/geographic_dist.png),90,FALSE,NA,###  Highlight,image,2020-01-27
-+ [Objects that feel mutable in R](https://blog.r-hub.io/2020/01/22/mutable-api/),81,FALSE,NA,###  Highlight,link,2020-01-27
-+ [Deploy your bookdown project to Netlify with Github Actions](https://www.hvitfeldt.me/blog/bookdown-netlify-github-actions/),127,FALSE,NA,###  Highlight,link,2020-01-27
-+ [Geographic distance](https://dominicroye.github.io/en/2019/geographic-distance/),83,FALSE,NA,### Insights,link,2020-01-27
-"+ [Easily align ggplot2 titles, subtitles, and footnotes](https://www.mikelee.co/posts/2020-01-21-left-align-ggplot2-titles-subtitles-and-footnotes/)",149,FALSE,NA,### Insights,link,2020-01-27
-+ [Create a second legend to bookend the top and bottom of a plot in ggplot2](https://www.mikelee.co/posts/2020-01-21-creating-duplicate-legends/),146,FALSE,NA,### Insights,link,2020-01-27
-"+ [Three vectorised simulation approaches to the “Monty Hall Problem” using base R, data.table and tidyverse.](https://github.com/saghirb/Monty_Hall_Vectorised_Simulations_R)",174,FALSE,NA,### Insights,link,2020-01-27
-+ [Shiny dashboards using the googleAnalyticsR package!](https://medium.com/compassred-data-blog/google-analytics-dashboards-in-r-shiny-fc8e0ebcef2c),149,FALSE,NA,### Insights,link,2020-01-27
-+ [Exploring the Curse of Dimensionality - Part II.](https://juanitorduz.github.io/exploring-the-curse-of-dimensionality-part-ii./),131,FALSE,NA,### Insights,link,2020-01-27
-"+ [December 2019: ""Top 40"" New R Packages](https://rviews.rstudio.com/2020/01/20/december-2019-top-40-new-r-packages/)",118,FALSE,NA,### Insights,link,2020-01-27
-+ [unpack Your Values in R](http://www.win-vector.com/blog/2020/01/unpack-your-values-in-r/),92,FALSE,NA,### Insights,link,2020-01-27
-+ [Using unpack to Manage Your R Environment](http://www.win-vector.com/blog/2020/01/using-unpack-to-manage-your-r-environment/),128,FALSE,NA,### Insights,link,2020-01-27
-+ [Why we wrote wrapr to/unpack](http://www.win-vector.com/blog/2020/01/why-we-wrote-wrapr-to-into-unpack/),107,FALSE,NA,### Insights,link,2020-01-27
-+ [Objects that feel mutable in R](https://blog.r-hub.io/2020/01/22/mutable-api/),81,FALSE,NA,### Insights,link,2020-01-27
-+ [Generate synthetic data using R](https://r-posts.com/generate-synthetic-data-using-r/),89,FALSE,NA,### Insights,link,2020-01-27
-+ [RStudio Projects and Working Directories: A Beginner's Guide](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner's-guide/),159,FALSE,NA,### Insights,link,2020-01-27
-+ [How to calculate landscape metrics for local landscapes?](https://nowosad.github.io/post/lsm-bp2/),101,FALSE,NA,### Insights,link,2020-01-27
-![landscapemetrics](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/lsm.png),94,FALSE,NA,### Insights,image,2020-01-27
-+ [A brief account (via simulation) of the ROC (and its AUC)](https://www.rdatagen.net/post/a-simple-explanation-of-what-the-roc-and-auc-represent/),148,FALSE,NA,### Insights,link,2020-01-27
-+ [Calculating the Required Sample Size for a Binomial Test in R](http://www.sastibe.de/2020/01/sample_size_r/),111,FALSE,NA,### Insights,link,2020-01-27
-+ [Explanatory Model Analysis with modelStudio](https://medium.com/@ModelOriented/explanatory-model-analysis-with-modelstudio-f52266933cf?source=rss-57dd112ef71e------2),169,FALSE,NA,### Insights,link,2020-01-27
-+ [Factors in R](https://opendatascience.com/factors-in-r/),59,FALSE,NA,### Insights,link,2020-01-27
-+ [Data Science resources](https://mattstats.wordpress.com/2020/01/21/data-science-resources/),94,FALSE,NA,###  Resources,link,2020-01-27
-+ [Tips and tricks in RStudio and R Markdown](https://www.statsandr.com/blog/tips-and-tricks-in-rstudio-and-r-markdown/),120,FALSE,NA,###  Resources,link,2020-01-27
-+ [Descriptive statistics in R](https://www.statsandr.com/blog/descriptive-statistics-in-r/),92,FALSE,NA,###  Resources,link,2020-01-27
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2020-01-27
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2020-01-27
-+ [{heddlr} 0.5.0: Bring a functional programming mindset to R Markdown document generation](https://mikemahoney218.github.io/heddlr/articles/modular-reporting-with-heddlr.html),177,FALSE,NA,###  New Packages,link,2020-01-27
-+ [{gridtext} 0.1.0: Improved Text Rendering Support for 'Grid' Graphics](https://cran.r-project.org/package=gridtext),118,FALSE,NA,###  New Packages,link,2020-01-27
-![gridtext](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/gridtext.png),91,FALSE,NA,###  New Packages,image,2020-01-27
-+ [{santoku} 0.3.0: A Versatile Cutting Tool](https://cran.r-project.org/package=santoku),89,FALSE,NA,###  New Packages,link,2020-01-27
-+ [{round} 0.12-1: Rounding to Decimal Digits](https://cran.r-project.org/package=round),88,FALSE,NA,###  New Packages,link,2020-01-27
-+ [{progressr} 0.4.0: A Unifying API for Progress Updates](https://cran.r-project.org/package=progressr),104,FALSE,NA,###  New Packages,link,2020-01-27
-+ [{fitzRoy} 0.3.1: Easily Scrape and Process AFL Data](https://cran.r-project.org/package=fitzRoy),99,FALSE,NA,###  New Packages,link,2020-01-27
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2020-01-27
-"+ [Convenience functions to print a one-time warning or message, or run arbitrary R code only once.](https://github.com/hughjonesd/onetime)",139,FALSE,NA,###  New Packages,link,2020-01-27
-+ [{bomrang} 0.7.0: Australian Government Bureau of Meteorology ('BOM') Data Client](https://docs.ropensci.org/bomrang/news/index.html),135,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{GSODR} 0.2.1: Global Surface Summary of the Day ('GSOD') Weather Data Client](https://cran.r-project.org/package=GSODR),123,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{vctrs} 0.2.2: Vector Helpers](https://cran.r-project.org/package=vctrs),75,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{tidyr} 1.0.2: Tidy Messy Data](https://cran.r-project.org/package=tidyr),76,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{rlang} 0.4.3: Functions for Base Types and Core R and 'Tidyverse' Features](https://cran.r-project.org/package=rlang),121,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{charlatan} 0.4.0: Make Fake Data](https://cran.r-project.org/package=charlatan),83,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{magick} 2.3: Advanced Graphics and Image-Processing in R](https://cran.r-project.org/package=magick),104,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{gh} 1.1.0: 'GitHub' 'API'](https://cran.r-project.org/package=gh),69,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{dtplyr} 1.0.1; Data Table BackEnd for 'dplyr'](https://cran.r-project.org/package=dtplyr),93,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{janitor} 1.2.1: Simple Tools for Examining and Cleaning Dirty Data](https://cran.r-project.org/package=janitor),115,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{c14bazAAR} 1.2.0: Download and Prepare C14 Dates from Different Source Databases](https://cran.r-project.org/package=c14bazAAR),131,FALSE,NA,### Updated Packages,link,2020-01-27
-![c14bazAAR](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/c14bazAAR.png),93,FALSE,NA,### Updated Packages,image,2020-01-27
-"+ [{threejs} 0.3.3: Interactive 3D Scatter Plots, Networks and Globes](https://cran.r-project.org/package=threejs)",114,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{survey} 3.37: Analysis of Complex Survey Samples](https://cran.r-project.org/package=survey),96,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{RcppArmadillo} 0.9.800.4.0: 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra Library](http://dirk.eddelbuettel.com/blog/2020/01/24#rcpparmadillo_0.9.800.4.0),176,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{anytime} 0.3.7: Anything to 'POSIXct' or 'Date' Converter](http://dirk.eddelbuettel.com/blog/2020/01/20#anytime_0.3.7),122,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{RPushbullet} 0.3.3: R Interface to the Pushbullet Messaging Service](http://dirk.eddelbuettel.com/blog/2020/01/19#rpushbullet_0.3.3),136,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [{RStudio Connect} 1.8.0](https://blog.rstudio.com/2020/01/22/rstudio-connect-1-8-0/),87,FALSE,NA,### Updated Packages,link,2020-01-27
-+ [German blog article: Why and when to create your own R package. Reasons and situations to create your own R package. Advantages of R packages over functions in scripts. ](https://statistik-dresden.de/archives/15904),218,FALSE,NA,### R Internationally,link,2020-01-27
-+ [Embedding Matrix on Tabular Data](https://medium.com/odscjournal/using-an-embedding-matrix-on-tabular-data-in-r-903d5b61c100),128,FALSE,NA,###  Tutorials,link,2020-01-27
-+ [RStudio Projects and Working Directories: A Beginner's Guide](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner%27s-guide/),161,FALSE,NA,###  Tutorials,link,2020-01-27
-+ [A simple example of interacting existing VBA scripts with R/Python.](https://dingruizhang.me/2019/06/12/a-simple-way-to-call-vba-macro-and-pass-arguments-from-r-script/),172,FALSE,NA,###  Tutorials,link,2020-01-27
-+ [How to Remove Outliers in R](http://www.programmingr.com/content/remove-outliers-in-r/),90,FALSE,NA,###  Tutorials,link,2020-01-27
-+ [Explainable AI (XAI)… Explained! Or How to whiten any Black Box with LIME](https://blog.ephorie.de/explainable-ai-xai-explained-or-how-to-whiten-any-black-box-with-lime),172,FALSE,NA,###  Tutorials,link,2020-01-27
-+ [Deploy your bookdown project to Netlify with Github Actions](https://www.hvitfeldt.me/blog/bookdown-netlify-github-actions/),127,FALSE,NA,###  Tutorials,link,2020-01-27
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2020-01-27
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2020-01-27
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2020-01-27
-+ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-27
-"+ [LondonR & R-Ladies to host 'watch party' at RStudio Conference, Jan 29th](https://www.mango-solutions.com/londonr-r-ladies-to-host-watch-party-at-rstudio-conference-jan-29th/)",178,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-27
-"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-27
-"+ [Intro to R for Plant Pathologists, Feb 19](https://www.magnetmail.net/actions/email_web_version.cfm?ep=kUHipYu2XwcnrCj7ebWre0AVOBNGoDD0anGnwmZigCUHX4T3iSGhDaGnyJ3rZ219g9uzGDG1iMQiR1pKzFt8S91VX_UCd9DL_zqcT8r_DObD5yFyDg6XsFyP7Bo6a-aw)",235,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-27
-+ [satRday Johannesburg 2020](https://joburg2020.satrdays.org/),63,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-27
-"+ [satRday Newcastle upon Tyne, April the 4th](https://newcastle2020.satrdays.org/), Call for speakers for #satRdayNCL closes 31st Jan.",135,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-27
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-27
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-27
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2020-01-27
-+ [Airline Safety](https://www.kaggle.com/fivethirtyeight/fivethirtyeight-airline-safety-dataset) from [Aviation Safety Network](http://aviation-safety.net/),157,FALSE,NA,## Datasets,link,2020-01-27
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2020-01-27
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Little <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> tip: While you can easily toggle the display of R code with `code_folding` in <a href=""https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw"">#rmarkdown</a>, it&#39;s less easy to toggle the *output* of your code. Though there&#39;s a (relatively) straightforward way to do this using the beauty of `html_tabsets`. Here&#39;s a quick demo! <a href=""https://t.co/FP7JGsNVaV"">pic.twitter.com/FP7JGsNVaV</a></p>&mdash; Brendan Cullen (@_bcullen) <a href=""https://twitter.com/_bcullen/status/1219324079955529728?ref_src=twsrc%5Etfw"">January 20, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",819,FALSE,NA,###  Quotes of the Week,unid,2020-01-27
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw"">#RStats</a> essential changes for R 4.0.0: since matrices are soon going to have class() of both &#39;matrix&#39; &amp; &#39;array&#39;, you should really update any logical tests from:<br><br>class(X)==&#39;foo&#39;<br><br>To:<br><br>inherits(X, &#39;foo&#39;)<a href=""https://twitter.com/hashtag/rstatsmemes?src=hash&amp;ref_src=twsrc%5Etfw"">#rstatsmemes</a> <a href=""https://t.co/hSICMhSh0s"">pic.twitter.com/hSICMhSh0s</a></p>&mdash; mikefc (@coolbutuseless) <a href=""https://twitter.com/coolbutuseless/status/1221194752046985216?ref_src=twsrc%5Etfw"">January 25, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",808,FALSE,NA,###  Quotes of the Week,unid,2020-01-27
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2020-01-27
+"title: R Weekly 2020-04 Geographic distance, mutable feeling objects, Github Actions",84,FALSE,NA,unid,2020-01-27
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2020-01-27
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2020-01-27
+---,3,FALSE,NA,unid,2020-01-27
+Release Date: 2020-01-27,24,FALSE,NA,unid,2020-01-27
+"This week’s release was curated by [Jonathan Carroll](https://twitter.com/carroll_jono), with help from the RWeekly team members and contributors.",146,FALSE,NA,unid,2020-01-27
++ [Geographic distance](https://dominicroye.github.io/en/2019/geographic-distance/),83,FALSE,###  Highlight,link,2020-01-27
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/geographic_dist.png),90,FALSE,###  Highlight,image,2020-01-27
++ [Objects that feel mutable in R](https://blog.r-hub.io/2020/01/22/mutable-api/),81,FALSE,###  Highlight,link,2020-01-27
++ [Deploy your bookdown project to Netlify with Github Actions](https://www.hvitfeldt.me/blog/bookdown-netlify-github-actions/),127,FALSE,###  Highlight,link,2020-01-27
++ [Geographic distance](https://dominicroye.github.io/en/2019/geographic-distance/),83,FALSE,### Insights,link,2020-01-27
+"+ [Easily align ggplot2 titles, subtitles, and footnotes](https://www.mikelee.co/posts/2020-01-21-left-align-ggplot2-titles-subtitles-and-footnotes/)",149,FALSE,### Insights,link,2020-01-27
++ [Create a second legend to bookend the top and bottom of a plot in ggplot2](https://www.mikelee.co/posts/2020-01-21-creating-duplicate-legends/),146,FALSE,### Insights,link,2020-01-27
+"+ [Three vectorised simulation approaches to the “Monty Hall Problem” using base R, data.table and tidyverse.](https://github.com/saghirb/Monty_Hall_Vectorised_Simulations_R)",174,FALSE,### Insights,link,2020-01-27
++ [Shiny dashboards using the googleAnalyticsR package!](https://medium.com/compassred-data-blog/google-analytics-dashboards-in-r-shiny-fc8e0ebcef2c),149,FALSE,### Insights,link,2020-01-27
++ [Exploring the Curse of Dimensionality - Part II.](https://juanitorduz.github.io/exploring-the-curse-of-dimensionality-part-ii./),131,FALSE,### Insights,link,2020-01-27
+"+ [December 2019: ""Top 40"" New R Packages](https://rviews.rstudio.com/2020/01/20/december-2019-top-40-new-r-packages/)",118,FALSE,### Insights,link,2020-01-27
++ [unpack Your Values in R](http://www.win-vector.com/blog/2020/01/unpack-your-values-in-r/),92,FALSE,### Insights,link,2020-01-27
++ [Using unpack to Manage Your R Environment](http://www.win-vector.com/blog/2020/01/using-unpack-to-manage-your-r-environment/),128,FALSE,### Insights,link,2020-01-27
++ [Why we wrote wrapr to/unpack](http://www.win-vector.com/blog/2020/01/why-we-wrote-wrapr-to-into-unpack/),107,FALSE,### Insights,link,2020-01-27
++ [Objects that feel mutable in R](https://blog.r-hub.io/2020/01/22/mutable-api/),81,FALSE,### Insights,link,2020-01-27
++ [Generate synthetic data using R](https://r-posts.com/generate-synthetic-data-using-r/),89,FALSE,### Insights,link,2020-01-27
++ [RStudio Projects and Working Directories: A Beginner's Guide](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner's-guide/),159,FALSE,### Insights,link,2020-01-27
++ [How to calculate landscape metrics for local landscapes?](https://nowosad.github.io/post/lsm-bp2/),101,FALSE,### Insights,link,2020-01-27
+![landscapemetrics](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/lsm.png),94,FALSE,### Insights,image,2020-01-27
++ [A brief account (via simulation) of the ROC (and its AUC)](https://www.rdatagen.net/post/a-simple-explanation-of-what-the-roc-and-auc-represent/),148,FALSE,### Insights,link,2020-01-27
++ [Calculating the Required Sample Size for a Binomial Test in R](http://www.sastibe.de/2020/01/sample_size_r/),111,FALSE,### Insights,link,2020-01-27
++ [Explanatory Model Analysis with modelStudio](https://medium.com/@ModelOriented/explanatory-model-analysis-with-modelstudio-f52266933cf?source=rss-57dd112ef71e------2),169,FALSE,### Insights,link,2020-01-27
++ [Factors in R](https://opendatascience.com/factors-in-r/),59,FALSE,### Insights,link,2020-01-27
++ [Data Science resources](https://mattstats.wordpress.com/2020/01/21/data-science-resources/),94,FALSE,###  Resources,link,2020-01-27
++ [Tips and tricks in RStudio and R Markdown](https://www.statsandr.com/blog/tips-and-tricks-in-rstudio-and-r-markdown/),120,FALSE,###  Resources,link,2020-01-27
++ [Descriptive statistics in R](https://www.statsandr.com/blog/descriptive-statistics-in-r/),92,FALSE,###  Resources,link,2020-01-27
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2020-01-27
+**CRAN**,8,FALSE,###  New Packages,unid,2020-01-27
++ [{heddlr} 0.5.0: Bring a functional programming mindset to R Markdown document generation](https://mikemahoney218.github.io/heddlr/articles/modular-reporting-with-heddlr.html),177,FALSE,###  New Packages,link,2020-01-27
++ [{gridtext} 0.1.0: Improved Text Rendering Support for 'Grid' Graphics](https://cran.r-project.org/package=gridtext),118,FALSE,###  New Packages,link,2020-01-27
+![gridtext](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/gridtext.png),91,FALSE,###  New Packages,image,2020-01-27
++ [{santoku} 0.3.0: A Versatile Cutting Tool](https://cran.r-project.org/package=santoku),89,FALSE,###  New Packages,link,2020-01-27
++ [{round} 0.12-1: Rounding to Decimal Digits](https://cran.r-project.org/package=round),88,FALSE,###  New Packages,link,2020-01-27
++ [{progressr} 0.4.0: A Unifying API for Progress Updates](https://cran.r-project.org/package=progressr),104,FALSE,###  New Packages,link,2020-01-27
++ [{fitzRoy} 0.3.1: Easily Scrape and Process AFL Data](https://cran.r-project.org/package=fitzRoy),99,FALSE,###  New Packages,link,2020-01-27
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2020-01-27
+"+ [Convenience functions to print a one-time warning or message, or run arbitrary R code only once.](https://github.com/hughjonesd/onetime)",139,FALSE,###  New Packages,link,2020-01-27
++ [{bomrang} 0.7.0: Australian Government Bureau of Meteorology ('BOM') Data Client](https://docs.ropensci.org/bomrang/news/index.html),135,FALSE,### Updated Packages,link,2020-01-27
++ [{GSODR} 0.2.1: Global Surface Summary of the Day ('GSOD') Weather Data Client](https://cran.r-project.org/package=GSODR),123,FALSE,### Updated Packages,link,2020-01-27
++ [{vctrs} 0.2.2: Vector Helpers](https://cran.r-project.org/package=vctrs),75,FALSE,### Updated Packages,link,2020-01-27
++ [{tidyr} 1.0.2: Tidy Messy Data](https://cran.r-project.org/package=tidyr),76,FALSE,### Updated Packages,link,2020-01-27
++ [{rlang} 0.4.3: Functions for Base Types and Core R and 'Tidyverse' Features](https://cran.r-project.org/package=rlang),121,FALSE,### Updated Packages,link,2020-01-27
++ [{charlatan} 0.4.0: Make Fake Data](https://cran.r-project.org/package=charlatan),83,FALSE,### Updated Packages,link,2020-01-27
++ [{magick} 2.3: Advanced Graphics and Image-Processing in R](https://cran.r-project.org/package=magick),104,FALSE,### Updated Packages,link,2020-01-27
++ [{gh} 1.1.0: 'GitHub' 'API'](https://cran.r-project.org/package=gh),69,FALSE,### Updated Packages,link,2020-01-27
++ [{dtplyr} 1.0.1; Data Table BackEnd for 'dplyr'](https://cran.r-project.org/package=dtplyr),93,FALSE,### Updated Packages,link,2020-01-27
++ [{janitor} 1.2.1: Simple Tools for Examining and Cleaning Dirty Data](https://cran.r-project.org/package=janitor),115,FALSE,### Updated Packages,link,2020-01-27
++ [{c14bazAAR} 1.2.0: Download and Prepare C14 Dates from Different Source Databases](https://cran.r-project.org/package=c14bazAAR),131,FALSE,### Updated Packages,link,2020-01-27
+![c14bazAAR](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/c14bazAAR.png),93,FALSE,### Updated Packages,image,2020-01-27
+"+ [{threejs} 0.3.3: Interactive 3D Scatter Plots, Networks and Globes](https://cran.r-project.org/package=threejs)",114,FALSE,### Updated Packages,link,2020-01-27
++ [{survey} 3.37: Analysis of Complex Survey Samples](https://cran.r-project.org/package=survey),96,FALSE,### Updated Packages,link,2020-01-27
++ [{RcppArmadillo} 0.9.800.4.0: 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra Library](http://dirk.eddelbuettel.com/blog/2020/01/24#rcpparmadillo_0.9.800.4.0),176,FALSE,### Updated Packages,link,2020-01-27
++ [{anytime} 0.3.7: Anything to 'POSIXct' or 'Date' Converter](http://dirk.eddelbuettel.com/blog/2020/01/20#anytime_0.3.7),122,FALSE,### Updated Packages,link,2020-01-27
++ [{RPushbullet} 0.3.3: R Interface to the Pushbullet Messaging Service](http://dirk.eddelbuettel.com/blog/2020/01/19#rpushbullet_0.3.3),136,FALSE,### Updated Packages,link,2020-01-27
++ [{RStudio Connect} 1.8.0](https://blog.rstudio.com/2020/01/22/rstudio-connect-1-8-0/),87,FALSE,### Updated Packages,link,2020-01-27
++ [German blog article: Why and when to create your own R package. Reasons and situations to create your own R package. Advantages of R packages over functions in scripts. ](https://statistik-dresden.de/archives/15904),218,FALSE,### R Internationally,link,2020-01-27
++ [Embedding Matrix on Tabular Data](https://medium.com/odscjournal/using-an-embedding-matrix-on-tabular-data-in-r-903d5b61c100),128,FALSE,###  Tutorials,link,2020-01-27
++ [RStudio Projects and Working Directories: A Beginner's Guide](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner%27s-guide/),161,FALSE,###  Tutorials,link,2020-01-27
++ [A simple example of interacting existing VBA scripts with R/Python.](https://dingruizhang.me/2019/06/12/a-simple-way-to-call-vba-macro-and-pass-arguments-from-r-script/),172,FALSE,###  Tutorials,link,2020-01-27
++ [How to Remove Outliers in R](http://www.programmingr.com/content/remove-outliers-in-r/),90,FALSE,###  Tutorials,link,2020-01-27
++ [Explainable AI (XAI)… Explained! Or How to whiten any Black Box with LIME](https://blog.ephorie.de/explainable-ai-xai-explained-or-how-to-whiten-any-black-box-with-lime),172,FALSE,###  Tutorials,link,2020-01-27
++ [Deploy your bookdown project to Netlify with Github Actions](https://www.hvitfeldt.me/blog/bookdown-netlify-github-actions/),127,FALSE,###  Tutorials,link,2020-01-27
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2020-01-27
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2020-01-27
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2020-01-27
++ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,###  Upcoming Events in 3 Months,link,2020-01-27
+"+ [LondonR & R-Ladies to host 'watch party' at RStudio Conference, Jan 29th](https://www.mango-solutions.com/londonr-r-ladies-to-host-watch-party-at-rstudio-conference-jan-29th/)",178,FALSE,###  Upcoming Events in 3 Months,link,2020-01-27
+"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,###  Upcoming Events in 3 Months,link,2020-01-27
+"+ [Intro to R for Plant Pathologists, Feb 19](https://www.magnetmail.net/actions/email_web_version.cfm?ep=kUHipYu2XwcnrCj7ebWre0AVOBNGoDD0anGnwmZigCUHX4T3iSGhDaGnyJ3rZ219g9uzGDG1iMQiR1pKzFt8S91VX_UCd9DL_zqcT8r_DObD5yFyDg6XsFyP7Bo6a-aw)",235,FALSE,###  Upcoming Events in 3 Months,link,2020-01-27
++ [satRday Johannesburg 2020](https://joburg2020.satrdays.org/),63,FALSE,###  Upcoming Events in 3 Months,link,2020-01-27
+"+ [satRday Newcastle upon Tyne, April the 4th](https://newcastle2020.satrdays.org/), Call for speakers for #satRdayNCL closes 31st Jan.",135,FALSE,###  Upcoming Events in 3 Months,link,2020-01-27
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2020-01-27
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2020-01-27
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2020-01-27
++ [Airline Safety](https://www.kaggle.com/fivethirtyeight/fivethirtyeight-airline-safety-dataset) from [Aviation Safety Network](http://aviation-safety.net/),157,FALSE,## Datasets,link,2020-01-27
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2020-01-27
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Little <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> tip: While you can easily toggle the display of R code with `code_folding` in <a href=""https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw"">#rmarkdown</a>, it&#39;s less easy to toggle the *output* of your code. Though there&#39;s a (relatively) straightforward way to do this using the beauty of `html_tabsets`. Here&#39;s a quick demo! <a href=""https://t.co/FP7JGsNVaV"">pic.twitter.com/FP7JGsNVaV</a></p>&mdash; Brendan Cullen (@_bcullen) <a href=""https://twitter.com/_bcullen/status/1219324079955529728?ref_src=twsrc%5Etfw"">January 20, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",819,FALSE,###  Quotes of the Week,unid,2020-01-27
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw"">#RStats</a> essential changes for R 4.0.0: since matrices are soon going to have class() of both &#39;matrix&#39; &amp; &#39;array&#39;, you should really update any logical tests from:<br><br>class(X)==&#39;foo&#39;<br><br>To:<br><br>inherits(X, &#39;foo&#39;)<a href=""https://twitter.com/hashtag/rstatsmemes?src=hash&amp;ref_src=twsrc%5Etfw"">#rstatsmemes</a> <a href=""https://t.co/hSICMhSh0s"">pic.twitter.com/hSICMhSh0s</a></p>&mdash; mikefc (@coolbutuseless) <a href=""https://twitter.com/coolbutuseless/status/1221194752046985216?ref_src=twsrc%5Etfw"">January 25, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",808,FALSE,###  Quotes of the Week,unid,2020-01-27

@@ -1,83 +1,83 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-04-08
-"title: R Weekly 2019-14 Shiny Contest, usethis for reporting",60,FALSE,NA,NA,unid,2019-04-08
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-04-08
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-04-08
----,3,FALSE,NA,NA,unid,2019-04-08
-+ [Winners of the 1st Shiny Contest](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/),102,FALSE,NA,###  Highlight,link,2019-04-08
-+ [usethis for reporting](https://sharla.party/posts/usethis-for-reporting/),76,FALSE,NA,###  Highlight,link,2019-04-08
-+ [Red/Blue Analglyphs with ggplot2 and ggthreed](https://coolbutuseless.github.io/2019/04/02/red-blue-analglyphs-with-ggplot2-and-ggthreed/),141,FALSE,NA,###  Highlight,link,2019-04-08
-+ [opencv Bindings to 'OpenCV' Computer Vision Library](https://cran.r-project.org/package=opencv),98,FALSE,NA,###  Highlight,link,2019-04-08
-+ [HCL-Based Color Palettes in grDevices](https://developer.r-project.org/Blog/public/2019/04/01/hcl-based-color-palettes-in-grdevices/index.html),146,FALSE,NA,### Insights,link,2019-04-08
-+ [Musings on missing data](https://www.rdatagen.net/post/musings-on-missing-data/),83,FALSE,NA,### Insights,link,2019-04-08
-+ [Standard Evaluation Versus Non-Standard Evaluation in R](http://www.win-vector.com/blog/2019/04/standard-evaluation-versus-non-standard-evaluation-in-r/),156,FALSE,NA,### Insights,link,2019-04-08
-+ [Red/Blue Analglyphs with ggplot2 and ggthreed](https://coolbutuseless.github.io/2019/04/02/red-blue-analglyphs-with-ggplot2-and-ggthreed/),141,FALSE,NA,### R in the Real World,link,2019-04-08
-![3D](https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/14/animated-anaglyph.gif),85,FALSE,NA,### R in the Real World,image,2019-04-08
-+ ['Speaking as a...': An Inquiry into Twitter Identities and Mansplaining](https://daranzolin.github.io/2019-03-29-twitter-identities/),136,FALSE,NA,### R in the Real World,link,2019-04-08
-+ [Exploration of Foreign Direct Investment of Nepal](https://anjesh.github.io/doi/01-fdi-data_exploration.html),112,FALSE,NA,### R in the Real World,link,2019-04-08
-+ [Calculating the distance to the sea in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/),125,FALSE,NA,### R in the Real World,link,2019-04-08
-+ [Kaggle survey 2018: Maps of programming languages used and repartition of reproducibility issues](https://statnmap.com/2019-03-20-kaggle-survey-2018-maps-of-languages-used-and-repartition-of-reproducibility-issues/),218,FALSE,NA,### R in the Real World,link,2019-04-08
-+ [An inquiry into Twitter identities and mansplaining](https://daranzolin.github.io/2019-03-29-twitter-identities/),116,FALSE,NA,### R in the Real World,link,2019-04-08
-"+ [Wicked Fast, Accurate Quantiles Using 't-Digests' in R with the {tdigest} Package](https://rud.is/b/2019/04/03/wicked-fast-accurate-quantiles-using-t-digests-in-r-with-the-tdigest-package/)",192,FALSE,NA,### R in the Real World,link,2019-04-08
-+ [C++ is Often Used in R Packages](http://www.win-vector.com/blog/2019/04/c-is-often-used-in-r-packages/),106,FALSE,NA,### R in the Real World,link,2019-04-08
-+ [Why RcppDynProg is Written in C++](http://www.win-vector.com/blog/2019/04/why-rcppdynprog-is-written-in-cpp/),112,FALSE,NA,### R in the Real World,link,2019-04-08
-+ [What are the Popular R Packages?](http://www.win-vector.com/blog/2019/04/what-are-the-popular-r-packages/),109,FALSE,NA,### R in the Real World,link,2019-04-08
-+ [Winners of the 1st Shiny Contest](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/),102,FALSE,NA,###  R in Organizations,link,2019-04-08
-<picture>,9,FALSE,NA,###  R in Organizations,unid,2019-04-08
-"  <img src=""https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/14/2019-04-05-hex-game.gif"" width=""622"">",106,FALSE,NA,###  R in Organizations,unid,2019-04-08
-"  <img src=""https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/14/2019-04-05-cran-explorer.gif"">",99,FALSE,NA,###  R in Organizations,unid,2019-04-08
-</picture>,10,FALSE,NA,###  R in Organizations,unid,2019-04-08
-+ [RInside Help in Testing](https://rviews.rstudio.com/2019/04/01/rinside-help-in-testing/),91,FALSE,NA,###  R in Organizations,link,2019-04-08
-"+ [Getting your toes wet in R: Hydrology, meteorology, and more](https://ropensci.org/blog/2019/04/02/hydrology-task-view/)",123,FALSE,NA,###  R in Academia,link,2019-04-08
-+ [CDSB Workshop 2019: How to Build and Create Tidy Tools](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/),138,FALSE,NA,###  Resources,link,2019-04-08
-+ [A set of shiny apps for interactive data analysis and teaching. ](https://blog.rsquaredacademy.com/shiny-apps/),114,FALSE,NA,###  Resources,link,2019-04-08
-+ [Interview with Abhi Datta](https://simplystatistics.org/2019/04/01/interview-with-abhi-datta/),97,FALSE,NA,###  Resources,link,2019-04-08
-+ [R Markdown in Vim](https://uncmbbtrivia.netlify.com/post/2019/04/05/r-markdown-revisited/),93,FALSE,NA,###  Resources,link,2019-04-08
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-04-08
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-04-08
-+ [AzureGraph   Simple Interface to 'Microsoft Graph'](https://cran.r-project.org/package=AzureGraph),101,FALSE,NA,###  New Packages,link,2019-04-08
-+ [opencv](https://cran.r-project.org/package=opencv) - Bindings to 'OpenCV' Computer Vision Library,100,FALSE,NA,###  New Packages,link,2019-04-08
-+ [SparkR](https://cran.r-project.org/package=SparkR) - R Front End for 'Apache Spark',86,FALSE,NA,###  New Packages,link,2019-04-08
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-04-08
-+ [popcircle](https://github.com/rCarto/popcircle),50,FALSE,NA,###  New Packages,link,2019-04-08
-![popcircle](https://raw.githubusercontent.com/rCarto/popcircle/master/img/smallpop.png),88,FALSE,NA,###  New Packages,image,2019-04-08
-+ [mapedit 0.5.0](https://cran.r-project.org/web/packages/mapedit/index.html),77,FALSE,NA,### Updated Packages,link,2019-04-08
-+ [tint 0.1.1: New Styles](http://dirk.eddelbuettel.com/blog/2019/04/01#tint_0.1.1),83,FALSE,NA,### Updated Packages,link,2019-04-08
-+ [ggdebug - v0.1.1](https://coolbutuseless.github.io/2019/04/01/ggdebug-v0.1.1/),81,FALSE,NA,### Updated Packages,link,2019-04-08
-+ [Using svglite with web fonts by @ellis2013nz](http://freerangestats.info/blog/2019/04/07/fonts-and-stuff),108,FALSE,NA,###  Tutorials,link,2019-04-08
-"+ [Scatter plots, best fit lines (and regression to the mean)](https://www.stevejburr.com/post/scatter-plots-and-best-fit-lines/)",129,FALSE,NA,###  Tutorials,link,2019-04-08
-+ [usethis for reporting](https://sharla.party/posts/usethis-for-reporting/),76,FALSE,NA,###  Tutorials,link,2019-04-08
-+ [mapedit 0.5.0 and leaflet.pm](https://www.r-spatial.org/r/2019/03/31/mapedit_leafpm.html),92,FALSE,NA,###  Tutorials,link,2019-04-08
-+ [I Hate Mondays! Execute .First() from .Rprofile on first login of the (Mon)day only](https://moldach.github.io/post/rprofile/),129,FALSE,NA,###  Tutorials,link,2019-04-08
-![](https://i.ibb.co/CnG1jQz/fig1.png),38,FALSE,NA,###  Tutorials,image,2019-04-08
-+ [Create Trending Animated Bar Charts using R](https://towardsdatascience.com/create-animated-bar-charts-using-r-31d09e5841da),127,FALSE,NA,###  Tutorials,link,2019-04-08
-+ [A unified syntax for accessing models' information](https://easystats.github.io/blog/posts/insight_presentation/),116,FALSE,NA,###  Tutorials,link,2019-04-08
-+ [Making Sense of Simulation Models with Metamodels Part 1 - Low-Order Polynomials with Arena and R](https://www.pedronl.com/post/making-sense-of-models-with-metamodels-low-order-polynomialss-with-arena-and-r/),211,FALSE,NA,###  Tutorials,link,2019-04-08
-+ [Structure plots with ggplot2 ](https://luisdva.github.io/rstats/model-cluster-plots/),88,FALSE,NA,###  Tutorials,link,2019-04-08
-+ [Where to find Sports data?](https://github.com/meysubb/Sports_Data_Reference),80,FALSE,NA,###  Tutorials,link,2019-04-08
-+ [Don’t forget the “utils” package in R](https://theautomatic.net/2019/04/03/dont-forget-the-utils-package-in-r/),114,FALSE,NA,###  Tutorials,link,2019-04-08
-+ [Euler Problem 1 In R](https://alastairrushworth.github.io/Euler-problem-1-in-R),82,FALSE,NA,###  Tutorials,link,2019-04-08
-+ [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/),91,FALSE,NA,###  Tutorials,link,2019-04-08
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-04-08
-CHANGES IN R 3.6.0:,19,FALSE,NA,###  R Project Updates,unid,2019-04-08
-+ Make macro ‘F77_VISIBILITY’ have been removed and replaced by ‘F_VISIBILITY’.,79,FALSE,NA,###  R Project Updates,unid,2019-04-08
-"+ Make macros ‘F77’, ‘FCPIFCPLAGS’ and ‘SHLIB_OPENMP_FCFLAGS’ have been removed and replaced by ‘FC’, ‘FPICFLAGS’ and ‘SHLIB_OPENMP_FFLAGS’ respectively. [‘F77’ has been reverted until Apr 15.]",193,FALSE,NA,###  R Project Updates,unid,2019-04-08
-"+ ‘as.matrix.data.frame()’ now produces better strings from logicals, thanks to [PR#17548](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=17548) from Gabe Becker.",168,FALSE,NA,###  R Project Updates,unid,2019-04-08
-+ ‘R CMD build’ now removes ‘src/*.mod’ files on all platforms.,63,FALSE,NA,###  R Project Updates,unid,2019-04-08
-+ ‘R_unif_index’ is now considered to be part of the C API.,59,FALSE,NA,###  R Project Updates,unid,2019-04-08
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-04-08
-+ [The Uncoast Unconference - 14th to 16th April](http://uuconf.rbind.io/),74,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-04-08
-+ [Tokyo.R #77 - 13th April](https://tokyor.connpass.com/event/125793/),71,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-04-08
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-04-08
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-04-08
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-04-08
-+ [Where to find Sports data?](https://github.com/meysubb/Sports_Data_Reference),80,FALSE,NA,### Datasets,link,2019-04-08
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-04-08
-> the only good thing about mondays is the 20 tabs in my browser opened form @rweekly_org </br>,95,FALSE,NA,###  Quotes of the Week,unid,2019-04-08
-> -- renata gerecke [Apr 1st](https://twitter.com/renatagerecke/status/1112734627918200834),91,FALSE,NA,###  Quotes of the Week,unid,2019-04-08
-> An R-hub blog post as one of @rweekly_org's highlights of last week! :sunglasses: </br>,89,FALSE,NA,###  Quotes of the Week,unid,2019-04-08
-> -- R-hub [Apr 2nd](https://twitter.com/rhub_/status/1113064998920548353),74,FALSE,NA,###  Quotes of the Week,unid,2019-04-08
-> My second session for #Cairo #R #meetup about #Feature_Engineering in #R in 13th of April,91,FALSE,NA,###  Quotes of the Week,unid,2019-04-08
-> https://www.facebook.com/tafranetwork/photos/a.309107492898659/603612940114778/?type=3&theater,96,FALSE,NA,###  Quotes of the Week,unid,2019-04-08
-> @AfricaRUsers  @rweekly_org @R4DScommunity </br>,50,FALSE,NA,###  Quotes of the Week,unid,2019-04-08
-> -- Mohammed Ali [Apr 4th](https://twitter.com/moh_fcis/status/1113479738994122752),84,FALSE,NA,###  Quotes of the Week,unid,2019-04-08
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-04-08
+"title: R Weekly 2019-14 Shiny Contest, usethis for reporting",60,FALSE,NA,unid,2019-04-08
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-04-08
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-04-08
+---,3,FALSE,NA,unid,2019-04-08
++ [Winners of the 1st Shiny Contest](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/),102,FALSE,###  Highlight,link,2019-04-08
++ [usethis for reporting](https://sharla.party/posts/usethis-for-reporting/),76,FALSE,###  Highlight,link,2019-04-08
++ [Red/Blue Analglyphs with ggplot2 and ggthreed](https://coolbutuseless.github.io/2019/04/02/red-blue-analglyphs-with-ggplot2-and-ggthreed/),141,FALSE,###  Highlight,link,2019-04-08
++ [opencv Bindings to 'OpenCV' Computer Vision Library](https://cran.r-project.org/package=opencv),98,FALSE,###  Highlight,link,2019-04-08
++ [HCL-Based Color Palettes in grDevices](https://developer.r-project.org/Blog/public/2019/04/01/hcl-based-color-palettes-in-grdevices/index.html),146,FALSE,### Insights,link,2019-04-08
++ [Musings on missing data](https://www.rdatagen.net/post/musings-on-missing-data/),83,FALSE,### Insights,link,2019-04-08
++ [Standard Evaluation Versus Non-Standard Evaluation in R](http://www.win-vector.com/blog/2019/04/standard-evaluation-versus-non-standard-evaluation-in-r/),156,FALSE,### Insights,link,2019-04-08
++ [Red/Blue Analglyphs with ggplot2 and ggthreed](https://coolbutuseless.github.io/2019/04/02/red-blue-analglyphs-with-ggplot2-and-ggthreed/),141,FALSE,### R in the Real World,link,2019-04-08
+![3D](https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/14/animated-anaglyph.gif),85,FALSE,### R in the Real World,image,2019-04-08
++ ['Speaking as a...': An Inquiry into Twitter Identities and Mansplaining](https://daranzolin.github.io/2019-03-29-twitter-identities/),136,FALSE,### R in the Real World,link,2019-04-08
++ [Exploration of Foreign Direct Investment of Nepal](https://anjesh.github.io/doi/01-fdi-data_exploration.html),112,FALSE,### R in the Real World,link,2019-04-08
++ [Calculating the distance to the sea in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/),125,FALSE,### R in the Real World,link,2019-04-08
++ [Kaggle survey 2018: Maps of programming languages used and repartition of reproducibility issues](https://statnmap.com/2019-03-20-kaggle-survey-2018-maps-of-languages-used-and-repartition-of-reproducibility-issues/),218,FALSE,### R in the Real World,link,2019-04-08
++ [An inquiry into Twitter identities and mansplaining](https://daranzolin.github.io/2019-03-29-twitter-identities/),116,FALSE,### R in the Real World,link,2019-04-08
+"+ [Wicked Fast, Accurate Quantiles Using 't-Digests' in R with the {tdigest} Package](https://rud.is/b/2019/04/03/wicked-fast-accurate-quantiles-using-t-digests-in-r-with-the-tdigest-package/)",192,FALSE,### R in the Real World,link,2019-04-08
++ [C++ is Often Used in R Packages](http://www.win-vector.com/blog/2019/04/c-is-often-used-in-r-packages/),106,FALSE,### R in the Real World,link,2019-04-08
++ [Why RcppDynProg is Written in C++](http://www.win-vector.com/blog/2019/04/why-rcppdynprog-is-written-in-cpp/),112,FALSE,### R in the Real World,link,2019-04-08
++ [What are the Popular R Packages?](http://www.win-vector.com/blog/2019/04/what-are-the-popular-r-packages/),109,FALSE,### R in the Real World,link,2019-04-08
++ [Winners of the 1st Shiny Contest](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/),102,FALSE,###  R in Organizations,link,2019-04-08
+<picture>,9,FALSE,###  R in Organizations,unid,2019-04-08
+"  <img src=""https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/14/2019-04-05-hex-game.gif"" width=""622"">",106,FALSE,###  R in Organizations,unid,2019-04-08
+"  <img src=""https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/14/2019-04-05-cran-explorer.gif"">",99,FALSE,###  R in Organizations,unid,2019-04-08
+</picture>,10,FALSE,###  R in Organizations,unid,2019-04-08
++ [RInside Help in Testing](https://rviews.rstudio.com/2019/04/01/rinside-help-in-testing/),91,FALSE,###  R in Organizations,link,2019-04-08
+"+ [Getting your toes wet in R: Hydrology, meteorology, and more](https://ropensci.org/blog/2019/04/02/hydrology-task-view/)",123,FALSE,###  R in Academia,link,2019-04-08
++ [CDSB Workshop 2019: How to Build and Create Tidy Tools](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/),138,FALSE,###  Resources,link,2019-04-08
++ [A set of shiny apps for interactive data analysis and teaching. ](https://blog.rsquaredacademy.com/shiny-apps/),114,FALSE,###  Resources,link,2019-04-08
++ [Interview with Abhi Datta](https://simplystatistics.org/2019/04/01/interview-with-abhi-datta/),97,FALSE,###  Resources,link,2019-04-08
++ [R Markdown in Vim](https://uncmbbtrivia.netlify.com/post/2019/04/05/r-markdown-revisited/),93,FALSE,###  Resources,link,2019-04-08
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-04-08
+**CRAN**,8,FALSE,###  New Packages,unid,2019-04-08
++ [AzureGraph   Simple Interface to 'Microsoft Graph'](https://cran.r-project.org/package=AzureGraph),101,FALSE,###  New Packages,link,2019-04-08
++ [opencv](https://cran.r-project.org/package=opencv) - Bindings to 'OpenCV' Computer Vision Library,100,FALSE,###  New Packages,link,2019-04-08
++ [SparkR](https://cran.r-project.org/package=SparkR) - R Front End for 'Apache Spark',86,FALSE,###  New Packages,link,2019-04-08
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-04-08
++ [popcircle](https://github.com/rCarto/popcircle),50,FALSE,###  New Packages,link,2019-04-08
+![popcircle](https://raw.githubusercontent.com/rCarto/popcircle/master/img/smallpop.png),88,FALSE,###  New Packages,image,2019-04-08
++ [mapedit 0.5.0](https://cran.r-project.org/web/packages/mapedit/index.html),77,FALSE,### Updated Packages,link,2019-04-08
++ [tint 0.1.1: New Styles](http://dirk.eddelbuettel.com/blog/2019/04/01#tint_0.1.1),83,FALSE,### Updated Packages,link,2019-04-08
++ [ggdebug - v0.1.1](https://coolbutuseless.github.io/2019/04/01/ggdebug-v0.1.1/),81,FALSE,### Updated Packages,link,2019-04-08
++ [Using svglite with web fonts by @ellis2013nz](http://freerangestats.info/blog/2019/04/07/fonts-and-stuff),108,FALSE,###  Tutorials,link,2019-04-08
+"+ [Scatter plots, best fit lines (and regression to the mean)](https://www.stevejburr.com/post/scatter-plots-and-best-fit-lines/)",129,FALSE,###  Tutorials,link,2019-04-08
++ [usethis for reporting](https://sharla.party/posts/usethis-for-reporting/),76,FALSE,###  Tutorials,link,2019-04-08
++ [mapedit 0.5.0 and leaflet.pm](https://www.r-spatial.org/r/2019/03/31/mapedit_leafpm.html),92,FALSE,###  Tutorials,link,2019-04-08
++ [I Hate Mondays! Execute .First() from .Rprofile on first login of the (Mon)day only](https://moldach.github.io/post/rprofile/),129,FALSE,###  Tutorials,link,2019-04-08
+![](https://i.ibb.co/CnG1jQz/fig1.png),38,FALSE,###  Tutorials,image,2019-04-08
++ [Create Trending Animated Bar Charts using R](https://towardsdatascience.com/create-animated-bar-charts-using-r-31d09e5841da),127,FALSE,###  Tutorials,link,2019-04-08
++ [A unified syntax for accessing models' information](https://easystats.github.io/blog/posts/insight_presentation/),116,FALSE,###  Tutorials,link,2019-04-08
++ [Making Sense of Simulation Models with Metamodels Part 1 - Low-Order Polynomials with Arena and R](https://www.pedronl.com/post/making-sense-of-models-with-metamodels-low-order-polynomialss-with-arena-and-r/),211,FALSE,###  Tutorials,link,2019-04-08
++ [Structure plots with ggplot2 ](https://luisdva.github.io/rstats/model-cluster-plots/),88,FALSE,###  Tutorials,link,2019-04-08
++ [Where to find Sports data?](https://github.com/meysubb/Sports_Data_Reference),80,FALSE,###  Tutorials,link,2019-04-08
++ [Don’t forget the “utils” package in R](https://theautomatic.net/2019/04/03/dont-forget-the-utils-package-in-r/),114,FALSE,###  Tutorials,link,2019-04-08
++ [Euler Problem 1 In R](https://alastairrushworth.github.io/Euler-problem-1-in-R),82,FALSE,###  Tutorials,link,2019-04-08
++ [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/),91,FALSE,###  Tutorials,link,2019-04-08
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-04-08
+CHANGES IN R 3.6.0:,19,FALSE,###  R Project Updates,unid,2019-04-08
++ Make macro ‘F77_VISIBILITY’ have been removed and replaced by ‘F_VISIBILITY’.,79,FALSE,###  R Project Updates,unid,2019-04-08
+"+ Make macros ‘F77’, ‘FCPIFCPLAGS’ and ‘SHLIB_OPENMP_FCFLAGS’ have been removed and replaced by ‘FC’, ‘FPICFLAGS’ and ‘SHLIB_OPENMP_FFLAGS’ respectively. [‘F77’ has been reverted until Apr 15.]",193,FALSE,###  R Project Updates,unid,2019-04-08
+"+ ‘as.matrix.data.frame()’ now produces better strings from logicals, thanks to [PR#17548](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=17548) from Gabe Becker.",168,FALSE,###  R Project Updates,unid,2019-04-08
++ ‘R CMD build’ now removes ‘src/*.mod’ files on all platforms.,63,FALSE,###  R Project Updates,unid,2019-04-08
++ ‘R_unif_index’ is now considered to be part of the C API.,59,FALSE,###  R Project Updates,unid,2019-04-08
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-04-08
++ [The Uncoast Unconference - 14th to 16th April](http://uuconf.rbind.io/),74,FALSE,###  Upcoming Events in 3 Months,link,2019-04-08
++ [Tokyo.R #77 - 13th April](https://tokyor.connpass.com/event/125793/),71,FALSE,###  Upcoming Events in 3 Months,link,2019-04-08
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-04-08
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-04-08
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-04-08
++ [Where to find Sports data?](https://github.com/meysubb/Sports_Data_Reference),80,FALSE,### Datasets,link,2019-04-08
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-04-08
+> the only good thing about mondays is the 20 tabs in my browser opened form @rweekly_org </br>,95,FALSE,###  Quotes of the Week,unid,2019-04-08
+> -- renata gerecke [Apr 1st](https://twitter.com/renatagerecke/status/1112734627918200834),91,FALSE,###  Quotes of the Week,unid,2019-04-08
+> An R-hub blog post as one of @rweekly_org's highlights of last week! :sunglasses: </br>,89,FALSE,###  Quotes of the Week,unid,2019-04-08
+> -- R-hub [Apr 2nd](https://twitter.com/rhub_/status/1113064998920548353),74,FALSE,###  Quotes of the Week,unid,2019-04-08
+> My second session for #Cairo #R #meetup about #Feature_Engineering in #R in 13th of April,91,FALSE,###  Quotes of the Week,unid,2019-04-08
+> https://www.facebook.com/tafranetwork/photos/a.309107492898659/603612940114778/?type=3&theater,96,FALSE,###  Quotes of the Week,unid,2019-04-08
+> @AfricaRUsers  @rweekly_org @R4DScommunity </br>,50,FALSE,###  Quotes of the Week,unid,2019-04-08
+> -- Mohammed Ali [Apr 4th](https://twitter.com/moh_fcis/status/1113479738994122752),84,FALSE,###  Quotes of the Week,unid,2019-04-08

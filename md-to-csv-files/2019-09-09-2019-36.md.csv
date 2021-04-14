@@ -1,59 +1,59 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-09-09
-"title: R Weekly 2019-36 PDF tables, tvthemes & Rstudio themes",61,FALSE,NA,NA,unid,2019-09-09
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-09-09
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-09-09
----,3,FALSE,NA,NA,unid,2019-09-09
-+ [Making tables in PDF using R: A guide on making tables in PDF using RMarkdown and LaTeX.](https://sharleenw.rbind.io/post/tables_in_pdf/making-pdf-tables-in-r/),163,FALSE,NA,###  Highlight,link,2019-09-09
-"+ [{tvthemes 1.0.0} is on CRAN: Code improvements, Kim Possible, Stannis Baratheon, Hilda palettes/themes, and more!](https://ryo-n7.github.io/2019-09-06-tvthemes-CRAN-announcement/)",182,FALSE,NA,###  Highlight,link,2019-09-09
-+ [A curated list of RStudio themes found on Github](https://github.com/mkearney/rstudiothemes),95,FALSE,NA,###  Highlight,link,2019-09-09
-+ [Data Chats: From Physics student to Data Science Consultant](https://martinctc.github.io/blog/data-chats-from-physics-student-to-data-science-consultant/),157,FALSE,NA,### Insights,link,2019-09-09
-+ [A shallow benchmark of R data frame export/import methods ](https://data.nozav.org/post/2019-r-data-frame-benchmark/),120,FALSE,NA,### Insights,link,2019-09-09
-+ [Simulating the Rugby World Cup 2019 Japan in R](http://statsonthe.cloud/2019/09/06/simulating-the-rugby-world-cup-2019-japan-in-r/),134,FALSE,NA,### R in the Real World,link,2019-09-09
-+ [Public Data Dive: Canada's Elections](https://fishandwhistle.net/post/2019/public-data-dive-elections-canada/),113,FALSE,NA,### R in the Real World,link,2019-09-09
-+ [A curated list of RStudio themes found on Github](https://github.com/mkearney/rstudiothemes),95,FALSE,NA,###  Resources,link,2019-09-09
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-09-09
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-09-09
-+ [{ggpointdensity 0.1.0}: A cross between a scatter plot and a 2D density plot](https://github.com/LKremer/ggpointdensity),123,FALSE,NA,###  New Packages,link,2019-09-09
-![{ggpointdensity 0.1.0}: A cross between a scatter plot and a 2D density plot](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/geom_pointdensity2.png),169,FALSE,NA,###  New Packages,image,2019-09-09
-+ [{distributions3 0.1.1}: Provides a generic function interface to probability distributions](https://www.alexpghayes.com/blog/announcing-the-distributions3-package/),167,FALSE,NA,###  New Packages,link,2019-09-09
-+ [{tvthemes 1.0.0}: TV Show Themes and Color Palettes for 'ggplot2' Graphics](https://cran.r-project.org/package=tvthemes),123,FALSE,NA,###  New Packages,link,2019-09-09
-+ [{ggraph 2.0.0}: An extension of ggplot2 that implements an extended grammar for relational data](https://www.data-imaginist.com/2019/1-giraffe-2-giraffe-go/),160,FALSE,NA,###  New Packages,link,2019-09-09
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-09-09
-+ [{loadtest}: Automates performance testing of ML models and summarizes the results in a dashboard](https://github.com/tmobile/loadtest),137,FALSE,NA,###  New Packages,link,2019-09-09
-"+ [getTBinR - more tuberculosis data, ggplot2 best practices and bug fixes](https://www.samabbott.co.uk/post/gettbinr-7-0/)",123,FALSE,NA,### Updated Packages,link,2019-09-09
-"![getTBinR - more tuberculosis data, ggplot2 best practices and bug fixes](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/storyboard-7-0.png)",160,FALSE,NA,### Updated Packages,image,2019-09-09
-+ [{GSODR 2.0.0}](https://docs.ropensci.org/GSODR/index.html),61,FALSE,NA,### Updated Packages,link,2019-09-09
-+ [{ghibli 0.3.0}](https://ewenme.github.io/ghibli/),52,FALSE,NA,### Updated Packages,link,2019-09-09
-+ [{bench 1.0.4}](http://bench.r-lib.org/),42,FALSE,NA,### Updated Packages,link,2019-09-09
-+ [#TidyTuesday Podcast #2: Moore's Law](https://tidytuesday.fireside.fm/2),75,FALSE,NA,###  Videos and Podcasts,link,2019-09-09
-+ [How to do Tamil Text Analysis & NLP in R](https://www.programmingwithr.com/how-to-do-tamil-text-analysis-nlp-in-r/),118,FALSE,NA,### R Internationally,link,2019-09-09
-+ [Making pretty note boxes: A div tip for all occasions](http://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/),138,FALSE,NA,###  Tutorials,link,2019-09-09
-+ [Turn your Reports into Functions!](https://daranzolin.github.io/2019-09-03-reports-as-functions/),100,FALSE,NA,###  Tutorials,link,2019-09-09
-+ [Making tables in PDF using R: A guide on making tables in PDF using RMarkdown and LaTeX.](https://sharleenw.rbind.io/post/tables_in_pdf/making-pdf-tables-in-r/),163,FALSE,NA,###  Tutorials,link,2019-09-09
-"+ [{tvthemes 1.0.0} is on CRAN: Code improvements, Kim Possible, Stannis Baratheon, Hilda palettes/themes, and more!](https://ryo-n7.github.io/2019-09-06-tvthemes-CRAN-announcement/)",182,FALSE,NA,###  Tutorials,link,2019-09-09
-"![{tvthemes 1.0.0} is on CRAN: Code improvements, Kim Possible, Stannis Baratheon, Hilda palettes/themes, and more!](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/tvthemes_v1plot2.png)",204,FALSE,NA,###  Tutorials,image,2019-09-09
-+ [UCSCXenaTools: Retrieve Gene Expression and Clinical Information from UCSC Xena for Survival Analysis](https://ropensci.org/technotes/2019/09/06/ucscxenatools-surv/),168,FALSE,NA,###  Tutorials,link,2019-09-09
-+ [Dygraphs](https://nhsrcommunity.com/blog/dygraphs/),54,FALSE,NA,###  Tutorials,link,2019-09-09
-+ [Create an Icon Map in R with ggmap and ggimage](https://www.littlemissdata.com/blog/iconmap),95,FALSE,NA,###  Tutorials,link,2019-09-09
-+ [Advanced Data Reshaping in Python and R](http://www.win-vector.com/blog/2019/09/advanced-data-reshaping-in-python-and-r/),124,FALSE,NA,###  Tutorials,link,2019-09-09
-+ [Exploratory Data Analysis with Tables](https://dentaldatascience.org/post/eda-with-tables/),94,FALSE,NA,###  Tutorials,link,2019-09-09
-"+ [Poisson point processes, mass shootings and clumping](http://freerangestats.info/blog/2019/09/07/mass-shootings-oz)",118,FALSE,NA,###  Tutorials,link,2019-09-09
-"+ [One week as a Shiny dev, seen through Google search](https://colinfay.me/one-week-shiny-gogole-search/)",106,FALSE,NA,###  Tutorials,link,2019-09-09
-+ [R for Clinical Trial Reporting](https://fharrell.com/talk/rmedicine19/),74,FALSE,NA,###  Tutorials,link,2019-09-09
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-09-09
-"n></div><div class=""post-more-end""></div>-->",44,FALSE,NA,###  Tutorials,unid,2019-09-09
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-09-09
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-09-09
-"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)",63,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-09
-"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-09
-"+ [Tokyo.R #81, September 28](https://tokyor.connpass.com/)",59,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-09
-+ [Why R? 2019 Conference - Warsaw 26-29 September 2019](http://whyr.pl/2019/),78,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-09
-"+ [rOpenSci OzUnconf (Sydney, Australia), December 11 - 13 2019](https://ozunconf19.ropensci.org/)",98,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-09
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-09
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-09-09
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-09-09
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-09-09
-+ [Deadline extended for rstudio::conf(2020) abstract submissions](https://blog.rstudio.com/2019/09/06/rstudio-conf-2020-submission-deadline-extended/),151,FALSE,NA,###  Call for Participation,link,2019-09-09
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Summer day probability (maximum temperature &gt; 25ºC) through the year in <a href=""https://twitter.com/hashtag/Australia?src=hash&amp;ref_src=twsrc%5Etfw"">#Australia</a>. <a href=""https://twitter.com/BOM_au?ref_src=twsrc%5Etfw"">@BOM_au</a><br> <br> <a href=""https://twitter.com/hashtag/summerday?src=hash&amp;ref_src=twsrc%5Etfw"">#summerday</a> <a href=""https://twitter.com/hashtag/climate?src=hash&amp;ref_src=twsrc%5Etfw"">#climate</a> <a href=""https://twitter.com/hashtag/weather?src=hash&amp;ref_src=twsrc%5Etfw"">#weather</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/DGoP04EpgW"">pic.twitter.com/DGoP04EpgW</a></p>&mdash; Dominic Royé (@dr_xeo) <a href=""https://twitter.com/dr_xeo/status/1169275402017280000?ref_src=twsrc%5Etfw"">September 4, 2019</a></blockquote>",894,FALSE,NA,###  Quotes of the Week,unid,2019-09-09
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">A New Vision of the World Population in a Borderless World <a href=""https://twitter.com/hashtag/cartography?src=hash&amp;ref_src=twsrc%5Etfw"">#cartography</a> <a href=""https://twitter.com/hashtag/NoBorders?src=hash&amp;ref_src=twsrc%5Etfw"">#NoBorders</a> <a href=""https://twitter.com/hashtag/neocarto?src=hash&amp;ref_src=twsrc%5Etfw"">#neocarto</a> <a href=""https://twitter.com/hashtag/D3js?src=hash&amp;ref_src=twsrc%5Etfw"">#D3js</a> <a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a><a href=""https://t.co/j1MJAAn2ob"">https://t.co/j1MJAAn2ob</a> <a href=""https://t.co/tSXUWX6jNZ"">pic.twitter.com/tSXUWX6jNZ</a></p>&mdash; Cartographe encarté (@nico_lambert) <a href=""https://twitter.com/nico_lambert/status/1169243421866975233?ref_src=twsrc%5Etfw"">September 4, 2019</a></blockquote>",879,FALSE,NA,###  Quotes of the Week,unid,2019-09-09
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-09-09
+"title: R Weekly 2019-36 PDF tables, tvthemes & Rstudio themes",61,FALSE,NA,unid,2019-09-09
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-09-09
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-09-09
+---,3,FALSE,NA,unid,2019-09-09
++ [Making tables in PDF using R: A guide on making tables in PDF using RMarkdown and LaTeX.](https://sharleenw.rbind.io/post/tables_in_pdf/making-pdf-tables-in-r/),163,FALSE,###  Highlight,link,2019-09-09
+"+ [{tvthemes 1.0.0} is on CRAN: Code improvements, Kim Possible, Stannis Baratheon, Hilda palettes/themes, and more!](https://ryo-n7.github.io/2019-09-06-tvthemes-CRAN-announcement/)",182,FALSE,###  Highlight,link,2019-09-09
++ [A curated list of RStudio themes found on Github](https://github.com/mkearney/rstudiothemes),95,FALSE,###  Highlight,link,2019-09-09
++ [Data Chats: From Physics student to Data Science Consultant](https://martinctc.github.io/blog/data-chats-from-physics-student-to-data-science-consultant/),157,FALSE,### Insights,link,2019-09-09
++ [A shallow benchmark of R data frame export/import methods ](https://data.nozav.org/post/2019-r-data-frame-benchmark/),120,FALSE,### Insights,link,2019-09-09
++ [Simulating the Rugby World Cup 2019 Japan in R](http://statsonthe.cloud/2019/09/06/simulating-the-rugby-world-cup-2019-japan-in-r/),134,FALSE,### R in the Real World,link,2019-09-09
++ [Public Data Dive: Canada's Elections](https://fishandwhistle.net/post/2019/public-data-dive-elections-canada/),113,FALSE,### R in the Real World,link,2019-09-09
++ [A curated list of RStudio themes found on Github](https://github.com/mkearney/rstudiothemes),95,FALSE,###  Resources,link,2019-09-09
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-09-09
+**CRAN**,8,FALSE,###  New Packages,unid,2019-09-09
++ [{ggpointdensity 0.1.0}: A cross between a scatter plot and a 2D density plot](https://github.com/LKremer/ggpointdensity),123,FALSE,###  New Packages,link,2019-09-09
+![{ggpointdensity 0.1.0}: A cross between a scatter plot and a 2D density plot](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/geom_pointdensity2.png),169,FALSE,###  New Packages,image,2019-09-09
++ [{distributions3 0.1.1}: Provides a generic function interface to probability distributions](https://www.alexpghayes.com/blog/announcing-the-distributions3-package/),167,FALSE,###  New Packages,link,2019-09-09
++ [{tvthemes 1.0.0}: TV Show Themes and Color Palettes for 'ggplot2' Graphics](https://cran.r-project.org/package=tvthemes),123,FALSE,###  New Packages,link,2019-09-09
++ [{ggraph 2.0.0}: An extension of ggplot2 that implements an extended grammar for relational data](https://www.data-imaginist.com/2019/1-giraffe-2-giraffe-go/),160,FALSE,###  New Packages,link,2019-09-09
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-09-09
++ [{loadtest}: Automates performance testing of ML models and summarizes the results in a dashboard](https://github.com/tmobile/loadtest),137,FALSE,###  New Packages,link,2019-09-09
+"+ [getTBinR - more tuberculosis data, ggplot2 best practices and bug fixes](https://www.samabbott.co.uk/post/gettbinr-7-0/)",123,FALSE,### Updated Packages,link,2019-09-09
+"![getTBinR - more tuberculosis data, ggplot2 best practices and bug fixes](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/storyboard-7-0.png)",160,FALSE,### Updated Packages,image,2019-09-09
++ [{GSODR 2.0.0}](https://docs.ropensci.org/GSODR/index.html),61,FALSE,### Updated Packages,link,2019-09-09
++ [{ghibli 0.3.0}](https://ewenme.github.io/ghibli/),52,FALSE,### Updated Packages,link,2019-09-09
++ [{bench 1.0.4}](http://bench.r-lib.org/),42,FALSE,### Updated Packages,link,2019-09-09
++ [#TidyTuesday Podcast #2: Moore's Law](https://tidytuesday.fireside.fm/2),75,FALSE,###  Videos and Podcasts,link,2019-09-09
++ [How to do Tamil Text Analysis & NLP in R](https://www.programmingwithr.com/how-to-do-tamil-text-analysis-nlp-in-r/),118,FALSE,### R Internationally,link,2019-09-09
++ [Making pretty note boxes: A div tip for all occasions](http://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/),138,FALSE,###  Tutorials,link,2019-09-09
++ [Turn your Reports into Functions!](https://daranzolin.github.io/2019-09-03-reports-as-functions/),100,FALSE,###  Tutorials,link,2019-09-09
++ [Making tables in PDF using R: A guide on making tables in PDF using RMarkdown and LaTeX.](https://sharleenw.rbind.io/post/tables_in_pdf/making-pdf-tables-in-r/),163,FALSE,###  Tutorials,link,2019-09-09
+"+ [{tvthemes 1.0.0} is on CRAN: Code improvements, Kim Possible, Stannis Baratheon, Hilda palettes/themes, and more!](https://ryo-n7.github.io/2019-09-06-tvthemes-CRAN-announcement/)",182,FALSE,###  Tutorials,link,2019-09-09
+"![{tvthemes 1.0.0} is on CRAN: Code improvements, Kim Possible, Stannis Baratheon, Hilda palettes/themes, and more!](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/tvthemes_v1plot2.png)",204,FALSE,###  Tutorials,image,2019-09-09
++ [UCSCXenaTools: Retrieve Gene Expression and Clinical Information from UCSC Xena for Survival Analysis](https://ropensci.org/technotes/2019/09/06/ucscxenatools-surv/),168,FALSE,###  Tutorials,link,2019-09-09
++ [Dygraphs](https://nhsrcommunity.com/blog/dygraphs/),54,FALSE,###  Tutorials,link,2019-09-09
++ [Create an Icon Map in R with ggmap and ggimage](https://www.littlemissdata.com/blog/iconmap),95,FALSE,###  Tutorials,link,2019-09-09
++ [Advanced Data Reshaping in Python and R](http://www.win-vector.com/blog/2019/09/advanced-data-reshaping-in-python-and-r/),124,FALSE,###  Tutorials,link,2019-09-09
++ [Exploratory Data Analysis with Tables](https://dentaldatascience.org/post/eda-with-tables/),94,FALSE,###  Tutorials,link,2019-09-09
+"+ [Poisson point processes, mass shootings and clumping](http://freerangestats.info/blog/2019/09/07/mass-shootings-oz)",118,FALSE,###  Tutorials,link,2019-09-09
+"+ [One week as a Shiny dev, seen through Google search](https://colinfay.me/one-week-shiny-gogole-search/)",106,FALSE,###  Tutorials,link,2019-09-09
++ [R for Clinical Trial Reporting](https://fharrell.com/talk/rmedicine19/),74,FALSE,###  Tutorials,link,2019-09-09
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2019-09-09
+"n></div><div class=""post-more-end""></div>-->",44,FALSE,###  Tutorials,unid,2019-09-09
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-09-09
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-09-09
+"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)",63,FALSE,###  Upcoming Events in 3 Months,link,2019-09-09
+"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,###  Upcoming Events in 3 Months,link,2019-09-09
+"+ [Tokyo.R #81, September 28](https://tokyor.connpass.com/)",59,FALSE,###  Upcoming Events in 3 Months,link,2019-09-09
++ [Why R? 2019 Conference - Warsaw 26-29 September 2019](http://whyr.pl/2019/),78,FALSE,###  Upcoming Events in 3 Months,link,2019-09-09
+"+ [rOpenSci OzUnconf (Sydney, Australia), December 11 - 13 2019](https://ozunconf19.ropensci.org/)",98,FALSE,###  Upcoming Events in 3 Months,link,2019-09-09
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-09-09
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-09-09
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-09-09
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-09-09
++ [Deadline extended for rstudio::conf(2020) abstract submissions](https://blog.rstudio.com/2019/09/06/rstudio-conf-2020-submission-deadline-extended/),151,FALSE,###  Call for Participation,link,2019-09-09
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Summer day probability (maximum temperature &gt; 25ºC) through the year in <a href=""https://twitter.com/hashtag/Australia?src=hash&amp;ref_src=twsrc%5Etfw"">#Australia</a>. <a href=""https://twitter.com/BOM_au?ref_src=twsrc%5Etfw"">@BOM_au</a><br> <br> <a href=""https://twitter.com/hashtag/summerday?src=hash&amp;ref_src=twsrc%5Etfw"">#summerday</a> <a href=""https://twitter.com/hashtag/climate?src=hash&amp;ref_src=twsrc%5Etfw"">#climate</a> <a href=""https://twitter.com/hashtag/weather?src=hash&amp;ref_src=twsrc%5Etfw"">#weather</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/DGoP04EpgW"">pic.twitter.com/DGoP04EpgW</a></p>&mdash; Dominic Royé (@dr_xeo) <a href=""https://twitter.com/dr_xeo/status/1169275402017280000?ref_src=twsrc%5Etfw"">September 4, 2019</a></blockquote>",894,FALSE,###  Quotes of the Week,unid,2019-09-09
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">A New Vision of the World Population in a Borderless World <a href=""https://twitter.com/hashtag/cartography?src=hash&amp;ref_src=twsrc%5Etfw"">#cartography</a> <a href=""https://twitter.com/hashtag/NoBorders?src=hash&amp;ref_src=twsrc%5Etfw"">#NoBorders</a> <a href=""https://twitter.com/hashtag/neocarto?src=hash&amp;ref_src=twsrc%5Etfw"">#neocarto</a> <a href=""https://twitter.com/hashtag/D3js?src=hash&amp;ref_src=twsrc%5Etfw"">#D3js</a> <a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a><a href=""https://t.co/j1MJAAn2ob"">https://t.co/j1MJAAn2ob</a> <a href=""https://t.co/tSXUWX6jNZ"">pic.twitter.com/tSXUWX6jNZ</a></p>&mdash; Cartographe encarté (@nico_lambert) <a href=""https://twitter.com/nico_lambert/status/1169243421866975233?ref_src=twsrc%5Etfw"">September 4, 2019</a></blockquote>",879,FALSE,###  Quotes of the Week,unid,2019-09-09

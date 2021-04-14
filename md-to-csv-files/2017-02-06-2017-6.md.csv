@@ -1,90 +1,90 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2017-02-06
-layout: post,12,FALSE,NA,NA,unid,2017-02-06
-title: R Weekly 2017 Issue 6,28,FALSE,NA,NA,unid,2017-02-06
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-02-06
----,3,FALSE,NA,NA,unid,2017-02-06
-+ [The tidy tools manifesto](https://cloud.r-project.org/web/packages/tidyverse/vignettes/manifesto.html),105,FALSE,NA,### Highlight,link,2017-02-06
-+ [List of R conferences and user groups](https://jumpingrivers.github.io/meetingsR/),85,FALSE,NA,### Highlight,link,2017-02-06
-+ [Debugging with RStudio](https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-RStudio),106,FALSE,NA,### Highlight,link,2017-02-06
-"+ [Enhancing, Updating and extending fivethirtyeight articles](https://www.mytinyshinys.com/post/badDrivers_538/)",113,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [Venture Capital Deals in 2016 – An Overview (1/2)](http://r-blog.salvaggio.net/?p=369),89,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [UNHCR Refugee Data Visualized](https://eugejjoh.wordpress.com/2017/02/02/unhcr-refugee-data-visualized/),107,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [Lifting the Big Data Veil: Data Science Strategy for Water Utilities](http://r.prevos.net/data-science-strategy-water-utilities/),132,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [Metro Systems Over Time: Part 3](https://datascienceplus.com/metro-systems-over-time-part-3/),96,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [Exploring News Coverage With newsflash](https://rud.is/b/2017/02/01/exploring-news-coverage-with-newsflash/),111,FALSE,NA,### R in the Real World,link,2017-02-06
-![Exploring News Coverage With newsflash](https://rud.is/b/wp-content/uploads/2017/02/clinton_plot-1-1.png),107,FALSE,NA,### R in the Real World,image,2017-02-06
-+ [Taking steps (in XML)](https://nsaunders.wordpress.com/2017/02/01/taking-steps-in-xml/) - Let’s use R to analyse data from the iOS Health app.,145,FALSE,NA,### R in the Real World,link,2017-02-06
-"+ [Open Data R Meetup: exploring the Distribution of Traffic Accidents in Belgrade, 2015 in R](http://www.exactness.net/post/156624508760)",138,FALSE,NA,### R in the Real World,link,2017-02-06
-"![Open Data R Meetup: exploring the Distribution of Traffic Accidents in Belgrade, 2015 in R](https://68.media.tumblr.com/6646c62fc2d438d016d7d479a216aa1c/tumblr_inline_okna73Sr5a1qa0hyw_500.png)",195,FALSE,NA,### R in the Real World,image,2017-02-06
-+ [Using R and satellite data to identify marine bioregions](http://www.milanor.net/blog/r-satellite-data-to-identify-marine-bioregions/),137,FALSE,NA,### R in the Real World,link,2017-02-06
-![Using R and satellite data to identify marine bioregions](https://cdn.rawgit.com/rweekly/image/6ebb425b/2017-6/bioregions_figure-1180x664.jpeg),145,FALSE,NA,### R in the Real World,image,2017-02-06
-+ [SCADA spikes in Water Treatment Data](http://r.prevos.net/scada-spikes/),75,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [Exploring World Gender Statistics with Shiny](https://shiring.github.io/shiny/2017/01/29/WGS),96,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [The Rt of naming your blog](http://maelle.github.io/2017/01/29/rbloggersnames/) - An analysis about R-bloggers,113,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [Inauguration speeches](https://randomjohn.github.io/tidy-text-inauguration-speeches/),88,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [Visualizing housing value distributions by metro](http://lenkiefer.com/2017/01/31/house-value-distribution),110,FALSE,NA,### R in the Real World,link,2017-02-06
-![Visualizing housing value distributions by metro](https://cdn.rawgit.com/rweekly/image/6ebb425b/2017-6/house.jpg),115,FALSE,NA,### R in the Real World,image,2017-02-06
-+ [Visualization of MRI data in R](http://www.alexejgossmann.com//MRI_viz/),75,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [7 Interactive Plots from the Pharmaceutical Industry](http://moderndata.plot.ly/pharmaceutical-survival-interactive/),120,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [Developers without Borders: The Global Stack Overflow Network](http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network/),162,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [Playing with 80 Million Amazon Product Review Ratings using Apache Spark](http://minimaxir.com/notebooks/amazon-spark/),122,FALSE,NA,### R in the Real World,link,2017-02-06
-"+ [Mapping unemployment data, 2016](http://sharpsightlabs.com/blog/map-unemployment-nov-2016/) - With unemployment data in US",125,FALSE,NA,### R in the Real World,link,2017-02-06
-+ [fst: Fast serialization of R data frames](http://blog.revolutionanalytics.com/2017/02/fst-fast-serialization-of-r-data-frames.html),134,FALSE,NA,### Insights,link,2017-02-06
-+ [Superheat: supercharged heatmaps for R](http://blog.revolutionanalytics.com/2017/02/superheat-supercharged-heatmaps-for-r.html),130,FALSE,NA,### Insights,link,2017-02-06
-![Superheat: supercharged heatmaps for R](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0974f5b8970d-800wi),127,FALSE,NA,### Insights,image,2017-02-06
-+ [Enough trying to use LTO](http://www.avrahamadler.com/2017/01/31/enough-trying-to-use-lto/),94,FALSE,NA,### Insights,link,2017-02-06
-+ [How to choose algorithms for Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice),156,FALSE,NA,### Insights,link,2017-02-06
-+ [The tidy tools manifesto](https://cloud.r-project.org/web/packages/tidyverse/vignettes/manifesto.html),105,FALSE,NA,### Insights,link,2017-02-06
-+ [A look back at the year in R and Microsoft](http://blog.revolutionanalytics.com/2017/02/the-year-in-r.html),110,FALSE,NA,### R in Organization,link,2017-02-06
-+ [Exact p-values for pairwise comparison of Friedman rank sums](http://www.rensenieuwenhuis.nl/exact-p-values-for-pairwise-comparison-of-friedman-rank-sums/),158,FALSE,NA,### R in Academia,link,2017-02-06
-+ [R for Excel Users](http://shotwell.ca/blog/post/r_for_excel_users/),70,FALSE,NA,### Tutorials,link,2017-02-06
-"+ [Importing Data into R, part II](https://thepracticalr.wordpress.com/2017/01/31/importing-data-into-r-part-ii/)",113,FALSE,NA,### Tutorials,link,2017-02-06
-"![Importing Data into R, part II](https://thepracticalr.files.wordpress.com/2017/01/new-import-screen.png)",106,FALSE,NA,### Tutorials,image,2017-02-06
-+ [Faces of Evil: Exploring the Nazis of Auschwtiz with nazihuntR](http://asbcllc.com/r_packages/nazihuntR/faces_of_evil/index.html),132,FALSE,NA,### Tutorials,link,2017-02-06
-+ [Tidy grid search with pipelearner](https://drsimonj.svbtle.com/how-to-grid-search-with-pipelearner),102,FALSE,NA,### Tutorials,link,2017-02-06
-+ [Install R Packages on the Ubuntu Virtual Machine](http://freakonometrics.hypotheses.org/50127),97,FALSE,NA,### Tutorials,link,2017-02-06
-+ [Tutorial: How to set up a Twitter bot using R](https://blog.eoda.de/2017/02/02/tutorial-how-to-set-up-a-twitter-bot-using-r/),128,FALSE,NA,### Tutorials,link,2017-02-06
-+ [Function to Simulate Parabolic Shot with Drag.](https://datarvalue.blogspot.fr/2017/02/function-to-simulate-parabolic-shot.html),131,FALSE,NA,### Tutorials,link,2017-02-06
-+ [The real meaning of spurious correlations](https://nsaunders.wordpress.com/2017/02/03/the-real-meaning-of-spurious-correlations/),132,FALSE,NA,### Tutorials,link,2017-02-06
-![The real meaning of spurious correlations](https://nsaunders.files.wordpress.com/2017/02/spurious3.png),105,FALSE,NA,### Tutorials,image,2017-02-06
-+ [Reproducible Finance with R: Sector Correlations Shiny App](https://www.rstudio.com/rviews/2017/02/03/reproducible-finance-with-r-sector-correlations-shiny-app/),164,FALSE,NA,### Tutorials,link,2017-02-06
-+ [Recreating RView’s ”Reproducible Finance With R: Sector Correlations”](http://www.mattdancho.com/financial-analysis/2017/02/02/Recreating-RViews-Reproducible-Finance-Post.html),179,FALSE,NA,### Tutorials,link,2017-02-06
-+ [Where Do Z-Score Tables Come From? (+ how to make them in R)](https://qualityandinnovation.com/2017/02/02/where-do-z-score-tables-come-from-how-to-make-them-in-r/),166,FALSE,NA,### Tutorials,link,2017-02-06
-+ [Raccoon Ch 2.4 – 3-way Anova](http://www.quantide.com/raccoon-ch-2-4-3-way-anova/),85,FALSE,NA,### Tutorials,link,2017-02-06
-+ [The R Formula Method: The Good Parts](https://www.rstudio.com/rviews/2017/02/01/the-r-formula-method-the-good-parts/),120,FALSE,NA,### Tutorials,link,2017-02-06
-+ [Building and maintaining exams with dynamic content](http://msperlin.github.io/2017-01-30-Exams-with-dynamic-content/),121,FALSE,NA,### Tutorials,link,2017-02-06
-+ [The “Ten Simple Rules for Reproducible Computational Research” are easy to reach for R users](http://blog.jom.link/ten_rules_reproductible_research.html),156,FALSE,NA,### Tutorials,link,2017-02-06
-+ [Using the Bizarro Pipe to Debug magrittr Pipelines in R](http://www.win-vector.com/blog/2017/01/using-the-bizarro-pipe-to-debug-magrittr-pipelines-in-r/),156,FALSE,NA,### Videos and Podcasts,link,2017-02-06
-+ [DataChats Episode 8 An interview with Ben Baumer](https://www.youtube.com/watch?v=BORK5okMmTg),97,FALSE,NA,### Videos and Podcasts,link,2017-02-06
-+ [List of R conferences and user groups](https://jumpingrivers.github.io/meetingsR/),85,FALSE,NA,### Resources,link,2017-02-06
-+ [Staying Current in Bioinformatics & Genomics: 2017 Edition](http://www.gettinggeneticsdone.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html),159,FALSE,NA,### Resources,link,2017-02-06
-+ [Debugging with RStudio](https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-RStudio),106,FALSE,NA,### Resources,link,2017-02-06
-+ [ShinyTester](http://amitkohli.com/announcing-shinytester-a-package-that-helps-you-build-shiny-apps/) - A package that helps you build Shiny apps,147,FALSE,NA,### New Packages and Tools,link,2017-02-06
-+ [nazihuntR](https://github.com/abresler/nazihuntR) - tools to explore the Institute of National Remembrance Nazis of Auschwitz data,133,FALSE,NA,### New Packages and Tools,link,2017-02-06
-+ [maltese](https://github.com/bearloga/maltese) -  Little R utility package for making time series data more machine learning-friendly,135,FALSE,NA,### New Packages and Tools,link,2017-02-06
-+ [newsflash](https://github.com/hrbrmstr/newsflash) -,54,FALSE,NA,### New Packages and Tools,link,2017-02-06
-Tools to Work with the Internet Archive and GDELT Television Explorer in R,74,FALSE,NA,### New Packages and Tools,unid,2017-02-06
-+ [provisionr](https://github.com/richfitz/provisionr) - 📦📦➡️🏛 Provision a library of R packages,96,FALSE,NA,### New Packages and Tools,link,2017-02-06
-"+ [tidyxl 0.2.1](https://nacnudus.github.io/tidyxl/) for importing messy spreadsheets, including cell formatting.",113,FALSE,NA,### New Releases,link,2017-02-06
-"+ [unpivotr 0.1.0](https://nacnudus.github.io/unpivotr/) for unpivoting complex tables with multi-level headers, especially pivot tables.",137,FALSE,NA,### New Releases,link,2017-02-06
-+ [roxygen2 6.0.0](https://blog.rstudio.org/2017/02/01/roxygen2-6-0-0/) - roxygen2 helps you document your packages by turning specially formatted inline comments into R’s standard Rd format.,191,FALSE,NA,### New Releases,link,2017-02-06
-+ [nzpullover 0.0.2](https://nacnudus.github.io/nzpullover/) - road policing data from New Zealand.,99,FALSE,NA,### New Releases,link,2017-02-06
-"+ [RPushbullet 0.3.0](http://dirk.eddelbuettel.com/blog/2017/02/03#rpushbullet_0.3.0) - RPushbullet interfacing the neat Pushbullet service for inter-device messaging, communication, and more.",192,FALSE,NA,### New Releases,link,2017-02-06
-+ [gunsales 0.1.2](http://dirk.eddelbuettel.com/blog/2017/01/30#gunsales_0.1.2) - Statistical analysis of monthly background checks of gun purchases,148,FALSE,NA,### New Releases,link,2017-02-06
-+ [nanotime 0.1.1](http://dirk.eddelbuettel.com/blog/2017/02/04#nanotime_0.1.1) - Nanosecond-Resolution Time for R,114,FALSE,NA,### New Releases,link,2017-02-06
-+ [RcppCCTZ 0.2.1](http://dirk.eddelbuettel.com/blog/2017/02/04#rcppcctz_0.2.1) - Rcpp bindings for the CCTZ library,116,FALSE,NA,### New Releases,link,2017-02-06
-+ [R Jobs for R users – 14 jobs from around the world (2017-02-01)](https://www.r-bloggers.com/r-jobs-for-r-users-14-jobs-from-around-the-world-2017-02-01/),156,FALSE,NA,### Jobs,link,2017-02-06
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,### R Project Updates,unid,2017-02-06
-"+  Improved performance and robustness of matrix multiplication using BLAS: DGEMV is now used instead of DGEMM for matrix/vector and vector/matrix multiplication, DGEMM/DGEMV is bypassed when the input has NaN or Inf values, and performance for these input checks has been improved.",282,FALSE,NA,### R Project Updates,unid,2017-02-06
-+ `qbeta()` underflowed too early in some very asymmetric cases. (PR#17178),75,FALSE,NA,### R Project Updates,unid,2017-02-06
-+ `tapply()` gets new option `default = NA` allowing to change the previously hardcoded value.,94,FALSE,NA,### R Project Updates,unid,2017-02-06
-"+ `R CMD build` no longer wraps a `BugReports` field containing a long URL, which made it unusable in R <= 3.3.2.",113,FALSE,NA,### R Project Updates,unid,2017-02-06
-+ `read.dcf()` now consistently interprets any `whitespace` to be stripped to include newlines.,95,FALSE,NA,### R Project Updates,unid,2017-02-06
-"+ `str()` no longer shows `""list output truncated""`, in cases that list was not shown at all. Thanks to Neal Fultz (PR#17219)",125,FALSE,NA,### R Project Updates,unid,2017-02-06
-+ [satRday Cape Town 2017: Data Visualisation Challenge announced](http://capetown2017.satrdays.org/#visualisation),115,FALSE,NA,### Call for Participation,link,2017-02-06
-"+ [SatRday #2 Conference - Cape Town, South Africa](http://capetown2017.satrdays.org/) **18 Feb, 2017** <br />",110,FALSE,NA,### Upcoming Events,link,2017-02-06
-The R community and some of South Africa's most forward thinking companies have come together to bring satRday to Cape Town.,124,FALSE,NA,### Upcoming Events,unid,2017-02-06
-"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,### Upcoming Events,link,2017-02-06
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,### Upcoming Events,unid,2017-02-06
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">For those <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> folk planning their 2017 calendars around R releases: <a href=""https://t.co/O0t4eIyZhR"">https://t.co/O0t4eIyZhR</a> <a href=""https://t.co/8ib2UFFGnZ"">pic.twitter.com/8ib2UFFGnZ</a></p>&mdash; boB Rudis (@hrbrmstr) <a href=""https://twitter.com/hrbrmstr/status/826825104667660289"">February 1, 2017</a></blockquote>",460,FALSE,NA,### Quotes of the Week,unid,2017-02-06
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2017-02-06
+layout: post,12,FALSE,NA,unid,2017-02-06
+title: R Weekly 2017 Issue 6,28,FALSE,NA,unid,2017-02-06
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2017-02-06
+---,3,FALSE,NA,unid,2017-02-06
++ [The tidy tools manifesto](https://cloud.r-project.org/web/packages/tidyverse/vignettes/manifesto.html),105,FALSE,### Highlight,link,2017-02-06
++ [List of R conferences and user groups](https://jumpingrivers.github.io/meetingsR/),85,FALSE,### Highlight,link,2017-02-06
++ [Debugging with RStudio](https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-RStudio),106,FALSE,### Highlight,link,2017-02-06
+"+ [Enhancing, Updating and extending fivethirtyeight articles](https://www.mytinyshinys.com/post/badDrivers_538/)",113,FALSE,### R in the Real World,link,2017-02-06
++ [Venture Capital Deals in 2016 – An Overview (1/2)](http://r-blog.salvaggio.net/?p=369),89,FALSE,### R in the Real World,link,2017-02-06
++ [UNHCR Refugee Data Visualized](https://eugejjoh.wordpress.com/2017/02/02/unhcr-refugee-data-visualized/),107,FALSE,### R in the Real World,link,2017-02-06
++ [Lifting the Big Data Veil: Data Science Strategy for Water Utilities](http://r.prevos.net/data-science-strategy-water-utilities/),132,FALSE,### R in the Real World,link,2017-02-06
++ [Metro Systems Over Time: Part 3](https://datascienceplus.com/metro-systems-over-time-part-3/),96,FALSE,### R in the Real World,link,2017-02-06
++ [Exploring News Coverage With newsflash](https://rud.is/b/2017/02/01/exploring-news-coverage-with-newsflash/),111,FALSE,### R in the Real World,link,2017-02-06
+![Exploring News Coverage With newsflash](https://rud.is/b/wp-content/uploads/2017/02/clinton_plot-1-1.png),107,FALSE,### R in the Real World,image,2017-02-06
++ [Taking steps (in XML)](https://nsaunders.wordpress.com/2017/02/01/taking-steps-in-xml/) - Let’s use R to analyse data from the iOS Health app.,145,FALSE,### R in the Real World,link,2017-02-06
+"+ [Open Data R Meetup: exploring the Distribution of Traffic Accidents in Belgrade, 2015 in R](http://www.exactness.net/post/156624508760)",138,FALSE,### R in the Real World,link,2017-02-06
+"![Open Data R Meetup: exploring the Distribution of Traffic Accidents in Belgrade, 2015 in R](https://68.media.tumblr.com/6646c62fc2d438d016d7d479a216aa1c/tumblr_inline_okna73Sr5a1qa0hyw_500.png)",195,FALSE,### R in the Real World,image,2017-02-06
++ [Using R and satellite data to identify marine bioregions](http://www.milanor.net/blog/r-satellite-data-to-identify-marine-bioregions/),137,FALSE,### R in the Real World,link,2017-02-06
+![Using R and satellite data to identify marine bioregions](https://cdn.rawgit.com/rweekly/image/6ebb425b/2017-6/bioregions_figure-1180x664.jpeg),145,FALSE,### R in the Real World,image,2017-02-06
++ [SCADA spikes in Water Treatment Data](http://r.prevos.net/scada-spikes/),75,FALSE,### R in the Real World,link,2017-02-06
++ [Exploring World Gender Statistics with Shiny](https://shiring.github.io/shiny/2017/01/29/WGS),96,FALSE,### R in the Real World,link,2017-02-06
++ [The Rt of naming your blog](http://maelle.github.io/2017/01/29/rbloggersnames/) - An analysis about R-bloggers,113,FALSE,### R in the Real World,link,2017-02-06
++ [Inauguration speeches](https://randomjohn.github.io/tidy-text-inauguration-speeches/),88,FALSE,### R in the Real World,link,2017-02-06
++ [Visualizing housing value distributions by metro](http://lenkiefer.com/2017/01/31/house-value-distribution),110,FALSE,### R in the Real World,link,2017-02-06
+![Visualizing housing value distributions by metro](https://cdn.rawgit.com/rweekly/image/6ebb425b/2017-6/house.jpg),115,FALSE,### R in the Real World,image,2017-02-06
++ [Visualization of MRI data in R](http://www.alexejgossmann.com//MRI_viz/),75,FALSE,### R in the Real World,link,2017-02-06
++ [7 Interactive Plots from the Pharmaceutical Industry](http://moderndata.plot.ly/pharmaceutical-survival-interactive/),120,FALSE,### R in the Real World,link,2017-02-06
++ [Developers without Borders: The Global Stack Overflow Network](http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network/),162,FALSE,### R in the Real World,link,2017-02-06
++ [Playing with 80 Million Amazon Product Review Ratings using Apache Spark](http://minimaxir.com/notebooks/amazon-spark/),122,FALSE,### R in the Real World,link,2017-02-06
+"+ [Mapping unemployment data, 2016](http://sharpsightlabs.com/blog/map-unemployment-nov-2016/) - With unemployment data in US",125,FALSE,### R in the Real World,link,2017-02-06
++ [fst: Fast serialization of R data frames](http://blog.revolutionanalytics.com/2017/02/fst-fast-serialization-of-r-data-frames.html),134,FALSE,### Insights,link,2017-02-06
++ [Superheat: supercharged heatmaps for R](http://blog.revolutionanalytics.com/2017/02/superheat-supercharged-heatmaps-for-r.html),130,FALSE,### Insights,link,2017-02-06
+![Superheat: supercharged heatmaps for R](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0974f5b8970d-800wi),127,FALSE,### Insights,image,2017-02-06
++ [Enough trying to use LTO](http://www.avrahamadler.com/2017/01/31/enough-trying-to-use-lto/),94,FALSE,### Insights,link,2017-02-06
++ [How to choose algorithms for Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice),156,FALSE,### Insights,link,2017-02-06
++ [The tidy tools manifesto](https://cloud.r-project.org/web/packages/tidyverse/vignettes/manifesto.html),105,FALSE,### Insights,link,2017-02-06
++ [A look back at the year in R and Microsoft](http://blog.revolutionanalytics.com/2017/02/the-year-in-r.html),110,FALSE,### R in Organization,link,2017-02-06
++ [Exact p-values for pairwise comparison of Friedman rank sums](http://www.rensenieuwenhuis.nl/exact-p-values-for-pairwise-comparison-of-friedman-rank-sums/),158,FALSE,### R in Academia,link,2017-02-06
++ [R for Excel Users](http://shotwell.ca/blog/post/r_for_excel_users/),70,FALSE,### Tutorials,link,2017-02-06
+"+ [Importing Data into R, part II](https://thepracticalr.wordpress.com/2017/01/31/importing-data-into-r-part-ii/)",113,FALSE,### Tutorials,link,2017-02-06
+"![Importing Data into R, part II](https://thepracticalr.files.wordpress.com/2017/01/new-import-screen.png)",106,FALSE,### Tutorials,image,2017-02-06
++ [Faces of Evil: Exploring the Nazis of Auschwtiz with nazihuntR](http://asbcllc.com/r_packages/nazihuntR/faces_of_evil/index.html),132,FALSE,### Tutorials,link,2017-02-06
++ [Tidy grid search with pipelearner](https://drsimonj.svbtle.com/how-to-grid-search-with-pipelearner),102,FALSE,### Tutorials,link,2017-02-06
++ [Install R Packages on the Ubuntu Virtual Machine](http://freakonometrics.hypotheses.org/50127),97,FALSE,### Tutorials,link,2017-02-06
++ [Tutorial: How to set up a Twitter bot using R](https://blog.eoda.de/2017/02/02/tutorial-how-to-set-up-a-twitter-bot-using-r/),128,FALSE,### Tutorials,link,2017-02-06
++ [Function to Simulate Parabolic Shot with Drag.](https://datarvalue.blogspot.fr/2017/02/function-to-simulate-parabolic-shot.html),131,FALSE,### Tutorials,link,2017-02-06
++ [The real meaning of spurious correlations](https://nsaunders.wordpress.com/2017/02/03/the-real-meaning-of-spurious-correlations/),132,FALSE,### Tutorials,link,2017-02-06
+![The real meaning of spurious correlations](https://nsaunders.files.wordpress.com/2017/02/spurious3.png),105,FALSE,### Tutorials,image,2017-02-06
++ [Reproducible Finance with R: Sector Correlations Shiny App](https://www.rstudio.com/rviews/2017/02/03/reproducible-finance-with-r-sector-correlations-shiny-app/),164,FALSE,### Tutorials,link,2017-02-06
++ [Recreating RView’s ”Reproducible Finance With R: Sector Correlations”](http://www.mattdancho.com/financial-analysis/2017/02/02/Recreating-RViews-Reproducible-Finance-Post.html),179,FALSE,### Tutorials,link,2017-02-06
++ [Where Do Z-Score Tables Come From? (+ how to make them in R)](https://qualityandinnovation.com/2017/02/02/where-do-z-score-tables-come-from-how-to-make-them-in-r/),166,FALSE,### Tutorials,link,2017-02-06
++ [Raccoon Ch 2.4 – 3-way Anova](http://www.quantide.com/raccoon-ch-2-4-3-way-anova/),85,FALSE,### Tutorials,link,2017-02-06
++ [The R Formula Method: The Good Parts](https://www.rstudio.com/rviews/2017/02/01/the-r-formula-method-the-good-parts/),120,FALSE,### Tutorials,link,2017-02-06
++ [Building and maintaining exams with dynamic content](http://msperlin.github.io/2017-01-30-Exams-with-dynamic-content/),121,FALSE,### Tutorials,link,2017-02-06
++ [The “Ten Simple Rules for Reproducible Computational Research” are easy to reach for R users](http://blog.jom.link/ten_rules_reproductible_research.html),156,FALSE,### Tutorials,link,2017-02-06
++ [Using the Bizarro Pipe to Debug magrittr Pipelines in R](http://www.win-vector.com/blog/2017/01/using-the-bizarro-pipe-to-debug-magrittr-pipelines-in-r/),156,FALSE,### Videos and Podcasts,link,2017-02-06
++ [DataChats Episode 8 An interview with Ben Baumer](https://www.youtube.com/watch?v=BORK5okMmTg),97,FALSE,### Videos and Podcasts,link,2017-02-06
++ [List of R conferences and user groups](https://jumpingrivers.github.io/meetingsR/),85,FALSE,### Resources,link,2017-02-06
++ [Staying Current in Bioinformatics & Genomics: 2017 Edition](http://www.gettinggeneticsdone.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html),159,FALSE,### Resources,link,2017-02-06
++ [Debugging with RStudio](https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-RStudio),106,FALSE,### Resources,link,2017-02-06
++ [ShinyTester](http://amitkohli.com/announcing-shinytester-a-package-that-helps-you-build-shiny-apps/) - A package that helps you build Shiny apps,147,FALSE,### New Packages and Tools,link,2017-02-06
++ [nazihuntR](https://github.com/abresler/nazihuntR) - tools to explore the Institute of National Remembrance Nazis of Auschwitz data,133,FALSE,### New Packages and Tools,link,2017-02-06
++ [maltese](https://github.com/bearloga/maltese) -  Little R utility package for making time series data more machine learning-friendly,135,FALSE,### New Packages and Tools,link,2017-02-06
++ [newsflash](https://github.com/hrbrmstr/newsflash) -,54,FALSE,### New Packages and Tools,link,2017-02-06
+Tools to Work with the Internet Archive and GDELT Television Explorer in R,74,FALSE,### New Packages and Tools,unid,2017-02-06
++ [provisionr](https://github.com/richfitz/provisionr) - 📦📦➡️🏛 Provision a library of R packages,96,FALSE,### New Packages and Tools,link,2017-02-06
+"+ [tidyxl 0.2.1](https://nacnudus.github.io/tidyxl/) for importing messy spreadsheets, including cell formatting.",113,FALSE,### New Releases,link,2017-02-06
+"+ [unpivotr 0.1.0](https://nacnudus.github.io/unpivotr/) for unpivoting complex tables with multi-level headers, especially pivot tables.",137,FALSE,### New Releases,link,2017-02-06
++ [roxygen2 6.0.0](https://blog.rstudio.org/2017/02/01/roxygen2-6-0-0/) - roxygen2 helps you document your packages by turning specially formatted inline comments into R’s standard Rd format.,191,FALSE,### New Releases,link,2017-02-06
++ [nzpullover 0.0.2](https://nacnudus.github.io/nzpullover/) - road policing data from New Zealand.,99,FALSE,### New Releases,link,2017-02-06
+"+ [RPushbullet 0.3.0](http://dirk.eddelbuettel.com/blog/2017/02/03#rpushbullet_0.3.0) - RPushbullet interfacing the neat Pushbullet service for inter-device messaging, communication, and more.",192,FALSE,### New Releases,link,2017-02-06
++ [gunsales 0.1.2](http://dirk.eddelbuettel.com/blog/2017/01/30#gunsales_0.1.2) - Statistical analysis of monthly background checks of gun purchases,148,FALSE,### New Releases,link,2017-02-06
++ [nanotime 0.1.1](http://dirk.eddelbuettel.com/blog/2017/02/04#nanotime_0.1.1) - Nanosecond-Resolution Time for R,114,FALSE,### New Releases,link,2017-02-06
++ [RcppCCTZ 0.2.1](http://dirk.eddelbuettel.com/blog/2017/02/04#rcppcctz_0.2.1) - Rcpp bindings for the CCTZ library,116,FALSE,### New Releases,link,2017-02-06
++ [R Jobs for R users – 14 jobs from around the world (2017-02-01)](https://www.r-bloggers.com/r-jobs-for-r-users-14-jobs-from-around-the-world-2017-02-01/),156,FALSE,### Jobs,link,2017-02-06
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,### R Project Updates,unid,2017-02-06
+"+  Improved performance and robustness of matrix multiplication using BLAS: DGEMV is now used instead of DGEMM for matrix/vector and vector/matrix multiplication, DGEMM/DGEMV is bypassed when the input has NaN or Inf values, and performance for these input checks has been improved.",282,FALSE,### R Project Updates,unid,2017-02-06
++ `qbeta()` underflowed too early in some very asymmetric cases. (PR#17178),75,FALSE,### R Project Updates,unid,2017-02-06
++ `tapply()` gets new option `default = NA` allowing to change the previously hardcoded value.,94,FALSE,### R Project Updates,unid,2017-02-06
+"+ `R CMD build` no longer wraps a `BugReports` field containing a long URL, which made it unusable in R <= 3.3.2.",113,FALSE,### R Project Updates,unid,2017-02-06
++ `read.dcf()` now consistently interprets any `whitespace` to be stripped to include newlines.,95,FALSE,### R Project Updates,unid,2017-02-06
+"+ `str()` no longer shows `""list output truncated""`, in cases that list was not shown at all. Thanks to Neal Fultz (PR#17219)",125,FALSE,### R Project Updates,unid,2017-02-06
++ [satRday Cape Town 2017: Data Visualisation Challenge announced](http://capetown2017.satrdays.org/#visualisation),115,FALSE,### Call for Participation,link,2017-02-06
+"+ [SatRday #2 Conference - Cape Town, South Africa](http://capetown2017.satrdays.org/) **18 Feb, 2017** <br />",110,FALSE,### Upcoming Events,link,2017-02-06
+The R community and some of South Africa's most forward thinking companies have come together to bring satRday to Cape Town.,124,FALSE,### Upcoming Events,unid,2017-02-06
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,### Upcoming Events,link,2017-02-06
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,### Upcoming Events,unid,2017-02-06
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">For those <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> folk planning their 2017 calendars around R releases: <a href=""https://t.co/O0t4eIyZhR"">https://t.co/O0t4eIyZhR</a> <a href=""https://t.co/8ib2UFFGnZ"">pic.twitter.com/8ib2UFFGnZ</a></p>&mdash; boB Rudis (@hrbrmstr) <a href=""https://twitter.com/hrbrmstr/status/826825104667660289"">February 1, 2017</a></blockquote>",460,FALSE,### Quotes of the Week,unid,2017-02-06

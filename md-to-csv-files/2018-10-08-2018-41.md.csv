@@ -1,78 +1,78 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-10-08
-"title: R Weekly 2018-41 Video, r2d3, SQL",40,FALSE,NA,NA,unid,2018-10-08
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-10-08
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-10-08
----,3,FALSE,NA,NA,unid,2018-10-08
-+ [The av Package: Production Quality Video in R](https://ropensci.org/technotes/2018/10/06/av-release/),104,FALSE,NA,###  Highlight,link,2018-10-08
-+ [r2d3](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/) - R Interface to D3 Visualizations,119,FALSE,NA,###  Highlight,link,2018-10-08
-+ [RStudio 1.2 Preview: SQL Integration](https://blog.rstudio.com/2018/10/02/rstudio-1-2-preview-sql/),102,FALSE,NA,###  Highlight,link,2018-10-08
-"+ [Community Call - Code Review in the Lab, or ... How do you review code that accompanies a research project?](https://ropensci.org/blog/2018/10/05/commcall-oct2018/)",167,FALSE,NA,###  R in Organizations,link,2018-10-08
-+ [Visualizing the Weather in Japan: A Sweltering Summer Story!](https://ryo-n7.github.io/2018-10-04-visualize-weather-in-japan/),129,FALSE,NA,### R in the Real World,link,2018-10-08
-![Visualizing the Weather in Japan: A Sweltering Summer Story!](https://i.imgur.com/3nEmchc.png),96,FALSE,NA,### R in the Real World,image,2018-10-08
-+ [Spookify: Halloween Name Generation in R](https://masalmon.eu/2018/10/05/spookify/),86,FALSE,NA,### R in the Real World,link,2018-10-08
-+ [This article looks at the R or Python question through the lenses of a digital analyst](https://medium.com/innovation-machine/choosing-between-r-and-python-a-digital-analysts-guide-b7103f80aa4e),197,FALSE,NA,### R in the Real World,link,2018-10-08
-+ [Automate away the boring parts of organising (journal club) meetings using R and Google Sheets](https://www.granvillematheson.com/post/reminder-bot/),152,FALSE,NA,### R in the Real World,link,2018-10-08
-+ [Why Equity Requires Looking Beyond Averages: A Look at Minneapolis Public Schools](https://ivelasq.rbind.io/blog/why-disaggregate-data/),139,FALSE,NA,### R in the Real World,link,2018-10-08
-+ [Scraping twitter data to visualize trending tweets in Kuala Lumpur](https://duttashi.github.io/blog/scraping-twitter-data-to-analyse-trends-in-KL/),150,FALSE,NA,### R in the Real World,link,2018-10-08
-+ [Rent-scraping: How I saved money using R](http://embracingtherandom.com/r/web-scraping/rent-scraping/),105,FALSE,NA,### R in the Real World,link,2018-10-08
-![Rent-scraping: How I saved money using R](https://raw.githubusercontent.com/rweekly/image/master/2018/rolling_rent.png),121,FALSE,NA,### R in the Real World,image,2018-10-08
-+ [Chromebook Data Science - a free online data science program for anyone with a web browser.](https://simplystatistics.org/2018/10/01/chromebook-data-science-an-online-data-science-program-for-anyone-with-a-web-browser/),222,FALSE,NA,### Insights,link,2018-10-08
-+ [Using R Markdown and papaja with a LaTeX class to submit a conference proposal: A few notes](https://jrosen48.github.io/blog/using-r-markdown-with-a-latex-class-a-few-notes/),177,FALSE,NA,### Insights,link,2018-10-08
-+ [limiting dependencies in R package development](https://recology.info/2018/10/limiting-dependencies/),104,FALSE,NA,### Insights,link,2018-10-08
-+ [Some Thoughts on R / Pharma 2018](https://rviews.rstudio.com/2018/10/03/some-thoughts-on-r-pharma-2018/),107,FALSE,NA,### Insights,link,2018-10-08
-+ [My Journey into Data Science](https://theartandscienceofdata.wordpress.com/2018/01/07/my-journey-into-data-science/),119,FALSE,NA,### Insights,link,2018-10-08
-+ [A few upcoming R conferences](http://blog.revolutionanalytics.com/2018/10/a-few-upcoming-r-conferences.html),111,FALSE,NA,###  Resources,link,2018-10-08
-+ [In case you missed it: September 2018 roundup](http://blog.revolutionanalytics.com/2018/10/in-case-you-missed-it-september-2018-roundup.html),144,FALSE,NA,###  Resources,link,2018-10-08
-+ [List of courses teaching R](https://github.com/rstudio-education/rstats-ed),78,FALSE,NA,###  Resources,link,2018-10-08
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-10-08
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-10-08
-+ [r2d3](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/) - R Interface to D3 Visualizations,119,FALSE,NA,###  New Packages,link,2018-10-08
-![R Interface to D3 Visualizations](https://raw.githubusercontent.com/rweekly/image/master/2018/r2d3.gif),105,FALSE,NA,###  New Packages,image,2018-10-08
-+ [outcomerate](https://ropensci.org/blog/2018/10/02/outcomerate/) - Transparent Communication of Quality in Social Surveys,123,FALSE,NA,###  New Packages,link,2018-10-08
-+ [av](https://ropensci.org/technotes/2018/10/06/av-release/) - Production Quality Video in R,93,FALSE,NA,###  New Packages,link,2018-10-08
-"<video width=""100%"" controls="""">",32,FALSE,NA,###  New Packages,unid,2018-10-08
-"<source src=""https://jeroen.github.io/videos/smooth.mp4"" type=""video/mp4"">",74,FALSE,NA,###  New Packages,unid,2018-10-08
-Your browser does not support the video tag.,44,FALSE,NA,###  New Packages,unid,2018-10-08
-</video>,8,FALSE,NA,###  New Packages,unid,2018-10-08
-+ [tinkr](https://ropensci.org/technotes/2018/10/01/tinkr/) - editing Markdown documents using XML tools,104,FALSE,NA,###  New Packages,link,2018-10-08
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-10-08
-"+ [caseconverter](https://github.com/strboul/caseconverter) - RStudio Addin to convert text cases to lower, upper, snake, and camel cases",137,FALSE,NA,###  New Packages,link,2018-10-08
-+ [RStudio 1.2 Preview](https://blog.rstudio.com/2018/10/02/rstudio-1-2-preview-sql/) - SQL Integration,103,FALSE,NA,### Package Releases,link,2018-10-08
-"+ [MLflow v0.7.0](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html) - Features R API by RStudio. Log, track, tune, and annotate your model.",178,FALSE,NA,### Package Releases,link,2018-10-08
-+ [RcppAPT 0.0.5](http://dirk.eddelbuettel.com/blog/2018/09/29#rcppapt_0.0.5),77,FALSE,NA,### Package Releases,link,2018-10-08
-+ [sparklyr 0.9](https://blog.rstudio.com/2018/10/01/sparklyr-0-9/),67,FALSE,NA,### Package Releases,link,2018-10-08
-+ [nanotime 0.2.3](http://dirk.eddelbuettel.com/blog/2018/09/30#nanotime_0.2.3),79,FALSE,NA,### Package Releases,link,2018-10-08
-+ [Rcpp 0.12.19](http://dirk.eddelbuettel.com/blog/2018/10/01#rcpp_0.12.19) - Seamless R and C++ Integration,108,FALSE,NA,### Package Releases,link,2018-10-08
-+ [littler 0.3.5](http://dirk.eddelbuettel.com/blog/2018/10/04#littler-0.3.5) - Other kids broke my toys,104,FALSE,NA,### Package Releases,link,2018-10-08
-+ [How Big Should the Control Group Be in a Randomized Field Experiment?](https://mark-white-ctlg.squarespace.com/blog/control-size),132,FALSE,NA,###  Tutorials,link,2018-10-08
-![How Big Should the Control Group Be in a Randomized Field Experiment?](https://raw.githubusercontent.com/rweekly/image/master/2018/control.png),145,FALSE,NA,###  Tutorials,image,2018-10-08
-+ [Host your own Shiny Server on Azure](http://myyearindata.com/2018/running-your-own-shiny-server-on-azure/),109,FALSE,NA,###  Tutorials,link,2018-10-08
-"+ [Fitting exponential decays in R, the easy way](http://douglas-watson.github.io/post/2018-09_exponential_curve_fitting/)",122,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Nice point maps using sf and ggplot2](https://luisdva.github.io/rstats/mapssf-eng/),86,FALSE,NA,###  Tutorials,link,2018-10-08
-"+ [Translating drawings into formulas, building a shiny app for it, and NOT using Deep Learning.](http://giorasimchoni.com/2018/09/28/2018-09-28-for-mulan/)",156,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Deep Learning for Time Series Forecasting: Predicting Sunspot Frequency with Keras](https://tensorflow.rstudio.com/blog/sunspots-lstm.html),142,FALSE,NA,###  Tutorials,link,2018-10-08
-"+ [4 ways to be more productive, using RStudio's terminal](https://jozefhajnala.gitlab.io/r/r905-rstudio-terminal/)",115,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [How to Build a Logistic Regression Model from Scratch in R](http://theautomatic.net/2018/10/02/how-to-build-a-logistic-regression-model-from-scratch-in-r/),158,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Introduction to Geospatial Analysis in R](https://roh.engineering/post/introduction-to-geospatial-analysis-in-r/),116,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Manifold Visualization: Polynomials to the Rescue](https://matloff.wordpress.com/2018/09/30/manifold-visualization-polynomials-to-the-rescue/),145,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Memoisation](https://coolbutuseless.github.io/2018/10/01/memoisation/),73,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Up your open source game with Hacktoberfest at Locke Data!](https://itsalocke.com/blog/up-your-open-source-game-with-hacktoberfest-at-locke-data/),149,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Modeling muti-category Outcomes With vtreat](http://www.win-vector.com/blog/2018/10/modeling-muti-category-outcomes-with-vtreat/),132,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Manifold Visualization: Second Example](https://matloff.wordpress.com/2018/10/01/manifold-visualization-second-example/),123,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Short and sweet: temperature variability with ggridges 📦](https://austinwehrwein.com/data-visualization/weather/),116,FALSE,NA,###  Tutorials,link,2018-10-08
-![Short and sweet: temperature variability with ggridges 📦](https://raw.githubusercontent.com/rweekly/image/master/2018/temp-weather.png),137,FALSE,NA,###  Tutorials,image,2018-10-08
-+ [Using LZ4 and Zstandard to compress files with saveRDS()](https://coolbutuseless.github.io/2018/10/02/using-lz4-and-zstandard-to-compress-files-with-saverds/),161,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [A Tale of Two Shiny Apps: Google Auth & ShinyProxy](https://rtask.thinkr.fr/blog/a-tale-of-two-shiny-apps-google-auth-shinyproxy/),133,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Introduction to Geospatial Analysis in R](https://roh.engineering/post/introduction-to-geospatial-analysis-in-r/),116,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Adding strings in R](https://jcarroll.com.au/2018/10/06/adding-strings-in-r/),80,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Speed Up With Microsoft](https://itsalocke.com/blog/speed-up-with-microsoft/),80,FALSE,NA,###  Tutorials,link,2018-10-08
-+ [Exporting editable plots from R to Excel: making ggplot2 purrr with officer](http://www.brodrigues.co/blog/2018-10-05-ggplot2_purrr_officer/),144,FALSE,NA,###  Tutorials,link,2018-10-08
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-10-08
-"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-10-08
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-10-08
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-10-08
-+ [A few upcoming R conferences](http://blog.revolutionanalytics.com/2018/10/a-few-upcoming-r-conferences.html),111,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-10-08
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-10-08
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-10-08
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Story of my life. <a href=""https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw"">#RStats</a> <a href=""https://t.co/cZSms1COh2"">pic.twitter.com/cZSms1COh2</a></p>&mdash; Colin Fay 🤘 (@_ColinFay) <a href=""https://twitter.com/_ColinFay/status/1047461505258721285?ref_src=twsrc%5Etfw"">October 3, 2018</a></blockquote>",400,FALSE,NA,###  Quotes of the Week,unid,2018-10-08
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-10-08
+"title: R Weekly 2018-41 Video, r2d3, SQL",40,FALSE,NA,unid,2018-10-08
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-10-08
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-10-08
+---,3,FALSE,NA,unid,2018-10-08
++ [The av Package: Production Quality Video in R](https://ropensci.org/technotes/2018/10/06/av-release/),104,FALSE,###  Highlight,link,2018-10-08
++ [r2d3](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/) - R Interface to D3 Visualizations,119,FALSE,###  Highlight,link,2018-10-08
++ [RStudio 1.2 Preview: SQL Integration](https://blog.rstudio.com/2018/10/02/rstudio-1-2-preview-sql/),102,FALSE,###  Highlight,link,2018-10-08
+"+ [Community Call - Code Review in the Lab, or ... How do you review code that accompanies a research project?](https://ropensci.org/blog/2018/10/05/commcall-oct2018/)",167,FALSE,###  R in Organizations,link,2018-10-08
++ [Visualizing the Weather in Japan: A Sweltering Summer Story!](https://ryo-n7.github.io/2018-10-04-visualize-weather-in-japan/),129,FALSE,### R in the Real World,link,2018-10-08
+![Visualizing the Weather in Japan: A Sweltering Summer Story!](https://i.imgur.com/3nEmchc.png),96,FALSE,### R in the Real World,image,2018-10-08
++ [Spookify: Halloween Name Generation in R](https://masalmon.eu/2018/10/05/spookify/),86,FALSE,### R in the Real World,link,2018-10-08
++ [This article looks at the R or Python question through the lenses of a digital analyst](https://medium.com/innovation-machine/choosing-between-r-and-python-a-digital-analysts-guide-b7103f80aa4e),197,FALSE,### R in the Real World,link,2018-10-08
++ [Automate away the boring parts of organising (journal club) meetings using R and Google Sheets](https://www.granvillematheson.com/post/reminder-bot/),152,FALSE,### R in the Real World,link,2018-10-08
++ [Why Equity Requires Looking Beyond Averages: A Look at Minneapolis Public Schools](https://ivelasq.rbind.io/blog/why-disaggregate-data/),139,FALSE,### R in the Real World,link,2018-10-08
++ [Scraping twitter data to visualize trending tweets in Kuala Lumpur](https://duttashi.github.io/blog/scraping-twitter-data-to-analyse-trends-in-KL/),150,FALSE,### R in the Real World,link,2018-10-08
++ [Rent-scraping: How I saved money using R](http://embracingtherandom.com/r/web-scraping/rent-scraping/),105,FALSE,### R in the Real World,link,2018-10-08
+![Rent-scraping: How I saved money using R](https://raw.githubusercontent.com/rweekly/image/master/2018/rolling_rent.png),121,FALSE,### R in the Real World,image,2018-10-08
++ [Chromebook Data Science - a free online data science program for anyone with a web browser.](https://simplystatistics.org/2018/10/01/chromebook-data-science-an-online-data-science-program-for-anyone-with-a-web-browser/),222,FALSE,### Insights,link,2018-10-08
++ [Using R Markdown and papaja with a LaTeX class to submit a conference proposal: A few notes](https://jrosen48.github.io/blog/using-r-markdown-with-a-latex-class-a-few-notes/),177,FALSE,### Insights,link,2018-10-08
++ [limiting dependencies in R package development](https://recology.info/2018/10/limiting-dependencies/),104,FALSE,### Insights,link,2018-10-08
++ [Some Thoughts on R / Pharma 2018](https://rviews.rstudio.com/2018/10/03/some-thoughts-on-r-pharma-2018/),107,FALSE,### Insights,link,2018-10-08
++ [My Journey into Data Science](https://theartandscienceofdata.wordpress.com/2018/01/07/my-journey-into-data-science/),119,FALSE,### Insights,link,2018-10-08
++ [A few upcoming R conferences](http://blog.revolutionanalytics.com/2018/10/a-few-upcoming-r-conferences.html),111,FALSE,###  Resources,link,2018-10-08
++ [In case you missed it: September 2018 roundup](http://blog.revolutionanalytics.com/2018/10/in-case-you-missed-it-september-2018-roundup.html),144,FALSE,###  Resources,link,2018-10-08
++ [List of courses teaching R](https://github.com/rstudio-education/rstats-ed),78,FALSE,###  Resources,link,2018-10-08
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-10-08
+**CRAN**,8,FALSE,###  New Packages,unid,2018-10-08
++ [r2d3](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/) - R Interface to D3 Visualizations,119,FALSE,###  New Packages,link,2018-10-08
+![R Interface to D3 Visualizations](https://raw.githubusercontent.com/rweekly/image/master/2018/r2d3.gif),105,FALSE,###  New Packages,image,2018-10-08
++ [outcomerate](https://ropensci.org/blog/2018/10/02/outcomerate/) - Transparent Communication of Quality in Social Surveys,123,FALSE,###  New Packages,link,2018-10-08
++ [av](https://ropensci.org/technotes/2018/10/06/av-release/) - Production Quality Video in R,93,FALSE,###  New Packages,link,2018-10-08
+"<video width=""100%"" controls="""">",32,FALSE,###  New Packages,unid,2018-10-08
+"<source src=""https://jeroen.github.io/videos/smooth.mp4"" type=""video/mp4"">",74,FALSE,###  New Packages,unid,2018-10-08
+Your browser does not support the video tag.,44,FALSE,###  New Packages,unid,2018-10-08
+</video>,8,FALSE,###  New Packages,unid,2018-10-08
++ [tinkr](https://ropensci.org/technotes/2018/10/01/tinkr/) - editing Markdown documents using XML tools,104,FALSE,###  New Packages,link,2018-10-08
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2018-10-08
+"+ [caseconverter](https://github.com/strboul/caseconverter) - RStudio Addin to convert text cases to lower, upper, snake, and camel cases",137,FALSE,###  New Packages,link,2018-10-08
++ [RStudio 1.2 Preview](https://blog.rstudio.com/2018/10/02/rstudio-1-2-preview-sql/) - SQL Integration,103,FALSE,### Package Releases,link,2018-10-08
+"+ [MLflow v0.7.0](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html) - Features R API by RStudio. Log, track, tune, and annotate your model.",178,FALSE,### Package Releases,link,2018-10-08
++ [RcppAPT 0.0.5](http://dirk.eddelbuettel.com/blog/2018/09/29#rcppapt_0.0.5),77,FALSE,### Package Releases,link,2018-10-08
++ [sparklyr 0.9](https://blog.rstudio.com/2018/10/01/sparklyr-0-9/),67,FALSE,### Package Releases,link,2018-10-08
++ [nanotime 0.2.3](http://dirk.eddelbuettel.com/blog/2018/09/30#nanotime_0.2.3),79,FALSE,### Package Releases,link,2018-10-08
++ [Rcpp 0.12.19](http://dirk.eddelbuettel.com/blog/2018/10/01#rcpp_0.12.19) - Seamless R and C++ Integration,108,FALSE,### Package Releases,link,2018-10-08
++ [littler 0.3.5](http://dirk.eddelbuettel.com/blog/2018/10/04#littler-0.3.5) - Other kids broke my toys,104,FALSE,### Package Releases,link,2018-10-08
++ [How Big Should the Control Group Be in a Randomized Field Experiment?](https://mark-white-ctlg.squarespace.com/blog/control-size),132,FALSE,###  Tutorials,link,2018-10-08
+![How Big Should the Control Group Be in a Randomized Field Experiment?](https://raw.githubusercontent.com/rweekly/image/master/2018/control.png),145,FALSE,###  Tutorials,image,2018-10-08
++ [Host your own Shiny Server on Azure](http://myyearindata.com/2018/running-your-own-shiny-server-on-azure/),109,FALSE,###  Tutorials,link,2018-10-08
+"+ [Fitting exponential decays in R, the easy way](http://douglas-watson.github.io/post/2018-09_exponential_curve_fitting/)",122,FALSE,###  Tutorials,link,2018-10-08
++ [Nice point maps using sf and ggplot2](https://luisdva.github.io/rstats/mapssf-eng/),86,FALSE,###  Tutorials,link,2018-10-08
+"+ [Translating drawings into formulas, building a shiny app for it, and NOT using Deep Learning.](http://giorasimchoni.com/2018/09/28/2018-09-28-for-mulan/)",156,FALSE,###  Tutorials,link,2018-10-08
++ [Deep Learning for Time Series Forecasting: Predicting Sunspot Frequency with Keras](https://tensorflow.rstudio.com/blog/sunspots-lstm.html),142,FALSE,###  Tutorials,link,2018-10-08
+"+ [4 ways to be more productive, using RStudio's terminal](https://jozefhajnala.gitlab.io/r/r905-rstudio-terminal/)",115,FALSE,###  Tutorials,link,2018-10-08
++ [How to Build a Logistic Regression Model from Scratch in R](http://theautomatic.net/2018/10/02/how-to-build-a-logistic-regression-model-from-scratch-in-r/),158,FALSE,###  Tutorials,link,2018-10-08
++ [Introduction to Geospatial Analysis in R](https://roh.engineering/post/introduction-to-geospatial-analysis-in-r/),116,FALSE,###  Tutorials,link,2018-10-08
++ [Manifold Visualization: Polynomials to the Rescue](https://matloff.wordpress.com/2018/09/30/manifold-visualization-polynomials-to-the-rescue/),145,FALSE,###  Tutorials,link,2018-10-08
++ [Memoisation](https://coolbutuseless.github.io/2018/10/01/memoisation/),73,FALSE,###  Tutorials,link,2018-10-08
++ [Up your open source game with Hacktoberfest at Locke Data!](https://itsalocke.com/blog/up-your-open-source-game-with-hacktoberfest-at-locke-data/),149,FALSE,###  Tutorials,link,2018-10-08
++ [Modeling muti-category Outcomes With vtreat](http://www.win-vector.com/blog/2018/10/modeling-muti-category-outcomes-with-vtreat/),132,FALSE,###  Tutorials,link,2018-10-08
++ [Manifold Visualization: Second Example](https://matloff.wordpress.com/2018/10/01/manifold-visualization-second-example/),123,FALSE,###  Tutorials,link,2018-10-08
++ [Short and sweet: temperature variability with ggridges 📦](https://austinwehrwein.com/data-visualization/weather/),116,FALSE,###  Tutorials,link,2018-10-08
+![Short and sweet: temperature variability with ggridges 📦](https://raw.githubusercontent.com/rweekly/image/master/2018/temp-weather.png),137,FALSE,###  Tutorials,image,2018-10-08
++ [Using LZ4 and Zstandard to compress files with saveRDS()](https://coolbutuseless.github.io/2018/10/02/using-lz4-and-zstandard-to-compress-files-with-saverds/),161,FALSE,###  Tutorials,link,2018-10-08
++ [A Tale of Two Shiny Apps: Google Auth & ShinyProxy](https://rtask.thinkr.fr/blog/a-tale-of-two-shiny-apps-google-auth-shinyproxy/),133,FALSE,###  Tutorials,link,2018-10-08
++ [Introduction to Geospatial Analysis in R](https://roh.engineering/post/introduction-to-geospatial-analysis-in-r/),116,FALSE,###  Tutorials,link,2018-10-08
++ [Adding strings in R](https://jcarroll.com.au/2018/10/06/adding-strings-in-r/),80,FALSE,###  Tutorials,link,2018-10-08
++ [Speed Up With Microsoft](https://itsalocke.com/blog/speed-up-with-microsoft/),80,FALSE,###  Tutorials,link,2018-10-08
++ [Exporting editable plots from R to Excel: making ggplot2 purrr with officer](http://www.brodrigues.co/blog/2018-10-05-ggplot2_purrr_officer/),144,FALSE,###  Tutorials,link,2018-10-08
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2018-10-08
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,###  Tutorials,unid,2018-10-08
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-10-08
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2018-10-08
++ [A few upcoming R conferences](http://blog.revolutionanalytics.com/2018/10/a-few-upcoming-r-conferences.html),111,FALSE,###  Upcoming Events in 3 Months,link,2018-10-08
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-10-08
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-10-08
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Story of my life. <a href=""https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw"">#RStats</a> <a href=""https://t.co/cZSms1COh2"">pic.twitter.com/cZSms1COh2</a></p>&mdash; Colin Fay 🤘 (@_ColinFay) <a href=""https://twitter.com/_ColinFay/status/1047461505258721285?ref_src=twsrc%5Etfw"">October 3, 2018</a></blockquote>",400,FALSE,###  Quotes of the Week,unid,2018-10-08

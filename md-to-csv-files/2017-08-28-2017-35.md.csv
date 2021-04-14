@@ -1,90 +1,90 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2017-08-28
-"title: R Weekly 2017-35 Magic Purrr, GOT, Review Packages",57,FALSE,NA,NA,unid,2017-08-28
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-08-28
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2017-08-28
----,3,FALSE,NA,NA,unid,2017-08-28
-+ [So you (don't) think you can review a package](http://ropensci.org/blog/blog/2017/08/22/first-package-review),112,FALSE,NA,###  Highlight,link,2017-08-28
-+ [The Magic of Purrr](http://ctlente.com/en/purrr-magic/),58,FALSE,NA,###  Highlight,link,2017-08-28
-+ [Why Can’t I Remember Game of Thrones Characters? An Analysis in R](http://colinfay.me/game-of-thrones-characters-r/),119,FALSE,NA,###  Highlight,link,2017-08-28
-+ [Investigating Docker and R](http://o2r.info/2016/12/15/investigating-docker-and-R/),86,FALSE,NA,### Insights,link,2017-08-28
-+ [An adventure with rvest and the wild wild (HTML) west](https://batteriesnotincluded.rbind.io/post/2017/08/scraping-friends/),127,FALSE,NA,### Insights,link,2017-08-28
-+ [fancy-minard](https://github.com/andrewheiss/fancy-minard) - Exploring Minard's 1812 plot with ggplot2,105,FALSE,NA,###  R in the Real World,link,2017-08-28
-+ [Why Can’t I Remember Game of Thrones Characters? An Analysis in R](http://colinfay.me/game-of-thrones-characters-r/),119,FALSE,NA,###  R in the Real World,link,2017-08-28
-![Why Can’t I Remember Game of Thrones Characters? An Analysis in R](https://raw.githubusercontent.com/ColinFay/colinfay.github.io/master/uploads/2017/08/chr_shows_game_of_thrones.png),184,FALSE,NA,###  R in the Real World,image,2017-08-28
-+ [How Well Did I Follow Pedagogy Guidelines at R Bootcamp 2017?](https://kellieotto.github.io/posts/2017/08/r-bootcamp/),121,FALSE,NA,###  R in the Real World,link,2017-08-28
-+ [Reticulating Readability](https://rud.is/b/2017/08/24/reticulating-readability/),83,FALSE,NA,###  R in the Real World,link,2017-08-28
-+ [Caching httr Requests? This means WAR[C]!](https://rud.is/b/2017/08/22/caching-httr-requests-this-means-warc/),113,FALSE,NA,###  R in the Real World,link,2017-08-28
-+ [Perceptions of Probability and Numbers](https://github.com/zonination/perceptions),85,FALSE,NA,###  R in the Real World,link,2017-08-28
-![Perceptions of Probability and Numbers](https://raw.githubusercontent.com/zonination/perceptions/51207062aa173777264d3acce0131e1e2456d966/joy1.png),149,FALSE,NA,###  R in the Real World,image,2017-08-28
-+ [Rcpp now used by 10 percent of CRAN packages](http://dirk.eddelbuettel.com/blog/2017/08/23#rcpp_10pc_of_CRAN),112,FALSE,NA,###  R in the Real World,link,2017-08-28
-+ [More things with the New Zealand Election Study](http://ellisp.github.io/blog/2017/08/20/nzes-so-far),104,FALSE,NA,###  R in the Real World,link,2017-08-28
-![More things with the New Zealand Election Study](https://ellisp.github.io/img/0108-screenshot-crosstabs-nzes.png),115,FALSE,NA,###  R in the Real World,image,2017-08-28
-"+ [Unbottling "".msg"" Files in R](https://rud.is/b/2017/08/25/unbottling-msg-files-in-r/)",88,FALSE,NA,###  R in the Real World,link,2017-08-28
-"+ [NSSD 44 - She Won the Battle](http://nssdeviations.com/44-she-won-the-battle) - Hilary and Roger continue the discussion about whether good data analysis can lead to bad outcomes, talk about private cloud servers, and discuss whether data represent ground truth.",265,FALSE,NA,###  Videos and Podcasts,link,2017-08-28
-+ [Data Science Interns 2017](http://multithreaded.stitchfix.com/blog/2017/08/25/interns2017/),94,FALSE,NA,###  R in Organizations,link,2017-08-28
-+ [So you (don't) think you can review a package](http://ropensci.org/blog/blog/2017/08/22/first-package-review),112,FALSE,NA,###  R in Organizations,link,2017-08-28
-+ [Mara Averick Twitter @dataandme](https://twitter.com/dataandme)  - Get latest #rstats Resources from Twitter!,112,FALSE,NA,###  Resources,link,2017-08-28
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2017-08-28
-+ [dataMaid](http://sandsynligvis.dk/articles/17/datamaid.html) - Your personal assistant for cleaning up the data cleaning process,131,FALSE,NA,###  New Packages,link,2017-08-28
-+ [visdat](https://ropensci.org/blog/blog/2017/08/22/visdat) - A tool for preliminary visualisation of whole dataframes,119,FALSE,NA,###  New Packages,link,2017-08-28
-"+ [naniar](https://cran.r-project.org/web/packages/naniar/index.html) - Data Structures, Summaries, and Visualisations for Missing Data",135,FALSE,NA,###  New Packages,link,2017-08-28
-+ [skpr](https://github.com/tylermorganwall/skpr) - An open source design of experiments suite for generating and evaluating optimal designs in R,145,FALSE,NA,###  New Packages,link,2017-08-28
-+ [BH 1.65.0-1](http://dirk.eddelbuettel.com/blog/2017/08/24#bh_1.65.0-1) - BH provides a sizeable portion of the Boost C++ libraries as a set of template headers for use by R,175,FALSE,NA,### Package Releases,link,2017-08-28
-+ [RStudio v1.1 Preview - Object Explorer](https://blog.rstudio.com/2017/08/22/rstudio-v1-1-preview-object-explorer/),117,FALSE,NA,### Package Releases,link,2017-08-28
-+ [First attempts with simple features](http://johnmackintosh.com/2017-08-22-simply-mapping/),93,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Beginner's guide to R: Introduction](http://www.computerworld.com.au/article/626207/beginner-guide-r-introduction/),118,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Scraping Friends — An adventure with rvest and the wild wild (HTML) west](https://batteriesnotincluded.rbind.io/post/2017/08/scraping-friends/),146,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [FedData - Getting assorted geospatial data into R](http://ropensci.org/blog/technotes/2017/08/24/FedData-release),116,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Introduction to Programing with gdeltr2](http://asbcllc.com/blog/2017/august/intro_to_programming_with_gdeltr2/index.html),125,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Data Manipulation in R: Beyond SQL](https://www.red-gate.com/simple-talk/dotnet/software-tools/data-manipulation-in-r--beyond-sql/?platform=hootsuite),153,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Using purrr to refactor imperative code](https://eric.netlify.com/2017/08/24/using-purrr-to-refactor-imperative-code/),121,FALSE,NA,###  Tutorials,link,2017-08-28
-![Using purrr to refactor imperative code](https://d33wubrfki0l68.cloudfront.net/c20ccf935e6e2faf53ac44d4e6c6568682107b9d/4eb4b/post/water_challenge_files/figure-html/plots-1.png),179,FALSE,NA,###  Tutorials,image,2017-08-28
-+ [The Magic of Purrr](http://ctlente.com/en/purrr-magic/),58,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [simplyR](http://www.sthda.com/english/wiki/simplyr),54,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Is dplyr Easily Comprehensible?](http://www.win-vector.com/blog/2017/08/is-dplyr-easily-comprehensible/),107,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Transfer Learning with augmented Data for Logo Detection](http://flovv.github.io/Logo_detection_transfer_learning_part2/),124,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Wrong on an Astronomical Scale](https://matloff.wordpress.com/2017/08/20/wrong-on-an-astronomical-scale/),108,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Highlights of the Data Science Track at Microsoft Ignite](http://blog.revolutionanalytics.com/2017/08/data-track-ignite.html),128,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Simply Mapping](http://johnmackintosh.com/2017-08-22-simply-mapping/),72,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Tidy-er BLS data with the blscarpeR package](http://www.datascienceriot.com//r/tidyblscar/),94,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Some Neat New R Notations](http://www.win-vector.com/blog/2017/08/some-neat-new-r-notations/),96,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Introducing routr - Routing of HTTP and WebSocket in R](http://www.data-imaginist.com/2017/Introducing-routr/),113,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Learning things we already know about stocks](https://rviews.rstudio.com/2017/08/22/stocks/),95,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Tidyer BLS data with the blscarpeR package](http://www.datascienceriot.com//r/tidyblscar/),93,FALSE,NA,###  Tutorials,link,2017-08-28
-"+ [Gender roles in film direction, analyzed with R](http://blog.revolutionanalytics.com/2017/08/gender-roles-in-film-direction.html)",132,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Visualizing house price acceleration](http://lenkiefer.github.io/2017/08/22/hpa-accelerate),94,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Going Bayes #rstats](https://strengejacke.wordpress.com/2017/08/23/going-bayes-rstats/),90,FALSE,NA,###  Tutorials,link,2017-08-28
-"+ [Onboarding visdat, a tool for preliminary visualisation of whole dataframes](http://ropensci.org/blog/blog/2017/08/22/visdat)",128,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [EPL Week 2](https://www.mytinyshinys.com/2017/08/23/epl2018-wk2),67,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Recreating and updating Minard with ggplot2](http://blog.revolutionanalytics.com/2017/08/recreating-minard.html),115,FALSE,NA,###  Tutorials,link,2017-08-28
-"+ [#10: Compacting your Shared Libraries, After The Build](http://dirk.eddelbuettel.com/blog/2017/08/20#010_stripping_shared_libraries)",135,FALSE,NA,###  Tutorials,link,2017-08-28
-"![#10: Compacting your Shared Libraries, After The Build](https://raw.githubusercontent.com/rweekly/image/master/2017-03/impactOfStripping.png)",143,FALSE,NA,###  Tutorials,image,2017-08-28
-+ [Practical Guide to Principal Component Methods in R](http://www.sthda.com/english/wiki/practical-guide-to-principal-component-methods-in-r),142,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Calculating a fuzzy kmeans membership matrix with R and Rcpp](http://blog.revolutionanalytics.com/2017/08/kmeans-r-rcpp.html),128,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Control Systems Toolbox – System Interconnection](https://rviews.rstudio.com/2017/08/24/control-systems-toolbox/),116,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Gradient boosting in R](https://datascienceplus.com/gradient-boosting-in-r/),79,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Linear Congruential Generator in R](http://www.aaronschlegel.com/linear-congruential-generator-r/),101,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Tips and tricks on using R to query data in Power BI](http://blog.revolutionanalytics.com/2017/08/query-editor-tips.html),124,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Beginner's guide to R: Introduction](https://www.computerworld.com.au/article/626207/beginner-guide-r-introduction/),119,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [Newer to R? rstudio::conf 2018 is for you! Early bird pricing ends August 31.](https://blog.rstudio.com/2017/08/25/rstudio-conf-2018-early-bird-pricing/),156,FALSE,NA,###  Tutorials,link,2017-08-28
-"+ [Tidy evaluation, most common actions](https://edwinth.github.io/blog/dplyr-recipes/)",87,FALSE,NA,###  Tutorials,link,2017-08-28
-+ [wrapr: R Code Sweeteners](http://www.win-vector.com/blog/2017/08/wrapr-r-code-sweeteners/),93,FALSE,NA,###  Tutorials,link,2017-08-28
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2017-08-28
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-08-28
-+ Reverted unintended change in behavior of `return` calls in `on.exit` expressions introduced by stack unwinding changes in R 3.3.0.,133,FALSE,NA,###  R Project Updates,unid,2017-08-28
-"+ `approx()`, `spline()`, `splinefun()` and `approxfun()` also work for long vectors.",85,FALSE,NA,###  R Project Updates,unid,2017-08-28
-"+ `deparse()` (and `dump()`) are more useful for S4 objects; `dput()` now using the same internal C code (instead of its previous imperfect workaround R code). More user visibly, `dput()`, etc now print the `names()` information only once, using the more readable `(tag = value)` syntax. These functions got a new (partly experimental) control option via `.deparseOpts()` `""nice_names""` which when set (e.g. as part of `""all""`) also use the `(tag = value)` syntax for atomic vectors.",483,FALSE,NA,###  R Project Updates,unid,2017-08-28
-+ `(1:n)[-n]` no longer segfaults for `n <- 2.2e9` (on a platform with enough RAM).,83,FALSE,NA,###  R Project Updates,unid,2017-08-28
-+ `package.skeleton()` gets optional `encoding` argument.,57,FALSE,NA,###  R Project Updates,unid,2017-08-28
-"+ Internal C-level `R_check_class_and_super()` and hence `R_check_class_etc()` now also consider non-direct super classes and hence return a match in more cases. This e.g., fixes behaviour of derived classes in package `Matrix`",227,FALSE,NA,###  R Project Updates,unid,2017-08-28
-+ RStudio conf 2018 **January 31 to February 3** <br />,55,FALSE,NA,###  Upcoming Events,unid,2017-08-28
-rstudio::conf is about all things R and RStudio! [Register & More infos](https://www.rstudio.com/conference/),109,FALSE,NA,###  Upcoming Events,unid,2017-08-28
-+ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events,unid,2017-08-28
-Applied Finance with R. [More info](http://www.rinfinance.com),62,FALSE,NA,###  Upcoming Events,unid,2017-08-28
-"+ useR! 2018 **July 10, 2018** <br />",37,FALSE,NA,###  Upcoming Events,unid,2017-08-28
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events,unid,2017-08-28
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-08-28
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Upcoming Events,unid,2017-08-28
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/RStats?src=hash"">#RStats</a> Twitter these days. <a href=""https://t.co/3Ddg4z5rJ4"">pic.twitter.com/3Ddg4z5rJ4</a></p>&mdash; Colin Fay (@_ColinFay) <a href=""https://twitter.com/_ColinFay/status/901167200496750592"">August 25, 2017</a></blockquote>",355,FALSE,NA,###  Quotes of the Week,unid,2017-08-28
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">TFW you&#39;re new to the <a href=""https://twitter.com/hashtag/tidyverse?src=hash"">#tidyverse</a> but not to <a href=""https://twitter.com/hashtag/Rstats?src=hash"">#Rstats</a> and you learn about the pipe for the first time. Where has this been my whole life? <a href=""https://t.co/WjnyFv9fr4"">pic.twitter.com/WjnyFv9fr4</a></p>&mdash; Margaret Jones (@StudentOfEarth) <a href=""https://twitter.com/StudentOfEarth/status/900416806736867328"">August 23, 2017</a></blockquote>",543,FALSE,NA,###  Quotes of the Week,unid,2017-08-28
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2017-08-28
+"title: R Weekly 2017-35 Magic Purrr, GOT, Review Packages",57,FALSE,NA,unid,2017-08-28
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2017-08-28
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2017-08-28
+---,3,FALSE,NA,unid,2017-08-28
++ [So you (don't) think you can review a package](http://ropensci.org/blog/blog/2017/08/22/first-package-review),112,FALSE,###  Highlight,link,2017-08-28
++ [The Magic of Purrr](http://ctlente.com/en/purrr-magic/),58,FALSE,###  Highlight,link,2017-08-28
++ [Why Can’t I Remember Game of Thrones Characters? An Analysis in R](http://colinfay.me/game-of-thrones-characters-r/),119,FALSE,###  Highlight,link,2017-08-28
++ [Investigating Docker and R](http://o2r.info/2016/12/15/investigating-docker-and-R/),86,FALSE,### Insights,link,2017-08-28
++ [An adventure with rvest and the wild wild (HTML) west](https://batteriesnotincluded.rbind.io/post/2017/08/scraping-friends/),127,FALSE,### Insights,link,2017-08-28
++ [fancy-minard](https://github.com/andrewheiss/fancy-minard) - Exploring Minard's 1812 plot with ggplot2,105,FALSE,###  R in the Real World,link,2017-08-28
++ [Why Can’t I Remember Game of Thrones Characters? An Analysis in R](http://colinfay.me/game-of-thrones-characters-r/),119,FALSE,###  R in the Real World,link,2017-08-28
+![Why Can’t I Remember Game of Thrones Characters? An Analysis in R](https://raw.githubusercontent.com/ColinFay/colinfay.github.io/master/uploads/2017/08/chr_shows_game_of_thrones.png),184,FALSE,###  R in the Real World,image,2017-08-28
++ [How Well Did I Follow Pedagogy Guidelines at R Bootcamp 2017?](https://kellieotto.github.io/posts/2017/08/r-bootcamp/),121,FALSE,###  R in the Real World,link,2017-08-28
++ [Reticulating Readability](https://rud.is/b/2017/08/24/reticulating-readability/),83,FALSE,###  R in the Real World,link,2017-08-28
++ [Caching httr Requests? This means WAR[C]!](https://rud.is/b/2017/08/22/caching-httr-requests-this-means-warc/),113,FALSE,###  R in the Real World,link,2017-08-28
++ [Perceptions of Probability and Numbers](https://github.com/zonination/perceptions),85,FALSE,###  R in the Real World,link,2017-08-28
+![Perceptions of Probability and Numbers](https://raw.githubusercontent.com/zonination/perceptions/51207062aa173777264d3acce0131e1e2456d966/joy1.png),149,FALSE,###  R in the Real World,image,2017-08-28
++ [Rcpp now used by 10 percent of CRAN packages](http://dirk.eddelbuettel.com/blog/2017/08/23#rcpp_10pc_of_CRAN),112,FALSE,###  R in the Real World,link,2017-08-28
++ [More things with the New Zealand Election Study](http://ellisp.github.io/blog/2017/08/20/nzes-so-far),104,FALSE,###  R in the Real World,link,2017-08-28
+![More things with the New Zealand Election Study](https://ellisp.github.io/img/0108-screenshot-crosstabs-nzes.png),115,FALSE,###  R in the Real World,image,2017-08-28
+"+ [Unbottling "".msg"" Files in R](https://rud.is/b/2017/08/25/unbottling-msg-files-in-r/)",88,FALSE,###  R in the Real World,link,2017-08-28
+"+ [NSSD 44 - She Won the Battle](http://nssdeviations.com/44-she-won-the-battle) - Hilary and Roger continue the discussion about whether good data analysis can lead to bad outcomes, talk about private cloud servers, and discuss whether data represent ground truth.",265,FALSE,###  Videos and Podcasts,link,2017-08-28
++ [Data Science Interns 2017](http://multithreaded.stitchfix.com/blog/2017/08/25/interns2017/),94,FALSE,###  R in Organizations,link,2017-08-28
++ [So you (don't) think you can review a package](http://ropensci.org/blog/blog/2017/08/22/first-package-review),112,FALSE,###  R in Organizations,link,2017-08-28
++ [Mara Averick Twitter @dataandme](https://twitter.com/dataandme)  - Get latest #rstats Resources from Twitter!,112,FALSE,###  Resources,link,2017-08-28
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2017-08-28
++ [dataMaid](http://sandsynligvis.dk/articles/17/datamaid.html) - Your personal assistant for cleaning up the data cleaning process,131,FALSE,###  New Packages,link,2017-08-28
++ [visdat](https://ropensci.org/blog/blog/2017/08/22/visdat) - A tool for preliminary visualisation of whole dataframes,119,FALSE,###  New Packages,link,2017-08-28
+"+ [naniar](https://cran.r-project.org/web/packages/naniar/index.html) - Data Structures, Summaries, and Visualisations for Missing Data",135,FALSE,###  New Packages,link,2017-08-28
++ [skpr](https://github.com/tylermorganwall/skpr) - An open source design of experiments suite for generating and evaluating optimal designs in R,145,FALSE,###  New Packages,link,2017-08-28
++ [BH 1.65.0-1](http://dirk.eddelbuettel.com/blog/2017/08/24#bh_1.65.0-1) - BH provides a sizeable portion of the Boost C++ libraries as a set of template headers for use by R,175,FALSE,### Package Releases,link,2017-08-28
++ [RStudio v1.1 Preview - Object Explorer](https://blog.rstudio.com/2017/08/22/rstudio-v1-1-preview-object-explorer/),117,FALSE,### Package Releases,link,2017-08-28
++ [First attempts with simple features](http://johnmackintosh.com/2017-08-22-simply-mapping/),93,FALSE,###  Tutorials,link,2017-08-28
++ [Beginner's guide to R: Introduction](http://www.computerworld.com.au/article/626207/beginner-guide-r-introduction/),118,FALSE,###  Tutorials,link,2017-08-28
++ [Scraping Friends — An adventure with rvest and the wild wild (HTML) west](https://batteriesnotincluded.rbind.io/post/2017/08/scraping-friends/),146,FALSE,###  Tutorials,link,2017-08-28
++ [FedData - Getting assorted geospatial data into R](http://ropensci.org/blog/technotes/2017/08/24/FedData-release),116,FALSE,###  Tutorials,link,2017-08-28
++ [Introduction to Programing with gdeltr2](http://asbcllc.com/blog/2017/august/intro_to_programming_with_gdeltr2/index.html),125,FALSE,###  Tutorials,link,2017-08-28
++ [Data Manipulation in R: Beyond SQL](https://www.red-gate.com/simple-talk/dotnet/software-tools/data-manipulation-in-r--beyond-sql/?platform=hootsuite),153,FALSE,###  Tutorials,link,2017-08-28
++ [Using purrr to refactor imperative code](https://eric.netlify.com/2017/08/24/using-purrr-to-refactor-imperative-code/),121,FALSE,###  Tutorials,link,2017-08-28
+![Using purrr to refactor imperative code](https://d33wubrfki0l68.cloudfront.net/c20ccf935e6e2faf53ac44d4e6c6568682107b9d/4eb4b/post/water_challenge_files/figure-html/plots-1.png),179,FALSE,###  Tutorials,image,2017-08-28
++ [The Magic of Purrr](http://ctlente.com/en/purrr-magic/),58,FALSE,###  Tutorials,link,2017-08-28
++ [simplyR](http://www.sthda.com/english/wiki/simplyr),54,FALSE,###  Tutorials,link,2017-08-28
++ [Is dplyr Easily Comprehensible?](http://www.win-vector.com/blog/2017/08/is-dplyr-easily-comprehensible/),107,FALSE,###  Tutorials,link,2017-08-28
++ [Transfer Learning with augmented Data for Logo Detection](http://flovv.github.io/Logo_detection_transfer_learning_part2/),124,FALSE,###  Tutorials,link,2017-08-28
++ [Wrong on an Astronomical Scale](https://matloff.wordpress.com/2017/08/20/wrong-on-an-astronomical-scale/),108,FALSE,###  Tutorials,link,2017-08-28
++ [Highlights of the Data Science Track at Microsoft Ignite](http://blog.revolutionanalytics.com/2017/08/data-track-ignite.html),128,FALSE,###  Tutorials,link,2017-08-28
++ [Simply Mapping](http://johnmackintosh.com/2017-08-22-simply-mapping/),72,FALSE,###  Tutorials,link,2017-08-28
++ [Tidy-er BLS data with the blscarpeR package](http://www.datascienceriot.com//r/tidyblscar/),94,FALSE,###  Tutorials,link,2017-08-28
++ [Some Neat New R Notations](http://www.win-vector.com/blog/2017/08/some-neat-new-r-notations/),96,FALSE,###  Tutorials,link,2017-08-28
++ [Introducing routr - Routing of HTTP and WebSocket in R](http://www.data-imaginist.com/2017/Introducing-routr/),113,FALSE,###  Tutorials,link,2017-08-28
++ [Learning things we already know about stocks](https://rviews.rstudio.com/2017/08/22/stocks/),95,FALSE,###  Tutorials,link,2017-08-28
++ [Tidyer BLS data with the blscarpeR package](http://www.datascienceriot.com//r/tidyblscar/),93,FALSE,###  Tutorials,link,2017-08-28
+"+ [Gender roles in film direction, analyzed with R](http://blog.revolutionanalytics.com/2017/08/gender-roles-in-film-direction.html)",132,FALSE,###  Tutorials,link,2017-08-28
++ [Visualizing house price acceleration](http://lenkiefer.github.io/2017/08/22/hpa-accelerate),94,FALSE,###  Tutorials,link,2017-08-28
++ [Going Bayes #rstats](https://strengejacke.wordpress.com/2017/08/23/going-bayes-rstats/),90,FALSE,###  Tutorials,link,2017-08-28
+"+ [Onboarding visdat, a tool for preliminary visualisation of whole dataframes](http://ropensci.org/blog/blog/2017/08/22/visdat)",128,FALSE,###  Tutorials,link,2017-08-28
++ [EPL Week 2](https://www.mytinyshinys.com/2017/08/23/epl2018-wk2),67,FALSE,###  Tutorials,link,2017-08-28
++ [Recreating and updating Minard with ggplot2](http://blog.revolutionanalytics.com/2017/08/recreating-minard.html),115,FALSE,###  Tutorials,link,2017-08-28
+"+ [#10: Compacting your Shared Libraries, After The Build](http://dirk.eddelbuettel.com/blog/2017/08/20#010_stripping_shared_libraries)",135,FALSE,###  Tutorials,link,2017-08-28
+"![#10: Compacting your Shared Libraries, After The Build](https://raw.githubusercontent.com/rweekly/image/master/2017-03/impactOfStripping.png)",143,FALSE,###  Tutorials,image,2017-08-28
++ [Practical Guide to Principal Component Methods in R](http://www.sthda.com/english/wiki/practical-guide-to-principal-component-methods-in-r),142,FALSE,###  Tutorials,link,2017-08-28
++ [Calculating a fuzzy kmeans membership matrix with R and Rcpp](http://blog.revolutionanalytics.com/2017/08/kmeans-r-rcpp.html),128,FALSE,###  Tutorials,link,2017-08-28
++ [Control Systems Toolbox – System Interconnection](https://rviews.rstudio.com/2017/08/24/control-systems-toolbox/),116,FALSE,###  Tutorials,link,2017-08-28
++ [Gradient boosting in R](https://datascienceplus.com/gradient-boosting-in-r/),79,FALSE,###  Tutorials,link,2017-08-28
++ [Linear Congruential Generator in R](http://www.aaronschlegel.com/linear-congruential-generator-r/),101,FALSE,###  Tutorials,link,2017-08-28
++ [Tips and tricks on using R to query data in Power BI](http://blog.revolutionanalytics.com/2017/08/query-editor-tips.html),124,FALSE,###  Tutorials,link,2017-08-28
++ [Beginner's guide to R: Introduction](https://www.computerworld.com.au/article/626207/beginner-guide-r-introduction/),119,FALSE,###  Tutorials,link,2017-08-28
++ [Newer to R? rstudio::conf 2018 is for you! Early bird pricing ends August 31.](https://blog.rstudio.com/2017/08/25/rstudio-conf-2018-early-bird-pricing/),156,FALSE,###  Tutorials,link,2017-08-28
+"+ [Tidy evaluation, most common actions](https://edwinth.github.io/blog/dplyr-recipes/)",87,FALSE,###  Tutorials,link,2017-08-28
++ [wrapr: R Code Sweeteners](http://www.win-vector.com/blog/2017/08/wrapr-r-code-sweeteners/),93,FALSE,###  Tutorials,link,2017-08-28
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2017-08-28
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2017-08-28
++ Reverted unintended change in behavior of `return` calls in `on.exit` expressions introduced by stack unwinding changes in R 3.3.0.,133,FALSE,###  R Project Updates,unid,2017-08-28
+"+ `approx()`, `spline()`, `splinefun()` and `approxfun()` also work for long vectors.",85,FALSE,###  R Project Updates,unid,2017-08-28
+"+ `deparse()` (and `dump()`) are more useful for S4 objects; `dput()` now using the same internal C code (instead of its previous imperfect workaround R code). More user visibly, `dput()`, etc now print the `names()` information only once, using the more readable `(tag = value)` syntax. These functions got a new (partly experimental) control option via `.deparseOpts()` `""nice_names""` which when set (e.g. as part of `""all""`) also use the `(tag = value)` syntax for atomic vectors.",483,FALSE,###  R Project Updates,unid,2017-08-28
++ `(1:n)[-n]` no longer segfaults for `n <- 2.2e9` (on a platform with enough RAM).,83,FALSE,###  R Project Updates,unid,2017-08-28
++ `package.skeleton()` gets optional `encoding` argument.,57,FALSE,###  R Project Updates,unid,2017-08-28
+"+ Internal C-level `R_check_class_and_super()` and hence `R_check_class_etc()` now also consider non-direct super classes and hence return a match in more cases. This e.g., fixes behaviour of derived classes in package `Matrix`",227,FALSE,###  R Project Updates,unid,2017-08-28
++ RStudio conf 2018 **January 31 to February 3** <br />,55,FALSE,###  Upcoming Events,unid,2017-08-28
+rstudio::conf is about all things R and RStudio! [Register & More infos](https://www.rstudio.com/conference/),109,FALSE,###  Upcoming Events,unid,2017-08-28
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,###  Upcoming Events,unid,2017-08-28
+Applied Finance with R. [More info](http://www.rinfinance.com),62,FALSE,###  Upcoming Events,unid,2017-08-28
+"+ useR! 2018 **July 10, 2018** <br />",37,FALSE,###  Upcoming Events,unid,2017-08-28
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,###  Upcoming Events,unid,2017-08-28
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events,unid,2017-08-28
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Upcoming Events,unid,2017-08-28
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/RStats?src=hash"">#RStats</a> Twitter these days. <a href=""https://t.co/3Ddg4z5rJ4"">pic.twitter.com/3Ddg4z5rJ4</a></p>&mdash; Colin Fay (@_ColinFay) <a href=""https://twitter.com/_ColinFay/status/901167200496750592"">August 25, 2017</a></blockquote>",355,FALSE,###  Quotes of the Week,unid,2017-08-28
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">TFW you&#39;re new to the <a href=""https://twitter.com/hashtag/tidyverse?src=hash"">#tidyverse</a> but not to <a href=""https://twitter.com/hashtag/Rstats?src=hash"">#Rstats</a> and you learn about the pipe for the first time. Where has this been my whole life? <a href=""https://t.co/WjnyFv9fr4"">pic.twitter.com/WjnyFv9fr4</a></p>&mdash; Margaret Jones (@StudentOfEarth) <a href=""https://twitter.com/StudentOfEarth/status/900416806736867328"">August 23, 2017</a></blockquote>",543,FALSE,###  Quotes of the Week,unid,2017-08-28

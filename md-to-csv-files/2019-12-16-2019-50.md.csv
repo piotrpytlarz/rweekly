@@ -1,76 +1,76 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-12-16
-"title: R Weekly 2019-50 R 3.6.2, vscode-R, Internal",51,FALSE,NA,NA,unid,2019-12-16
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-12-16
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-12-16
----,3,FALSE,NA,NA,unid,2019-12-16
-"+ [R 3.6.2 is out, and a preview of R 4.0.0](https://blog.revolutionanalytics.com/2019/12/preview-of-r-400.html)",112,FALSE,NA,###  Highlight,link,2019-12-16
-+ [Internal functions in R packages](https://blog.r-hub.io/2019/12/12/internal-functions/),90,FALSE,NA,###  Highlight,link,2019-12-16
-+ [vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code,87,FALSE,NA,###  Highlight,link,2019-12-16
-+ [Advent of Code 2019-08 with R & JavaScript](https://colinfay.me/aoc-2019-08/),80,FALSE,NA,### Insights,link,2019-12-16
-+ [About URLs in DESCRIPTION](https://blog.r-hub.io/2019/12/10/urls/),69,FALSE,NA,### Insights,link,2019-12-16
-+ [Internal functions in R packages](https://blog.r-hub.io/2019/12/12/internal-functions/),90,FALSE,NA,### Insights,link,2019-12-16
-+ [HTTP testing in R: overview of tools and new features](https://ropensci.org/technotes/2019/12/11/http-testing/),114,FALSE,NA,### Insights,link,2019-12-16
-+ [Writing Proprietary R Packages](https://unconj.ca/blog/writing-proprietary-r-packages.html),94,FALSE,NA,### Insights,link,2019-12-16
-"+ [R 3.6.2 is out, and a preview of R 4.0.0](https://blog.revolutionanalytics.com/2019/12/preview-of-r-400.html)",112,FALSE,NA,### Insights,link,2019-12-16
-+ [Mid Table Mediocrity - Visualising potential winners in the Scottish Championship](https://johnmackintosh.com/2018-08-11-mid-table-mediocrity/),146,FALSE,NA,### R in the Real World,link,2019-12-16
-+ [front-line house democrats: a quick guide](https://www.jtimm.net/2019/12/13/frontline-democrats/),100,FALSE,NA,### R in the Real World,link,2019-12-16
-![front-line house democrats: a quick guide](https://raw.githubusercontent.com/rweekly/image/master/2019/trump.png),115,FALSE,NA,### R in the Real World,image,2019-12-16
-+ [Repeated measures can improve estimation when we only care about a single endpoint](https://www.rdatagen.net/post/using-repeated-measures-might-improve-effect-estimation-even-when-single-endpoint-is-the-focus/),213,FALSE,NA,### R in the Real World,link,2019-12-16
-+ [IPO Portfolios and a Benchmark](https://rviews.rstudio.com/2019/12/11/ipo-portfolios-and-a-benchmark/),105,FALSE,NA,### R in the Real World,link,2019-12-16
-+ [Practical Tidy Evaluation](https://jessecambon.github.io/2019/12/08/practical-tidy-evaluation.html),102,FALSE,NA,### R in the Real World,link,2019-12-16
-+ [Thoughts on the NHS-R conference](https://johnmackintosh.com/2018-10-31-thoughts-on-the-nhs-r-conference/),109,FALSE,NA,### R in the Real World,link,2019-12-16
-+ [Null hypothesis](https://osm.netlify.com/post/valuation-3/),62,FALSE,NA,### R in the Real World,link,2019-12-16
-+ [Using R/R Studio from a (Pixel Slate) Chromebook](https://joshuamrosenberg.com/post/2019/12/10/using-r-r-studio-from-a-pixel-slate-chromebook/),146,FALSE,NA,### R in the Real World,link,2019-12-16
-+ [How the Auth0 Data Team Uses R and Python](https://auth0.com/blog/how-the-auth0-data-team-uses-r-and-python/),112,FALSE,NA,### R in the Real World,link,2019-12-16
-+ [An accidental side effect of text mining](https://dataatomic.com/r/text-mining-tutorial/),92,FALSE,NA,### R in the Real World,link,2019-12-16
-"<!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->",101,FALSE,NA,### R in the Real World,unid,2019-12-16
-+ [Uniting Local R Users in Spain – Users Murcia R (UMUR)](https://www.r-consortium.org/blog/2019/12/11/uniting-local-r-users-in-spain-users-murcia-r-umur),155,FALSE,NA,###  R in Organizations,link,2019-12-16
-+ [Welcome to Leeds](https://nhsrcommunity.com/blog/welcome-to-leeds/),70,FALSE,NA,###  R in Organizations,link,2019-12-16
-+ [Course materials for Applied Machine Learning course in 2019 in London](https://github.com/topepo/aml-london-2019),117,FALSE,NA,###  Resources,link,2019-12-16
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-12-16
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-12-16
-+ [gluedown](https://kiernann.com/gluedown/) - wrap vectors in markdown syntax,78,FALSE,NA,###  New Packages,link,2019-12-16
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-12-16
-+ [cbuild](https://davisvaughan.github.io/cbuild/) -  provide tools for working with C both interactively and when constructing an R package,140,FALSE,NA,###  New Packages,link,2019-12-16
-+ [ggfree](https://github.com/ArtPoon/ggfree) - ggplot2-style plots with base R graphics,88,FALSE,NA,###  New Packages,link,2019-12-16
-+ [rco](https://github.com/jcrodriguez1989/rco) - The R Code Optimizer [blog post](https://coder93.code.blog/2019/12/11/rco-make-your-r-code-run-faster-today/),159,FALSE,NA,###  New Packages,link,2019-12-16
-+ [hamcrest](https://github.com/bedatadriven/hamcrest),54,FALSE,NA,###  New Packages,link,2019-12-16
-+ [vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code,87,FALSE,NA,### Updated Packages,link,2019-12-16
-![vscode-R](https://raw.githubusercontent.com/rweekly/image/master/2019/vscode-r.png),85,FALSE,NA,### Updated Packages,image,2019-12-16
-+ [RDieHarder 0.2.1](http://dirk.eddelbuettel.com/blog/2019/12/07#rdieharder_0.2.1),83,FALSE,NA,### Updated Packages,link,2019-12-16
-+ [RcppArmadillo 0.9.800.3.0](http://dirk.eddelbuettel.com/blog/2019/12/07#rcpparmadillo_0.9.800.3.0),101,FALSE,NA,### Updated Packages,link,2019-12-16
-+ [RcppClassic 0.9.12](http://dirk.eddelbuettel.com/blog/2019/12/09#rcppclassic_0.9.12),87,FALSE,NA,### Updated Packages,link,2019-12-16
-+ [R & Python: A Love Story](https://rstudio.com/solutions/r-and-python/),73,FALSE,NA,###  Videos and Podcasts,link,2019-12-16
-"+ [An analysis of grape harvest employment in France, made with R, ggplot2 and gganimate. In French](https://tvroylandt.netlify.com/post/vendanges/)",148,FALSE,NA,### R Internationally,link,2019-12-16
-"![An analysis of grape harvest employment in France, made with R, ggplot2 and gganimate.](https://raw.githubusercontent.com/rweekly/image/master/2019/french-map.gif)",165,FALSE,NA,### R Internationally,image,2019-12-16
-+ [Shiny splash screen using modules and shinyjs](https://www.radmuzom.com/2019/12/11/shiny-splash-screen-using-modules-and-shinyjs/),133,FALSE,NA,###  Tutorials,link,2019-12-16
-+ [Confidence and prediction intervals explained... (with a Shiny app!)](https://adisarid.github.io/post/2019-12-13-confidence_prediction_intervals_explained/),159,FALSE,NA,###  Tutorials,link,2019-12-16
-![Confidence and prediction intervals explained... (with a Shiny ap](https://raw.githubusercontent.com/rweekly/image/master/2019/prediction.png),144,FALSE,NA,###  Tutorials,image,2019-12-16
-+ [How to Read & Write SPSS Files in R Statistical Environment](https://www.marsja.se/how-to-read-write-spss-files-in-the-r-statistical-environment/),149,FALSE,NA,###  Tutorials,link,2019-12-16
-+ [Structured Errors in Plumber APIs](https://unconj.ca/blog/structured-errors-in-plumber-apis.html),100,FALSE,NA,###  Tutorials,link,2019-12-16
-+ [A Collection of Benchmarks in R](https://www.statworx.com/de/blog/a-collection-of-benchmarks-in-r/),102,FALSE,NA,###  Tutorials,link,2019-12-16
-+ [What is new for rquery December 2019](http://www.win-vector.com/blog/2019/12/what-is-new-for-rquery-december-2019/),118,FALSE,NA,###  Tutorials,link,2019-12-16
-+ [A Comparative Review of the R AnalyticFlow GUI for R](http://r4stats.com/2019/12/09/r-analyticflow/),103,FALSE,NA,###  Tutorials,link,2019-12-16
-+ [Analyzing Relational Contracts with R: Part I](https://skranz.github.io//r/2019/12/10/RelationalContractsBlog1.html),119,FALSE,NA,###  Tutorials,link,2019-12-16
-+ [How to precompute package vignettes or pkgdown articles](https://ropensci.org/technotes/2019/12/08/precompute-vignettes/),124,FALSE,NA,###  Tutorials,link,2019-12-16
-+ [Building a statistical model for field goal kicker accuracy](https://jacob-long.com/post/kickers-methods-notes/),115,FALSE,NA,###  Tutorials,link,2019-12-16
-+ [Inset maps with ggplot2](https://geocompr.github.io/post/2019/ggplot2-inset-maps/),85,FALSE,NA,###  Tutorials,link,2019-12-16
-![Inset maps with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019/insert-map.png),102,FALSE,NA,###  Tutorials,image,2019-12-16
-+ [Why I don’t use the Tidyverse](https://blog.ephorie.de/why-i-dont-use-the-tidyverse),87,FALSE,NA,###  Tutorials,link,2019-12-16
-+ [Key R Operators](https://www.jumpingrivers.com/blog/r-overview-operators/),77,FALSE,NA,###  Tutorials,link,2019-12-16
-+ [a journey from basic prototype to production-ready Shiny dashboard](https://appsilon.com/journey-from-basic-prototype-to-production-ready-shiny-dashboard/),158,FALSE,NA,###  Tutorials,link,2019-12-16
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2019-12-16
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-12-16
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-12-16
-"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-16
-+ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-16
-"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-16
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-16
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)More past events at [R conferences & meetups](https://conf.rweekly.org).,162,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-16
-+ [networkdata](https://github.com/schochastics/networkdata) - R package containing several network datasets,108,FALSE,NA,### Datasets,link,2019-12-16
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-12-16
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Cut an <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> scripts runtime from 2+ hours to &lt;5 minutes and feel extremely powerful (even though arguably the first version was just bad code)<br><br>Don’t know who needs this but a few random tips below. Easy once you’ve heard them but often outside of intro content 👇🏻</p>&mdash; Emily Riederer (@EmilyRiederer) <a href=""https://twitter.com/EmilyRiederer/status/1205281656741015555?ref_src=twsrc%5Etfw"">December 13, 2019</a></blockquote>",584,FALSE,NA,###  Quotes of the Week,unid,2019-12-16
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Can&#39;t believe it has taken me so long to find the ggMarginal() function from the ggExtra package. A one line function to add marginal distributions to ggplots! <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/RdAlptpue9"">pic.twitter.com/RdAlptpue9</a></p>&mdash; Sarah Romanes (@sarah_romanes) <a href=""https://twitter.com/sarah_romanes/status/1202800013048303616?ref_src=twsrc%5Etfw"">December 6, 2019</a></blockquote>",542,FALSE,NA,###  Quotes of the Week,unid,2019-12-16
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">To day I asked the internet if shiny apps always must always look like shiny apps, and the internet (rstudio&#39;s shiny contest 2019) said no : <a href=""https://t.co/yUVeGNTaGo"">https://t.co/yUVeGNTaGo</a><a href=""https://t.co/O3sdIiuUPE"">https://t.co/O3sdIiuUPE</a><br>Check these out and be amazed!<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Antoine Fabri (@antoine_fabri) <a href=""https://twitter.com/antoine_fabri/status/1205510407693242368?ref_src=twsrc%5Etfw"">December 13, 2019</a></blockquote>",615,FALSE,NA,###  Quotes of the Week,unid,2019-12-16
-"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,NA,###  Quotes of the Week,unid,2019-12-16
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-12-16
+"title: R Weekly 2019-50 R 3.6.2, vscode-R, Internal",51,FALSE,NA,unid,2019-12-16
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-12-16
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-12-16
+---,3,FALSE,NA,unid,2019-12-16
+"+ [R 3.6.2 is out, and a preview of R 4.0.0](https://blog.revolutionanalytics.com/2019/12/preview-of-r-400.html)",112,FALSE,###  Highlight,link,2019-12-16
++ [Internal functions in R packages](https://blog.r-hub.io/2019/12/12/internal-functions/),90,FALSE,###  Highlight,link,2019-12-16
++ [vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code,87,FALSE,###  Highlight,link,2019-12-16
++ [Advent of Code 2019-08 with R & JavaScript](https://colinfay.me/aoc-2019-08/),80,FALSE,### Insights,link,2019-12-16
++ [About URLs in DESCRIPTION](https://blog.r-hub.io/2019/12/10/urls/),69,FALSE,### Insights,link,2019-12-16
++ [Internal functions in R packages](https://blog.r-hub.io/2019/12/12/internal-functions/),90,FALSE,### Insights,link,2019-12-16
++ [HTTP testing in R: overview of tools and new features](https://ropensci.org/technotes/2019/12/11/http-testing/),114,FALSE,### Insights,link,2019-12-16
++ [Writing Proprietary R Packages](https://unconj.ca/blog/writing-proprietary-r-packages.html),94,FALSE,### Insights,link,2019-12-16
+"+ [R 3.6.2 is out, and a preview of R 4.0.0](https://blog.revolutionanalytics.com/2019/12/preview-of-r-400.html)",112,FALSE,### Insights,link,2019-12-16
++ [Mid Table Mediocrity - Visualising potential winners in the Scottish Championship](https://johnmackintosh.com/2018-08-11-mid-table-mediocrity/),146,FALSE,### R in the Real World,link,2019-12-16
++ [front-line house democrats: a quick guide](https://www.jtimm.net/2019/12/13/frontline-democrats/),100,FALSE,### R in the Real World,link,2019-12-16
+![front-line house democrats: a quick guide](https://raw.githubusercontent.com/rweekly/image/master/2019/trump.png),115,FALSE,### R in the Real World,image,2019-12-16
++ [Repeated measures can improve estimation when we only care about a single endpoint](https://www.rdatagen.net/post/using-repeated-measures-might-improve-effect-estimation-even-when-single-endpoint-is-the-focus/),213,FALSE,### R in the Real World,link,2019-12-16
++ [IPO Portfolios and a Benchmark](https://rviews.rstudio.com/2019/12/11/ipo-portfolios-and-a-benchmark/),105,FALSE,### R in the Real World,link,2019-12-16
++ [Practical Tidy Evaluation](https://jessecambon.github.io/2019/12/08/practical-tidy-evaluation.html),102,FALSE,### R in the Real World,link,2019-12-16
++ [Thoughts on the NHS-R conference](https://johnmackintosh.com/2018-10-31-thoughts-on-the-nhs-r-conference/),109,FALSE,### R in the Real World,link,2019-12-16
++ [Null hypothesis](https://osm.netlify.com/post/valuation-3/),62,FALSE,### R in the Real World,link,2019-12-16
++ [Using R/R Studio from a (Pixel Slate) Chromebook](https://joshuamrosenberg.com/post/2019/12/10/using-r-r-studio-from-a-pixel-slate-chromebook/),146,FALSE,### R in the Real World,link,2019-12-16
++ [How the Auth0 Data Team Uses R and Python](https://auth0.com/blog/how-the-auth0-data-team-uses-r-and-python/),112,FALSE,### R in the Real World,link,2019-12-16
++ [An accidental side effect of text mining](https://dataatomic.com/r/text-mining-tutorial/),92,FALSE,### R in the Real World,link,2019-12-16
+"<!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->",101,FALSE,### R in the Real World,unid,2019-12-16
++ [Uniting Local R Users in Spain – Users Murcia R (UMUR)](https://www.r-consortium.org/blog/2019/12/11/uniting-local-r-users-in-spain-users-murcia-r-umur),155,FALSE,###  R in Organizations,link,2019-12-16
++ [Welcome to Leeds](https://nhsrcommunity.com/blog/welcome-to-leeds/),70,FALSE,###  R in Organizations,link,2019-12-16
++ [Course materials for Applied Machine Learning course in 2019 in London](https://github.com/topepo/aml-london-2019),117,FALSE,###  Resources,link,2019-12-16
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-12-16
+**CRAN**,8,FALSE,###  New Packages,unid,2019-12-16
++ [gluedown](https://kiernann.com/gluedown/) - wrap vectors in markdown syntax,78,FALSE,###  New Packages,link,2019-12-16
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-12-16
++ [cbuild](https://davisvaughan.github.io/cbuild/) -  provide tools for working with C both interactively and when constructing an R package,140,FALSE,###  New Packages,link,2019-12-16
++ [ggfree](https://github.com/ArtPoon/ggfree) - ggplot2-style plots with base R graphics,88,FALSE,###  New Packages,link,2019-12-16
++ [rco](https://github.com/jcrodriguez1989/rco) - The R Code Optimizer [blog post](https://coder93.code.blog/2019/12/11/rco-make-your-r-code-run-faster-today/),159,FALSE,###  New Packages,link,2019-12-16
++ [hamcrest](https://github.com/bedatadriven/hamcrest),54,FALSE,###  New Packages,link,2019-12-16
++ [vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code,87,FALSE,### Updated Packages,link,2019-12-16
+![vscode-R](https://raw.githubusercontent.com/rweekly/image/master/2019/vscode-r.png),85,FALSE,### Updated Packages,image,2019-12-16
++ [RDieHarder 0.2.1](http://dirk.eddelbuettel.com/blog/2019/12/07#rdieharder_0.2.1),83,FALSE,### Updated Packages,link,2019-12-16
++ [RcppArmadillo 0.9.800.3.0](http://dirk.eddelbuettel.com/blog/2019/12/07#rcpparmadillo_0.9.800.3.0),101,FALSE,### Updated Packages,link,2019-12-16
++ [RcppClassic 0.9.12](http://dirk.eddelbuettel.com/blog/2019/12/09#rcppclassic_0.9.12),87,FALSE,### Updated Packages,link,2019-12-16
++ [R & Python: A Love Story](https://rstudio.com/solutions/r-and-python/),73,FALSE,###  Videos and Podcasts,link,2019-12-16
+"+ [An analysis of grape harvest employment in France, made with R, ggplot2 and gganimate. In French](https://tvroylandt.netlify.com/post/vendanges/)",148,FALSE,### R Internationally,link,2019-12-16
+"![An analysis of grape harvest employment in France, made with R, ggplot2 and gganimate.](https://raw.githubusercontent.com/rweekly/image/master/2019/french-map.gif)",165,FALSE,### R Internationally,image,2019-12-16
++ [Shiny splash screen using modules and shinyjs](https://www.radmuzom.com/2019/12/11/shiny-splash-screen-using-modules-and-shinyjs/),133,FALSE,###  Tutorials,link,2019-12-16
++ [Confidence and prediction intervals explained... (with a Shiny app!)](https://adisarid.github.io/post/2019-12-13-confidence_prediction_intervals_explained/),159,FALSE,###  Tutorials,link,2019-12-16
+![Confidence and prediction intervals explained... (with a Shiny ap](https://raw.githubusercontent.com/rweekly/image/master/2019/prediction.png),144,FALSE,###  Tutorials,image,2019-12-16
++ [How to Read & Write SPSS Files in R Statistical Environment](https://www.marsja.se/how-to-read-write-spss-files-in-the-r-statistical-environment/),149,FALSE,###  Tutorials,link,2019-12-16
++ [Structured Errors in Plumber APIs](https://unconj.ca/blog/structured-errors-in-plumber-apis.html),100,FALSE,###  Tutorials,link,2019-12-16
++ [A Collection of Benchmarks in R](https://www.statworx.com/de/blog/a-collection-of-benchmarks-in-r/),102,FALSE,###  Tutorials,link,2019-12-16
++ [What is new for rquery December 2019](http://www.win-vector.com/blog/2019/12/what-is-new-for-rquery-december-2019/),118,FALSE,###  Tutorials,link,2019-12-16
++ [A Comparative Review of the R AnalyticFlow GUI for R](http://r4stats.com/2019/12/09/r-analyticflow/),103,FALSE,###  Tutorials,link,2019-12-16
++ [Analyzing Relational Contracts with R: Part I](https://skranz.github.io//r/2019/12/10/RelationalContractsBlog1.html),119,FALSE,###  Tutorials,link,2019-12-16
++ [How to precompute package vignettes or pkgdown articles](https://ropensci.org/technotes/2019/12/08/precompute-vignettes/),124,FALSE,###  Tutorials,link,2019-12-16
++ [Building a statistical model for field goal kicker accuracy](https://jacob-long.com/post/kickers-methods-notes/),115,FALSE,###  Tutorials,link,2019-12-16
++ [Inset maps with ggplot2](https://geocompr.github.io/post/2019/ggplot2-inset-maps/),85,FALSE,###  Tutorials,link,2019-12-16
+![Inset maps with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019/insert-map.png),102,FALSE,###  Tutorials,image,2019-12-16
++ [Why I don’t use the Tidyverse](https://blog.ephorie.de/why-i-dont-use-the-tidyverse),87,FALSE,###  Tutorials,link,2019-12-16
++ [Key R Operators](https://www.jumpingrivers.com/blog/r-overview-operators/),77,FALSE,###  Tutorials,link,2019-12-16
++ [a journey from basic prototype to production-ready Shiny dashboard](https://appsilon.com/journey-from-basic-prototype-to-production-ready-shiny-dashboard/),158,FALSE,###  Tutorials,link,2019-12-16
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2019-12-16
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-12-16
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-12-16
+"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,###  Upcoming Events in 3 Months,link,2019-12-16
++ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,###  Upcoming Events in 3 Months,link,2019-12-16
+"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,###  Upcoming Events in 3 Months,link,2019-12-16
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-12-16
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)More past events at [R conferences & meetups](https://conf.rweekly.org).,162,FALSE,###  Upcoming Events in 3 Months,link,2019-12-16
++ [networkdata](https://github.com/schochastics/networkdata) - R package containing several network datasets,108,FALSE,### Datasets,link,2019-12-16
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-12-16
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Cut an <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> scripts runtime from 2+ hours to &lt;5 minutes and feel extremely powerful (even though arguably the first version was just bad code)<br><br>Don’t know who needs this but a few random tips below. Easy once you’ve heard them but often outside of intro content 👇🏻</p>&mdash; Emily Riederer (@EmilyRiederer) <a href=""https://twitter.com/EmilyRiederer/status/1205281656741015555?ref_src=twsrc%5Etfw"">December 13, 2019</a></blockquote>",584,FALSE,###  Quotes of the Week,unid,2019-12-16
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Can&#39;t believe it has taken me so long to find the ggMarginal() function from the ggExtra package. A one line function to add marginal distributions to ggplots! <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/RdAlptpue9"">pic.twitter.com/RdAlptpue9</a></p>&mdash; Sarah Romanes (@sarah_romanes) <a href=""https://twitter.com/sarah_romanes/status/1202800013048303616?ref_src=twsrc%5Etfw"">December 6, 2019</a></blockquote>",542,FALSE,###  Quotes of the Week,unid,2019-12-16
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">To day I asked the internet if shiny apps always must always look like shiny apps, and the internet (rstudio&#39;s shiny contest 2019) said no : <a href=""https://t.co/yUVeGNTaGo"">https://t.co/yUVeGNTaGo</a><a href=""https://t.co/O3sdIiuUPE"">https://t.co/O3sdIiuUPE</a><br>Check these out and be amazed!<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a></p>&mdash; Antoine Fabri (@antoine_fabri) <a href=""https://twitter.com/antoine_fabri/status/1205510407693242368?ref_src=twsrc%5Etfw"">December 13, 2019</a></blockquote>",615,FALSE,###  Quotes of the Week,unid,2019-12-16
+"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,###  Quotes of the Week,unid,2019-12-16

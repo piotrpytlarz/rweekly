@@ -1,60 +1,60 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-12-24
-"title: R Weekly 2018-52 tidyverse, r-lib",40,FALSE,NA,NA,unid,2018-12-24
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-12-24
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-12-24
----,3,FALSE,NA,NA,unid,2018-12-24
-+ [tidyverse and r-lib: a year in review](https://www.tidyverse.org/articles/2018/12/tidyverse-and-r-lib-year-in-review/),121,FALSE,NA,###  Highlight,link,2018-12-24
-+ [Word associations from the Small World of Words](https://juliasilge.com/blog/word-associations/),99,FALSE,NA,###  Highlight,link,2018-12-24
-+ [R 3.5.2](https://blog.revolutionanalytics.com/2018/12/r-352-announcement.html),81,FALSE,NA,###  Highlight,link,2018-12-24
-+ [Advent of Code: Most Popular Languages](https://masalmon.eu/2018/12/15/adventofcode/),88,FALSE,NA,### Insights,link,2018-12-24
-![Advent of Code: Most Popular Languages](https://raw.githubusercontent.com/rweekly/image/master/2018/adventofcode.png),119,FALSE,NA,### Insights,image,2018-12-24
-+ [rcites - The story behind the package](https://ropensci.org/blog/2018/12/18/accessing-cites-data/),101,FALSE,NA,### Insights,link,2018-12-24
-+ [Thoughts on the M4 Conference](http://ronaldrichman.co.za/2018/12/17/thoughts-on-the-m4-conference/),103,FALSE,NA,### Insights,link,2018-12-24
-+ [tidyverse and r-lib: a year in review](https://www.tidyverse.org/articles/2018/12/tidyverse-and-r-lib-year-in-review/),121,FALSE,NA,### Insights,link,2018-12-24
-+ [Clustering Bruce Springsteen albums with spotifyr](https://peerchristensen.netlify.com/post/clustering-springsteen-albums-with-spotifyr/),140,FALSE,NA,### R in the Real World,link,2018-12-24
-![Clustering Bruce Springsteen albums with spotifyr](https://raw.githubusercontent.com/rweekly/image/master/2018/cluster.png),125,FALSE,NA,### R in the Real World,image,2018-12-24
-+ [How to realise plots and wordclouds on the bibliographic references gathered during my PhD thesis.](https://marionlouveaux.fr/blog/bibliography-analysis/),157,FALSE,NA,### R in the Real World,link,2018-12-24
-+ [Word associations from the Small World of Words](https://juliasilge.com/blog/word-associations/),99,FALSE,NA,### R in the Real World,link,2018-12-24
-![Word associations from the Small World of Words](https://raw.githubusercontent.com/rweekly/image/master/2018/word-12.png),123,FALSE,NA,### R in the Real World,image,2018-12-24
-"+ [Analysing and plotting my heart rate and sleep patterns in the days before, during and after my PhD defence](https://www.granvillematheson.com/post/self-portrait/)",166,FALSE,NA,### R in the Real World,link,2018-12-24
-+ [Christmas tree in ggplot](https://drmowinckels.io/blog/christmas-tree-in-ggplot/),84,FALSE,NA,### R in the Real World,link,2018-12-24
-+ [The Netflix Data War](https://simplystatistics.org/2018/12/19/the-netflix-data-war/),87,FALSE,NA,### R in the Real World,link,2018-12-24
-"+ [AI, Machine Learning and Data Science Roundup: December 2018](https://blog.revolutionanalytics.com/2018/12/airoundup-december-2018.html)",139,FALSE,NA,###  Resources,link,2018-12-24
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-12-24
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-12-24
-+ [R 3.5.2](https://blog.revolutionanalytics.com/2018/12/r-352-announcement.html),81,FALSE,NA,###  New Packages,link,2018-12-24
-"+ [November 2018: ""Top 40"" New Packages](https://rviews.rstudio.com/2018/12/21/november-2018-top-40-new-packages/)",114,FALSE,NA,###  New Packages,link,2018-12-24
-"![November 2018: ""Top 40"" New Packages](https://raw.githubusercontent.com/rweekly/image/master/2018/nov-new-pkg.gif)",116,FALSE,NA,###  New Packages,image,2018-12-24
-+ [AzureStor](https://blog.revolutionanalytics.com/2018/12/azurestor.html) - working with Azure storage,103,FALSE,NA,###  New Packages,link,2018-12-24
-+ [BH 1.69.0-0](http://dirk.eddelbuettel.com/blog/2018/12/19#bh_1.69.0-0_prerelease) -  pre-releases and three required changes,127,FALSE,NA,### Updated Packages,link,2018-12-24
-+ [linl 0.0.3](http://dirk.eddelbuettel.com/blog/2018/12/15#linl_0.0.3) - A LaTeX Letter class for rmarkdown,108,FALSE,NA,### Updated Packages,link,2018-12-24
-+ [Spelling 2.0](https://ropensci.org/technotes/2018/12/20/spelling-20/) - Improved Markdown and RStudio Support,112,FALSE,NA,### Updated Packages,link,2018-12-24
-+ [lobstr 1.0.0](https://www.tidyverse.org/articles/2018/12/lobstr/) - Visualising R data structures with trees,111,FALSE,NA,### Updated Packages,link,2018-12-24
-+ [readxl 1.2.0](https://www.tidyverse.org/articles/2018/12/readxl-1-2-0/) - The readxl package makes it easy to get data out of Excel and into R,145,FALSE,NA,### Updated Packages,link,2018-12-24
-"+ [httr 1.4.0](https://www.tidyverse.org/articles/2018/12/httr-1-4-0/) - A wrapper for the curl package, customised to the demands of modern web APIs",149,FALSE,NA,### Updated Packages,link,2018-12-24
-"+ [Functional Programming helpers from purrr and friends, part 1](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-1-rowwise-operations/)",176,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [How to parameterise a prior when all you know is the mean and one other percentile.](https://nacnudus.github.io/duncangarmonsway/posts/2018-12-14-choose-a-priors-parameters/),177,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [How to create a heatmap in R](http://www.thinkingondata.com/how-to-create-a-heatmap/),88,FALSE,NA,###  Tutorials,link,2018-12-24
-"+ [4 ways to be more productive, using RStudio's terminal](https://jozefhajnala.gitlab.io/r/r008-sorting-data/)",111,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [How to use tryCatch for robust R programming](https://rsangole.netlify.com/post/try-catch/),94,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [Writing R functions that pass arguments into parameterized SQL queries.](http://adamolson.org/ParmQuery/),108,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [What Does R Value?](https://unconj.ca/blog/what-does-r-value.html),69,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [Manipulate dates easily with lubridate](http://www.brodrigues.co/blog/2018-12-15-lubridate_africa/),102,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [Quoting Concatenate](http://www.win-vector.com/blog/2018/12/quoting-concatenate/),84,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [h3jsr: Probably should have learned more JavaScript instead >.>](https://obrl-soil.github.io/h3jsr-announcement/),116,FALSE,NA,###  Tutorials,link,2018-12-24
-![h3jsr: Probably should have learned more JavaScript instead >.>](https://raw.githubusercontent.com/rweekly/image/master/2018/h3jsr.png),137,FALSE,NA,###  Tutorials,image,2018-12-24
-+ [Transforming PDF's into Useful Tables](https://ivelasq.rbind.io/blog/snap-expenditures/),91,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [vtreat Variable Importance](http://www.win-vector.com/blog/2018/12/vtreat-variable-importance/),98,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [Statistics in Glaucoma: Part III](https://rviews.rstudio.com/2018/12/18/statistics-in-glaucoma-part-iii/),108,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [Iterating with names](https://thisisnic.github.io/2018/12/19/iterating-with-names/),86,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [Rotary](http://www.win-vector.com/blog/2018/12/rotary/),58,FALSE,NA,###  Tutorials,link,2018-12-24
-+ [Using the tidyverse for more than data manipulation: estimating pi with Monte Carlo methods](http://www.brodrigues.co/blog/2018-12-21-tidyverse_pi/),151,FALSE,NA,###  Tutorials,link,2018-12-24
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2018-12-24
-"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2018-12-24
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-12-24
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-12-24
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-12-24
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-12-24
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-12-24
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">💡For like... I don&#39;t know, years, every time I wanted to _pull_ out a column from a data frame, I would do this <br>     mtcars %&gt;% .$mpg<br>Today I discovered this awesome function in dplyr<br>     mtcars %&gt;% pull(mpg)<br>🎩 tip <a href=""https://twitter.com/shian_su?ref_src=twsrc%5Etfw"">@shian_su</a> 🎉🎉🎉 <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/thingsthatmakemehappy?src=hash&amp;ref_src=twsrc%5Etfw"">#thingsthatmakemehappy</a> <a href=""https://twitter.com/hashtag/yourewelcome?src=hash&amp;ref_src=twsrc%5Etfw"">#yourewelcome</a></p>&mdash; Stephanie Hicks (@stephaniehicks) <a href=""https://twitter.com/stephaniehicks/status/1075921250592141313?ref_src=twsrc%5Etfw"">December 21, 2018</a></blockquote>",871,FALSE,NA,###  Quotes of the Week,unid,2018-12-24
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-12-24
+"title: R Weekly 2018-52 tidyverse, r-lib",40,FALSE,NA,unid,2018-12-24
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-12-24
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-12-24
+---,3,FALSE,NA,unid,2018-12-24
++ [tidyverse and r-lib: a year in review](https://www.tidyverse.org/articles/2018/12/tidyverse-and-r-lib-year-in-review/),121,FALSE,###  Highlight,link,2018-12-24
++ [Word associations from the Small World of Words](https://juliasilge.com/blog/word-associations/),99,FALSE,###  Highlight,link,2018-12-24
++ [R 3.5.2](https://blog.revolutionanalytics.com/2018/12/r-352-announcement.html),81,FALSE,###  Highlight,link,2018-12-24
++ [Advent of Code: Most Popular Languages](https://masalmon.eu/2018/12/15/adventofcode/),88,FALSE,### Insights,link,2018-12-24
+![Advent of Code: Most Popular Languages](https://raw.githubusercontent.com/rweekly/image/master/2018/adventofcode.png),119,FALSE,### Insights,image,2018-12-24
++ [rcites - The story behind the package](https://ropensci.org/blog/2018/12/18/accessing-cites-data/),101,FALSE,### Insights,link,2018-12-24
++ [Thoughts on the M4 Conference](http://ronaldrichman.co.za/2018/12/17/thoughts-on-the-m4-conference/),103,FALSE,### Insights,link,2018-12-24
++ [tidyverse and r-lib: a year in review](https://www.tidyverse.org/articles/2018/12/tidyverse-and-r-lib-year-in-review/),121,FALSE,### Insights,link,2018-12-24
++ [Clustering Bruce Springsteen albums with spotifyr](https://peerchristensen.netlify.com/post/clustering-springsteen-albums-with-spotifyr/),140,FALSE,### R in the Real World,link,2018-12-24
+![Clustering Bruce Springsteen albums with spotifyr](https://raw.githubusercontent.com/rweekly/image/master/2018/cluster.png),125,FALSE,### R in the Real World,image,2018-12-24
++ [How to realise plots and wordclouds on the bibliographic references gathered during my PhD thesis.](https://marionlouveaux.fr/blog/bibliography-analysis/),157,FALSE,### R in the Real World,link,2018-12-24
++ [Word associations from the Small World of Words](https://juliasilge.com/blog/word-associations/),99,FALSE,### R in the Real World,link,2018-12-24
+![Word associations from the Small World of Words](https://raw.githubusercontent.com/rweekly/image/master/2018/word-12.png),123,FALSE,### R in the Real World,image,2018-12-24
+"+ [Analysing and plotting my heart rate and sleep patterns in the days before, during and after my PhD defence](https://www.granvillematheson.com/post/self-portrait/)",166,FALSE,### R in the Real World,link,2018-12-24
++ [Christmas tree in ggplot](https://drmowinckels.io/blog/christmas-tree-in-ggplot/),84,FALSE,### R in the Real World,link,2018-12-24
++ [The Netflix Data War](https://simplystatistics.org/2018/12/19/the-netflix-data-war/),87,FALSE,### R in the Real World,link,2018-12-24
+"+ [AI, Machine Learning and Data Science Roundup: December 2018](https://blog.revolutionanalytics.com/2018/12/airoundup-december-2018.html)",139,FALSE,###  Resources,link,2018-12-24
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-12-24
+**CRAN**,8,FALSE,###  New Packages,unid,2018-12-24
++ [R 3.5.2](https://blog.revolutionanalytics.com/2018/12/r-352-announcement.html),81,FALSE,###  New Packages,link,2018-12-24
+"+ [November 2018: ""Top 40"" New Packages](https://rviews.rstudio.com/2018/12/21/november-2018-top-40-new-packages/)",114,FALSE,###  New Packages,link,2018-12-24
+"![November 2018: ""Top 40"" New Packages](https://raw.githubusercontent.com/rweekly/image/master/2018/nov-new-pkg.gif)",116,FALSE,###  New Packages,image,2018-12-24
++ [AzureStor](https://blog.revolutionanalytics.com/2018/12/azurestor.html) - working with Azure storage,103,FALSE,###  New Packages,link,2018-12-24
++ [BH 1.69.0-0](http://dirk.eddelbuettel.com/blog/2018/12/19#bh_1.69.0-0_prerelease) -  pre-releases and three required changes,127,FALSE,### Updated Packages,link,2018-12-24
++ [linl 0.0.3](http://dirk.eddelbuettel.com/blog/2018/12/15#linl_0.0.3) - A LaTeX Letter class for rmarkdown,108,FALSE,### Updated Packages,link,2018-12-24
++ [Spelling 2.0](https://ropensci.org/technotes/2018/12/20/spelling-20/) - Improved Markdown and RStudio Support,112,FALSE,### Updated Packages,link,2018-12-24
++ [lobstr 1.0.0](https://www.tidyverse.org/articles/2018/12/lobstr/) - Visualising R data structures with trees,111,FALSE,### Updated Packages,link,2018-12-24
++ [readxl 1.2.0](https://www.tidyverse.org/articles/2018/12/readxl-1-2-0/) - The readxl package makes it easy to get data out of Excel and into R,145,FALSE,### Updated Packages,link,2018-12-24
+"+ [httr 1.4.0](https://www.tidyverse.org/articles/2018/12/httr-1-4-0/) - A wrapper for the curl package, customised to the demands of modern web APIs",149,FALSE,### Updated Packages,link,2018-12-24
+"+ [Functional Programming helpers from purrr and friends, part 1](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-1-rowwise-operations/)",176,FALSE,###  Tutorials,link,2018-12-24
++ [How to parameterise a prior when all you know is the mean and one other percentile.](https://nacnudus.github.io/duncangarmonsway/posts/2018-12-14-choose-a-priors-parameters/),177,FALSE,###  Tutorials,link,2018-12-24
++ [How to create a heatmap in R](http://www.thinkingondata.com/how-to-create-a-heatmap/),88,FALSE,###  Tutorials,link,2018-12-24
+"+ [4 ways to be more productive, using RStudio's terminal](https://jozefhajnala.gitlab.io/r/r008-sorting-data/)",111,FALSE,###  Tutorials,link,2018-12-24
++ [How to use tryCatch for robust R programming](https://rsangole.netlify.com/post/try-catch/),94,FALSE,###  Tutorials,link,2018-12-24
++ [Writing R functions that pass arguments into parameterized SQL queries.](http://adamolson.org/ParmQuery/),108,FALSE,###  Tutorials,link,2018-12-24
++ [What Does R Value?](https://unconj.ca/blog/what-does-r-value.html),69,FALSE,###  Tutorials,link,2018-12-24
++ [Manipulate dates easily with lubridate](http://www.brodrigues.co/blog/2018-12-15-lubridate_africa/),102,FALSE,###  Tutorials,link,2018-12-24
++ [Quoting Concatenate](http://www.win-vector.com/blog/2018/12/quoting-concatenate/),84,FALSE,###  Tutorials,link,2018-12-24
++ [h3jsr: Probably should have learned more JavaScript instead >.>](https://obrl-soil.github.io/h3jsr-announcement/),116,FALSE,###  Tutorials,link,2018-12-24
+![h3jsr: Probably should have learned more JavaScript instead >.>](https://raw.githubusercontent.com/rweekly/image/master/2018/h3jsr.png),137,FALSE,###  Tutorials,image,2018-12-24
++ [Transforming PDF's into Useful Tables](https://ivelasq.rbind.io/blog/snap-expenditures/),91,FALSE,###  Tutorials,link,2018-12-24
++ [vtreat Variable Importance](http://www.win-vector.com/blog/2018/12/vtreat-variable-importance/),98,FALSE,###  Tutorials,link,2018-12-24
++ [Statistics in Glaucoma: Part III](https://rviews.rstudio.com/2018/12/18/statistics-in-glaucoma-part-iii/),108,FALSE,###  Tutorials,link,2018-12-24
++ [Iterating with names](https://thisisnic.github.io/2018/12/19/iterating-with-names/),86,FALSE,###  Tutorials,link,2018-12-24
++ [Rotary](http://www.win-vector.com/blog/2018/12/rotary/),58,FALSE,###  Tutorials,link,2018-12-24
++ [Using the tidyverse for more than data manipulation: estimating pi with Monte Carlo methods](http://www.brodrigues.co/blog/2018-12-21-tidyverse_pi/),151,FALSE,###  Tutorials,link,2018-12-24
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2018-12-24
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,###  Tutorials,unid,2018-12-24
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-12-24
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2018-12-24
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2018-12-24
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-12-24
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-12-24
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">💡For like... I don&#39;t know, years, every time I wanted to _pull_ out a column from a data frame, I would do this <br>     mtcars %&gt;% .$mpg<br>Today I discovered this awesome function in dplyr<br>     mtcars %&gt;% pull(mpg)<br>🎩 tip <a href=""https://twitter.com/shian_su?ref_src=twsrc%5Etfw"">@shian_su</a> 🎉🎉🎉 <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/thingsthatmakemehappy?src=hash&amp;ref_src=twsrc%5Etfw"">#thingsthatmakemehappy</a> <a href=""https://twitter.com/hashtag/yourewelcome?src=hash&amp;ref_src=twsrc%5Etfw"">#yourewelcome</a></p>&mdash; Stephanie Hicks (@stephaniehicks) <a href=""https://twitter.com/stephaniehicks/status/1075921250592141313?ref_src=twsrc%5Etfw"">December 21, 2018</a></blockquote>",871,FALSE,###  Quotes of the Week,unid,2018-12-24

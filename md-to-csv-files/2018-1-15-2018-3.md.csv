@@ -1,136 +1,136 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-1-15
-"title: R Weekly 2018-3 Community, Reverse Depends",49,FALSE,NA,NA,unid,2018-1-15
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-1-15
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-1-15
----,3,FALSE,NA,NA,unid,2018-1-15
-+ [.rprofile: Karthik Ram](https://ropensci.org/blog/2018/01/12/rprofile-karthik-ram/),86,FALSE,NA,###  Highlight,link,2018-1-15
-+ [Building Your Data Science Network: Finding Community](https://robinsones.github.io/Building-Your-Data-Science-Network-Finding-Community/),141,FALSE,NA,###  Highlight,link,2018-1-15
-+ [prrd](http://dirk.eddelbuettel.com/blog/2018/01/07#prrd_0.0.1) - Parallel Running [of] Reverse Depends,105,FALSE,NA,###  Highlight,link,2018-1-15
-+ [Towards Reproducible Research](http://www.simplyapproximate.com/posts/towards-reproducible-research/),104,FALSE,NA,### Insights,link,2018-1-15
-+ [Written R/exams around the World](http://www.r-exams.org/tutorials/nops_language/),85,FALSE,NA,### Insights,link,2018-1-15
-"+ [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)",136,FALSE,NA,### Insights,link,2018-1-15
-"![What's the difference between data science, machine learning, and artificial intelligence?](https://imgs.xkcd.com/comics/machine_learning.png)",144,FALSE,NA,### Insights,image,2018-1-15
-+ [Building Your Data Science Network: Finding Community](https://robinsones.github.io/Building-Your-Data-Science-Network-Finding-Community/),141,FALSE,NA,### Insights,link,2018-1-15
-+ [Building Your Data Science Network: Reaching Out](https://robinsones.github.io/Building-Your-Data-Science-Network-Reaching-Out/),131,FALSE,NA,### Insights,link,2018-1-15
-+ [Are you a scientist dealing with computational plant pathology? Then let's connect and code together!](http://openplantpathology.netlify.com/post/2018-01-08-first-post-community-call/),187,FALSE,NA,### Insights,link,2018-1-15
-+ [.rprofile: Karthik Ram](https://ropensci.org/blog/2018/01/12/rprofile-karthik-ram/),86,FALSE,NA,### Insights,link,2018-1-15
-+ [Setting up an Asus Flip C302CA Chromebook for R Development](https://jwhollister.com/r/2017/04/14/chromebook-4-rstats.html),126,FALSE,NA,### Insights,link,2018-1-15
-+ [Discontinuing maintenance of jug](http://fishyoperations.com/2018/01/07/discontinuing-maintenance-jug.html),110,FALSE,NA,### Insights,link,2018-1-15
-+ [Three new domain-specific (embedded) languages with a Stan backend](http://andrewgelman.com/2018/01/09/three-new-domain-specific-embedded-languages-stan-backend/),165,FALSE,NA,### Insights,link,2018-1-15
-+ [R Work Areas. Standardize and Automate.](https://somerealnumbers.wordpress.com/2018/01/10/r-work-areas-standardize-and-automate/),132,FALSE,NA,### Insights,link,2018-1-15
-+ [Decoding error messages in R](http://rex-analytics.com/decoding-error-messages-r/),85,FALSE,NA,### Insights,link,2018-1-15
-"+ [Whole game](https://www.youtube.com/watch?v=go5Au01Jrvs). Hadley Wickham briefly showing the ""whole game"" of data analysis. See code and data at https://github.com/hadley/building-permits",190,FALSE,NA,###  Videos and Podcasts,link,2018-1-15
-"+ [Speaking in Tech #291 -Data Naked](https://itunes.apple.com/us/podcast/speaking-in-tech/id469061956?mt=2#episodeGuid=4b171cb7118ea6a5f8b25882957e7be1) This week Peter, Josh and Melissa are joined by Ariel Zane (@lariebyrd), Health Sciences Analyst at MSC. Together they discuss Trump website issues, Amazon's Linux 2 release, Microsoft's latest acquisition, Specter/Meltdown and all things Data Science.",406,FALSE,NA,###  Videos and Podcasts,link,2018-1-15
-"+ [NSSD 52 - Expense Reporting Masterpiece](http://nssdeviations.com/52-expense-reporting-masterpiece): Hilary and Roger welcome the new year by discussing Excel (again), why talking to people who generate data matters, meditation and neuroscience, and trust vs. quality in data analysis.",288,FALSE,NA,###  Videos and Podcasts,link,2018-1-15
-+ [R jumps to 8th position in TIOBE language rankings](http://blog.revolutionanalytics.com/2018/01/tiobe-2017.html),115,FALSE,NA,### R in the Real World,link,2018-1-15
-+ [Exploring Aviation Accidents from 1908 through the Present](https://nycdatascience.com/blog/student-works/exploring-aviation-accidents-from-1908-through-the-present/),169,FALSE,NA,### R in the Real World,link,2018-1-15
-![Exploring Aviation Accidents from 1908 through the Present](https://nycdatascience.com/blog/wp-content/uploads/2018/01/AIRCRAFT.png),134,FALSE,NA,### R in the Real World,image,2018-1-15
-"+ [Oh, the cold places I've lived](https://sharlagelfand.netlify.com/posts/oh-the-cold-places-ive-lived/)",105,FALSE,NA,### R in the Real World,link,2018-1-15
-+ [Random Rupi: Generating Rupi Kaur-style poems in R with Markov chains](http://katiejolly.io/blog/2018-01-05/random-rupi-markov-chain-poems),142,FALSE,NA,### R in the Real World,link,2018-1-15
-+ [Attitudes of employees towards mental health in the tech workplace](http://kanishka.xyz/2018/osmi-mental-health-in-tech-survey-data/),136,FALSE,NA,### R in the Real World,link,2018-1-15
-+ [Mapping UN Votes on a hex grid](http://www.simoncoulombe.com/2018/01/09/unvotes_hexgrid/),92,FALSE,NA,### R in the Real World,link,2018-1-15
-+ [The Marble Game in R ](https://www.alspur.com/marble-game-in-r/),67,FALSE,NA,### R in the Real World,link,2018-1-15
-+ [New York City Taxi & Limousine Commission (TLC) Trip Data Analysis Using Sparklyr and Google BigQuery](http://mirai-solutions.ch/news/2018/01/09/NYC-TLC-Trip-Data-Analysis-Using-Sparklyr-and-Google-BigQuery/),211,FALSE,NA,### R in the Real World,link,2018-1-15
-+ [Analysing particular matter emission during New Year's Eve](https://johannesfriedrich.github.io/2018-01-11-particular-matter-new-year/),138,FALSE,NA,### R in the Real World,link,2018-1-15
-![Analysing particular matter emission during New Year's Eve](https://raw.githubusercontent.com/JohannesFriedrich/JohannesFriedrich.github.io/master/_posts/img/PM_Silvester/PM_10_silvester2017.png),197,FALSE,NA,### R in the Real World,image,2018-1-15
-+ [Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/post/lse-gender/),114,FALSE,NA,### R in the Real World,link,2018-1-15
-![Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/img/bokeh.png),110,FALSE,NA,### R in the Real World,image,2018-1-15
-+ [Building a Daily Bitcoin Price Tracker with Coindeskr and Shiny in R](https://datascienceplus.com/building-a-daily-bitcoin-price-tracker-with-coindeskr-and-shiny-in-r/),171,FALSE,NA,### R in the Real World,link,2018-1-15
-+ [The Brazilian post office and R](http://msperlin.github.io/2018-01-10-R-Correios/),85,FALSE,NA,### R in the Real World,link,2018-1-15
-![The Brazilian post office and R](https://i1.wp.com/msperlin.github.io/img/R_Correio.jpg?w=456),96,FALSE,NA,### R in the Real World,image,2018-1-15
-+ [A tidy game of life](http://thestudyofthehousehold.com/post/a-tidy-game-of-life/),84,FALSE,NA,### R in the Real World,link,2018-1-15
-![A tidy game of life](https://github.com/aammd/thestudyofthehousehold/blob/master/static/img/stairs.gif?raw=true),114,FALSE,NA,### R in the Real World,image,2018-1-15
-+ [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/),65,FALSE,NA,###  Resources,link,2018-1-15
-+ [List of datasets present in CRAN packages](https://vincentarelbundock.github.io/Rdatasets/datasets.html),107,FALSE,NA,###  Resources,link,2018-1-15
-+ [Services and tools for building intelligent R applications in the cloud](http://blog.revolutionanalytics.com/2018/01/r-cloud-tools.html),139,FALSE,NA,###  Resources,link,2018-1-15
-"+ [Twitter moment ""I'm tracking my on-the-job data science learning using the hashtag #DSLearnings. ""](https://twitter.com/i/moments/950921593236131841)",152,FALSE,NA,###  Resources,link,2018-1-15
-+ [Easy sample data available in R packages (and related) ](https://gist.github.com/zross/6f1b1569512be06f5fb571cc425202bc),123,FALSE,NA,###  Resources,link,2018-1-15
-+ [Packaging data analytical work reproducibly using R (and friends)](https://peerj.com/preprints/3192/),104,FALSE,NA,###  R in Academia,link,2018-1-15
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-1-15
-+ [tsibble](http://pkg.earo.me/tsibble/index.html) - Provides a data class of `tbl_ts` to store and manage temporal-context data frames in a tidy manner.,153,FALSE,NA,###  New Packages,link,2018-1-15
-+ [rsam](https://github.com/yonicd/rsam) - Provides a command line and user interface to manage RStudio addins.,111,FALSE,NA,###  New Packages,link,2018-1-15
-+ [pmap](https://github.com/twang2218/pmap) - Process Map Visualization in R.,77,FALSE,NA,###  New Packages,link,2018-1-15
-![https://github.com/twang2218/pmap](https://cdn.rawgit.com/twang2218/pmap/master/man/figures/example.prune_edges.both.svg),123,FALSE,NA,###  New Packages,image,2018-1-15
-+ [nbastatR](http://asbcllc.com/nbastatR/index.html) - A package to help you master the NBA data universe in R.,111,FALSE,NA,###  New Packages,link,2018-1-15
-+ [PostcodesioR](https://erzk.github.io/PostcodesioR/) - free UK postcode lookup and geocoder,93,FALSE,NA,###  New Packages,link,2018-1-15
-+ [cloudml](https://tensorflow.rstudio.com/blog/r-interface-to-cloudml.html) - R Interface to Google CloudML,108,FALSE,NA,###  New Packages,link,2018-1-15
-![cloudml](https://tensorflow.rstudio.com/blog/images/r-interface-to-cloudml/training-run.png),94,FALSE,NA,###  New Packages,image,2018-1-15
-+ [prrd](http://dirk.eddelbuettel.com/blog/2018/01/07#prrd_0.0.1) - Parallel Running [of] Reverse Depends,105,FALSE,NA,###  New Packages,link,2018-1-15
-+ [infer 0.1.0](http://infer.netlify.com/) - Perform statistical inference using an expressive statistical grammar that coheres with the tidyverse design framework.,164,FALSE,NA,### Package Releases,link,2018-1-15
-+ [sf 0.6-0](http://r-spatial.org/r/2018/01/08/sf-0.6-0.html) - an R package for handling vector geometries in R,112,FALSE,NA,### Package Releases,link,2018-1-15
-"+ [tidytext 0.1.6](https://juliasilge.com/blog/tidytext-0-1-6/) - Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools",124,FALSE,NA,### Package Releases,link,2018-1-15
-+ [dbplyr 1.2.0](https://www.tidyverse.org/articles/2018/01/dbplyr-1-2/) -  the database backend for dplyr,106,FALSE,NA,### Package Releases,link,2018-1-15
-+ [tibble 1.4.1](https://www.tidyverse.org/articles/2018/01/tibble-1-4-1/) - Simple Data Frames,95,FALSE,NA,### Package Releases,link,2018-1-15
-+ [RStudio Connect 1.5.12](https://blog.rstudio.com/2018/01/12/rstudio-connect-v1-5-12/),88,FALSE,NA,### Package Releases,link,2018-1-15
-+ [Le logo ThinkR créé avec la librairie {sf}](https://thinkr.fr/logo-thinkr-cree-avec-librairie-sf/),101,FALSE,NA,###  R Internationally,link,2018-1-15
-+ [Presidenciáveis no Twitter](https://medium.com/@ghcarvalho/presidenci%C3%A1veis-no-twitter-5fa2a7ec144b),107,FALSE,NA,###  R Internationally,link,2018-1-15
-+ [Deep Learning With Keras To Predict Customer Churn](https://tensorflow.rstudio.com/blog/keras-customer-churn.html),117,FALSE,NA,###  Tutorials,link,2018-1-15
-![Deep Learning With Keras To Predict Customer Churn](https://tensorflow.rstudio.com/blog/images/keras-customer-churn/shiny-application.png),140,FALSE,NA,###  Tutorials,image,2018-1-15
-+ [Stepwise Bayesian Optimization with mlrMBO](https://mlr-org.github.io/Stepwise-Bayesian-Optimization-with-mlrMBO/),117,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Simple Probability Trees in R](https://daranzolin.github.io/articles/2018-01/probability-trees),98,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Looking beyond accuracy to improve trust in machine learning](https://shirinsplayground.netlify.com/2018/01/looking_beyond_accuracy_to_improve_trust_in_ml/),159,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Reproducible Shiny App Development with Modules](https://www.blog.cultureofinsight.com/2018/01/reproducible-shiny-app-development-with-modules/),147,FALSE,NA,###  Tutorials,link,2018-1-15
-"+ [Efficient file input, output and storage in R](https://edomt.github.io/File-IO-Storage/)",91,FALSE,NA,###  Tutorials,link,2018-1-15
-"+ [Fitting non-linear regressions with `broom`, `purrr` and `nls.multstart`](https://padpadpadpad.github.io/post/fitting-non-linear-regressions-with-broom-purrr-and-nls.multstart/)",180,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Histogram of length frequency distribution using ggplot2](http://jethroemmanuel.netlify.com/),96,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Bayesian Binomial Test in R](https://silentspring.org/devblog/2018/01/11/bayesian-binomial-test.html),104,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Rainbowing a set of pictures](http://www.masalmon.eu/2018/01/07/rainbowing/),79,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data](https://www.rdatagen.net/post/generating-correlated-data-for-a-simulated-cost-effectiveness-analysis/),205,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Solutions to “Installing #ImageMagick for #gganimate R package” errors](https://medium.com/@DaveQuartey/solutions-to-installing-imagemagick-for-gganimate-r-package-errors-8b36d0736f85),187,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Learn your way around the R ecosystem](http://blog.revolutionanalytics.com/2018/01/a-field-guide-to-the-r-ecosystem.html),124,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Building a neural network from scratch in R](http://selbydavid.com/2018/01/09/neural-network/),97,FALSE,NA,###  Tutorials,link,2018-1-15
-"+ [Deep Learning from first principles in Python, R and Octave – Part 2](https://gigadom.wordpress.com/2018/01/11/deep-learning-from-first-principles-in-python-r-and-octave-part-2/)",181,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Some random R benchmarks](http://colinfay.me/random-r-benchmarks/),69,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Fitting a TensorFlow Linear Classifier with tfestimators](https://rviews.rstudio.com/2018/01/12/linear-model-in-tensorflow/),127,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Holy ifelse() statements Batman!](https://austinwehrwein.com/data-visualization/plotting-batman-villains-ggraph/),116,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Building Your Data Science Network: Reaching Out](https://robinsones.github.io/Building-Your-Data-Science-Network-Reaching-Out/),131,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [[How to] Include a dancing banana in your R package documentation](http://colinfay.me/dancing-banana-r-package-doc/),119,FALSE,NA,###  Tutorials,link,2018-1-15
-![[How to] Include a dancing banana in your R package documentation](https://github.com/ColinFay/colinfay.github.io/raw/master/_posts/img/dancing-banana-r-package.gif),167,FALSE,NA,###  Tutorials,image,2018-1-15
-+ [Introducing Editheme: Palettes and Graphics Matching Your Rstudio Editor ](http://www.pieceofk.fr/?p=530),108,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Hierarchical compartmental reserving models](https://magesblog.com/post/hierarchical-compartmental-reserving-models/),120,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Recode values with character subsetting](https://tjmahr.github.io/recode-values-with-character-subsetting/),110,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Classifying duplicate questions from Quora with Keras](https://tensorflow.rstudio.com/blog/keras-duplicate-questions-quora.html),131,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [TWiMLAI talk 88 sketchnotes: Using Deep Learning and Google Street View to Estimate Demographics with Timnit Gebru](https://shirinsplayground.netlify.com/2018/01/twimlai88_sketchnotes/),188,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [How to implement neural networks in R](http://blog.revolutionanalytics.com/2018/01/neural-networks-r6.html),110,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Fitting a TensorFlow Linear Classifier with tfestimators](https://rviews.rstudio.com/2018/01/12/linear-model-in-tensorflow/),127,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Services and tools for building intelligent R applications in the cloud](http://blog.revolutionanalytics.com/2018/01/r-cloud-tools.html),139,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data](https://www.rdatagen.net/post/generating-correlated-data-for-a-simulated-cost-effectiveness-analysis/),205,FALSE,NA,###  Tutorials,link,2018-1-15
-![Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data](https://www.rdatagen.net/post/2018-01-08-generating-correlated-data-for-a-simulated-cost-effectiveness-analysis_files/figure-html/tau3-1.png),243,FALSE,NA,###  Tutorials,image,2018-1-15
-+ [SW10 digs deep](https://thinkr.biz/2018/01/10/sw10-digs-deep/),65,FALSE,NA,###  Tutorials,link,2018-1-15
-+ [Simple Probability Trees in R](https://daranzolin.github.io/articles/2018-01/probability-trees),98,FALSE,NA,###  Tutorials,link,2018-1-15
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-1-15
-+ [A snippet of code I found that explores the licenses on CRAN ](https://gist.github.com/njtierney),100,FALSE,NA,### Gist & Cookbook,link,2018-1-15
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-1-15
-"+ `mclapply(X, mc.cores)` now follows its documentation and calls `lapply()` in case `mc.cores = 1` also in the case `mc.preschedule` is false.",143,FALSE,NA,###  R Project Updates,unid,2018-1-15
-+ Non-UTF-8 multibyte character handling fixed more permanently (PR#16732).,75,FALSE,NA,###  R Project Updates,unid,2018-1-15
-"+ `sum(<large ints>, <stuff>)` is more consistent.",50,FALSE,NA,###  R Project Updates,unid,2018-1-15
-"+ `rf()` and `rbeta()` now also work correctly when `ncp` is not scalar, notably when (partly) `NA`.",100,FALSE,NA,###  R Project Updates,unid,2018-1-15
-"+ `dput()`, `deparse()` and `dump()` now print the `names()` information only once, using the more readable `(tag = value)` syntax, notably for `list()`s, i.e., including data frames.",183,FALSE,NA,###  R Project Updates,unid,2018-1-15
-"+ These functions gain a new control option `""niceNames""` (see `.deparseOpts()`), which when set (as by default) also uses the `(tag = value)` syntax for atomic vectors. On the other hand, without deparse options `""showAttributes""` and `""niceNames""`, names are no longer shown also for lists. `as.character(list( c (one = 1)))` now includes the name, as `as.character(list(list(one = 1)))` has always done.",406,FALSE,NA,###  R Project Updates,unid,2018-1-15
-+ `m:n` now also deparses nicely when m > n.,44,FALSE,NA,###  R Project Updates,unid,2018-1-15
-"+ [R, vous avez dit R ?](https://www.meetup.com/fr-FR/Breizh-Data-Club/events/246482043/) — Breizh Data Club Meetup, January 24th.",130,FALSE,NA,###  Upcoming Events,link,2018-1-15
-+ [rOpenSci Community Call](https://ropensci.org/blog/2018/01/03/comm-call-v15/) - Writing Packages to Support Research Communities - zoon & greta,146,FALSE,NA,###  Upcoming Events,link,2018-1-15
-January 30th (January 31 for Australia),39,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-+ RStudio conf 2018 **January 31 to February 3** <br />,55,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-[rstudio::conf](https://www.rstudio.com/conference/) is about all things R and RStudio!,87,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-+ satRday Cape Town 2018 **March 17** <br />,44,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-[satRday Cape Town](http://capetown2018.satrdays.org/),54,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-<!-- + R/Finance 2018 **June 1 and 2** <br />,45,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-"+ [CascadiaRConf](https://cascadiarconf.com/) **June 2, 2018**",62,FALSE,NA,###  Upcoming Events,link,2018-1-15
-"Portland, OR, US",16,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-+ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **5 & 6 July 2018** <br />,89,FALSE,NA,###  Upcoming Events,link,2018-1-15
-Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-"+ useR! 2018 **July 10, 2018** <br />",37,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-The annual useR! conference is the main meeting of the international R user and developer community. -->,104,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2018-1-15
-+ [Job opening at ThinkR (France)](https://thinkr.fr/rejoindre-thinkr/),71,FALSE,NA,### Jobs,link,2018-1-15
-+ [satRday Cape Town 2018](http://capetown2018.satrdays.org/#callforpapers) - Call for papers,93,FALSE,NA,###  Call for Participation,link,2018-1-15
-"+ [eRum 2018 May 14-16, Budapest, Hungary](http://2018.erum.io/#cfp) - Call for papers",86,FALSE,NA,###  Call for Participation,link,2018-1-15
-"+ [R/Finance 2018: Call for Papers](http://blog.fosstrading.com/2018/01/rfinance-2018-call-for-papers.html) : June 1 and 2, 2018 - University of Illinois at Chicago",164,FALSE,NA,###  Call for Participation,link,2018-1-15
-"+ [LatinR - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo, 3 al 7 de septiembre de 2018, Buenoes Aires, Argentina](http://47jaiio.sadio.org.ar/index.php?q=node/125)",191,FALSE,NA,###  Call for Participation,link,2018-1-15
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-1-15
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">👩‍💻 <a href=""https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw"">#rladies</a>! Have you added yourself to our directory yet? 👩‍💻<br><br>💜 If not fill the form at <a href=""https://t.co/fJvMvyNrKG"">https://t.co/fJvMvyNrKG</a> 💜<br><br>Pic credit <a href=""https://twitter.com/dataandme?ref_src=twsrc%5Etfw"">@dataandme</a> <a href=""https://t.co/NliRCebpKx"">pic.twitter.com/NliRCebpKx</a></p>&mdash; R-Ladies Global (@RLadiesGlobal) <a href=""https://twitter.com/RLadiesGlobal/status/951806321166348289?ref_src=twsrc%5Etfw"">12 de gener de 2018</a></blockquote>",644,FALSE,NA,###  Quotes of the Week,unid,2018-1-15
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Twitter and meetups are great ways to meet people in data science. I&#39;ve written some tips for getting started, but as a new tweeter with few followers, tweeting can still feel like shouting into the void. My offer:<a href=""https://t.co/Nm5JsaFVGd"">https://t.co/Nm5JsaFVGd</a> <a href=""https://t.co/c69nIPcQrB"">pic.twitter.com/c69nIPcQrB</a></p>&mdash; Emily Robinson (@robinson_es) <a href=""https://twitter.com/robinson_es/status/951204061151408128?ref_src=twsrc%5Etfw"">10 de gener de 2018</a></blockquote>",582,FALSE,NA,###  Quotes of the Week,unid,2018-1-15
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">After only 3 years using <a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a>, I finally realized you can detach your Source pane and put it on one screen, and let the Console pane occupy more space on the second screen. Now wishing to be able to snap out Environment or Viewer for 3rd screen!<a href=""https://twitter.com/rstudiotips?ref_src=twsrc%5Etfw"">@rstudiotips</a> <a href=""https://twitter.com/hashtag/rstudio?src=hash&amp;ref_src=twsrc%5Etfw"">#rstudio</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/1gjrtcWEUi"">pic.twitter.com/1gjrtcWEUi</a></p>&mdash; Taras Kaduk (@taraskaduk) <a href=""https://twitter.com/taraskaduk/status/951549940504948736?ref_src=twsrc%5Etfw"">11 de gener de 2018</a></blockquote>",869,FALSE,NA,###  Quotes of the Week,unid,2018-1-15
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-1-15
+"title: R Weekly 2018-3 Community, Reverse Depends",49,FALSE,NA,unid,2018-1-15
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-1-15
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-1-15
+---,3,FALSE,NA,unid,2018-1-15
++ [.rprofile: Karthik Ram](https://ropensci.org/blog/2018/01/12/rprofile-karthik-ram/),86,FALSE,###  Highlight,link,2018-1-15
++ [Building Your Data Science Network: Finding Community](https://robinsones.github.io/Building-Your-Data-Science-Network-Finding-Community/),141,FALSE,###  Highlight,link,2018-1-15
++ [prrd](http://dirk.eddelbuettel.com/blog/2018/01/07#prrd_0.0.1) - Parallel Running [of] Reverse Depends,105,FALSE,###  Highlight,link,2018-1-15
++ [Towards Reproducible Research](http://www.simplyapproximate.com/posts/towards-reproducible-research/),104,FALSE,### Insights,link,2018-1-15
++ [Written R/exams around the World](http://www.r-exams.org/tutorials/nops_language/),85,FALSE,### Insights,link,2018-1-15
+"+ [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)",136,FALSE,### Insights,link,2018-1-15
+"![What's the difference between data science, machine learning, and artificial intelligence?](https://imgs.xkcd.com/comics/machine_learning.png)",144,FALSE,### Insights,image,2018-1-15
++ [Building Your Data Science Network: Finding Community](https://robinsones.github.io/Building-Your-Data-Science-Network-Finding-Community/),141,FALSE,### Insights,link,2018-1-15
++ [Building Your Data Science Network: Reaching Out](https://robinsones.github.io/Building-Your-Data-Science-Network-Reaching-Out/),131,FALSE,### Insights,link,2018-1-15
++ [Are you a scientist dealing with computational plant pathology? Then let's connect and code together!](http://openplantpathology.netlify.com/post/2018-01-08-first-post-community-call/),187,FALSE,### Insights,link,2018-1-15
++ [.rprofile: Karthik Ram](https://ropensci.org/blog/2018/01/12/rprofile-karthik-ram/),86,FALSE,### Insights,link,2018-1-15
++ [Setting up an Asus Flip C302CA Chromebook for R Development](https://jwhollister.com/r/2017/04/14/chromebook-4-rstats.html),126,FALSE,### Insights,link,2018-1-15
++ [Discontinuing maintenance of jug](http://fishyoperations.com/2018/01/07/discontinuing-maintenance-jug.html),110,FALSE,### Insights,link,2018-1-15
++ [Three new domain-specific (embedded) languages with a Stan backend](http://andrewgelman.com/2018/01/09/three-new-domain-specific-embedded-languages-stan-backend/),165,FALSE,### Insights,link,2018-1-15
++ [R Work Areas. Standardize and Automate.](https://somerealnumbers.wordpress.com/2018/01/10/r-work-areas-standardize-and-automate/),132,FALSE,### Insights,link,2018-1-15
++ [Decoding error messages in R](http://rex-analytics.com/decoding-error-messages-r/),85,FALSE,### Insights,link,2018-1-15
+"+ [Whole game](https://www.youtube.com/watch?v=go5Au01Jrvs). Hadley Wickham briefly showing the ""whole game"" of data analysis. See code and data at https://github.com/hadley/building-permits",190,FALSE,###  Videos and Podcasts,link,2018-1-15
+"+ [Speaking in Tech #291 -Data Naked](https://itunes.apple.com/us/podcast/speaking-in-tech/id469061956?mt=2#episodeGuid=4b171cb7118ea6a5f8b25882957e7be1) This week Peter, Josh and Melissa are joined by Ariel Zane (@lariebyrd), Health Sciences Analyst at MSC. Together they discuss Trump website issues, Amazon's Linux 2 release, Microsoft's latest acquisition, Specter/Meltdown and all things Data Science.",406,FALSE,###  Videos and Podcasts,link,2018-1-15
+"+ [NSSD 52 - Expense Reporting Masterpiece](http://nssdeviations.com/52-expense-reporting-masterpiece): Hilary and Roger welcome the new year by discussing Excel (again), why talking to people who generate data matters, meditation and neuroscience, and trust vs. quality in data analysis.",288,FALSE,###  Videos and Podcasts,link,2018-1-15
++ [R jumps to 8th position in TIOBE language rankings](http://blog.revolutionanalytics.com/2018/01/tiobe-2017.html),115,FALSE,### R in the Real World,link,2018-1-15
++ [Exploring Aviation Accidents from 1908 through the Present](https://nycdatascience.com/blog/student-works/exploring-aviation-accidents-from-1908-through-the-present/),169,FALSE,### R in the Real World,link,2018-1-15
+![Exploring Aviation Accidents from 1908 through the Present](https://nycdatascience.com/blog/wp-content/uploads/2018/01/AIRCRAFT.png),134,FALSE,### R in the Real World,image,2018-1-15
+"+ [Oh, the cold places I've lived](https://sharlagelfand.netlify.com/posts/oh-the-cold-places-ive-lived/)",105,FALSE,### R in the Real World,link,2018-1-15
++ [Random Rupi: Generating Rupi Kaur-style poems in R with Markov chains](http://katiejolly.io/blog/2018-01-05/random-rupi-markov-chain-poems),142,FALSE,### R in the Real World,link,2018-1-15
++ [Attitudes of employees towards mental health in the tech workplace](http://kanishka.xyz/2018/osmi-mental-health-in-tech-survey-data/),136,FALSE,### R in the Real World,link,2018-1-15
++ [Mapping UN Votes on a hex grid](http://www.simoncoulombe.com/2018/01/09/unvotes_hexgrid/),92,FALSE,### R in the Real World,link,2018-1-15
++ [The Marble Game in R ](https://www.alspur.com/marble-game-in-r/),67,FALSE,### R in the Real World,link,2018-1-15
++ [New York City Taxi & Limousine Commission (TLC) Trip Data Analysis Using Sparklyr and Google BigQuery](http://mirai-solutions.ch/news/2018/01/09/NYC-TLC-Trip-Data-Analysis-Using-Sparklyr-and-Google-BigQuery/),211,FALSE,### R in the Real World,link,2018-1-15
++ [Analysing particular matter emission during New Year's Eve](https://johannesfriedrich.github.io/2018-01-11-particular-matter-new-year/),138,FALSE,### R in the Real World,link,2018-1-15
+![Analysing particular matter emission during New Year's Eve](https://raw.githubusercontent.com/JohannesFriedrich/JohannesFriedrich.github.io/master/_posts/img/PM_Silvester/PM_10_silvester2017.png),197,FALSE,### R in the Real World,image,2018-1-15
++ [Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/post/lse-gender/),114,FALSE,### R in the Real World,link,2018-1-15
+![Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/img/bokeh.png),110,FALSE,### R in the Real World,image,2018-1-15
++ [Building a Daily Bitcoin Price Tracker with Coindeskr and Shiny in R](https://datascienceplus.com/building-a-daily-bitcoin-price-tracker-with-coindeskr-and-shiny-in-r/),171,FALSE,### R in the Real World,link,2018-1-15
++ [The Brazilian post office and R](http://msperlin.github.io/2018-01-10-R-Correios/),85,FALSE,### R in the Real World,link,2018-1-15
+![The Brazilian post office and R](https://i1.wp.com/msperlin.github.io/img/R_Correio.jpg?w=456),96,FALSE,### R in the Real World,image,2018-1-15
++ [A tidy game of life](http://thestudyofthehousehold.com/post/a-tidy-game-of-life/),84,FALSE,### R in the Real World,link,2018-1-15
+![A tidy game of life](https://github.com/aammd/thestudyofthehousehold/blob/master/static/img/stairs.gif?raw=true),114,FALSE,### R in the Real World,image,2018-1-15
++ [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/),65,FALSE,###  Resources,link,2018-1-15
++ [List of datasets present in CRAN packages](https://vincentarelbundock.github.io/Rdatasets/datasets.html),107,FALSE,###  Resources,link,2018-1-15
++ [Services and tools for building intelligent R applications in the cloud](http://blog.revolutionanalytics.com/2018/01/r-cloud-tools.html),139,FALSE,###  Resources,link,2018-1-15
+"+ [Twitter moment ""I'm tracking my on-the-job data science learning using the hashtag #DSLearnings. ""](https://twitter.com/i/moments/950921593236131841)",152,FALSE,###  Resources,link,2018-1-15
++ [Easy sample data available in R packages (and related) ](https://gist.github.com/zross/6f1b1569512be06f5fb571cc425202bc),123,FALSE,###  Resources,link,2018-1-15
++ [Packaging data analytical work reproducibly using R (and friends)](https://peerj.com/preprints/3192/),104,FALSE,###  R in Academia,link,2018-1-15
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-1-15
++ [tsibble](http://pkg.earo.me/tsibble/index.html) - Provides a data class of `tbl_ts` to store and manage temporal-context data frames in a tidy manner.,153,FALSE,###  New Packages,link,2018-1-15
++ [rsam](https://github.com/yonicd/rsam) - Provides a command line and user interface to manage RStudio addins.,111,FALSE,###  New Packages,link,2018-1-15
++ [pmap](https://github.com/twang2218/pmap) - Process Map Visualization in R.,77,FALSE,###  New Packages,link,2018-1-15
+![https://github.com/twang2218/pmap](https://cdn.rawgit.com/twang2218/pmap/master/man/figures/example.prune_edges.both.svg),123,FALSE,###  New Packages,image,2018-1-15
++ [nbastatR](http://asbcllc.com/nbastatR/index.html) - A package to help you master the NBA data universe in R.,111,FALSE,###  New Packages,link,2018-1-15
++ [PostcodesioR](https://erzk.github.io/PostcodesioR/) - free UK postcode lookup and geocoder,93,FALSE,###  New Packages,link,2018-1-15
++ [cloudml](https://tensorflow.rstudio.com/blog/r-interface-to-cloudml.html) - R Interface to Google CloudML,108,FALSE,###  New Packages,link,2018-1-15
+![cloudml](https://tensorflow.rstudio.com/blog/images/r-interface-to-cloudml/training-run.png),94,FALSE,###  New Packages,image,2018-1-15
++ [prrd](http://dirk.eddelbuettel.com/blog/2018/01/07#prrd_0.0.1) - Parallel Running [of] Reverse Depends,105,FALSE,###  New Packages,link,2018-1-15
++ [infer 0.1.0](http://infer.netlify.com/) - Perform statistical inference using an expressive statistical grammar that coheres with the tidyverse design framework.,164,FALSE,### Package Releases,link,2018-1-15
++ [sf 0.6-0](http://r-spatial.org/r/2018/01/08/sf-0.6-0.html) - an R package for handling vector geometries in R,112,FALSE,### Package Releases,link,2018-1-15
+"+ [tidytext 0.1.6](https://juliasilge.com/blog/tidytext-0-1-6/) - Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools",124,FALSE,### Package Releases,link,2018-1-15
++ [dbplyr 1.2.0](https://www.tidyverse.org/articles/2018/01/dbplyr-1-2/) -  the database backend for dplyr,106,FALSE,### Package Releases,link,2018-1-15
++ [tibble 1.4.1](https://www.tidyverse.org/articles/2018/01/tibble-1-4-1/) - Simple Data Frames,95,FALSE,### Package Releases,link,2018-1-15
++ [RStudio Connect 1.5.12](https://blog.rstudio.com/2018/01/12/rstudio-connect-v1-5-12/),88,FALSE,### Package Releases,link,2018-1-15
++ [Le logo ThinkR créé avec la librairie {sf}](https://thinkr.fr/logo-thinkr-cree-avec-librairie-sf/),101,FALSE,###  R Internationally,link,2018-1-15
++ [Presidenciáveis no Twitter](https://medium.com/@ghcarvalho/presidenci%C3%A1veis-no-twitter-5fa2a7ec144b),107,FALSE,###  R Internationally,link,2018-1-15
++ [Deep Learning With Keras To Predict Customer Churn](https://tensorflow.rstudio.com/blog/keras-customer-churn.html),117,FALSE,###  Tutorials,link,2018-1-15
+![Deep Learning With Keras To Predict Customer Churn](https://tensorflow.rstudio.com/blog/images/keras-customer-churn/shiny-application.png),140,FALSE,###  Tutorials,image,2018-1-15
++ [Stepwise Bayesian Optimization with mlrMBO](https://mlr-org.github.io/Stepwise-Bayesian-Optimization-with-mlrMBO/),117,FALSE,###  Tutorials,link,2018-1-15
++ [Simple Probability Trees in R](https://daranzolin.github.io/articles/2018-01/probability-trees),98,FALSE,###  Tutorials,link,2018-1-15
++ [Looking beyond accuracy to improve trust in machine learning](https://shirinsplayground.netlify.com/2018/01/looking_beyond_accuracy_to_improve_trust_in_ml/),159,FALSE,###  Tutorials,link,2018-1-15
++ [Reproducible Shiny App Development with Modules](https://www.blog.cultureofinsight.com/2018/01/reproducible-shiny-app-development-with-modules/),147,FALSE,###  Tutorials,link,2018-1-15
+"+ [Efficient file input, output and storage in R](https://edomt.github.io/File-IO-Storage/)",91,FALSE,###  Tutorials,link,2018-1-15
+"+ [Fitting non-linear regressions with `broom`, `purrr` and `nls.multstart`](https://padpadpadpad.github.io/post/fitting-non-linear-regressions-with-broom-purrr-and-nls.multstart/)",180,FALSE,###  Tutorials,link,2018-1-15
++ [Histogram of length frequency distribution using ggplot2](http://jethroemmanuel.netlify.com/),96,FALSE,###  Tutorials,link,2018-1-15
++ [Bayesian Binomial Test in R](https://silentspring.org/devblog/2018/01/11/bayesian-binomial-test.html),104,FALSE,###  Tutorials,link,2018-1-15
++ [Rainbowing a set of pictures](http://www.masalmon.eu/2018/01/07/rainbowing/),79,FALSE,###  Tutorials,link,2018-1-15
++ [Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data](https://www.rdatagen.net/post/generating-correlated-data-for-a-simulated-cost-effectiveness-analysis/),205,FALSE,###  Tutorials,link,2018-1-15
++ [Solutions to “Installing #ImageMagick for #gganimate R package” errors](https://medium.com/@DaveQuartey/solutions-to-installing-imagemagick-for-gganimate-r-package-errors-8b36d0736f85),187,FALSE,###  Tutorials,link,2018-1-15
++ [Learn your way around the R ecosystem](http://blog.revolutionanalytics.com/2018/01/a-field-guide-to-the-r-ecosystem.html),124,FALSE,###  Tutorials,link,2018-1-15
++ [Building a neural network from scratch in R](http://selbydavid.com/2018/01/09/neural-network/),97,FALSE,###  Tutorials,link,2018-1-15
+"+ [Deep Learning from first principles in Python, R and Octave – Part 2](https://gigadom.wordpress.com/2018/01/11/deep-learning-from-first-principles-in-python-r-and-octave-part-2/)",181,FALSE,###  Tutorials,link,2018-1-15
++ [Some random R benchmarks](http://colinfay.me/random-r-benchmarks/),69,FALSE,###  Tutorials,link,2018-1-15
++ [Fitting a TensorFlow Linear Classifier with tfestimators](https://rviews.rstudio.com/2018/01/12/linear-model-in-tensorflow/),127,FALSE,###  Tutorials,link,2018-1-15
++ [Holy ifelse() statements Batman!](https://austinwehrwein.com/data-visualization/plotting-batman-villains-ggraph/),116,FALSE,###  Tutorials,link,2018-1-15
++ [Building Your Data Science Network: Reaching Out](https://robinsones.github.io/Building-Your-Data-Science-Network-Reaching-Out/),131,FALSE,###  Tutorials,link,2018-1-15
++ [[How to] Include a dancing banana in your R package documentation](http://colinfay.me/dancing-banana-r-package-doc/),119,FALSE,###  Tutorials,link,2018-1-15
+![[How to] Include a dancing banana in your R package documentation](https://github.com/ColinFay/colinfay.github.io/raw/master/_posts/img/dancing-banana-r-package.gif),167,FALSE,###  Tutorials,image,2018-1-15
++ [Introducing Editheme: Palettes and Graphics Matching Your Rstudio Editor ](http://www.pieceofk.fr/?p=530),108,FALSE,###  Tutorials,link,2018-1-15
++ [Hierarchical compartmental reserving models](https://magesblog.com/post/hierarchical-compartmental-reserving-models/),120,FALSE,###  Tutorials,link,2018-1-15
++ [Recode values with character subsetting](https://tjmahr.github.io/recode-values-with-character-subsetting/),110,FALSE,###  Tutorials,link,2018-1-15
++ [Classifying duplicate questions from Quora with Keras](https://tensorflow.rstudio.com/blog/keras-duplicate-questions-quora.html),131,FALSE,###  Tutorials,link,2018-1-15
++ [TWiMLAI talk 88 sketchnotes: Using Deep Learning and Google Street View to Estimate Demographics with Timnit Gebru](https://shirinsplayground.netlify.com/2018/01/twimlai88_sketchnotes/),188,FALSE,###  Tutorials,link,2018-1-15
++ [How to implement neural networks in R](http://blog.revolutionanalytics.com/2018/01/neural-networks-r6.html),110,FALSE,###  Tutorials,link,2018-1-15
++ [Fitting a TensorFlow Linear Classifier with tfestimators](https://rviews.rstudio.com/2018/01/12/linear-model-in-tensorflow/),127,FALSE,###  Tutorials,link,2018-1-15
++ [Services and tools for building intelligent R applications in the cloud](http://blog.revolutionanalytics.com/2018/01/r-cloud-tools.html),139,FALSE,###  Tutorials,link,2018-1-15
++ [Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data](https://www.rdatagen.net/post/generating-correlated-data-for-a-simulated-cost-effectiveness-analysis/),205,FALSE,###  Tutorials,link,2018-1-15
+![Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data](https://www.rdatagen.net/post/2018-01-08-generating-correlated-data-for-a-simulated-cost-effectiveness-analysis_files/figure-html/tau3-1.png),243,FALSE,###  Tutorials,image,2018-1-15
++ [SW10 digs deep](https://thinkr.biz/2018/01/10/sw10-digs-deep/),65,FALSE,###  Tutorials,link,2018-1-15
++ [Simple Probability Trees in R](https://daranzolin.github.io/articles/2018-01/probability-trees),98,FALSE,###  Tutorials,link,2018-1-15
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2018-1-15
++ [A snippet of code I found that explores the licenses on CRAN ](https://gist.github.com/njtierney),100,FALSE,### Gist & Cookbook,link,2018-1-15
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2018-1-15
+"+ `mclapply(X, mc.cores)` now follows its documentation and calls `lapply()` in case `mc.cores = 1` also in the case `mc.preschedule` is false.",143,FALSE,###  R Project Updates,unid,2018-1-15
++ Non-UTF-8 multibyte character handling fixed more permanently (PR#16732).,75,FALSE,###  R Project Updates,unid,2018-1-15
+"+ `sum(<large ints>, <stuff>)` is more consistent.",50,FALSE,###  R Project Updates,unid,2018-1-15
+"+ `rf()` and `rbeta()` now also work correctly when `ncp` is not scalar, notably when (partly) `NA`.",100,FALSE,###  R Project Updates,unid,2018-1-15
+"+ `dput()`, `deparse()` and `dump()` now print the `names()` information only once, using the more readable `(tag = value)` syntax, notably for `list()`s, i.e., including data frames.",183,FALSE,###  R Project Updates,unid,2018-1-15
+"+ These functions gain a new control option `""niceNames""` (see `.deparseOpts()`), which when set (as by default) also uses the `(tag = value)` syntax for atomic vectors. On the other hand, without deparse options `""showAttributes""` and `""niceNames""`, names are no longer shown also for lists. `as.character(list( c (one = 1)))` now includes the name, as `as.character(list(list(one = 1)))` has always done.",406,FALSE,###  R Project Updates,unid,2018-1-15
++ `m:n` now also deparses nicely when m > n.,44,FALSE,###  R Project Updates,unid,2018-1-15
+"+ [R, vous avez dit R ?](https://www.meetup.com/fr-FR/Breizh-Data-Club/events/246482043/) — Breizh Data Club Meetup, January 24th.",130,FALSE,###  Upcoming Events,link,2018-1-15
++ [rOpenSci Community Call](https://ropensci.org/blog/2018/01/03/comm-call-v15/) - Writing Packages to Support Research Communities - zoon & greta,146,FALSE,###  Upcoming Events,link,2018-1-15
+January 30th (January 31 for Australia),39,FALSE,###  Upcoming Events,unid,2018-1-15
++ RStudio conf 2018 **January 31 to February 3** <br />,55,FALSE,###  Upcoming Events,unid,2018-1-15
+[rstudio::conf](https://www.rstudio.com/conference/) is about all things R and RStudio!,87,FALSE,###  Upcoming Events,unid,2018-1-15
++ satRday Cape Town 2018 **March 17** <br />,44,FALSE,###  Upcoming Events,unid,2018-1-15
+[satRday Cape Town](http://capetown2018.satrdays.org/),54,FALSE,###  Upcoming Events,unid,2018-1-15
+<!-- + R/Finance 2018 **June 1 and 2** <br />,45,FALSE,###  Upcoming Events,unid,2018-1-15
+[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,###  Upcoming Events,unid,2018-1-15
+"+ [CascadiaRConf](https://cascadiarconf.com/) **June 2, 2018**",62,FALSE,###  Upcoming Events,link,2018-1-15
+"Portland, OR, US",16,FALSE,###  Upcoming Events,unid,2018-1-15
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **5 & 6 July 2018** <br />,89,FALSE,###  Upcoming Events,link,2018-1-15
+Rennes - Agrocampus,19,FALSE,###  Upcoming Events,unid,2018-1-15
+"+ useR! 2018 **July 10, 2018** <br />",37,FALSE,###  Upcoming Events,unid,2018-1-15
+The annual useR! conference is the main meeting of the international R user and developer community. -->,104,FALSE,###  Upcoming Events,unid,2018-1-15
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events,unid,2018-1-15
++ [Job opening at ThinkR (France)](https://thinkr.fr/rejoindre-thinkr/),71,FALSE,### Jobs,link,2018-1-15
++ [satRday Cape Town 2018](http://capetown2018.satrdays.org/#callforpapers) - Call for papers,93,FALSE,###  Call for Participation,link,2018-1-15
+"+ [eRum 2018 May 14-16, Budapest, Hungary](http://2018.erum.io/#cfp) - Call for papers",86,FALSE,###  Call for Participation,link,2018-1-15
+"+ [R/Finance 2018: Call for Papers](http://blog.fosstrading.com/2018/01/rfinance-2018-call-for-papers.html) : June 1 and 2, 2018 - University of Illinois at Chicago",164,FALSE,###  Call for Participation,link,2018-1-15
+"+ [LatinR - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo, 3 al 7 de septiembre de 2018, Buenoes Aires, Argentina](http://47jaiio.sadio.org.ar/index.php?q=node/125)",191,FALSE,###  Call for Participation,link,2018-1-15
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-1-15
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">👩‍💻 <a href=""https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw"">#rladies</a>! Have you added yourself to our directory yet? 👩‍💻<br><br>💜 If not fill the form at <a href=""https://t.co/fJvMvyNrKG"">https://t.co/fJvMvyNrKG</a> 💜<br><br>Pic credit <a href=""https://twitter.com/dataandme?ref_src=twsrc%5Etfw"">@dataandme</a> <a href=""https://t.co/NliRCebpKx"">pic.twitter.com/NliRCebpKx</a></p>&mdash; R-Ladies Global (@RLadiesGlobal) <a href=""https://twitter.com/RLadiesGlobal/status/951806321166348289?ref_src=twsrc%5Etfw"">12 de gener de 2018</a></blockquote>",644,FALSE,###  Quotes of the Week,unid,2018-1-15
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Twitter and meetups are great ways to meet people in data science. I&#39;ve written some tips for getting started, but as a new tweeter with few followers, tweeting can still feel like shouting into the void. My offer:<a href=""https://t.co/Nm5JsaFVGd"">https://t.co/Nm5JsaFVGd</a> <a href=""https://t.co/c69nIPcQrB"">pic.twitter.com/c69nIPcQrB</a></p>&mdash; Emily Robinson (@robinson_es) <a href=""https://twitter.com/robinson_es/status/951204061151408128?ref_src=twsrc%5Etfw"">10 de gener de 2018</a></blockquote>",582,FALSE,###  Quotes of the Week,unid,2018-1-15
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">After only 3 years using <a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a>, I finally realized you can detach your Source pane and put it on one screen, and let the Console pane occupy more space on the second screen. Now wishing to be able to snap out Environment or Viewer for 3rd screen!<a href=""https://twitter.com/rstudiotips?ref_src=twsrc%5Etfw"">@rstudiotips</a> <a href=""https://twitter.com/hashtag/rstudio?src=hash&amp;ref_src=twsrc%5Etfw"">#rstudio</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/1gjrtcWEUi"">pic.twitter.com/1gjrtcWEUi</a></p>&mdash; Taras Kaduk (@taraskaduk) <a href=""https://twitter.com/taraskaduk/status/951549940504948736?ref_src=twsrc%5Etfw"">11 de gener de 2018</a></blockquote>",869,FALSE,###  Quotes of the Week,unid,2018-1-15

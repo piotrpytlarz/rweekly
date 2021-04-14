@@ -1,64 +1,64 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2016-12-26
-layout: post,12,FALSE,NA,NA,unid,2016-12-26
-title: Issue 31,15,FALSE,NA,NA,unid,2016-12-26
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2016-12-26
----,3,FALSE,NA,NA,unid,2016-12-26
-Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-12-26
-*Digested by R Weekly Members*,30,FALSE,NA,### Highlight,unid,2016-12-26
-+ [Speed Up Your Code: Parallel Processing with multidplyr](http://www.mattdancho.com/code-tools/2016/12/18/multidplyr.html),124,FALSE,NA,### Highlight,link,2016-12-26
-+ [useR! 2017](http://user2017.brussels/) - The annual useR! conference is the main meeting of the international R user and developer community. Its program consists of both invited and user-contributed presentations.,217,FALSE,NA,### Highlight,link,2016-12-26
-+ [DataCamp’s 2017 Conference Guide](http://www.datacamp.com/community/blog/conference-guide-2017),98,FALSE,NA,### Highlight,link,2016-12-26
-+ [R graphs and tables in Power BI Desktop](https://tomaztsql.wordpress.com/2016/12/18/r-graphs-and-tables-in-power-bi-desktop),127,FALSE,NA,### Tutorials,link,2016-12-26
-+ [ggtree version of plotTree](https://guangchuangyu.github.io/2016/12/ggtree-version-of-plottree/),99,FALSE,NA,### Tutorials,link,2016-12-26
-![ggtree](https://cdn.rawgit.com/rweekly/image/master/2016-12-26/facet_plot_bar2.png),85,FALSE,NA,### Tutorials,image,2016-12-26
-+ [A Simple Example of Using replyr::gapply](http://www.win-vector.com/blog/2016/12/a-simple-example-of-using-replyrgapply/),124,FALSE,NA,### Tutorials,link,2016-12-26
-+ [Pipes (%>%) Everywhere](https://rud.is/b/2016/12/22/pipes-everywhere/),73,FALSE,NA,### Tutorials,link,2016-12-26
-+ [Comparative examples using replyr:let](http://www.win-vector.com/blog/2016/12/comparative-examples-using-replyrlet/),119,FALSE,NA,### Tutorials,link,2016-12-26
-"+ [Exploring the European Social Survey (ESS) – pipe-friendly workflow with sjmisc, part 2 #rstats #tidyverse](https://strengejacke.wordpress.com/2016/12/22/exploring-the-european-social-survey-ess-pipe-friendly-workflow-with-sjmisc-part-2-rstats-tidyverse/)",258,FALSE,NA,### Tutorials,link,2016-12-26
-+ [TrelliscopeJS with Plotly](http://ryanhafen.com/blog/trelliscopejs-plotly),77,FALSE,NA,### Tutorials,link,2016-12-26
-+ [suRprise! – Classifying Kinder Eggs by Boosting](http://staff.math.su.se/hoehle/blog/2016/12/23/surprise.html),113,FALSE,NA,### Tutorials,link,2016-12-26
-+ [Price Volatility – Basic Brownian Motion](https://stoltzmaniac.com/price-volatility-basic-brownian-motion/),110,FALSE,NA,### Tutorials,link,2016-12-26
-+ [Ordering Categories within ggplot2 Facets](https://trinkerrstuff.wordpress.com/2016/12/23/ordering-categories-within-ggplot2-facets/),136,FALSE,NA,### Tutorials,link,2016-12-26
-![Ordering Categories within ggplot2 Facets](https://i0.wp.com/i.imgur.com/iLSLioq.png),87,FALSE,NA,### Tutorials,image,2016-12-26
-+ [Inspecting R in GDB (with Python)](https://random-remarks.net/2016/12/21/inspecting-r-in-gdb-with-python/),109,FALSE,NA,### Tutorials,link,2016-12-26
-+ [Work on lists of datasets instead of individual datasets by using functional programming](http://www.brodrigues.co/blog/2016-12-21-work-on-lists-of-datasets-instead-of-individual-datasets-by-using-functional-programming/),224,FALSE,NA,### Tutorials,link,2016-12-26
-+ [sergeant : An R Boot Camp for Apache Drill](https://rud.is/b/2016/12/20/sergeant-a-r-boot-camp-for-apache-drill/),116,FALSE,NA,### Tutorials,link,2016-12-26
-+ [Why Type 1 errors are more important than Type 2 errors (if you care about evidence)](http://daniellakens.blogspot.com/2016/12/why-type-1-errors-are-more-important.html),172,FALSE,NA,### Tutorials,link,2016-12-26
-+ [Speed Up Your Code: Parallel Processing with multidplyr](http://www.mattdancho.com/code-tools/2016/12/18/multidplyr.html),124,FALSE,NA,### Tutorials,link,2016-12-26
-+ [Tree Troubles - Predicting Sidewalk Damage Resulting From Trees In NYC](http://blog.nycdatascience.com/student-works/capstone/tree-troubles-predicting-sidewalk-damage-resulting-trees-nyc/),191,FALSE,NA,### R in the Real World,link,2016-12-26
-+ [How to build a Shiny app for disease- & trait-associated locations of the human genome](https://shiring.github.io/genome/2016/12/18/gwas_catalog_post),153,FALSE,NA,### R in the Real World,link,2016-12-26
-+ [Merry ChRistmas!](http://blog.revolutionanalytics.com/2016/12/merry-christmas.html),86,FALSE,NA,### R in the Real World,link,2016-12-26
-+ [Merry Christmas 2016 (with R)](http://unamatematicaseltigre.blogspot.com/2016/12/merry-christmas-2016-with-r.html),117,FALSE,NA,### R in the Real World,link,2016-12-26
-+ [Animating Plots of Beer Ingredients and Sin Taxes over Time](https://shiring.github.io/animation/2016/12/22/alcohol_post),124,FALSE,NA,### R in the Real World,link,2016-12-26
-![Animating Plots of Beer Ingredients and Sin Taxes over Time](https://shiring.github.io/animation/2016/12/22/alcohol_post_files/figure-markdown_github/unnamed-chunk-6-1.png),174,FALSE,NA,### R in the Real World,image,2016-12-26
-+ [Spatial microsimulation 101](http://philmikejones.me/post/2016-12-21-spatial-microsimulation-101/),101,FALSE,NA,### R in the Real World,link,2016-12-26
-"+ [:fr: All I want for Christmas is a #Dataviz](http://colinfay.me/all-i-want-for-christmas-is-a-dataviz/)- [English, Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://colinfay.me/all-i-want-for-christmas-is-a-dataviz/)",248,FALSE,NA,### International R,link,2016-12-26
-![Christmas lastfm](https://cdn.rawgit.com/rweekly/image/master/2016-12-26/songs-last-fm-christmas.jpeg),104,FALSE,NA,### International R,image,2016-12-26
-+ [R for Enterprise: How to Scale Your Analytics Using R](https://www.rstudio.com/rviews/2016/12/21/r-for-enterprise-how-to-scale-your-analytics-using-r/),154,FALSE,NA,### R in Organization,link,2016-12-26
-+ [Take a Test Drive of the Linux Data Science Virtual Machine](http://blog.revolutionanalytics.com/2016/12/dsvm-test-drive.html),129,FALSE,NA,### R in Organization,link,2016-12-26
-+ [#Rstatsgoes10k – eoda is hosting a contest in celebration of R](https://blog.eoda.de/2016/12/21/rstatsgoes10k-eoda-is-hosting-a-contest-in-celebration-of-r/),160,FALSE,NA,### R in Organization,link,2016-12-26
-+ [Shiny App for MBA Interviews](http://enelmargen.org/datascience/mba-shiny/),78,FALSE,NA,### R in Academia,link,2016-12-26
-"+ [An Interview With Ron Pearson, author of Data Visualization in R](https://www.datacamp.com/community/blog/an-interview-with-ron-pearson-author-of-data-visualization-in-r)",173,FALSE,NA,### Videos and Podcasts,link,2016-12-26
-"+ [NSSD 29 Standards are Like Toothbrushes](https://soundcloud.com/nssd-podcast/episode-29-standards-are-like-toothbrushes)  - Roger talk with Daniel Morgan, Chief Data Officer for the U.S. Department of Transportation and Terah Lyons, Policy Advisor to the Chief Technology Officer of the U.S. The discussion covered open data, the process of making data available, standards for data formats (and their relation to toothbrushes), and of course—automated vehicles.",465,FALSE,NA,### Videos and Podcasts,link,2016-12-26
-+ [DataCamp’s 2017 Conference Guide](http://www.datacamp.com/community/blog/conference-guide-2017),98,FALSE,NA,### Resources,link,2016-12-26
-+ [pals](https://github.com/kwstat/pals/blob/master/README.md) - Color Palettes and Palette Evaluation Tools,108,FALSE,NA,### New Packages and Tools,link,2016-12-26
-"+ [AnyChart](https://github.com/anychart-integrations/r-shiny-mysql-template) –  JS Charts integration template for R, Shiny and MySQL.",135,FALSE,NA,### New Packages and Tools,link,2016-12-26
-+ [finch](http://ropensci.org/blog/technotes/2016/12/23/finch-release) – parse Darwin Core files,96,FALSE,NA,### New Packages and Tools,link,2016-12-26
-+ [AzureSMR](http://blog.revolutionanalytics.com/2016/12/azuresmr.html) - Introducing the AzureSMR package: Manage Azure services from your R session,149,FALSE,NA,### New Packages and Tools,link,2016-12-26
-+ [longurl 0.3.0](https://rud.is/b/2016/12/18/package-update-longurl-0-3-0-is-hitting-cran-mirrors/) - Package update: longurl 0.3.0 is hitting CRAN mirrors,156,FALSE,NA,### New Releases,link,2016-12-26
-+ [forecastHybrid 0.3.0](http://ellisp.github.io/blog/2016/12/24/forecastHybrid-0.3) - forecastHybrid 0.3.0 on CRAN,115,FALSE,NA,### New Releases,link,2016-12-26
-+ [ShinyProxy 0.8.0](https://www.openanalytics.eu/blog/shinyproxy-080) - Deploy Shiny apps for the enterprise or larger organizations.,134,FALSE,NA,### New Releases,link,2016-12-26
-+ [anytime 0.2.0](http://dirk.eddelbuettel.com/blog/2016/12/24/#anytime_0.2.0) - Parse anything to Date(time) in R.,115,FALSE,NA,### New Releases,link,2016-12-26
-"Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),",79,FALSE,NA,### R Project Updates,unid,2016-12-26
-+ The (default) Stangle driver `Rtangle` allows `annotate` to be a function and gets a new `drop.evalFALSE` option.,115,FALSE,NA,### R Project Updates,unid,2016-12-26
-+ New function `check_packages_in_dir_details()` in package `tools` for analyzing check log files to obtain check details.,122,FALSE,NA,### R Project Updates,unid,2016-12-26
-"+ Package `tools` now exports function `CRAN_package_db()` for obtaining information about current packages in the CRAN package repository, and several functions for obtaining the check status of these packages.",211,FALSE,NA,### R Project Updates,unid,2016-12-26
-"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 12 and 14, 2017** <br>",93,FALSE,NA,### Upcoming Events,link,2016-12-26
-The conference about all things R and RStudio.<br />,52,FALSE,NA,### Upcoming Events,unid,2016-12-26
-"+ [SatRday #2 Conference - Cape Town, South Africa](http://capetown2017.satrdays.org/) **18 Feb, 2017** <br />",110,FALSE,NA,### Upcoming Events,link,2016-12-26
-"The R community and some of South Africa's most forward thinking companies have come together to bring satRday to Cape Town. This conference brings an opportunity to hear from and network with top Researchers, Data Scientists and Developers from all over the country and the world.",281,FALSE,NA,### Upcoming Events,unid,2016-12-26
-"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,### Upcoming Events,link,2016-12-26
-The annual useR! conference is the main meeting of the international R user and developer community. Its program consists of both invited and user-contributed presentations.  <br />,181,FALSE,NA,### Upcoming Events,unid,2016-12-26
-"<blockquote class=""twitter-tweet"" data-lang=""zh-cn""><p lang=""en"" dir=""ltr"">My Christmas gift to you all: The source code for making this <a href=""https://t.co/WijMRZyEu3"">https://t.co/WijMRZyEu3</a><a href=""https://twitter.com/hashtag/ggforce?src=hash"">#ggforce</a> <a href=""https://twitter.com/hashtag/tweenr?src=hash"">#tweenr</a> <a href=""https://twitter.com/hashtag/ggplot2?src=hash"">#ggplot2</a> <a href=""https://twitter.com/hashtag/dataviz?src=hash"">#dataviz</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://twitter.com/hashtag/dataart?src=hash"">#dataart</a> <a href=""https://t.co/m6naHSjaiT"">pic.twitter.com/m6naHSjaiT</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href=""https://twitter.com/thomasp85/status/811537760783912960"">2016年12月21日</a></blockquote>",805,FALSE,NA,### Quotes of the Week,unid,2016-12-26
-"<blockquote class=""twitter-tweet"" data-lang=""zh-cn""><p lang=""en"" dir=""ltr"">I built a nanodrop in <a href=""https://twitter.com/hashtag/Rstats?src=hash"">#Rstats</a>. <br><br>Early results suggest very similar performance to the real thing. <br><br>(ping <a href=""https://twitter.com/PatSchloss"">@PatSchloss</a>). <a href=""https://t.co/N8lCZjqzfu"">pic.twitter.com/N8lCZjqzfu</a></p>&mdash; Robert Lanfear (@RobLanfear) <a href=""https://twitter.com/RobLanfear/status/811777568772718592"">2016年12月22日</a></blockquote>",511,FALSE,NA,### Quotes of the Week,unid,2016-12-26
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2016-12-26
+layout: post,12,FALSE,NA,unid,2016-12-26
+title: Issue 31,15,FALSE,NA,unid,2016-12-26
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2016-12-26
+---,3,FALSE,NA,unid,2016-12-26
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,unid,2016-12-26
+*Digested by R Weekly Members*,30,FALSE,### Highlight,unid,2016-12-26
++ [Speed Up Your Code: Parallel Processing with multidplyr](http://www.mattdancho.com/code-tools/2016/12/18/multidplyr.html),124,FALSE,### Highlight,link,2016-12-26
++ [useR! 2017](http://user2017.brussels/) - The annual useR! conference is the main meeting of the international R user and developer community. Its program consists of both invited and user-contributed presentations.,217,FALSE,### Highlight,link,2016-12-26
++ [DataCamp’s 2017 Conference Guide](http://www.datacamp.com/community/blog/conference-guide-2017),98,FALSE,### Highlight,link,2016-12-26
++ [R graphs and tables in Power BI Desktop](https://tomaztsql.wordpress.com/2016/12/18/r-graphs-and-tables-in-power-bi-desktop),127,FALSE,### Tutorials,link,2016-12-26
++ [ggtree version of plotTree](https://guangchuangyu.github.io/2016/12/ggtree-version-of-plottree/),99,FALSE,### Tutorials,link,2016-12-26
+![ggtree](https://cdn.rawgit.com/rweekly/image/master/2016-12-26/facet_plot_bar2.png),85,FALSE,### Tutorials,image,2016-12-26
++ [A Simple Example of Using replyr::gapply](http://www.win-vector.com/blog/2016/12/a-simple-example-of-using-replyrgapply/),124,FALSE,### Tutorials,link,2016-12-26
++ [Pipes (%>%) Everywhere](https://rud.is/b/2016/12/22/pipes-everywhere/),73,FALSE,### Tutorials,link,2016-12-26
++ [Comparative examples using replyr:let](http://www.win-vector.com/blog/2016/12/comparative-examples-using-replyrlet/),119,FALSE,### Tutorials,link,2016-12-26
+"+ [Exploring the European Social Survey (ESS) – pipe-friendly workflow with sjmisc, part 2 #rstats #tidyverse](https://strengejacke.wordpress.com/2016/12/22/exploring-the-european-social-survey-ess-pipe-friendly-workflow-with-sjmisc-part-2-rstats-tidyverse/)",258,FALSE,### Tutorials,link,2016-12-26
++ [TrelliscopeJS with Plotly](http://ryanhafen.com/blog/trelliscopejs-plotly),77,FALSE,### Tutorials,link,2016-12-26
++ [suRprise! – Classifying Kinder Eggs by Boosting](http://staff.math.su.se/hoehle/blog/2016/12/23/surprise.html),113,FALSE,### Tutorials,link,2016-12-26
++ [Price Volatility – Basic Brownian Motion](https://stoltzmaniac.com/price-volatility-basic-brownian-motion/),110,FALSE,### Tutorials,link,2016-12-26
++ [Ordering Categories within ggplot2 Facets](https://trinkerrstuff.wordpress.com/2016/12/23/ordering-categories-within-ggplot2-facets/),136,FALSE,### Tutorials,link,2016-12-26
+![Ordering Categories within ggplot2 Facets](https://i0.wp.com/i.imgur.com/iLSLioq.png),87,FALSE,### Tutorials,image,2016-12-26
++ [Inspecting R in GDB (with Python)](https://random-remarks.net/2016/12/21/inspecting-r-in-gdb-with-python/),109,FALSE,### Tutorials,link,2016-12-26
++ [Work on lists of datasets instead of individual datasets by using functional programming](http://www.brodrigues.co/blog/2016-12-21-work-on-lists-of-datasets-instead-of-individual-datasets-by-using-functional-programming/),224,FALSE,### Tutorials,link,2016-12-26
++ [sergeant : An R Boot Camp for Apache Drill](https://rud.is/b/2016/12/20/sergeant-a-r-boot-camp-for-apache-drill/),116,FALSE,### Tutorials,link,2016-12-26
++ [Why Type 1 errors are more important than Type 2 errors (if you care about evidence)](http://daniellakens.blogspot.com/2016/12/why-type-1-errors-are-more-important.html),172,FALSE,### Tutorials,link,2016-12-26
++ [Speed Up Your Code: Parallel Processing with multidplyr](http://www.mattdancho.com/code-tools/2016/12/18/multidplyr.html),124,FALSE,### Tutorials,link,2016-12-26
++ [Tree Troubles - Predicting Sidewalk Damage Resulting From Trees In NYC](http://blog.nycdatascience.com/student-works/capstone/tree-troubles-predicting-sidewalk-damage-resulting-trees-nyc/),191,FALSE,### R in the Real World,link,2016-12-26
++ [How to build a Shiny app for disease- & trait-associated locations of the human genome](https://shiring.github.io/genome/2016/12/18/gwas_catalog_post),153,FALSE,### R in the Real World,link,2016-12-26
++ [Merry ChRistmas!](http://blog.revolutionanalytics.com/2016/12/merry-christmas.html),86,FALSE,### R in the Real World,link,2016-12-26
++ [Merry Christmas 2016 (with R)](http://unamatematicaseltigre.blogspot.com/2016/12/merry-christmas-2016-with-r.html),117,FALSE,### R in the Real World,link,2016-12-26
++ [Animating Plots of Beer Ingredients and Sin Taxes over Time](https://shiring.github.io/animation/2016/12/22/alcohol_post),124,FALSE,### R in the Real World,link,2016-12-26
+![Animating Plots of Beer Ingredients and Sin Taxes over Time](https://shiring.github.io/animation/2016/12/22/alcohol_post_files/figure-markdown_github/unnamed-chunk-6-1.png),174,FALSE,### R in the Real World,image,2016-12-26
++ [Spatial microsimulation 101](http://philmikejones.me/post/2016-12-21-spatial-microsimulation-101/),101,FALSE,### R in the Real World,link,2016-12-26
+"+ [:fr: All I want for Christmas is a #Dataviz](http://colinfay.me/all-i-want-for-christmas-is-a-dataviz/)- [English, Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://colinfay.me/all-i-want-for-christmas-is-a-dataviz/)",248,FALSE,### International R,link,2016-12-26
+![Christmas lastfm](https://cdn.rawgit.com/rweekly/image/master/2016-12-26/songs-last-fm-christmas.jpeg),104,FALSE,### International R,image,2016-12-26
++ [R for Enterprise: How to Scale Your Analytics Using R](https://www.rstudio.com/rviews/2016/12/21/r-for-enterprise-how-to-scale-your-analytics-using-r/),154,FALSE,### R in Organization,link,2016-12-26
++ [Take a Test Drive of the Linux Data Science Virtual Machine](http://blog.revolutionanalytics.com/2016/12/dsvm-test-drive.html),129,FALSE,### R in Organization,link,2016-12-26
++ [#Rstatsgoes10k – eoda is hosting a contest in celebration of R](https://blog.eoda.de/2016/12/21/rstatsgoes10k-eoda-is-hosting-a-contest-in-celebration-of-r/),160,FALSE,### R in Organization,link,2016-12-26
++ [Shiny App for MBA Interviews](http://enelmargen.org/datascience/mba-shiny/),78,FALSE,### R in Academia,link,2016-12-26
+"+ [An Interview With Ron Pearson, author of Data Visualization in R](https://www.datacamp.com/community/blog/an-interview-with-ron-pearson-author-of-data-visualization-in-r)",173,FALSE,### Videos and Podcasts,link,2016-12-26
+"+ [NSSD 29 Standards are Like Toothbrushes](https://soundcloud.com/nssd-podcast/episode-29-standards-are-like-toothbrushes)  - Roger talk with Daniel Morgan, Chief Data Officer for the U.S. Department of Transportation and Terah Lyons, Policy Advisor to the Chief Technology Officer of the U.S. The discussion covered open data, the process of making data available, standards for data formats (and their relation to toothbrushes), and of course—automated vehicles.",465,FALSE,### Videos and Podcasts,link,2016-12-26
++ [DataCamp’s 2017 Conference Guide](http://www.datacamp.com/community/blog/conference-guide-2017),98,FALSE,### Resources,link,2016-12-26
++ [pals](https://github.com/kwstat/pals/blob/master/README.md) - Color Palettes and Palette Evaluation Tools,108,FALSE,### New Packages and Tools,link,2016-12-26
+"+ [AnyChart](https://github.com/anychart-integrations/r-shiny-mysql-template) –  JS Charts integration template for R, Shiny and MySQL.",135,FALSE,### New Packages and Tools,link,2016-12-26
++ [finch](http://ropensci.org/blog/technotes/2016/12/23/finch-release) – parse Darwin Core files,96,FALSE,### New Packages and Tools,link,2016-12-26
++ [AzureSMR](http://blog.revolutionanalytics.com/2016/12/azuresmr.html) - Introducing the AzureSMR package: Manage Azure services from your R session,149,FALSE,### New Packages and Tools,link,2016-12-26
++ [longurl 0.3.0](https://rud.is/b/2016/12/18/package-update-longurl-0-3-0-is-hitting-cran-mirrors/) - Package update: longurl 0.3.0 is hitting CRAN mirrors,156,FALSE,### New Releases,link,2016-12-26
++ [forecastHybrid 0.3.0](http://ellisp.github.io/blog/2016/12/24/forecastHybrid-0.3) - forecastHybrid 0.3.0 on CRAN,115,FALSE,### New Releases,link,2016-12-26
++ [ShinyProxy 0.8.0](https://www.openanalytics.eu/blog/shinyproxy-080) - Deploy Shiny apps for the enterprise or larger organizations.,134,FALSE,### New Releases,link,2016-12-26
++ [anytime 0.2.0](http://dirk.eddelbuettel.com/blog/2016/12/24/#anytime_0.2.0) - Parse anything to Date(time) in R.,115,FALSE,### New Releases,link,2016-12-26
+"Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),",79,FALSE,### R Project Updates,unid,2016-12-26
++ The (default) Stangle driver `Rtangle` allows `annotate` to be a function and gets a new `drop.evalFALSE` option.,115,FALSE,### R Project Updates,unid,2016-12-26
++ New function `check_packages_in_dir_details()` in package `tools` for analyzing check log files to obtain check details.,122,FALSE,### R Project Updates,unid,2016-12-26
+"+ Package `tools` now exports function `CRAN_package_db()` for obtaining information about current packages in the CRAN package repository, and several functions for obtaining the check status of these packages.",211,FALSE,### R Project Updates,unid,2016-12-26
+"+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 12 and 14, 2017** <br>",93,FALSE,### Upcoming Events,link,2016-12-26
+The conference about all things R and RStudio.<br />,52,FALSE,### Upcoming Events,unid,2016-12-26
+"+ [SatRday #2 Conference - Cape Town, South Africa](http://capetown2017.satrdays.org/) **18 Feb, 2017** <br />",110,FALSE,### Upcoming Events,link,2016-12-26
+"The R community and some of South Africa's most forward thinking companies have come together to bring satRday to Cape Town. This conference brings an opportunity to hear from and network with top Researchers, Data Scientists and Developers from all over the country and the world.",281,FALSE,### Upcoming Events,unid,2016-12-26
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,### Upcoming Events,link,2016-12-26
+The annual useR! conference is the main meeting of the international R user and developer community. Its program consists of both invited and user-contributed presentations.  <br />,181,FALSE,### Upcoming Events,unid,2016-12-26
+"<blockquote class=""twitter-tweet"" data-lang=""zh-cn""><p lang=""en"" dir=""ltr"">My Christmas gift to you all: The source code for making this <a href=""https://t.co/WijMRZyEu3"">https://t.co/WijMRZyEu3</a><a href=""https://twitter.com/hashtag/ggforce?src=hash"">#ggforce</a> <a href=""https://twitter.com/hashtag/tweenr?src=hash"">#tweenr</a> <a href=""https://twitter.com/hashtag/ggplot2?src=hash"">#ggplot2</a> <a href=""https://twitter.com/hashtag/dataviz?src=hash"">#dataviz</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://twitter.com/hashtag/dataart?src=hash"">#dataart</a> <a href=""https://t.co/m6naHSjaiT"">pic.twitter.com/m6naHSjaiT</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href=""https://twitter.com/thomasp85/status/811537760783912960"">2016年12月21日</a></blockquote>",805,FALSE,### Quotes of the Week,unid,2016-12-26
+"<blockquote class=""twitter-tweet"" data-lang=""zh-cn""><p lang=""en"" dir=""ltr"">I built a nanodrop in <a href=""https://twitter.com/hashtag/Rstats?src=hash"">#Rstats</a>. <br><br>Early results suggest very similar performance to the real thing. <br><br>(ping <a href=""https://twitter.com/PatSchloss"">@PatSchloss</a>). <a href=""https://t.co/N8lCZjqzfu"">pic.twitter.com/N8lCZjqzfu</a></p>&mdash; Robert Lanfear (@RobLanfear) <a href=""https://twitter.com/RobLanfear/status/811777568772718592"">2016年12月22日</a></blockquote>",511,FALSE,### Quotes of the Week,unid,2016-12-26

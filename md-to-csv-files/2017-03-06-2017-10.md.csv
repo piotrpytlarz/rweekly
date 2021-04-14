@@ -1,103 +1,103 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2017-03-06
-layout: post,12,FALSE,NA,NA,unid,2017-03-06
-title: R Weekly 2017 Issue 10,29,FALSE,NA,NA,unid,2017-03-06
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-03-06
-is_podcast: true,16,FALSE,NA,NA,unid,2017-03-06
-podcast_title: 2017:10 The future is here,41,FALSE,NA,NA,unid,2017-03-06
-podcast_permalink: https://cloud.rweekly.org/2017-10.mp3,56,FALSE,NA,NA,unid,2017-03-06
-podcast_description: |,22,FALSE,NA,NA,unid,2017-03-06
-  <![CDATA[,11,FALSE,NA,NA,unid,2017-03-06
-"  <p>Joanna and Russell talk about San Francisco home prices, Base R vs ggplot2, MongoDB, R Forwards taskforce and more.</p>",124,FALSE,NA,NA,unid,2017-03-06
-  <ul>,6,FALSE,NA,NA,unid,2017-03-06
-"  <li>Read <a href=""https://www.rweekly.org/2017-10.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 10</a></li>",116,FALSE,NA,NA,unid,2017-03-06
-"  <li><a href=""http://freemusicarchive.org/music/gillicuddy/Plays_Guitar_Again/01-adventure-darling"">Music by Gillicuddy</a></li>",129,FALSE,NA,NA,unid,2017-03-06
-  </ul>,7,FALSE,NA,NA,unid,2017-03-06
-  <p></p>,9,FALSE,NA,NA,unid,2017-03-06
-  <ul>   ,9,FALSE,NA,NA,unid,2017-03-06
-"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>   <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>  ",153,FALSE,NA,NA,unid,2017-03-06
-"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,NA,unid,2017-03-06
-  </ul>,7,FALSE,NA,NA,unid,2017-03-06
-  ]]>,5,FALSE,NA,NA,unid,2017-03-06
-podcast_size: 9569116,21,FALSE,NA,NA,unid,2017-03-06
-"podcast_duration: ""6:30""",24,FALSE,NA,NA,unid,2017-03-06
-"podcast_summary: Joanna and Russell talk about San Francisco home prices, Base R vs ggplot2, MongoDB, R Forwards taskforce and more. Read R Weekly 2017 issue 10 on RWeekly.org.",176,FALSE,NA,NA,unid,2017-03-06
-"podcast_keywords: "", MongoDB, ggplot2""",38,FALSE,NA,NA,unid,2017-03-06
-podcast_subtitle: The future is here,36,FALSE,NA,NA,unid,2017-03-06
----,3,FALSE,NA,NA,unid,2017-03-06
-+ [kableExtra](https://github.com/haozhu233/kableExtra) - Construct Complex Table with `knitr::kable()` + pipe,110,FALSE,NA,### Highlight,link,2017-03-06
-+ [R Weekly Podcast 2017:10 The future is here](https://www.youtube.com/watch?v=419Mxr0GgNU) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml),164,FALSE,NA,### Highlight,link,2017-03-06
-<!-- !Vinylspotting: A shiny app to explore your record collection](https://ewenme.github.io/blog/Vinylspotting/)-->,116,FALSE,NA,### R in the Real World,unid,2017-03-06
-+ [Gender gap in Swedish mortality](https://ikashnitsky.github.io/2017/gender-gap-in-swedish-mortality/),104,FALSE,NA,### R in the Real World,link,2017-03-06
-![Gender gap in Swedish mortality](https://cdn.rawgit.com/rweekly/image/ad04b0cb/2017-03/sweden2.png),101,FALSE,NA,### R in the Real World,image,2017-03-06
-"+ [Predicting the length of a hospital stay, with R](http://blog.revolutionanalytics.com/2017/03/hospital-length-of-stay.html)",126,FALSE,NA,### R in the Real World,link,2017-03-06
-"+ [Sentiment Analysis of the Four Gospels, Part I](https://daranzolin.github.io/articles/2017-03/gospels_sentiment_parti)",121,FALSE,NA,### R in the Real World,link,2017-03-06
-+ [A glance at R-bloggers Twitter feed](http://maelle.github.io/2017/02/28/rbloggerstweets/),92,FALSE,NA,### R in the Real World,link,2017-03-06
-+ [Success rates of appeals to the Supreme Court by Circuit](http://ellisp.github.io/blog/2017/02/26/appeal-circuits),117,FALSE,NA,### R in the Real World,link,2017-03-06
-![Success rates of appeals to the Supreme Court by Circuit](https://ellisp.github.io/img/0081-bars.svg),103,FALSE,NA,### R in the Real World,image,2017-03-06
-+ [US Babyname Collisions 1880-2014](http://staff.math.su.se/hoehle/blog/2017/03/01/morebabynames.html),103,FALSE,NA,### R in the Real World,link,2017-03-06
-![US Babyname Collisions 1880-2014](https://cdn.rawgit.com/rweekly/image/915b33da/2017-03/COLLIDEPROBTS-1.png),110,FALSE,NA,### R in the Real World,image,2017-03-06
-+ [WHO Tuberculosis Data & ggplot2](https://eugejjoh.wordpress.com/2017/03/03/who-tuberculosis-data-ggplot2/),109,FALSE,NA,### R in the Real World,link,2017-03-06
-"+ [Playing with dimensions: from Clustering, PCA, t-SNE… to Carl Sagan!](http://blog.datascienceheroes.com/playing-with-dimensions-from-clustering-pca-t-sne-to-carl-sagan/)",172,FALSE,NA,### R in the Real World,link,2017-03-06
-+ [Mapping San Francisco home prices using R](http://urbanspatialanalysis.com/dataviz-tutorial-mapping-san-francisco-home-prices-using-r/),138,FALSE,NA,### R in the Real World,link,2017-03-06
-![Mapping San Francisco home prices using R](https://cdn.rawgit.com/rweekly/image/915b33da/2017-03/plot4_point-map-e1487598425346-792x508.png),142,FALSE,NA,### R in the Real World,image,2017-03-06
-+ [Sentiment Analysis of The Lord Of The Rings with tidytext](http://www.jakubglinka.com/2017-03-01-text_mining_part1/),119,FALSE,NA,### R in the Real World,link,2017-03-06
-+ [How to create correlation network plots with corrr and ggraph](http://drsimonj.svbtle.com/how-to-create-correlation-network-plots-with-corrr-and-ggraph) - and which countries drink like Australia,198,FALSE,NA,### R in the Real World,link,2017-03-06
-![How to create correlation network plots with corrr and ggraph](https://svbtleusercontent.com/ledio2c1v3ql2q_small.jpeg),121,FALSE,NA,### R in the Real World,image,2017-03-06
-+ [Disney Names](https://kkulma.github.io/2017-02-28-disney-names/) - My goal is to analyse how frequency of names found among Disney female characters changed over time in the US.,180,FALSE,NA,### R in the Real World,link,2017-03-06
-+ [Strange R Things](https://rpubs.com/dbecker7/StrangeRThings) - You will find a compendium of the strange and unique things that you can do in R.,147,FALSE,NA,### Insights,link,2017-03-06
-+ [Fast data lookups in R: dplyr vs data.table](http://blog.appsilondatascience.com/rstats/2017/03/02/r-fast-lookup.html),121,FALSE,NA,### Insights,link,2017-03-06
-+ [The R Formula Method: The Bad Parts](https://www.rstudio.com/rviews/2017/03/01/the-r-formula-method-the-bad-parts/),118,FALSE,NA,### Insights,link,2017-03-06
-+ [testing R code [book review]](https://xianblog.wordpress.com/2017/03/01/testing-r-code-book-review/),103,FALSE,NA,### Insights,link,2017-03-06
-+ [Contributing to vegalite](http://www.json.blog/2017/03/contributing-to-vegalite/) - One of my goals for 2017 is to contribute more to the R open source community.,165,FALSE,NA,### Insights,link,2017-03-06
-+ [Premiers pas en Machine Learning avec R. Volume 1 : la régression linéaire simple](http://www.thinkr.fr/premiers-machine-learning-r-volume-1-regression-lineaire-simple/) - [English - autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/premiers-machine-learning-r-volume-1-regression-lineaire-simple/),343,FALSE,NA,### R Internationally,link,2017-03-06
-+ [Scholarships encourage diversity at useR!2017](http://blog.revolutionanalytics.com/2017/03/diversity-scholarships.html),122,FALSE,NA,### R in Organizations,link,2017-03-06
-+ [OpenML tutorial at useR!2017 Brussels](https://mlr-org.github.io/OpenML-tutorial-at-useR/),93,FALSE,NA,### R in Organizations,link,2017-03-06
-+ [Create an heatmap with R and ggplot2](http://colinfay.me/create-an-heatmap-with-r-and-ggplot2/),98,FALSE,NA,### Tutorials,link,2017-03-06
-+ [Candy Coated Confidence Intervals](https://rud.is/b/2017/03/03/candy-coated-confidence-intervals/) -  `real` M&M’s as the point `geom` with `ggimage` package.,161,FALSE,NA,### Tutorials,link,2017-03-06
-+ [Self-Service Adobe Analytics Data Feeds!](http://randyzwitch.com/adobe-clickstream-data-feed-self-service-admin-panel/),122,FALSE,NA,### Tutorials,link,2017-03-06
-+ [Iterated Principal Factor Method of Factor Analysis with R](http://www.aaronschlegel.com/iterated-principal-factor-method-factor-analysis-r/),144,FALSE,NA,### Tutorials,link,2017-03-06
-+ [Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart](https://shiring.github.io/machine_learning/2017/02/27/h2o),149,FALSE,NA,### Tutorials,link,2017-03-06
-+ [Labeling Data with purrr](http://www.json.blog/2017/03/labeling-data-with-purrr/),84,FALSE,NA,### Tutorials,link,2017-03-06
-+ [wrapr: for sweet R code](http://www.win-vector.com/blog/2017/03/wrapr-for-sweet-r-code/),91,FALSE,NA,### Tutorials,link,2017-03-06
-+ [Giving a Thematic Touch to your Interactive Chart](http://jkunst.com/r/giving-a-thematic-touch-to-your-interactive-chart/),125,FALSE,NA,### Tutorials,link,2017-03-06
-![Giving a Thematic Touch to your Interactive Chart](https://cdn.rawgit.com/rweekly/image/915b33da/2017-03/water.png),117,FALSE,NA,### Tutorials,image,2017-03-06
-+ [Web data acquisition: understanding RCurl from the command line](http://r-posts.com/web-data-acquisition-understanding-rcurl-from-the-command-line-part-1/),158,FALSE,NA,### Tutorials,link,2017-03-06
-+ [February ’17 Tips and Tricks](https://www.rstudio.com/rviews/2017/03/03/february-17-tips-and-tricks/),104,FALSE,NA,### Tutorials,link,2017-03-06
-+ [vtreat: prepare data](http://www.win-vector.com/blog/2017/03/vtreat-prepare-data/),85,FALSE,NA,### Tutorials,link,2017-03-06
-+ [Using MongoDB with R](https://datascienceplus.com/using-mongodb-with-r/),75,FALSE,NA,### Tutorials,link,2017-03-06
-+ [How to annotate a plot in ggplot2](http://sharpsightlabs.com/blog/simple-annotate-plot-ggplot2/),99,FALSE,NA,### Tutorials,link,2017-03-06
-+ [Make your R simulation models 20 times faster](http://www.seascapemodels.org/rstats/2017/02/26/speeding-up-sims.html),120,FALSE,NA,### Tutorials,link,2017-03-06
-+ [Tree-based univariate testing](https://edwinth.github.io/blog/tree-based-kappa/),83,FALSE,NA,### Tutorials,link,2017-03-06
-+ [R Weekly Podcast 2017:10 The future is here](https://www.youtube.com/watch?v=419Mxr0GgNU) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml),164,FALSE,NA,### Videos and Podcasts,link,2017-03-06
-"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/419Mxr0GgNU"" frameborder=""0"" allowfullscreen></iframe>",122,FALSE,NA,### Videos and Podcasts,unid,2017-03-06
-+ [DataChats: An Interview with David Stoffer](http://www.datacamp.com/community/blog/datachats-an-interview-with-david-stoffer),128,FALSE,NA,### Videos and Podcasts,link,2017-03-06
-"+ [Video Introduction to Bayesian Data Analysis, Part 2: Why use Bayes?](http://www.sumsar.net/blog/2017/02/introduction-to-bayesian-data-analysis-part-two/)",157,FALSE,NA,### Videos and Podcasts,link,2017-03-06
-+ [Ask Brian Week 5: ggplot2 versus base R graphics](https://www.youtube.com/watch?v=9Objw9Tvhb4),97,FALSE,NA,### Videos and Podcasts,link,2017-03-06
-+ [Mongolite User Manual](https://jeroen.github.io/mongolite/),62,FALSE,NA,### Resources,link,2017-03-06
-+ [kableExtra](https://github.com/haozhu233/kableExtra) - Construct Complex Table with `knitr::kable()` + pipe,110,FALSE,NA,### New Packages and Tools,link,2017-03-06
-![kableExtra](https://haozhu233.github.io/kableExtra/img/screenshot.png),72,FALSE,NA,### New Packages and Tools,image,2017-03-06
-+ [ccafs](http://ropensci.org/blog/technotes/2017/03/01/ccafs-release) – client for CCAFS General Circulation Models data,121,FALSE,NA,### New Packages and Tools,link,2017-03-06
-"+ [RSurvey](http://jfisher-usgs.github.io/r/2017/02/27/rsurvey) - A geographic information system (GIS) graphical user interface (GUI) that provides data viewing, management, and analysis tools.",194,FALSE,NA,### New Packages and Tools,link,2017-03-06
-+ [presidencyproject](https://github.com/kshaffer/presidencyproject) - Code to scrape and parse documents in The American Presidency Project,140,FALSE,NA,### New Packages and Tools,link,2017-03-06
-+ [rcanvas](https://github.com/daranzolin/rcanvas) - R Client for the Canvas LMS API,84,FALSE,NA,### New Packages and Tools,link,2017-03-06
-+ [rperseus](https://github.com/daranzolin/rperseus) - R package to get primary texts from the Perseus Digital Library. English translations from the Greek and Latin available.,176,FALSE,NA,### New Packages and Tools,link,2017-03-06
-+ [scimple](https://github.com/hrbrmstr/scimple) -  ➖➖➖🔶➖➖ Tidy Simultaneous Confidence Intervals for Multinomial Proportions,125,FALSE,NA,### New Packages and Tools,link,2017-03-06
-+ [forecast 8.0](http://robjhyndman.com/hyndsight/forecast8/) - Forecasting Functions for Time Series and Linear Models,119,FALSE,NA,### New Releases,link,2017-03-06
-+ [ggedit 0.1.1](http://r-posts.com/ggedit-0-1-1-shiny-module-to-interactvely-edit-ggplots-within-shiny-applications/) - Shiny module to interactvely edit ggplots within Shiny applications,188,FALSE,NA,### New Releases,link,2017-03-06
-+ [d3r 0.6.2](https://github.com/timelyportfolio/d3r) - d3.js helpers for R,75,FALSE,NA,### New Releases,link,2017-03-06
-+ [Freeletics: Data Scientist](http://www.kdnuggets.com/jobs/17/03-02-freeletics-data-scientist.html),101,FALSE,NA,### Jobs,link,2017-03-06
-+ [Jobs for R users – 22 R jobs from around the world (2017-03-02)](https://www.r-bloggers.com/jobs-for-r-users-22-r-jobs-from-around-the-world-2017-03-02/),156,FALSE,NA,### Jobs,link,2017-03-06
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,### R Project Updates,unid,2017-03-06
-"+ `grep(perl = TRUE)` and friends set a maximal recursion limit, taking into account R's estimate of the remaining C stack space. This reduces the chance of C stack overflow, but because it is conservative may return a non-match with a warning in examples that succeeded before.",278,FALSE,NA,### R Project Updates,unid,2017-03-06
-+ The deprecated support for PCRE versions older than 8.20 will be removed in R 3.4.1. (Versions 8.20-8.31 will still be accepted but deprecated.),146,FALSE,NA,### R Project Updates,unid,2017-03-06
-"+ `getGraphicsEvent()` now works on `X11(type=""cairo"")` devices. Thanks to Frederick Eaton (for reviving an earlier patch).",123,FALSE,NA,### R Project Updates,unid,2017-03-06
-"+ There is a new argument `onIdle` for `getGraphicsEvent()`, which allows an R function to be run whenever there are no pending graphics events. This is currently only supported on X11 devices. Thanks to Frederick Eaton.",220,FALSE,NA,### R Project Updates,unid,2017-03-06
-"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,NA,### Upcoming Events,link,2017-03-06
-"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance.",176,FALSE,NA,### Upcoming Events,unid,2017-03-06
-"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,### Upcoming Events,link,2017-03-06
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,### Upcoming Events,unid,2017-03-06
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,### Upcoming Events,unid,2017-03-06
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/R?src=hash"">#R</a> news flash, for spatial folks. Ran readOGR() last night for +12h, ran out of memory. Ran read_sf(), done in a minute. Thanks to <a href=""https://twitter.com/mdsumner"">@mdsumner</a></p>&mdash; Adam Ford (@adamthomasford) <a href=""https://twitter.com/adamthomasford/status/835886480727801856""></a></blockquote>",436,FALSE,NA,### Quotes of the Week,unid,2017-03-06
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Tfw you build a prototype with <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> in an hour and then have to work all day to implement in Java.</p>&mdash; Yeedle N. (@Yeedle) <a href=""https://twitter.com/Yeedle/status/834400500455993345""></a></blockquote>",343,FALSE,NA,### Quotes of the Week,unid,2017-03-06
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">A Captcha with an opinion about <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> graphics! <a href=""https://t.co/oCmBDOrQO9"">pic.twitter.com/oCmBDOrQO9</a></p>&mdash; S Milton Bache ®♘ (@stefanbache) <a href=""https://twitter.com/stefanbache/status/834397576820572160""></a></blockquote>",374,FALSE,NA,### Quotes of the Week,unid,2017-03-06
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2017-03-06
+layout: post,12,FALSE,NA,unid,2017-03-06
+title: R Weekly 2017 Issue 10,29,FALSE,NA,unid,2017-03-06
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2017-03-06
+is_podcast: true,16,FALSE,NA,unid,2017-03-06
+podcast_title: 2017:10 The future is here,41,FALSE,NA,unid,2017-03-06
+podcast_permalink: https://cloud.rweekly.org/2017-10.mp3,56,FALSE,NA,unid,2017-03-06
+podcast_description: |,22,FALSE,NA,unid,2017-03-06
+  <![CDATA[,11,FALSE,NA,unid,2017-03-06
+"  <p>Joanna and Russell talk about San Francisco home prices, Base R vs ggplot2, MongoDB, R Forwards taskforce and more.</p>",124,FALSE,NA,unid,2017-03-06
+  <ul>,6,FALSE,NA,unid,2017-03-06
+"  <li>Read <a href=""https://www.rweekly.org/2017-10.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 10</a></li>",116,FALSE,NA,unid,2017-03-06
+"  <li><a href=""http://freemusicarchive.org/music/gillicuddy/Plays_Guitar_Again/01-adventure-darling"">Music by Gillicuddy</a></li>",129,FALSE,NA,unid,2017-03-06
+  </ul>,7,FALSE,NA,unid,2017-03-06
+  <p></p>,9,FALSE,NA,unid,2017-03-06
+  <ul>   ,9,FALSE,NA,unid,2017-03-06
+"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>   <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>  ",153,FALSE,NA,unid,2017-03-06
+"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,unid,2017-03-06
+  </ul>,7,FALSE,NA,unid,2017-03-06
+  ]]>,5,FALSE,NA,unid,2017-03-06
+podcast_size: 9569116,21,FALSE,NA,unid,2017-03-06
+"podcast_duration: ""6:30""",24,FALSE,NA,unid,2017-03-06
+"podcast_summary: Joanna and Russell talk about San Francisco home prices, Base R vs ggplot2, MongoDB, R Forwards taskforce and more. Read R Weekly 2017 issue 10 on RWeekly.org.",176,FALSE,NA,unid,2017-03-06
+"podcast_keywords: "", MongoDB, ggplot2""",38,FALSE,NA,unid,2017-03-06
+podcast_subtitle: The future is here,36,FALSE,NA,unid,2017-03-06
+---,3,FALSE,NA,unid,2017-03-06
++ [kableExtra](https://github.com/haozhu233/kableExtra) - Construct Complex Table with `knitr::kable()` + pipe,110,FALSE,### Highlight,link,2017-03-06
++ [R Weekly Podcast 2017:10 The future is here](https://www.youtube.com/watch?v=419Mxr0GgNU) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml),164,FALSE,### Highlight,link,2017-03-06
+<!-- !Vinylspotting: A shiny app to explore your record collection](https://ewenme.github.io/blog/Vinylspotting/)-->,116,FALSE,### R in the Real World,unid,2017-03-06
++ [Gender gap in Swedish mortality](https://ikashnitsky.github.io/2017/gender-gap-in-swedish-mortality/),104,FALSE,### R in the Real World,link,2017-03-06
+![Gender gap in Swedish mortality](https://cdn.rawgit.com/rweekly/image/ad04b0cb/2017-03/sweden2.png),101,FALSE,### R in the Real World,image,2017-03-06
+"+ [Predicting the length of a hospital stay, with R](http://blog.revolutionanalytics.com/2017/03/hospital-length-of-stay.html)",126,FALSE,### R in the Real World,link,2017-03-06
+"+ [Sentiment Analysis of the Four Gospels, Part I](https://daranzolin.github.io/articles/2017-03/gospels_sentiment_parti)",121,FALSE,### R in the Real World,link,2017-03-06
++ [A glance at R-bloggers Twitter feed](http://maelle.github.io/2017/02/28/rbloggerstweets/),92,FALSE,### R in the Real World,link,2017-03-06
++ [Success rates of appeals to the Supreme Court by Circuit](http://ellisp.github.io/blog/2017/02/26/appeal-circuits),117,FALSE,### R in the Real World,link,2017-03-06
+![Success rates of appeals to the Supreme Court by Circuit](https://ellisp.github.io/img/0081-bars.svg),103,FALSE,### R in the Real World,image,2017-03-06
++ [US Babyname Collisions 1880-2014](http://staff.math.su.se/hoehle/blog/2017/03/01/morebabynames.html),103,FALSE,### R in the Real World,link,2017-03-06
+![US Babyname Collisions 1880-2014](https://cdn.rawgit.com/rweekly/image/915b33da/2017-03/COLLIDEPROBTS-1.png),110,FALSE,### R in the Real World,image,2017-03-06
++ [WHO Tuberculosis Data & ggplot2](https://eugejjoh.wordpress.com/2017/03/03/who-tuberculosis-data-ggplot2/),109,FALSE,### R in the Real World,link,2017-03-06
+"+ [Playing with dimensions: from Clustering, PCA, t-SNE… to Carl Sagan!](http://blog.datascienceheroes.com/playing-with-dimensions-from-clustering-pca-t-sne-to-carl-sagan/)",172,FALSE,### R in the Real World,link,2017-03-06
++ [Mapping San Francisco home prices using R](http://urbanspatialanalysis.com/dataviz-tutorial-mapping-san-francisco-home-prices-using-r/),138,FALSE,### R in the Real World,link,2017-03-06
+![Mapping San Francisco home prices using R](https://cdn.rawgit.com/rweekly/image/915b33da/2017-03/plot4_point-map-e1487598425346-792x508.png),142,FALSE,### R in the Real World,image,2017-03-06
++ [Sentiment Analysis of The Lord Of The Rings with tidytext](http://www.jakubglinka.com/2017-03-01-text_mining_part1/),119,FALSE,### R in the Real World,link,2017-03-06
++ [How to create correlation network plots with corrr and ggraph](http://drsimonj.svbtle.com/how-to-create-correlation-network-plots-with-corrr-and-ggraph) - and which countries drink like Australia,198,FALSE,### R in the Real World,link,2017-03-06
+![How to create correlation network plots with corrr and ggraph](https://svbtleusercontent.com/ledio2c1v3ql2q_small.jpeg),121,FALSE,### R in the Real World,image,2017-03-06
++ [Disney Names](https://kkulma.github.io/2017-02-28-disney-names/) - My goal is to analyse how frequency of names found among Disney female characters changed over time in the US.,180,FALSE,### R in the Real World,link,2017-03-06
++ [Strange R Things](https://rpubs.com/dbecker7/StrangeRThings) - You will find a compendium of the strange and unique things that you can do in R.,147,FALSE,### Insights,link,2017-03-06
++ [Fast data lookups in R: dplyr vs data.table](http://blog.appsilondatascience.com/rstats/2017/03/02/r-fast-lookup.html),121,FALSE,### Insights,link,2017-03-06
++ [The R Formula Method: The Bad Parts](https://www.rstudio.com/rviews/2017/03/01/the-r-formula-method-the-bad-parts/),118,FALSE,### Insights,link,2017-03-06
++ [testing R code [book review]](https://xianblog.wordpress.com/2017/03/01/testing-r-code-book-review/),103,FALSE,### Insights,link,2017-03-06
++ [Contributing to vegalite](http://www.json.blog/2017/03/contributing-to-vegalite/) - One of my goals for 2017 is to contribute more to the R open source community.,165,FALSE,### Insights,link,2017-03-06
++ [Premiers pas en Machine Learning avec R. Volume 1 : la régression linéaire simple](http://www.thinkr.fr/premiers-machine-learning-r-volume-1-regression-lineaire-simple/) - [English - autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/premiers-machine-learning-r-volume-1-regression-lineaire-simple/),343,FALSE,### R Internationally,link,2017-03-06
++ [Scholarships encourage diversity at useR!2017](http://blog.revolutionanalytics.com/2017/03/diversity-scholarships.html),122,FALSE,### R in Organizations,link,2017-03-06
++ [OpenML tutorial at useR!2017 Brussels](https://mlr-org.github.io/OpenML-tutorial-at-useR/),93,FALSE,### R in Organizations,link,2017-03-06
++ [Create an heatmap with R and ggplot2](http://colinfay.me/create-an-heatmap-with-r-and-ggplot2/),98,FALSE,### Tutorials,link,2017-03-06
++ [Candy Coated Confidence Intervals](https://rud.is/b/2017/03/03/candy-coated-confidence-intervals/) -  `real` M&M’s as the point `geom` with `ggimage` package.,161,FALSE,### Tutorials,link,2017-03-06
++ [Self-Service Adobe Analytics Data Feeds!](http://randyzwitch.com/adobe-clickstream-data-feed-self-service-admin-panel/),122,FALSE,### Tutorials,link,2017-03-06
++ [Iterated Principal Factor Method of Factor Analysis with R](http://www.aaronschlegel.com/iterated-principal-factor-method-factor-analysis-r/),144,FALSE,### Tutorials,link,2017-03-06
++ [Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart](https://shiring.github.io/machine_learning/2017/02/27/h2o),149,FALSE,### Tutorials,link,2017-03-06
++ [Labeling Data with purrr](http://www.json.blog/2017/03/labeling-data-with-purrr/),84,FALSE,### Tutorials,link,2017-03-06
++ [wrapr: for sweet R code](http://www.win-vector.com/blog/2017/03/wrapr-for-sweet-r-code/),91,FALSE,### Tutorials,link,2017-03-06
++ [Giving a Thematic Touch to your Interactive Chart](http://jkunst.com/r/giving-a-thematic-touch-to-your-interactive-chart/),125,FALSE,### Tutorials,link,2017-03-06
+![Giving a Thematic Touch to your Interactive Chart](https://cdn.rawgit.com/rweekly/image/915b33da/2017-03/water.png),117,FALSE,### Tutorials,image,2017-03-06
++ [Web data acquisition: understanding RCurl from the command line](http://r-posts.com/web-data-acquisition-understanding-rcurl-from-the-command-line-part-1/),158,FALSE,### Tutorials,link,2017-03-06
++ [February ’17 Tips and Tricks](https://www.rstudio.com/rviews/2017/03/03/february-17-tips-and-tricks/),104,FALSE,### Tutorials,link,2017-03-06
++ [vtreat: prepare data](http://www.win-vector.com/blog/2017/03/vtreat-prepare-data/),85,FALSE,### Tutorials,link,2017-03-06
++ [Using MongoDB with R](https://datascienceplus.com/using-mongodb-with-r/),75,FALSE,### Tutorials,link,2017-03-06
++ [How to annotate a plot in ggplot2](http://sharpsightlabs.com/blog/simple-annotate-plot-ggplot2/),99,FALSE,### Tutorials,link,2017-03-06
++ [Make your R simulation models 20 times faster](http://www.seascapemodels.org/rstats/2017/02/26/speeding-up-sims.html),120,FALSE,### Tutorials,link,2017-03-06
++ [Tree-based univariate testing](https://edwinth.github.io/blog/tree-based-kappa/),83,FALSE,### Tutorials,link,2017-03-06
++ [R Weekly Podcast 2017:10 The future is here](https://www.youtube.com/watch?v=419Mxr0GgNU) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml),164,FALSE,### Videos and Podcasts,link,2017-03-06
+"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/419Mxr0GgNU"" frameborder=""0"" allowfullscreen></iframe>",122,FALSE,### Videos and Podcasts,unid,2017-03-06
++ [DataChats: An Interview with David Stoffer](http://www.datacamp.com/community/blog/datachats-an-interview-with-david-stoffer),128,FALSE,### Videos and Podcasts,link,2017-03-06
+"+ [Video Introduction to Bayesian Data Analysis, Part 2: Why use Bayes?](http://www.sumsar.net/blog/2017/02/introduction-to-bayesian-data-analysis-part-two/)",157,FALSE,### Videos and Podcasts,link,2017-03-06
++ [Ask Brian Week 5: ggplot2 versus base R graphics](https://www.youtube.com/watch?v=9Objw9Tvhb4),97,FALSE,### Videos and Podcasts,link,2017-03-06
++ [Mongolite User Manual](https://jeroen.github.io/mongolite/),62,FALSE,### Resources,link,2017-03-06
++ [kableExtra](https://github.com/haozhu233/kableExtra) - Construct Complex Table with `knitr::kable()` + pipe,110,FALSE,### New Packages and Tools,link,2017-03-06
+![kableExtra](https://haozhu233.github.io/kableExtra/img/screenshot.png),72,FALSE,### New Packages and Tools,image,2017-03-06
++ [ccafs](http://ropensci.org/blog/technotes/2017/03/01/ccafs-release) – client for CCAFS General Circulation Models data,121,FALSE,### New Packages and Tools,link,2017-03-06
+"+ [RSurvey](http://jfisher-usgs.github.io/r/2017/02/27/rsurvey) - A geographic information system (GIS) graphical user interface (GUI) that provides data viewing, management, and analysis tools.",194,FALSE,### New Packages and Tools,link,2017-03-06
++ [presidencyproject](https://github.com/kshaffer/presidencyproject) - Code to scrape and parse documents in The American Presidency Project,140,FALSE,### New Packages and Tools,link,2017-03-06
++ [rcanvas](https://github.com/daranzolin/rcanvas) - R Client for the Canvas LMS API,84,FALSE,### New Packages and Tools,link,2017-03-06
++ [rperseus](https://github.com/daranzolin/rperseus) - R package to get primary texts from the Perseus Digital Library. English translations from the Greek and Latin available.,176,FALSE,### New Packages and Tools,link,2017-03-06
++ [scimple](https://github.com/hrbrmstr/scimple) -  ➖➖➖🔶➖➖ Tidy Simultaneous Confidence Intervals for Multinomial Proportions,125,FALSE,### New Packages and Tools,link,2017-03-06
++ [forecast 8.0](http://robjhyndman.com/hyndsight/forecast8/) - Forecasting Functions for Time Series and Linear Models,119,FALSE,### New Releases,link,2017-03-06
++ [ggedit 0.1.1](http://r-posts.com/ggedit-0-1-1-shiny-module-to-interactvely-edit-ggplots-within-shiny-applications/) - Shiny module to interactvely edit ggplots within Shiny applications,188,FALSE,### New Releases,link,2017-03-06
++ [d3r 0.6.2](https://github.com/timelyportfolio/d3r) - d3.js helpers for R,75,FALSE,### New Releases,link,2017-03-06
++ [Freeletics: Data Scientist](http://www.kdnuggets.com/jobs/17/03-02-freeletics-data-scientist.html),101,FALSE,### Jobs,link,2017-03-06
++ [Jobs for R users – 22 R jobs from around the world (2017-03-02)](https://www.r-bloggers.com/jobs-for-r-users-22-r-jobs-from-around-the-world-2017-03-02/),156,FALSE,### Jobs,link,2017-03-06
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,### R Project Updates,unid,2017-03-06
+"+ `grep(perl = TRUE)` and friends set a maximal recursion limit, taking into account R's estimate of the remaining C stack space. This reduces the chance of C stack overflow, but because it is conservative may return a non-match with a warning in examples that succeeded before.",278,FALSE,### R Project Updates,unid,2017-03-06
++ The deprecated support for PCRE versions older than 8.20 will be removed in R 3.4.1. (Versions 8.20-8.31 will still be accepted but deprecated.),146,FALSE,### R Project Updates,unid,2017-03-06
+"+ `getGraphicsEvent()` now works on `X11(type=""cairo"")` devices. Thanks to Frederick Eaton (for reviving an earlier patch).",123,FALSE,### R Project Updates,unid,2017-03-06
+"+ There is a new argument `onIdle` for `getGraphicsEvent()`, which allows an R function to be run whenever there are no pending graphics events. This is currently only supported on X11 devices. Thanks to Frederick Eaton.",220,FALSE,### R Project Updates,unid,2017-03-06
+"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,### Upcoming Events,link,2017-03-06
+"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance.",176,FALSE,### Upcoming Events,unid,2017-03-06
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,### Upcoming Events,link,2017-03-06
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,### Upcoming Events,unid,2017-03-06
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,### Upcoming Events,unid,2017-03-06
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/R?src=hash"">#R</a> news flash, for spatial folks. Ran readOGR() last night for +12h, ran out of memory. Ran read_sf(), done in a minute. Thanks to <a href=""https://twitter.com/mdsumner"">@mdsumner</a></p>&mdash; Adam Ford (@adamthomasford) <a href=""https://twitter.com/adamthomasford/status/835886480727801856""></a></blockquote>",436,FALSE,### Quotes of the Week,unid,2017-03-06
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Tfw you build a prototype with <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> in an hour and then have to work all day to implement in Java.</p>&mdash; Yeedle N. (@Yeedle) <a href=""https://twitter.com/Yeedle/status/834400500455993345""></a></blockquote>",343,FALSE,### Quotes of the Week,unid,2017-03-06
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">A Captcha with an opinion about <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> graphics! <a href=""https://t.co/oCmBDOrQO9"">pic.twitter.com/oCmBDOrQO9</a></p>&mdash; S Milton Bache ®♘ (@stefanbache) <a href=""https://twitter.com/stefanbache/status/834397576820572160""></a></blockquote>",374,FALSE,### Quotes of the Week,unid,2017-03-06

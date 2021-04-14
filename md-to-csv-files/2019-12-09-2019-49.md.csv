@@ -1,66 +1,66 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-12-09
-"title: R Weekly 2019-49 R Advent Calendar, {patchwork}, and READMEs",67,FALSE,NA,NA,unid,2019-12-09
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-12-09
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-12-09
----,3,FALSE,NA,NA,unid,2019-12-09
-Release Date: 2019-12-09,24,FALSE,NA,NA,unid,2019-12-09
-"This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.",140,FALSE,NA,NA,unid,2019-12-09
-Sorry for the late update. The editor Wenfeng Qin forgot to check the status of the Netlify page build system. I will try to avoid this in the future.,150,FALSE,NA,### Note,unid,2019-12-09
-+ [The 25 days of chRistmas: an R advent calendaR](https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar),137,FALSE,NA,###  Highlight,link,2019-12-09
-+ [{patchwork 1.0.0}: The Composer of ggplots](https://www.data-imaginist.com/2019/patch-it-up-and-send-it-out/),112,FALSE,NA,###  Highlight,link,2019-12-09
-+ [The Rt of good package READMEs](https://blog.r-hub.io/2019/12/03/readmes/),77,FALSE,NA,###  Highlight,link,2019-12-09
-+ [Evaluation of the new palette() for R](https://nowosad.github.io/post/cbc-bp1/),82,FALSE,NA,### Insights,link,2019-12-09
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/new-color-pal.png),88,FALSE,NA,### Insights,image,2019-12-09
-+ [The Rt of good package READMEs](https://blog.r-hub.io/2019/12/03/readmes/),77,FALSE,NA,### Insights,link,2019-12-09
-+ [Managing dependencies in packages](https://irudnyts.github.io//managing-dependencies-in-packages/),101,FALSE,NA,### Insights,link,2019-12-09
-"+ [Introducing Mark Padgham, rOpenSci’s new Software Research Scientist](https://ropensci.org/blog/2019/12/03/mark-padgham/)",124,FALSE,NA,### Insights,link,2019-12-09
-+ [Advent Calendar of Football Trivia Analyses](https://www.robert-hickman.eu/post/advent_calendar_trivia/),107,FALSE,NA,### R in the Real World,link,2019-12-09
-"+ [The significance of experience on the salary in Sweden, a comparison between different occupational groups](http://mikaellundqvist.rbind.io/2019/12/02/the-significance-of-experience-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups/)",261,FALSE,NA,### R in the Real World,link,2019-12-09
-+ [NHSRdatasets meets runcharter](https://johnmackintosh.com/2019-12-03-Plotting-NHSRDatasets-with-runcharter/),111,FALSE,NA,### R in the Real World,link,2019-12-09
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/nhsr-runcharter.png),90,FALSE,NA,### R in the Real World,image,2019-12-09
-+ [Designing ggplots: making clear figures that communicate](https://malco.io/talk/designing-ggplots/),102,FALSE,NA,###  Resources,link,2019-12-09
-+ [The 25 days of chRistmas: an R advent calendaR](https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar),137,FALSE,NA,###  Resources,link,2019-12-09
-+ [2019 R Package Advent Calendar](https://www.hvitfeldt.me/packagecalendar/2019/),82,FALSE,NA,###  Resources,link,2019-12-09
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-12-09
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-12-09
-+ [{patchwork 1.0.0}: The Composer of ggplots](https://www.data-imaginist.com/2019/patch-it-up-and-send-it-out/),112,FALSE,NA,###  New Packages,link,2019-12-09
-+ [{zipangu 0.1.0}: Utility functions to deal with Japanese data](https://cran.r-project.org/package=zipangu),109,FALSE,NA,###  New Packages,link,2019-12-09
-+ [{ggplotlyExtra 0.0.1}: Convenience functions for smooth conversion from 'ggplot' to 'plotly'](https://cran.r-project.org/package=ggplotlyExtra),146,FALSE,NA,###  New Packages,link,2019-12-09
-+ [{tidygapminder 0.1.0}: Easily import and tidy data sheets retrieved from Gapminder data web tools](https://cran.r-project.org/package=tidygapminder),151,FALSE,NA,###  New Packages,link,2019-12-09
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-12-09
-"+ [{gggibbous 0.1.0}: Moon charts, a pie chart alternative, for ggplot2 ](https://github.com/mnbram/gggibbous)",110,FALSE,NA,###  New Packages,link,2019-12-09
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/gggibbous.png),84,FALSE,NA,###  New Packages,image,2019-12-09
-+ [{rradar 0.2.0}: Animate NOAA NWSRadar Images by Station Id](https://github.com/hrbrmstr/rradar),98,FALSE,NA,###  New Packages,link,2019-12-09
-+ [{corporaexplorer 0.8.0}: A 'Shiny' App for Exploration of Text Collections](https://cran.r-project.org/package=corporaexplorer).,131,FALSE,NA,### Updated Packages,link,2019-12-09
-+ [{odbc 1.2.0}: A DBI-compatible interface to ODBC databases.](https://www.tidyverse.org/blog/2019/12/odbc-1-2-0/),115,FALSE,NA,### Updated Packages,link,2019-12-09
-+ [{learnr 0.10.0}: Create interactive tutorials using R Markdown.](https://blog.rstudio.com/2019/12/02/learnr-0-10-0/),119,FALSE,NA,### Updated Packages,link,2019-12-09
-+ [{leaftime 0.1.2}: Use the 'leaflet-timeline' plugin with a leaflet widget](https://cran.r-project.org/package=leaftime),122,FALSE,NA,### Updated Packages,link,2019-12-09
-+ [{blastula 0.3.1}: Easily Send HTML Email Messages](https://cran.r-project.org/package=blastula),98,FALSE,NA,### Updated Packages,link,2019-12-09
-+ [{GENEAsphere 1.5.1}: Visualisation of Raw or Segmented Accelerometer Data](https://cran.r-project.org/package=GENEAsphere),125,FALSE,NA,### Updated Packages,link,2019-12-09
-+ [WhatsApp Radar Chart: Create a radar chart to visualize your friends posting behavior on WhatsApp](https://ggplot2tutor.com/radar-chart/radar-chart-whatsapp/),161,FALSE,NA,###  Tutorials,link,2019-12-09
-+ [How to Draw Maps with Hatching Lines in R](https://flowingdata.com/2019/12/02/how-to-draw-maps-with-hatching-lines-in-r/),124,FALSE,NA,###  Tutorials,link,2019-12-09
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/hatching-lines-and-albers-projection.png),111,FALSE,NA,###  Tutorials,image,2019-12-09
-"+ [`dtplyr` and `tidyfast` are teaming up (well, at least in this blog post)](https://tysonbarrett.com//jekyll/update/2019/12/03/workflow_dtplyr_tidyfast/)",155,FALSE,NA,###  Tutorials,link,2019-12-09
-+ [Advent of Code 2019-01 with R & JavaScript](https://colinfay.me/aoc-2019-01/),80,FALSE,NA,###  Tutorials,link,2019-12-09
-+ [dplyr::ungroup() - forget me not. Part 4.](https://coolbutuseless.github.io/2019/12/06/dplyrungroup-forget-me-not.-part-4./),127,FALSE,NA,###  Tutorials,link,2019-12-09
-+ [R Package for @racently](https://datawookie.netlify.com/blog/2019/12/r-package-for-racently/),96,FALSE,NA,###  Tutorials,link,2019-12-09
-+ [How to reorder arrange bars with in each Facet of ggplot](https://www.programmingwithr.com/how-to-reorder-arrange-bars-with-in-each-facet-of-ggplot/),152,FALSE,NA,###  Tutorials,link,2019-12-09
-+ [Introduction to {eurolig}: Analyzing play-by-play and shot location data from the Euroleague](https://solmos.netlify.com/post/2019-11-28-introduction-to-eurolig/introduction-to-eurolig/),189,FALSE,NA,###  Tutorials,link,2019-12-09
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/eurolig-shotchart.png),92,FALSE,NA,###  Tutorials,image,2019-12-09
-+ [Counting Arguments in the Tidyverse](https://www.jumpingrivers.com/blog/counting-arguments-in-the-tidyverse/),112,FALSE,NA,###  Tutorials,link,2019-12-09
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2019-12-09
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-12-09
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-12-09
-"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)",71,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-09
-"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-09
-+ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-09
-"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-09
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-09
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-12-09
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-12-09
-"+ [Research Software Engineer, EcoHealth Alliance, New York, NY](https://www.ecohealthalliance.org/career/research-software-engineer)",133,FALSE,NA,### Jobs,link,2019-12-09
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-12-09
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Knowing so little never felt so fun. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/Y51lLVeuCD"">pic.twitter.com/Y51lLVeuCD</a></p>&mdash; Allison Horst (@allison_horst) <a href=""https://twitter.com/allison_horst/status/1202229050284003328?ref_src=twsrc%5Etfw"">December 4, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",501,FALSE,NA,###  Quotes of the Week,unid,2019-12-09
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">{drake} 7.8.0 is on CRAN.<br>Dynamic branching, the most powerful new feature added this year: <a href=""https://t.co/T9CZMDOSgK"">https://t.co/T9CZMDOSgK</a><br>Culminates 2 years of community brainstorming: <a href=""https://t.co/PJbBdgKk5Q"">https://t.co/PJbBdgKk5Q</a>, <a href=""https://t.co/eFFffEjwLI"">https://t.co/eFFffEjwLI</a>, <a href=""https://t.co/e9gGCwSiAx"">https://t.co/e9gGCwSiAx</a><a href=""https://twitter.com/rOpenSci?ref_src=twsrc%5Etfw"">@rOpenSci</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/tyHufsmepd"">pic.twitter.com/tyHufsmepd</a></p>&mdash; Will Landau (@wmlandau) <a href=""https://twitter.com/wmlandau/status/1202947858170814465?ref_src=twsrc%5Etfw"">December 6, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",919,FALSE,NA,###  Quotes of the Week,unid,2019-12-09
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Here it is! The R advent calendaR 🎁<br><br>Start learning R tomorrow and by Christmas you will know the basics!<a href=""https://t.co/NC6mgeAUST"">https://t.co/NC6mgeAUST</a><br><br>meRRy chRistmas eveRyone! 🎄☺️🎀<a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a> <a href=""https://twitter.com/hashtag/RadventcalendaR?src=hash&amp;ref_src=twsrc%5Etfw"">#RadventcalendaR</a> <a href=""https://twitter.com/hashtag/25daysofR?src=hash&amp;ref_src=twsrc%5Etfw"">#25daysofR</a> <a href=""https://t.co/16LYx0QyxZ"">pic.twitter.com/16LYx0QyxZ</a></p>&mdash; Kiirsti Owen (@KiirstiO) <a href=""https://twitter.com/KiirstiO/status/1200810834555015169?ref_src=twsrc%5Etfw"">November 30, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",868,FALSE,NA,###  Quotes of the Week,unid,2019-12-09
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-12-09
+"title: R Weekly 2019-49 R Advent Calendar, {patchwork}, and READMEs",67,FALSE,NA,unid,2019-12-09
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-12-09
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-12-09
+---,3,FALSE,NA,unid,2019-12-09
+Release Date: 2019-12-09,24,FALSE,NA,unid,2019-12-09
+"This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.",140,FALSE,NA,unid,2019-12-09
+Sorry for the late update. The editor Wenfeng Qin forgot to check the status of the Netlify page build system. I will try to avoid this in the future.,150,FALSE,### Note,unid,2019-12-09
++ [The 25 days of chRistmas: an R advent calendaR](https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar),137,FALSE,###  Highlight,link,2019-12-09
++ [{patchwork 1.0.0}: The Composer of ggplots](https://www.data-imaginist.com/2019/patch-it-up-and-send-it-out/),112,FALSE,###  Highlight,link,2019-12-09
++ [The Rt of good package READMEs](https://blog.r-hub.io/2019/12/03/readmes/),77,FALSE,###  Highlight,link,2019-12-09
++ [Evaluation of the new palette() for R](https://nowosad.github.io/post/cbc-bp1/),82,FALSE,### Insights,link,2019-12-09
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/new-color-pal.png),88,FALSE,### Insights,image,2019-12-09
++ [The Rt of good package READMEs](https://blog.r-hub.io/2019/12/03/readmes/),77,FALSE,### Insights,link,2019-12-09
++ [Managing dependencies in packages](https://irudnyts.github.io//managing-dependencies-in-packages/),101,FALSE,### Insights,link,2019-12-09
+"+ [Introducing Mark Padgham, rOpenSci’s new Software Research Scientist](https://ropensci.org/blog/2019/12/03/mark-padgham/)",124,FALSE,### Insights,link,2019-12-09
++ [Advent Calendar of Football Trivia Analyses](https://www.robert-hickman.eu/post/advent_calendar_trivia/),107,FALSE,### R in the Real World,link,2019-12-09
+"+ [The significance of experience on the salary in Sweden, a comparison between different occupational groups](http://mikaellundqvist.rbind.io/2019/12/02/the-significance-of-experience-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups/)",261,FALSE,### R in the Real World,link,2019-12-09
++ [NHSRdatasets meets runcharter](https://johnmackintosh.com/2019-12-03-Plotting-NHSRDatasets-with-runcharter/),111,FALSE,### R in the Real World,link,2019-12-09
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/nhsr-runcharter.png),90,FALSE,### R in the Real World,image,2019-12-09
++ [Designing ggplots: making clear figures that communicate](https://malco.io/talk/designing-ggplots/),102,FALSE,###  Resources,link,2019-12-09
++ [The 25 days of chRistmas: an R advent calendaR](https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar),137,FALSE,###  Resources,link,2019-12-09
++ [2019 R Package Advent Calendar](https://www.hvitfeldt.me/packagecalendar/2019/),82,FALSE,###  Resources,link,2019-12-09
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-12-09
+**CRAN**,8,FALSE,###  New Packages,unid,2019-12-09
++ [{patchwork 1.0.0}: The Composer of ggplots](https://www.data-imaginist.com/2019/patch-it-up-and-send-it-out/),112,FALSE,###  New Packages,link,2019-12-09
++ [{zipangu 0.1.0}: Utility functions to deal with Japanese data](https://cran.r-project.org/package=zipangu),109,FALSE,###  New Packages,link,2019-12-09
++ [{ggplotlyExtra 0.0.1}: Convenience functions for smooth conversion from 'ggplot' to 'plotly'](https://cran.r-project.org/package=ggplotlyExtra),146,FALSE,###  New Packages,link,2019-12-09
++ [{tidygapminder 0.1.0}: Easily import and tidy data sheets retrieved from Gapminder data web tools](https://cran.r-project.org/package=tidygapminder),151,FALSE,###  New Packages,link,2019-12-09
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-12-09
+"+ [{gggibbous 0.1.0}: Moon charts, a pie chart alternative, for ggplot2 ](https://github.com/mnbram/gggibbous)",110,FALSE,###  New Packages,link,2019-12-09
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/gggibbous.png),84,FALSE,###  New Packages,image,2019-12-09
++ [{rradar 0.2.0}: Animate NOAA NWSRadar Images by Station Id](https://github.com/hrbrmstr/rradar),98,FALSE,###  New Packages,link,2019-12-09
++ [{corporaexplorer 0.8.0}: A 'Shiny' App for Exploration of Text Collections](https://cran.r-project.org/package=corporaexplorer).,131,FALSE,### Updated Packages,link,2019-12-09
++ [{odbc 1.2.0}: A DBI-compatible interface to ODBC databases.](https://www.tidyverse.org/blog/2019/12/odbc-1-2-0/),115,FALSE,### Updated Packages,link,2019-12-09
++ [{learnr 0.10.0}: Create interactive tutorials using R Markdown.](https://blog.rstudio.com/2019/12/02/learnr-0-10-0/),119,FALSE,### Updated Packages,link,2019-12-09
++ [{leaftime 0.1.2}: Use the 'leaflet-timeline' plugin with a leaflet widget](https://cran.r-project.org/package=leaftime),122,FALSE,### Updated Packages,link,2019-12-09
++ [{blastula 0.3.1}: Easily Send HTML Email Messages](https://cran.r-project.org/package=blastula),98,FALSE,### Updated Packages,link,2019-12-09
++ [{GENEAsphere 1.5.1}: Visualisation of Raw or Segmented Accelerometer Data](https://cran.r-project.org/package=GENEAsphere),125,FALSE,### Updated Packages,link,2019-12-09
++ [WhatsApp Radar Chart: Create a radar chart to visualize your friends posting behavior on WhatsApp](https://ggplot2tutor.com/radar-chart/radar-chart-whatsapp/),161,FALSE,###  Tutorials,link,2019-12-09
++ [How to Draw Maps with Hatching Lines in R](https://flowingdata.com/2019/12/02/how-to-draw-maps-with-hatching-lines-in-r/),124,FALSE,###  Tutorials,link,2019-12-09
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/hatching-lines-and-albers-projection.png),111,FALSE,###  Tutorials,image,2019-12-09
+"+ [`dtplyr` and `tidyfast` are teaming up (well, at least in this blog post)](https://tysonbarrett.com//jekyll/update/2019/12/03/workflow_dtplyr_tidyfast/)",155,FALSE,###  Tutorials,link,2019-12-09
++ [Advent of Code 2019-01 with R & JavaScript](https://colinfay.me/aoc-2019-01/),80,FALSE,###  Tutorials,link,2019-12-09
++ [dplyr::ungroup() - forget me not. Part 4.](https://coolbutuseless.github.io/2019/12/06/dplyrungroup-forget-me-not.-part-4./),127,FALSE,###  Tutorials,link,2019-12-09
++ [R Package for @racently](https://datawookie.netlify.com/blog/2019/12/r-package-for-racently/),96,FALSE,###  Tutorials,link,2019-12-09
++ [How to reorder arrange bars with in each Facet of ggplot](https://www.programmingwithr.com/how-to-reorder-arrange-bars-with-in-each-facet-of-ggplot/),152,FALSE,###  Tutorials,link,2019-12-09
++ [Introduction to {eurolig}: Analyzing play-by-play and shot location data from the Euroleague](https://solmos.netlify.com/post/2019-11-28-introduction-to-eurolig/introduction-to-eurolig/),189,FALSE,###  Tutorials,link,2019-12-09
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/eurolig-shotchart.png),92,FALSE,###  Tutorials,image,2019-12-09
++ [Counting Arguments in the Tidyverse](https://www.jumpingrivers.com/blog/counting-arguments-in-the-tidyverse/),112,FALSE,###  Tutorials,link,2019-12-09
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2019-12-09
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-12-09
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-12-09
+"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)",71,FALSE,###  Upcoming Events in 3 Months,link,2019-12-09
+"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,###  Upcoming Events in 3 Months,link,2019-12-09
++ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,###  Upcoming Events in 3 Months,link,2019-12-09
+"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,###  Upcoming Events in 3 Months,link,2019-12-09
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-12-09
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-12-09
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-12-09
+"+ [Research Software Engineer, EcoHealth Alliance, New York, NY](https://www.ecohealthalliance.org/career/research-software-engineer)",133,FALSE,### Jobs,link,2019-12-09
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-12-09
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Knowing so little never felt so fun. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/Y51lLVeuCD"">pic.twitter.com/Y51lLVeuCD</a></p>&mdash; Allison Horst (@allison_horst) <a href=""https://twitter.com/allison_horst/status/1202229050284003328?ref_src=twsrc%5Etfw"">December 4, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",501,FALSE,###  Quotes of the Week,unid,2019-12-09
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">{drake} 7.8.0 is on CRAN.<br>Dynamic branching, the most powerful new feature added this year: <a href=""https://t.co/T9CZMDOSgK"">https://t.co/T9CZMDOSgK</a><br>Culminates 2 years of community brainstorming: <a href=""https://t.co/PJbBdgKk5Q"">https://t.co/PJbBdgKk5Q</a>, <a href=""https://t.co/eFFffEjwLI"">https://t.co/eFFffEjwLI</a>, <a href=""https://t.co/e9gGCwSiAx"">https://t.co/e9gGCwSiAx</a><a href=""https://twitter.com/rOpenSci?ref_src=twsrc%5Etfw"">@rOpenSci</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/tyHufsmepd"">pic.twitter.com/tyHufsmepd</a></p>&mdash; Will Landau (@wmlandau) <a href=""https://twitter.com/wmlandau/status/1202947858170814465?ref_src=twsrc%5Etfw"">December 6, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",919,FALSE,###  Quotes of the Week,unid,2019-12-09
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Here it is! The R advent calendaR 🎁<br><br>Start learning R tomorrow and by Christmas you will know the basics!<a href=""https://t.co/NC6mgeAUST"">https://t.co/NC6mgeAUST</a><br><br>meRRy chRistmas eveRyone! 🎄☺️🎀<a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a> <a href=""https://twitter.com/hashtag/RadventcalendaR?src=hash&amp;ref_src=twsrc%5Etfw"">#RadventcalendaR</a> <a href=""https://twitter.com/hashtag/25daysofR?src=hash&amp;ref_src=twsrc%5Etfw"">#25daysofR</a> <a href=""https://t.co/16LYx0QyxZ"">pic.twitter.com/16LYx0QyxZ</a></p>&mdash; Kiirsti Owen (@KiirstiO) <a href=""https://twitter.com/KiirstiO/status/1200810834555015169?ref_src=twsrc%5Etfw"">November 30, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",868,FALSE,###  Quotes of the Week,unid,2019-12-09

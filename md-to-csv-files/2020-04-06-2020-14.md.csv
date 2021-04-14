@@ -1,68 +1,68 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2020-04-06
-"title: R Weekly 2020-14 {ggpattern}, stack traces, {ggplot2} workshop",69,FALSE,NA,NA,unid,2020-04-06
-description: Weekly News in the R Community,43,FALSE,NA,NA,unid,2020-04-06
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2020-04-06
----,3,FALSE,NA,NA,unid,2020-04-06
-Release Date: 2020-04-06,24,FALSE,NA,NA,unid,2020-04-06
-"This week’s release was curated by [Eric Nantz](https://twitter.com/thercast), with help from the RWeekly team members and contributors.",136,FALSE,NA,NA,unid,2020-04-06
-* [ggpattern: pattern & image fills for ggplot geoms](https://github.com/coolbutuseless/ggpattern/),99,FALSE,NA,###  Highlight,unid,2020-04-06
-+ [A simple way to show stack trace on error in R](https://renkun.me/2020/03/31/a-simple-way-to-show-stack-trace-on-error-in-r/) ,129,FALSE,NA,###  Highlight,link,2020-04-06
-+ [Plotting anything with ggplot2 workshop part 2](https://www.youtube.com/watch?v=0m4yywqNPVY),95,FALSE,NA,###  Highlight,link,2020-04-06
-+ [R Journal Volume 11/2](https://journal.r-project.org/archive/2019-2/),72,FALSE,NA,### Insights,link,2020-04-06
-+ [Using R to tap into the genius & Spotify API to discern trends in BTS's new album and visualise it using the 'ggplot2' & 'highcharter' packages](https://link.medium.com/ZLHoOcRMm5),183,FALSE,NA,### Insights,link,2020-04-06
-![spotifymood](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/spotify_mood2.png),99,FALSE,NA,### Insights,image,2020-04-06
-* [It's fun to look at the Y A C M (Yet Another COVID Model)](https://medianwatch.netlify.com/post/covid-uncertainty/),118,FALSE,NA,#### COVID-19,unid,2020-04-06
-![yacm](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/yacm2.png),84,FALSE,NA,#### COVID-19,image,2020-04-06
-+ [COVID-19 shiny / plotly dashboard](https://mail-wolf.de/?p=4632),67,FALSE,NA,#### COVID-19,link,2020-04-06
-+ [COVID-19 decease animation map](http://r.iresmi.net/2020/04/01/covid-19-decease-animation-map/),98,FALSE,NA,#### COVID-19,link,2020-04-06
-+ [Can unbalanced randomization improve power?](https://www.rdatagen.net/post/can-unbalanced-randomization-improve-power/),122,FALSE,NA,#### COVID-19,link,2020-04-06
-+ [Contagiousness of COVID-19 Part I: Improvements of Mathematical Fitting (Guest Post)](https://blog.ephorie.de/contagiousness-of-covid-19-part-i-improvements-of-mathematical-fitting-guest-post),195,FALSE,NA,#### COVID-19,link,2020-04-06
-+ [COVID-19 in Belgium](https://www.statsandr.com/blog/covid-19-in-belgium/),76,FALSE,NA,#### COVID-19,link,2020-04-06
-+ [Coronavirus : spatially smoothed decease in France](http://r.iresmi.net/2020/03/30/coronavirus-spatially-smoothed-decease-in-france/),136,FALSE,NA,#### COVID-19,link,2020-04-06
-"+ [""Flank Attacks Visualisation"" Using StatsBomb Open Data](https://npranav10.github.io/blog/entries-into-final-third.html)",123,FALSE,NA,### R in the Real World,link,2020-04-06
-![flank](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/flank_attacks2.png),94,FALSE,NA,### R in the Real World,image,2020-04-06
-+ [AutoML Frameworks in R & Python](https://iamnagdev.com/2020/04/01/automl-frameworks-in-r-python/),100,FALSE,NA,### R in the Real World,link,2020-04-06
-"+ [Updates to R GUIs: BlueSky, jamovi, JASP, & RKWard](http://r4stats.com/2020/03/31/updates-to-r-guis/)",104,FALSE,NA,### R in the Real World,link,2020-04-06
-+ [Close Encounters of the R Kind](https://rviews.rstudio.com/2020/03/31/close-encounters-of-the-r-kind/),105,FALSE,NA,###  R in Organizations,link,2020-04-06
-+ [Screenager: screening times at bioRxiv](https://quantixed.org/2020/03/30/screenager-screening-times-at-biorxiv/),115,FALSE,NA,###  R in Academia,link,2020-04-06
-+ [Obtain & wrangle OpenAQ data with R: ropenaq and beyond](https://masalmon.eu/talks/2020-03-31-ropenaq/),106,FALSE,NA,###  Resources,link,2020-04-06
-+ [Y-Conditionally Regularized Neural Nets](http://www.win-vector.com/blog/2020/04/y-conditionally-regularized-neural-nets/),124,FALSE,NA,###  Resources,link,2020-04-06
-+ [Everything you should know about WinBuilder](https://blog.r-hub.io/2020/04/01/win-builder/),94,FALSE,NA,###  Resources,link,2020-04-06
-* [ggpattern: pattern & image fills for ggplot geoms](https://github.com/coolbutuseless/ggpattern/),99,FALSE,NA,###  New Packages,unid,2020-04-06
-![ggpattern](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/ggpattern_bob2.jpg),98,FALSE,NA,###  New Packages,image,2020-04-06
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2020-04-06
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2020-04-06
-+ [{simhelpers 0.1.0}: Helper package to assist in running simulation studies](https://meghapsimatrix.github.io/simhelpers/index.html),134,FALSE,NA,###  New Packages,link,2020-04-06
-+ [{cartography 2.4.0}](https://rgeomatic.hypotheses.org/1989),62,FALSE,NA,###  New Packages,link,2020-04-06
-![cartography](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/cartography_package.png),105,FALSE,NA,###  New Packages,image,2020-04-06
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2020-04-06
-+ [{ggcute}: A collection of cute things to use with ggplot2.](https://github.com/sharlagelfand/ggcute),103,FALSE,NA,###  New Packages,link,2020-04-06
-![ggcute](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/ggcute2.png),88,FALSE,NA,###  New Packages,image,2020-04-06
-+ [{flagon}: A package of just flag images in PNG and SVG format](https://coolbutuseless.github.io/2020/04/03/introducing-flagon-a-package-of-just-flag-images-in-png-and-svg-format/),182,FALSE,NA,###  New Packages,link,2020-04-06
-+ [Introducing 'optout' - A package for optimizing graphics output](https://coolbutuseless.github.io/2020/04/03/introducing-optout-a-package-for-optimizing-graphics-output/),173,FALSE,NA,###  New Packages,link,2020-04-06
-+ [RcppSimdJson 0.0.4: Even Faster Upstream!](http://dirk.eddelbuettel.com/blog/2020/04/03#rcppsimdjson_0.0.4),110,FALSE,NA,### Updated Packages,link,2020-04-06
-+ [RQuantLib 0.4.12: Small QuantLib 1.18 update](http://dirk.eddelbuettel.com/blog/2020/04/02#rquantlib_0.4.12),111,FALSE,NA,### Updated Packages,link,2020-04-06
-+ [foreach 1.5.0 now available on CRAN](https://blog.revolutionanalytics.com/2020/03/foreach-150-released.html),111,FALSE,NA,### Updated Packages,link,2020-04-06
-+ [Introductory videos for Explanatory Model Analysis with R](https://medium.com/@ModelOriented/introductory-videos-for-explanatory-model-analysis-with-r-9215fdecbd34?source=rss-57dd112ef71e------2),198,FALSE,NA,###  Videos and Podcasts,link,2020-04-06
-+ [Plotting anything with ggplot2 workshop part 2](https://www.youtube.com/watch?v=0m4yywqNPVY),95,FALSE,NA,###  Videos and Podcasts,link,2020-04-06
-+ [[Japanese] データフレームの変数に日本語ラベルを付けたいとき](http://ill-identified.hatenablog.com/entry/2020/03/30/013939),101,FALSE,NA,### R Internationally,link,2020-04-06
-+ [How to efficiently calculate pairwise overlaps of many sets: An example of progressively optimizing the speed of a function](https://blog.jdblischak.com/posts/pairwise-overlaps/),181,FALSE,NA,###  Tutorials,link,2020-04-06
-+ [Five Minute Football Trivia - Trans-Europe Express](https://www.robert-hickman.eu/post/five_min_trivia_kraftwerk/),117,FALSE,NA,###  Tutorials,link,2020-04-06
-+ [Bootstrap resampling with #TidyTuesday beer production data](https://juliasilge.com/blog/beer-production/),109,FALSE,NA,###  Tutorials,link,2020-04-06
-+ [Visualizing decision tree partition and decision boundaries](https://paulvanderlaken.com/2020/03/31/visualizing-decision-tree-partition-and-decision-boundaries/),164,FALSE,NA,###  Tutorials,link,2020-04-06
-![decision](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/decision_viz.png),95,FALSE,NA,###  Tutorials,image,2020-04-06
-+ [What is a dgCMatrix object made of? (sparse matrix format in R)](https://statisticaloddsandends.wordpress.com/2020/03/31/what-is-a-dgcmatrix-object-made-of-sparse-matrix-format-in-r/),186,FALSE,NA,###  Tutorials,link,2020-04-06
-+ [A simple way to show stack trace on error in R](https://renkun.me/2020/03/31/a-simple-way-to-show-stack-trace-on-error-in-r/) ,129,FALSE,NA,###  Tutorials,link,2020-04-06
-+ [R Tip: How To Look Up Matrix Values Quickly](http://www.win-vector.com/blog/2020/03/r-tip-how-to-look-up-matrix-values-quickly/),131,FALSE,NA,###  Tutorials,link,2020-04-06
-+ [B is for bind_rows](http://www.deeplytrivial.com/2020/04/b-is-for-bindrows.html),83,FALSE,NA,###  Tutorials,link,2020-04-06
-+ [C is for coalesce](http://www.deeplytrivial.com/2020/04/c-is-for-coalesce.html),82,FALSE,NA,###  Tutorials,link,2020-04-06
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2020-04-06
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2020-04-06
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2020-04-06
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-04-06
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-04-06
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2020-04-06
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2020-04-06
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">🔔Why yes, I did use {R6} OOP in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> to build an Automatic Bell Dispenser from <a href=""https://twitter.com/hashtag/AnimalCrossing?src=hash&amp;ref_src=twsrc%5Etfw"">#AnimalCrossing</a> and then blogged about it: <a href=""https://t.co/QftO2Z3auw"">https://t.co/QftO2Z3auw</a> <a href=""https://t.co/y0qbzIJpMS"">pic.twitter.com/y0qbzIJpMS</a></p>&mdash; Matt Dray (@mattdray) <a href=""https://twitter.com/mattdray/status/1246447304179097602?ref_src=twsrc%5Etfw"">April 4, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",717,FALSE,NA,###  Quotes of the Week,unid,2020-04-06
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">You know you’ve spent too much time using Rmarkdown when your new lockdown hobby is ‘knitting’ Turns out I&#39;m not a natural at either🤦‍♀️<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw"">#phdchat</a> <a href=""https://twitter.com/hashtag/lockdown?src=hash&amp;ref_src=twsrc%5Etfw"">#lockdown</a> <a href=""https://t.co/D3q5IWUH7n"">pic.twitter.com/D3q5IWUH7n</a></p>&mdash; Rosie Williams (@RosieSWilliams1) <a href=""https://twitter.com/RosieSWilliams1/status/1244932004669423617?ref_src=twsrc%5Etfw"">March 31, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",794,FALSE,NA,###  Quotes of the Week,unid,2020-04-06
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2020-04-06
+"title: R Weekly 2020-14 {ggpattern}, stack traces, {ggplot2} workshop",69,FALSE,NA,unid,2020-04-06
+description: Weekly News in the R Community,43,FALSE,NA,unid,2020-04-06
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2020-04-06
+---,3,FALSE,NA,unid,2020-04-06
+Release Date: 2020-04-06,24,FALSE,NA,unid,2020-04-06
+"This week’s release was curated by [Eric Nantz](https://twitter.com/thercast), with help from the RWeekly team members and contributors.",136,FALSE,NA,unid,2020-04-06
+* [ggpattern: pattern & image fills for ggplot geoms](https://github.com/coolbutuseless/ggpattern/),99,FALSE,###  Highlight,unid,2020-04-06
++ [A simple way to show stack trace on error in R](https://renkun.me/2020/03/31/a-simple-way-to-show-stack-trace-on-error-in-r/) ,129,FALSE,###  Highlight,link,2020-04-06
++ [Plotting anything with ggplot2 workshop part 2](https://www.youtube.com/watch?v=0m4yywqNPVY),95,FALSE,###  Highlight,link,2020-04-06
++ [R Journal Volume 11/2](https://journal.r-project.org/archive/2019-2/),72,FALSE,### Insights,link,2020-04-06
++ [Using R to tap into the genius & Spotify API to discern trends in BTS's new album and visualise it using the 'ggplot2' & 'highcharter' packages](https://link.medium.com/ZLHoOcRMm5),183,FALSE,### Insights,link,2020-04-06
+![spotifymood](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/spotify_mood2.png),99,FALSE,### Insights,image,2020-04-06
+* [It's fun to look at the Y A C M (Yet Another COVID Model)](https://medianwatch.netlify.com/post/covid-uncertainty/),118,FALSE,#### COVID-19,unid,2020-04-06
+![yacm](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/yacm2.png),84,FALSE,#### COVID-19,image,2020-04-06
++ [COVID-19 shiny / plotly dashboard](https://mail-wolf.de/?p=4632),67,FALSE,#### COVID-19,link,2020-04-06
++ [COVID-19 decease animation map](http://r.iresmi.net/2020/04/01/covid-19-decease-animation-map/),98,FALSE,#### COVID-19,link,2020-04-06
++ [Can unbalanced randomization improve power?](https://www.rdatagen.net/post/can-unbalanced-randomization-improve-power/),122,FALSE,#### COVID-19,link,2020-04-06
++ [Contagiousness of COVID-19 Part I: Improvements of Mathematical Fitting (Guest Post)](https://blog.ephorie.de/contagiousness-of-covid-19-part-i-improvements-of-mathematical-fitting-guest-post),195,FALSE,#### COVID-19,link,2020-04-06
++ [COVID-19 in Belgium](https://www.statsandr.com/blog/covid-19-in-belgium/),76,FALSE,#### COVID-19,link,2020-04-06
++ [Coronavirus : spatially smoothed decease in France](http://r.iresmi.net/2020/03/30/coronavirus-spatially-smoothed-decease-in-france/),136,FALSE,#### COVID-19,link,2020-04-06
+"+ [""Flank Attacks Visualisation"" Using StatsBomb Open Data](https://npranav10.github.io/blog/entries-into-final-third.html)",123,FALSE,### R in the Real World,link,2020-04-06
+![flank](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/flank_attacks2.png),94,FALSE,### R in the Real World,image,2020-04-06
++ [AutoML Frameworks in R & Python](https://iamnagdev.com/2020/04/01/automl-frameworks-in-r-python/),100,FALSE,### R in the Real World,link,2020-04-06
+"+ [Updates to R GUIs: BlueSky, jamovi, JASP, & RKWard](http://r4stats.com/2020/03/31/updates-to-r-guis/)",104,FALSE,### R in the Real World,link,2020-04-06
++ [Close Encounters of the R Kind](https://rviews.rstudio.com/2020/03/31/close-encounters-of-the-r-kind/),105,FALSE,###  R in Organizations,link,2020-04-06
++ [Screenager: screening times at bioRxiv](https://quantixed.org/2020/03/30/screenager-screening-times-at-biorxiv/),115,FALSE,###  R in Academia,link,2020-04-06
++ [Obtain & wrangle OpenAQ data with R: ropenaq and beyond](https://masalmon.eu/talks/2020-03-31-ropenaq/),106,FALSE,###  Resources,link,2020-04-06
++ [Y-Conditionally Regularized Neural Nets](http://www.win-vector.com/blog/2020/04/y-conditionally-regularized-neural-nets/),124,FALSE,###  Resources,link,2020-04-06
++ [Everything you should know about WinBuilder](https://blog.r-hub.io/2020/04/01/win-builder/),94,FALSE,###  Resources,link,2020-04-06
+* [ggpattern: pattern & image fills for ggplot geoms](https://github.com/coolbutuseless/ggpattern/),99,FALSE,###  New Packages,unid,2020-04-06
+![ggpattern](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/ggpattern_bob2.jpg),98,FALSE,###  New Packages,image,2020-04-06
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2020-04-06
+**CRAN**,8,FALSE,###  New Packages,unid,2020-04-06
++ [{simhelpers 0.1.0}: Helper package to assist in running simulation studies](https://meghapsimatrix.github.io/simhelpers/index.html),134,FALSE,###  New Packages,link,2020-04-06
++ [{cartography 2.4.0}](https://rgeomatic.hypotheses.org/1989),62,FALSE,###  New Packages,link,2020-04-06
+![cartography](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/cartography_package.png),105,FALSE,###  New Packages,image,2020-04-06
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2020-04-06
++ [{ggcute}: A collection of cute things to use with ggplot2.](https://github.com/sharlagelfand/ggcute),103,FALSE,###  New Packages,link,2020-04-06
+![ggcute](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/ggcute2.png),88,FALSE,###  New Packages,image,2020-04-06
++ [{flagon}: A package of just flag images in PNG and SVG format](https://coolbutuseless.github.io/2020/04/03/introducing-flagon-a-package-of-just-flag-images-in-png-and-svg-format/),182,FALSE,###  New Packages,link,2020-04-06
++ [Introducing 'optout' - A package for optimizing graphics output](https://coolbutuseless.github.io/2020/04/03/introducing-optout-a-package-for-optimizing-graphics-output/),173,FALSE,###  New Packages,link,2020-04-06
++ [RcppSimdJson 0.0.4: Even Faster Upstream!](http://dirk.eddelbuettel.com/blog/2020/04/03#rcppsimdjson_0.0.4),110,FALSE,### Updated Packages,link,2020-04-06
++ [RQuantLib 0.4.12: Small QuantLib 1.18 update](http://dirk.eddelbuettel.com/blog/2020/04/02#rquantlib_0.4.12),111,FALSE,### Updated Packages,link,2020-04-06
++ [foreach 1.5.0 now available on CRAN](https://blog.revolutionanalytics.com/2020/03/foreach-150-released.html),111,FALSE,### Updated Packages,link,2020-04-06
++ [Introductory videos for Explanatory Model Analysis with R](https://medium.com/@ModelOriented/introductory-videos-for-explanatory-model-analysis-with-r-9215fdecbd34?source=rss-57dd112ef71e------2),198,FALSE,###  Videos and Podcasts,link,2020-04-06
++ [Plotting anything with ggplot2 workshop part 2](https://www.youtube.com/watch?v=0m4yywqNPVY),95,FALSE,###  Videos and Podcasts,link,2020-04-06
++ [[Japanese] データフレームの変数に日本語ラベルを付けたいとき](http://ill-identified.hatenablog.com/entry/2020/03/30/013939),101,FALSE,### R Internationally,link,2020-04-06
++ [How to efficiently calculate pairwise overlaps of many sets: An example of progressively optimizing the speed of a function](https://blog.jdblischak.com/posts/pairwise-overlaps/),181,FALSE,###  Tutorials,link,2020-04-06
++ [Five Minute Football Trivia - Trans-Europe Express](https://www.robert-hickman.eu/post/five_min_trivia_kraftwerk/),117,FALSE,###  Tutorials,link,2020-04-06
++ [Bootstrap resampling with #TidyTuesday beer production data](https://juliasilge.com/blog/beer-production/),109,FALSE,###  Tutorials,link,2020-04-06
++ [Visualizing decision tree partition and decision boundaries](https://paulvanderlaken.com/2020/03/31/visualizing-decision-tree-partition-and-decision-boundaries/),164,FALSE,###  Tutorials,link,2020-04-06
+![decision](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/decision_viz.png),95,FALSE,###  Tutorials,image,2020-04-06
++ [What is a dgCMatrix object made of? (sparse matrix format in R)](https://statisticaloddsandends.wordpress.com/2020/03/31/what-is-a-dgcmatrix-object-made-of-sparse-matrix-format-in-r/),186,FALSE,###  Tutorials,link,2020-04-06
++ [A simple way to show stack trace on error in R](https://renkun.me/2020/03/31/a-simple-way-to-show-stack-trace-on-error-in-r/) ,129,FALSE,###  Tutorials,link,2020-04-06
++ [R Tip: How To Look Up Matrix Values Quickly](http://www.win-vector.com/blog/2020/03/r-tip-how-to-look-up-matrix-values-quickly/),131,FALSE,###  Tutorials,link,2020-04-06
++ [B is for bind_rows](http://www.deeplytrivial.com/2020/04/b-is-for-bindrows.html),83,FALSE,###  Tutorials,link,2020-04-06
++ [C is for coalesce](http://www.deeplytrivial.com/2020/04/c-is-for-coalesce.html),82,FALSE,###  Tutorials,link,2020-04-06
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2020-04-06
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2020-04-06
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2020-04-06
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2020-04-06
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2020-04-06
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2020-04-06
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2020-04-06
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">🔔Why yes, I did use {R6} OOP in <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> to build an Automatic Bell Dispenser from <a href=""https://twitter.com/hashtag/AnimalCrossing?src=hash&amp;ref_src=twsrc%5Etfw"">#AnimalCrossing</a> and then blogged about it: <a href=""https://t.co/QftO2Z3auw"">https://t.co/QftO2Z3auw</a> <a href=""https://t.co/y0qbzIJpMS"">pic.twitter.com/y0qbzIJpMS</a></p>&mdash; Matt Dray (@mattdray) <a href=""https://twitter.com/mattdray/status/1246447304179097602?ref_src=twsrc%5Etfw"">April 4, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",717,FALSE,###  Quotes of the Week,unid,2020-04-06
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">You know you’ve spent too much time using Rmarkdown when your new lockdown hobby is ‘knitting’ Turns out I&#39;m not a natural at either🤦‍♀️<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw"">#phdchat</a> <a href=""https://twitter.com/hashtag/lockdown?src=hash&amp;ref_src=twsrc%5Etfw"">#lockdown</a> <a href=""https://t.co/D3q5IWUH7n"">pic.twitter.com/D3q5IWUH7n</a></p>&mdash; Rosie Williams (@RosieSWilliams1) <a href=""https://twitter.com/RosieSWilliams1/status/1244932004669423617?ref_src=twsrc%5Etfw"">March 31, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",794,FALSE,###  Quotes of the Week,unid,2020-04-06

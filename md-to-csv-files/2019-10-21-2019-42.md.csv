@@ -1,61 +1,61 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-10-21
-"title: R Weekly 2019-42 {golem} & TidyTuesday, R Package, Shiny & Plumber",73,FALSE,NA,NA,unid,2019-10-21
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-10-21
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-10-21
----,3,FALSE,NA,NA,unid,2019-10-21
-Release Date: 2019-10-21,24,FALSE,NA,NA,unid,2019-10-21
-"This week's release was curated by [Colin Fay](https://twitter.com/_ColinFay), with help from the RWeekly team members and contributors.",136,FALSE,NA,NA,unid,2019-10-21
-"+ [A golem App for #TidyTuesday, 2019-10-15](https://github.com/ColinFay/tidytuesday201942)",91,FALSE,NA,###  Highlight,link,2019-10-21
-+ [My First R Package (Part 1)](https://qualityandinnovation.com/2019/10/13/my-first-r-package-part-1/),103,FALSE,NA,###  Highlight,link,2019-10-21
-+ [Productionizing Shiny and Plumber with Pins](https://rviews.rstudio.com/2019/10/17/deploying-data-with-pins/),112,FALSE,NA,###  Highlight,link,2019-10-21
-+ [My First R Package (Part 1)](https://qualityandinnovation.com/2019/10/13/my-first-r-package-part-1/),103,FALSE,NA,### Insights,link,2019-10-21
-"+ [2 Months in 2 Minutes - rOpenSci News, October 2019](https://ropensci.org/blog/2019/10/17/news-oct2019/)",107,FALSE,NA,### Insights,link,2019-10-21
-+ [Easy introduction to Offensive Programming](https://neonira.github.io/zop2),78,FALSE,NA,### Insights,link,2019-10-21
-"+ [Strange Attractors: an R experiment about maths, recursivity and creative coding](https://codingclubuc3m.rbind.io/post/2019-10-15/)",134,FALSE,NA,### Insights,link,2019-10-21
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/attractor.png),81,FALSE,NA,### Insights,image,2019-10-21
-+ [What are Your Use Cases for rOpenSci Tools and Resources?](https://ropensci.org/blog/2019/10/15/use-cases/),110,FALSE,NA,### Insights,link,2019-10-21
-+ [Where are we going? A look at the U.S. Men's National Soccer Team](https://austinwehrwein.com/post/usmnt/),109,FALSE,NA,### R in the Real World,link,2019-10-21
-+ [Productionizing Shiny and Plumber with Pins](https://rviews.rstudio.com/2019/10/17/deploying-data-with-pins/),112,FALSE,NA,### R in the Real World,link,2019-10-21
-+ [Private Security and the Pareto Principle](https://datawookie.netlify.com/blog/2019/10/private-security-and-the-pareto-principle/),133,FALSE,NA,### R in the Real World,link,2019-10-21
-+ [Finding free science books from Springer](http://blog.ephorie.de/finding-free-science-books-from-springer),109,FALSE,NA,### R in the Real World,link,2019-10-21
-"+ [locus-pocus: A small shiny app that lets you visualise your area in 3 dimensions (webgl, VR, AR)](https://locus-pocus.io/)",125,FALSE,NA,###  Resources,link,2019-10-21
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-10-21
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-10-21
-+ [Introducing ymlthis: a toolkit for working with YAML](https://malco.io/2019/10/10/introducing-ymlthis/),106,FALSE,NA,###  New Packages,link,2019-10-21
-+ [{orderly 1.0.1}: A lightweight but powerful reproducible reporting framework](https://reside-ic.github.io/blog/orderly-1.0.1-released-to-cran/),146,FALSE,NA,###  New Packages,link,2019-10-21
-+ [bigparallelr: Easy Parallel Tools](https://cran.r-project.org/web/packages/bigparallelr/index.html),102,FALSE,NA,###  New Packages,link,2019-10-21
-+ [govdown: GOV.UK Style Templates for R Markdown](https://cran.r-project.org/web/packages/govdown/index.html),110,FALSE,NA,###  New Packages,link,2019-10-21
-+ [miniparquet: Read Parquet Files](https://cran.r-project.org/web/packages/miniparquet/index.html),99,FALSE,NA,###  New Packages,link,2019-10-21
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-10-21
-"+ [A golem App for #TidyTuesday, 2019-10-15](https://github.com/ColinFay/tidytuesday201942)",91,FALSE,NA,###  New Packages,link,2019-10-21
-+ [{shiny 1.4.0}](https://blog.rstudio.com/2019/10/15/shiny-1-4-0/),67,FALSE,NA,### Updated Packages,link,2019-10-21
-+ [{covr 3.3.2}](https://cran.r-project.org/package=covr),57,FALSE,NA,### Updated Packages,link,2019-10-21
-+ [89 - Everyone Has a Life](http://nssdeviations.com/89-everyone-has-a-life),77,FALSE,NA,###  Videos and Podcasts,link,2019-10-21
-+ [Vignette: Google Trends with the gtrendsR package](https://martinctc.github.io/blog/vignette-google-trends-with-gtrendsr/),125,FALSE,NA,###  Tutorials,link,2019-10-21
-+ [Formatted spreadsheets in R](https://luisdva.github.io/rstats/annotate-mf/),78,FALSE,NA,###  Tutorials,link,2019-10-21
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/dogtest.png),79,FALSE,NA,###  Tutorials,image,2019-10-21
-+ [Map coloring: the color scale styles available in the tmap package](https://geocompr.github.io/post/2019/tmap-color-scales/),127,FALSE,NA,###  Tutorials,link,2019-10-21
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/map.png),75,FALSE,NA,###  Tutorials,image,2019-10-21
-+ [xaringan Tip: Add A Logo to All of Your Slides](https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/),118,FALSE,NA,###  Tutorials,link,2019-10-21
-+ [Settlers of Catan in R](https://www.therplayground.com/post/settlers-of-catan-in-r),86,FALSE,NA,###  Tutorials,link,2019-10-21
-+ [SQL Server Schemas & R Tip](https://roh.engineering/post/sql-server-r-tip/),78,FALSE,NA,###  Tutorials,link,2019-10-21
-+ [rBokeh – Don't be stopped by missing arguments!](https://www.statworx.com/de/blog/rbokeh-dont-be-stopped-by-missing-arguments/),130,FALSE,NA,###  Tutorials,link,2019-10-21
-+ [Advancing Text Mining with R and quanteda](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/advancing-text-mining/),131,FALSE,NA,###  Tutorials,link,2019-10-21
-+ [Map coloring: the color scale styles available in the tmap package](https://geocompr.github.io/post/2019/tmap-color-scales/),127,FALSE,NA,###  Tutorials,link,2019-10-21
-+ [Using bwimge R package to describe patterns in images of natural structures](https://r-posts.com/using-bwimge-r-package-to-describe-patterns-in-images-of-natural-structures/),177,FALSE,NA,###  Tutorials,link,2019-10-21
-+ [Super Solutions for Shiny Apps #4 of 5: Using R6 Classes](https://appsilon.com/super-solutions-for-shiny-apps-using-r6-classes/),131,FALSE,NA,###  Tutorials,link,2019-10-21
-"+ [Selection bias, death, and dying](https://www.rdatagen.net/post/selection-bias-death-and-dying/)",99,FALSE,NA,###  Tutorials,link,2019-10-21
-+ [Follow moving particle trajectory over raster with {rayshader}](https://statnmap.com/2019-10-06-follow-moving-particle-trajectory-on-raster-with-rayshader/),159,FALSE,NA,###  Tutorials,link,2019-10-21
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2019-10-21
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-10-21
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-10-21
-"+ [Tokyo.R #82, October 26](https://tokyor.connpass.com/)",57,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-10-21
-"+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)",124,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-10-21
-"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)",71,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-10-21
-"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-10-21
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-10-21
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-10-21
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-10-21
-+ [Job: Junior Systems Administrator (with a focus on R/Python)](https://www.jumpingrivers.com/blog/job-junior-systems-administrator-with-a-focus-on-r-python/),159,FALSE,NA,### Jobs,link,2019-10-21
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-10-21
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-10-21
+"title: R Weekly 2019-42 {golem} & TidyTuesday, R Package, Shiny & Plumber",73,FALSE,NA,unid,2019-10-21
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-10-21
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-10-21
+---,3,FALSE,NA,unid,2019-10-21
+Release Date: 2019-10-21,24,FALSE,NA,unid,2019-10-21
+"This week's release was curated by [Colin Fay](https://twitter.com/_ColinFay), with help from the RWeekly team members and contributors.",136,FALSE,NA,unid,2019-10-21
+"+ [A golem App for #TidyTuesday, 2019-10-15](https://github.com/ColinFay/tidytuesday201942)",91,FALSE,###  Highlight,link,2019-10-21
++ [My First R Package (Part 1)](https://qualityandinnovation.com/2019/10/13/my-first-r-package-part-1/),103,FALSE,###  Highlight,link,2019-10-21
++ [Productionizing Shiny and Plumber with Pins](https://rviews.rstudio.com/2019/10/17/deploying-data-with-pins/),112,FALSE,###  Highlight,link,2019-10-21
++ [My First R Package (Part 1)](https://qualityandinnovation.com/2019/10/13/my-first-r-package-part-1/),103,FALSE,### Insights,link,2019-10-21
+"+ [2 Months in 2 Minutes - rOpenSci News, October 2019](https://ropensci.org/blog/2019/10/17/news-oct2019/)",107,FALSE,### Insights,link,2019-10-21
++ [Easy introduction to Offensive Programming](https://neonira.github.io/zop2),78,FALSE,### Insights,link,2019-10-21
+"+ [Strange Attractors: an R experiment about maths, recursivity and creative coding](https://codingclubuc3m.rbind.io/post/2019-10-15/)",134,FALSE,### Insights,link,2019-10-21
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/attractor.png),81,FALSE,### Insights,image,2019-10-21
++ [What are Your Use Cases for rOpenSci Tools and Resources?](https://ropensci.org/blog/2019/10/15/use-cases/),110,FALSE,### Insights,link,2019-10-21
++ [Where are we going? A look at the U.S. Men's National Soccer Team](https://austinwehrwein.com/post/usmnt/),109,FALSE,### R in the Real World,link,2019-10-21
++ [Productionizing Shiny and Plumber with Pins](https://rviews.rstudio.com/2019/10/17/deploying-data-with-pins/),112,FALSE,### R in the Real World,link,2019-10-21
++ [Private Security and the Pareto Principle](https://datawookie.netlify.com/blog/2019/10/private-security-and-the-pareto-principle/),133,FALSE,### R in the Real World,link,2019-10-21
++ [Finding free science books from Springer](http://blog.ephorie.de/finding-free-science-books-from-springer),109,FALSE,### R in the Real World,link,2019-10-21
+"+ [locus-pocus: A small shiny app that lets you visualise your area in 3 dimensions (webgl, VR, AR)](https://locus-pocus.io/)",125,FALSE,###  Resources,link,2019-10-21
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-10-21
+**CRAN**,8,FALSE,###  New Packages,unid,2019-10-21
++ [Introducing ymlthis: a toolkit for working with YAML](https://malco.io/2019/10/10/introducing-ymlthis/),106,FALSE,###  New Packages,link,2019-10-21
++ [{orderly 1.0.1}: A lightweight but powerful reproducible reporting framework](https://reside-ic.github.io/blog/orderly-1.0.1-released-to-cran/),146,FALSE,###  New Packages,link,2019-10-21
++ [bigparallelr: Easy Parallel Tools](https://cran.r-project.org/web/packages/bigparallelr/index.html),102,FALSE,###  New Packages,link,2019-10-21
++ [govdown: GOV.UK Style Templates for R Markdown](https://cran.r-project.org/web/packages/govdown/index.html),110,FALSE,###  New Packages,link,2019-10-21
++ [miniparquet: Read Parquet Files](https://cran.r-project.org/web/packages/miniparquet/index.html),99,FALSE,###  New Packages,link,2019-10-21
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-10-21
+"+ [A golem App for #TidyTuesday, 2019-10-15](https://github.com/ColinFay/tidytuesday201942)",91,FALSE,###  New Packages,link,2019-10-21
++ [{shiny 1.4.0}](https://blog.rstudio.com/2019/10/15/shiny-1-4-0/),67,FALSE,### Updated Packages,link,2019-10-21
++ [{covr 3.3.2}](https://cran.r-project.org/package=covr),57,FALSE,### Updated Packages,link,2019-10-21
++ [89 - Everyone Has a Life](http://nssdeviations.com/89-everyone-has-a-life),77,FALSE,###  Videos and Podcasts,link,2019-10-21
++ [Vignette: Google Trends with the gtrendsR package](https://martinctc.github.io/blog/vignette-google-trends-with-gtrendsr/),125,FALSE,###  Tutorials,link,2019-10-21
++ [Formatted spreadsheets in R](https://luisdva.github.io/rstats/annotate-mf/),78,FALSE,###  Tutorials,link,2019-10-21
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/dogtest.png),79,FALSE,###  Tutorials,image,2019-10-21
++ [Map coloring: the color scale styles available in the tmap package](https://geocompr.github.io/post/2019/tmap-color-scales/),127,FALSE,###  Tutorials,link,2019-10-21
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/map.png),75,FALSE,###  Tutorials,image,2019-10-21
++ [xaringan Tip: Add A Logo to All of Your Slides](https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/),118,FALSE,###  Tutorials,link,2019-10-21
++ [Settlers of Catan in R](https://www.therplayground.com/post/settlers-of-catan-in-r),86,FALSE,###  Tutorials,link,2019-10-21
++ [SQL Server Schemas & R Tip](https://roh.engineering/post/sql-server-r-tip/),78,FALSE,###  Tutorials,link,2019-10-21
++ [rBokeh – Don't be stopped by missing arguments!](https://www.statworx.com/de/blog/rbokeh-dont-be-stopped-by-missing-arguments/),130,FALSE,###  Tutorials,link,2019-10-21
++ [Advancing Text Mining with R and quanteda](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/advancing-text-mining/),131,FALSE,###  Tutorials,link,2019-10-21
++ [Map coloring: the color scale styles available in the tmap package](https://geocompr.github.io/post/2019/tmap-color-scales/),127,FALSE,###  Tutorials,link,2019-10-21
++ [Using bwimge R package to describe patterns in images of natural structures](https://r-posts.com/using-bwimge-r-package-to-describe-patterns-in-images-of-natural-structures/),177,FALSE,###  Tutorials,link,2019-10-21
++ [Super Solutions for Shiny Apps #4 of 5: Using R6 Classes](https://appsilon.com/super-solutions-for-shiny-apps-using-r6-classes/),131,FALSE,###  Tutorials,link,2019-10-21
+"+ [Selection bias, death, and dying](https://www.rdatagen.net/post/selection-bias-death-and-dying/)",99,FALSE,###  Tutorials,link,2019-10-21
++ [Follow moving particle trajectory over raster with {rayshader}](https://statnmap.com/2019-10-06-follow-moving-particle-trajectory-on-raster-with-rayshader/),159,FALSE,###  Tutorials,link,2019-10-21
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2019-10-21
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-10-21
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-10-21
+"+ [Tokyo.R #82, October 26](https://tokyor.connpass.com/)",57,FALSE,###  Upcoming Events in 3 Months,link,2019-10-21
+"+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)",124,FALSE,###  Upcoming Events in 3 Months,link,2019-10-21
+"+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)",71,FALSE,###  Upcoming Events in 3 Months,link,2019-10-21
+"+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)",55,FALSE,###  Upcoming Events in 3 Months,link,2019-10-21
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-10-21
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-10-21
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-10-21
++ [Job: Junior Systems Administrator (with a focus on R/Python)](https://www.jumpingrivers.com/blog/job-junior-systems-administrator-with-a-focus-on-r-python/),159,FALSE,### Jobs,link,2019-10-21
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-10-21

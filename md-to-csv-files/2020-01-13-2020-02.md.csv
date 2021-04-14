@@ -1,63 +1,63 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2020-01-13
-"title: R Weekly 2020-02 tidylog, Forwards Southern Africa",57,FALSE,NA,NA,unid,2020-01-13
-description: Weekly News in the R Community,43,FALSE,NA,NA,unid,2020-01-13
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2020-01-13
----,3,FALSE,NA,NA,unid,2020-01-13
-Release Date: 2020-01-13,24,FALSE,NA,NA,unid,2020-01-13
-"This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_salmon), with help from the R Weekly team members and contributors.",141,FALSE,NA,NA,unid,2020-01-13
-"+ [`tidylog`](https://elbersb.com/public/posts/tidylog100/), feedback for dplyr and tidyr commands",98,FALSE,NA,###  Highlights,link,2020-01-13
-+ [Forwards Southern Africa Project 2020](https://www.crowdfunder.co.uk/forwards-southern-africa-project-2020#): Help us put on R workshops and meetups in Southern Africa to support the development of the local R community.  (crowdfunding),239,FALSE,NA,###  Highlights,link,2020-01-13
-+ [From Shock to Competence: How Not to Panic When You Receive E-mail from CRAN about Failed Checks](https://blog.r-hub.io/2020/01/08/cran-error/),146,FALSE,NA,### Insights,link,2020-01-13
-+ [Overfitting: a guided tour](https://www.alexpghayes.com/blog/overfitting-a-guided-tour/),91,FALSE,NA,### Insights,link,2020-01-13
-+ [Quick Time Series Analysis of the CCI30 Cryptocurrency Index](https://www.remixinstitute.com/blog/quick-time-series-analysis-of-the-cci30-crypto-index),154,FALSE,NA,### R in the Real World,link,2020-01-13
-+ [Twitter in collage: a year in the life of a freshman Congresswoman](https://www.jtimm.net/2020/01/05/2020-01-01a-year-in-twitter-photos/),140,FALSE,NA,### R in the Real World,link,2020-01-13
-+ [The 'Spelling Bee Honeycomb' puzzle: efficient computation in R](http://varianceexplained.org/r/honeycomb-puzzle/),117,FALSE,NA,### R in the Real World,link,2020-01-13
-+ [How to use your Garmin watch to tell your team you’re going for a run](https://colinfay.me/api-call-garmin-watch/),117,FALSE,NA,### R in the Real World,link,2020-01-13
-+ [Counting Days in Canada: Using ggmap to track time spent in Canada](https://theaknowles.com/post/canada-days-counter/),121,FALSE,NA,### R in the Real World,link,2020-01-13
-+ [Open materials for teaching reproducible research by the psyTeachR team at the University of Glasgow School of Psychology.](https://psyteachr.github.io/),156,FALSE,NA,###  Resources,link,2020-01-13
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2020-01-13
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2020-01-13
-"+ [`browse`, Navigate and generate links to remote files](https://github.com/tmastny/browse)",92,FALSE,NA,###  New Packages,link,2020-01-13
-"![browse, Navigate and generate links to remote files](https://raw.githubusercontent.com/rweekly/image/master/2020-01-13/browse.gif)",132,FALSE,NA,###  New Packages,image,2020-01-13
-"+ [`ravelRy`, an interface to the Ravelry API](https://github.com/walkerkq/ravelRy)",83,FALSE,NA,###  New Packages,link,2020-01-13
-"+ [`sessionDiffo`, Compare `sessionInfo`s in a smooth way](https://federicomarini.github.io/sessionDiffo)",105,FALSE,NA,###  New Packages,link,2020-01-13
-"+ [`tweetbotornot2`, Detect Twitter Bots – Accurate AND Fast!](https://github.com/mkearney/tweetbotornot2)",106,FALSE,NA,###  New Packages,link,2020-01-13
-"+ [`slackteams`, Manage and Interact with multiple Slack teams in R](https://yonicd.github.io/slackteams/)",106,FALSE,NA,###  New Packages,link,2020-01-13
-"+ [`glueformula`, simply build regression formulas from vectors with variable names](http://skranz.github.io//r/2020/01/09/glueformula.html)",140,FALSE,NA,###  New Packages,link,2020-01-13
-"+ [`podlover`, Get and analyze download stats from the Wordpress podcasting add-on ""Podlove Publisher"" ](https://github.com/lordyo/podlover)",140,FALSE,NA,###  New Packages,link,2020-01-13
-"+ [`flashcards`, Test Hebrew vocab](https://github.com/isteves/flashcards)",74,FALSE,NA,###  New Packages,link,2020-01-13
-"+ [`tidylog`](https://elbersb.com/public/posts/tidylog100/), feedback for dplyr and tidyr commands",98,FALSE,NA,### Updated Packages,link,2020-01-13
-+ [heatmaply 1.0.0 – beautiful interactive cluster heatmaps in R](https://www.r-statistics.com/2020/01/heatmaply-1-0-0-beautiful-interactive-cluster-heatmaps-in-r/),164,FALSE,NA,### Updated Packages,link,2020-01-13
-+ [BH 1.72.0-3 on CRAN](http://dirk.eddelbuettel.com/blog/2020/01/08#bh_1.72.0-3),81,FALSE,NA,### Updated Packages,link,2020-01-13
-+ [New vtreat Feature: Nested Model Bias Warning](http://www.win-vector.com/blog/2020/01/new-vtreat-feature-nested-model-bias-warning/),135,FALSE,NA,### Updated Packages,link,2020-01-13
-"+ [Données manquantes – causes, identification et imputation](https://thinkr.fr/donnees-manquantes-causes-identification-et-imputation/)",136,FALSE,NA,### R Internationally,link,2020-01-13
-"![Données manquantes – causes, identification et imputation](https://raw.githubusercontent.com/rweekly/image/master/2020-01-13/art01-missingdata-5-1.png)",153,FALSE,NA,### R Internationally,image,2020-01-13
-+ [Sneak peek of {ggplot2 3.3.0} (Japanese)](https://notchained.hatenablog.com/entry/2020/01/07/222536),103,FALSE,NA,### R Internationally,link,2020-01-13
-+ [Building Color Palette Proofs of Concept with purrr and ggplot2](https://data-chronicler.netlify.com/2020/01/08/2019-12-30-building-color-palette-proof-of-concepts-with-purrr-and-ggplot2/),191,FALSE,NA,###  Tutorials,link,2020-01-13
-+ [Use {patchwork} and R Markdown for multi-image slide layouts in PowerPoint](https://mattherman.info/blog/ppt-patchwork/),123,FALSE,NA,###  Tutorials,link,2020-01-13
-+ [Exploring the Curse of Dimensionality - Part I.](https://juanitorduz.github.io/exploring-the-curse-of-dimensionality-part-i./),129,FALSE,NA,###  Tutorials,link,2020-01-13
-"+ [Daily Volumes, Holidays and BLS Reports](https://rviews.rstudio.com/2020/01/06/daily-volumes-holidays-and-bls-reports/)",122,FALSE,NA,###  Tutorials,link,2020-01-13
-+ [Vignette: Podlover – A Package to Analyze Podcasting Data](https://r-posts.com/vignette-podlover-a-package-to-analyze-podcasting-data/),138,FALSE,NA,###  Tutorials,link,2020-01-13
-"+ [Psst, don't tell anybody: The World is getting more rational!](https://blog.ephorie.de/psst-dont-tell-anybody-the-world-is-getting-more-rational)",148,FALSE,NA,###  Tutorials,link,2020-01-13
-"![Psst, don't tell anybody: The World is getting more rational!](https://raw.githubusercontent.com/rweekly/image/master/2020-01-13/gtrends-840x600.png)",151,FALSE,NA,###  Tutorials,image,2020-01-13
-+ [How to create Bar Race Animation Charts in R](https://www.programmingwithr.com/how-to-create-animated-bar-race-charts-in-r/),127,FALSE,NA,###  Tutorials,link,2020-01-13
-+ [Working with Windows  CMD system commands in R](https://tomaztsql.wordpress.com/2020/01/06/working-with-system-commands-in-r/),129,FALSE,NA,###  Tutorials,link,2020-01-13
-+ [Complex coloring and contour levels](https://a-blog-from-sydney.blogspot.com/2020/01/complex-coloring-and-contour-levels.html),129,FALSE,NA,###  Tutorials,link,2020-01-13
-+ [Visual Testing for Graphics in R](https://www.stat.auckland.ac.nz/~paul/Reports/QA/gdiff/gdiff.html),103,FALSE,NA,###  Tutorials,link,2020-01-13
-+ [Exploring tidyr pivot_longer function on water chemistry data.](https://waterdata.usgs.gov/blog/pivot/),106,FALSE,NA,###  Tutorials,link,2020-01-13
-+ [Efficient iterations in R](https://towardsdatascience.com/iterate-your-r-code-efficiently-3c621998eaea),106,FALSE,NA,###  Tutorials,link,2020-01-13
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2020-01-13
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2020-01-13
-+ [`{golem}` live coding - 2020-01-13 21.00 Paris time](https://thinkr-open.github.io/golemstream/),99,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-13
-+ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-13
-"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-13
-"+ [satRday Newcastle upon Tyne, April the 4th](https://newcastle2020.satrdays.org/), Call for speakers for #satRdayNCL closes 31st Jan.",135,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-13
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-13
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-13
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2020-01-13
-+ [Aviation Data](https://www.kaggle.com/dhruvagg/aviation-safety),66,FALSE,NA,### Datasets,link,2020-01-13
-+ [Forwards Southern Africa Project 2020](https://www.crowdfunder.co.uk/forwards-southern-africa-project-2020#): Help us put on R workshops and meetups in Southern Africa to support the development of the local R community.  (crowdfunding),239,FALSE,NA,###  Call for Participation,link,2020-01-13
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2020-01-13
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">When CRAN opens the doors after the holidays ...<br><br>155 <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> packages in the &#39;pretest&#39; stage right now <a href=""https://t.co/on2A7L0im1"">pic.twitter.com/on2A7L0im1</a></p>&mdash; Henrik Bengtsson (@henrikbengtsson) <a href=""https://twitter.com/henrikbengtsson/status/1214563967101616130?ref_src=twsrc%5Etfw"">January 7, 2020</a></blockquote>",494,FALSE,NA,###  Quotes of the Week,unid,2020-01-13
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Words of wisdom from <a href=""https://twitter.com/allison_horst?ref_src=twsrc%5Etfw"">@allison_horst</a> to her data analysis class this quarter: You don&#39;t need to be a mechanic to drive a car safely, and you don&#39;t need to be a computer scientist or developer to use R safely. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/tidytuesday?src=hash&amp;ref_src=twsrc%5Etfw"">#tidytuesday</a></p>&mdash; Amelia Ritger (@ameliaritger) <a href=""https://twitter.com/ameliaritger/status/1214682596182904832?ref_src=twsrc%5Etfw"">January 7, 2020</a></blockquote> ",695,FALSE,NA,###  Quotes of the Week,unid,2020-01-13
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2020-01-13
+"title: R Weekly 2020-02 tidylog, Forwards Southern Africa",57,FALSE,NA,unid,2020-01-13
+description: Weekly News in the R Community,43,FALSE,NA,unid,2020-01-13
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2020-01-13
+---,3,FALSE,NA,unid,2020-01-13
+Release Date: 2020-01-13,24,FALSE,NA,unid,2020-01-13
+"This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_salmon), with help from the R Weekly team members and contributors.",141,FALSE,NA,unid,2020-01-13
+"+ [`tidylog`](https://elbersb.com/public/posts/tidylog100/), feedback for dplyr and tidyr commands",98,FALSE,###  Highlights,link,2020-01-13
++ [Forwards Southern Africa Project 2020](https://www.crowdfunder.co.uk/forwards-southern-africa-project-2020#): Help us put on R workshops and meetups in Southern Africa to support the development of the local R community.  (crowdfunding),239,FALSE,###  Highlights,link,2020-01-13
++ [From Shock to Competence: How Not to Panic When You Receive E-mail from CRAN about Failed Checks](https://blog.r-hub.io/2020/01/08/cran-error/),146,FALSE,### Insights,link,2020-01-13
++ [Overfitting: a guided tour](https://www.alexpghayes.com/blog/overfitting-a-guided-tour/),91,FALSE,### Insights,link,2020-01-13
++ [Quick Time Series Analysis of the CCI30 Cryptocurrency Index](https://www.remixinstitute.com/blog/quick-time-series-analysis-of-the-cci30-crypto-index),154,FALSE,### R in the Real World,link,2020-01-13
++ [Twitter in collage: a year in the life of a freshman Congresswoman](https://www.jtimm.net/2020/01/05/2020-01-01a-year-in-twitter-photos/),140,FALSE,### R in the Real World,link,2020-01-13
++ [The 'Spelling Bee Honeycomb' puzzle: efficient computation in R](http://varianceexplained.org/r/honeycomb-puzzle/),117,FALSE,### R in the Real World,link,2020-01-13
++ [How to use your Garmin watch to tell your team you’re going for a run](https://colinfay.me/api-call-garmin-watch/),117,FALSE,### R in the Real World,link,2020-01-13
++ [Counting Days in Canada: Using ggmap to track time spent in Canada](https://theaknowles.com/post/canada-days-counter/),121,FALSE,### R in the Real World,link,2020-01-13
++ [Open materials for teaching reproducible research by the psyTeachR team at the University of Glasgow School of Psychology.](https://psyteachr.github.io/),156,FALSE,###  Resources,link,2020-01-13
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2020-01-13
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2020-01-13
+"+ [`browse`, Navigate and generate links to remote files](https://github.com/tmastny/browse)",92,FALSE,###  New Packages,link,2020-01-13
+"![browse, Navigate and generate links to remote files](https://raw.githubusercontent.com/rweekly/image/master/2020-01-13/browse.gif)",132,FALSE,###  New Packages,image,2020-01-13
+"+ [`ravelRy`, an interface to the Ravelry API](https://github.com/walkerkq/ravelRy)",83,FALSE,###  New Packages,link,2020-01-13
+"+ [`sessionDiffo`, Compare `sessionInfo`s in a smooth way](https://federicomarini.github.io/sessionDiffo)",105,FALSE,###  New Packages,link,2020-01-13
+"+ [`tweetbotornot2`, Detect Twitter Bots – Accurate AND Fast!](https://github.com/mkearney/tweetbotornot2)",106,FALSE,###  New Packages,link,2020-01-13
+"+ [`slackteams`, Manage and Interact with multiple Slack teams in R](https://yonicd.github.io/slackteams/)",106,FALSE,###  New Packages,link,2020-01-13
+"+ [`glueformula`, simply build regression formulas from vectors with variable names](http://skranz.github.io//r/2020/01/09/glueformula.html)",140,FALSE,###  New Packages,link,2020-01-13
+"+ [`podlover`, Get and analyze download stats from the Wordpress podcasting add-on ""Podlove Publisher"" ](https://github.com/lordyo/podlover)",140,FALSE,###  New Packages,link,2020-01-13
+"+ [`flashcards`, Test Hebrew vocab](https://github.com/isteves/flashcards)",74,FALSE,###  New Packages,link,2020-01-13
+"+ [`tidylog`](https://elbersb.com/public/posts/tidylog100/), feedback for dplyr and tidyr commands",98,FALSE,### Updated Packages,link,2020-01-13
++ [heatmaply 1.0.0 – beautiful interactive cluster heatmaps in R](https://www.r-statistics.com/2020/01/heatmaply-1-0-0-beautiful-interactive-cluster-heatmaps-in-r/),164,FALSE,### Updated Packages,link,2020-01-13
++ [BH 1.72.0-3 on CRAN](http://dirk.eddelbuettel.com/blog/2020/01/08#bh_1.72.0-3),81,FALSE,### Updated Packages,link,2020-01-13
++ [New vtreat Feature: Nested Model Bias Warning](http://www.win-vector.com/blog/2020/01/new-vtreat-feature-nested-model-bias-warning/),135,FALSE,### Updated Packages,link,2020-01-13
+"+ [Données manquantes – causes, identification et imputation](https://thinkr.fr/donnees-manquantes-causes-identification-et-imputation/)",136,FALSE,### R Internationally,link,2020-01-13
+"![Données manquantes – causes, identification et imputation](https://raw.githubusercontent.com/rweekly/image/master/2020-01-13/art01-missingdata-5-1.png)",153,FALSE,### R Internationally,image,2020-01-13
++ [Sneak peek of {ggplot2 3.3.0} (Japanese)](https://notchained.hatenablog.com/entry/2020/01/07/222536),103,FALSE,### R Internationally,link,2020-01-13
++ [Building Color Palette Proofs of Concept with purrr and ggplot2](https://data-chronicler.netlify.com/2020/01/08/2019-12-30-building-color-palette-proof-of-concepts-with-purrr-and-ggplot2/),191,FALSE,###  Tutorials,link,2020-01-13
++ [Use {patchwork} and R Markdown for multi-image slide layouts in PowerPoint](https://mattherman.info/blog/ppt-patchwork/),123,FALSE,###  Tutorials,link,2020-01-13
++ [Exploring the Curse of Dimensionality - Part I.](https://juanitorduz.github.io/exploring-the-curse-of-dimensionality-part-i./),129,FALSE,###  Tutorials,link,2020-01-13
+"+ [Daily Volumes, Holidays and BLS Reports](https://rviews.rstudio.com/2020/01/06/daily-volumes-holidays-and-bls-reports/)",122,FALSE,###  Tutorials,link,2020-01-13
++ [Vignette: Podlover – A Package to Analyze Podcasting Data](https://r-posts.com/vignette-podlover-a-package-to-analyze-podcasting-data/),138,FALSE,###  Tutorials,link,2020-01-13
+"+ [Psst, don't tell anybody: The World is getting more rational!](https://blog.ephorie.de/psst-dont-tell-anybody-the-world-is-getting-more-rational)",148,FALSE,###  Tutorials,link,2020-01-13
+"![Psst, don't tell anybody: The World is getting more rational!](https://raw.githubusercontent.com/rweekly/image/master/2020-01-13/gtrends-840x600.png)",151,FALSE,###  Tutorials,image,2020-01-13
++ [How to create Bar Race Animation Charts in R](https://www.programmingwithr.com/how-to-create-animated-bar-race-charts-in-r/),127,FALSE,###  Tutorials,link,2020-01-13
++ [Working with Windows  CMD system commands in R](https://tomaztsql.wordpress.com/2020/01/06/working-with-system-commands-in-r/),129,FALSE,###  Tutorials,link,2020-01-13
++ [Complex coloring and contour levels](https://a-blog-from-sydney.blogspot.com/2020/01/complex-coloring-and-contour-levels.html),129,FALSE,###  Tutorials,link,2020-01-13
++ [Visual Testing for Graphics in R](https://www.stat.auckland.ac.nz/~paul/Reports/QA/gdiff/gdiff.html),103,FALSE,###  Tutorials,link,2020-01-13
++ [Exploring tidyr pivot_longer function on water chemistry data.](https://waterdata.usgs.gov/blog/pivot/),106,FALSE,###  Tutorials,link,2020-01-13
++ [Efficient iterations in R](https://towardsdatascience.com/iterate-your-r-code-efficiently-3c621998eaea),106,FALSE,###  Tutorials,link,2020-01-13
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2020-01-13
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2020-01-13
++ [`{golem}` live coding - 2020-01-13 21.00 Paris time](https://thinkr-open.github.io/golemstream/),99,FALSE,###  Upcoming Events in 3 Months,link,2020-01-13
++ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,###  Upcoming Events in 3 Months,link,2020-01-13
+"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,###  Upcoming Events in 3 Months,link,2020-01-13
+"+ [satRday Newcastle upon Tyne, April the 4th](https://newcastle2020.satrdays.org/), Call for speakers for #satRdayNCL closes 31st Jan.",135,FALSE,###  Upcoming Events in 3 Months,link,2020-01-13
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2020-01-13
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2020-01-13
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2020-01-13
++ [Aviation Data](https://www.kaggle.com/dhruvagg/aviation-safety),66,FALSE,### Datasets,link,2020-01-13
++ [Forwards Southern Africa Project 2020](https://www.crowdfunder.co.uk/forwards-southern-africa-project-2020#): Help us put on R workshops and meetups in Southern Africa to support the development of the local R community.  (crowdfunding),239,FALSE,###  Call for Participation,link,2020-01-13
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2020-01-13
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">When CRAN opens the doors after the holidays ...<br><br>155 <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> packages in the &#39;pretest&#39; stage right now <a href=""https://t.co/on2A7L0im1"">pic.twitter.com/on2A7L0im1</a></p>&mdash; Henrik Bengtsson (@henrikbengtsson) <a href=""https://twitter.com/henrikbengtsson/status/1214563967101616130?ref_src=twsrc%5Etfw"">January 7, 2020</a></blockquote>",494,FALSE,###  Quotes of the Week,unid,2020-01-13
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Words of wisdom from <a href=""https://twitter.com/allison_horst?ref_src=twsrc%5Etfw"">@allison_horst</a> to her data analysis class this quarter: You don&#39;t need to be a mechanic to drive a car safely, and you don&#39;t need to be a computer scientist or developer to use R safely. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/tidytuesday?src=hash&amp;ref_src=twsrc%5Etfw"">#tidytuesday</a></p>&mdash; Amelia Ritger (@ameliaritger) <a href=""https://twitter.com/ameliaritger/status/1214682596182904832?ref_src=twsrc%5Etfw"">January 7, 2020</a></blockquote> ",695,FALSE,###  Quotes of the Week,unid,2020-01-13

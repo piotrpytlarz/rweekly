@@ -1,90 +1,90 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2017-01-30
-layout: post,12,FALSE,NA,NA,unid,2017-01-30
-title: R Weekly 2017 Issue 5,28,FALSE,NA,NA,unid,2017-01-30
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-01-30
----,3,FALSE,NA,NA,unid,2017-01-30
-+ [Data Driven Cheatsheets](https://www.r-statistics.com/2017/01/data-driven-cheatsheets/),90,FALSE,NA,### Highlight,link,2017-01-30
-<!--Women in the 2016 Stack Overflow Survey](http://juliasilge.com/blog/Women-Survey/)-->,89,FALSE,NA,### Highlight,unid,2017-01-30
-+ [Analyzing the US election using Twitter and Meta-Data in R](https://behaviouralthinking.com/2016/07/29/analyzing-the-us-election-using-twitter-and-meta-data-in-r/),166,FALSE,NA,### R in the Real World,link,2017-01-30
-+ [IMDB Movie Analysis](https://sw23993.wordpress.com/2017/01/19/imdb-movie-analysis/),86,FALSE,NA,### R in the Real World,link,2017-01-30
-+ [Metro Systems Over Time](https://datascienceplus.com/metro-systems-over-time-part-1/) - Metro systems are an interesting way to learn more about the growth of a city over time.,179,FALSE,NA,### R in the Real World,link,2017-01-30
-![Metro Systems Over Time](https://cdn.rawgit.com/rweekly/image/9fc44066/2017-01-30/paris_del.jpg),98,FALSE,NA,### R in the Real World,image,2017-01-30
-"+ [More water, a bit more about saints](http://maelle.github.io/2017/01/26/morewater/) - Visualizing names of French villages",125,FALSE,NA,### R in the Real World,link,2017-01-30
-+ [Predicting the Willingen 2017 men’s ski jumping competition](https://sw23993.wordpress.com/2017/01/26/predicting-the-willingen-2017-mens-ski-jumping-competition/),165,FALSE,NA,### R in the Real World,link,2017-01-30
-<!--Women in the 2016 Stack Overflow Survey](http://juliasilge.com/blog/Women-Survey/)-->,89,FALSE,NA,### R in the Real World,unid,2017-01-30
-![Women in the 2016 Stack Overflow Survey](https://cdn.rawgit.com/juliasilge/juliasilge.github.io/6934fb4f/figs/2017-01-19-Women-Survey/counts-1.png),149,FALSE,NA,### R in the Real World,image,2017-01-30
-+ [One View of the Impact of the New Immigration Ban (+ freeing PDF data with tabulizer)](https://rud.is/b/2017/01/26/one-view-of-the-impact-of-the-new-immigration-ban-freeing-pdf-data-with-tabulizer/),201,FALSE,NA,### R in the Real World,link,2017-01-30
-![One View of the Impact of the New Immigration Ban (+ freeing PDF data with tabulizer)](https://rud.is/b/wp-content/uploads/2017/01/RStudio.png),145,FALSE,NA,### R in the Real World,image,2017-01-30
-+ [Kung Fu R](http://blog.revolutionanalytics.com/2017/01/kung-fu-r.html),73,FALSE,NA,### R in the Real World,link,2017-01-30
-+ [A Data Driven Exploration of Kung Fu Films](http://vallandingham.me/shaw_bros_analysis.html),95,FALSE,NA,### R in the Real World,link,2017-01-30
-+ [Web scraping UFOs: Gather the Data](https://cameronboy.com/datamusings/2016/01/ufo-1),88,FALSE,NA,### R in the Real World,link,2017-01-30
-+ [Choosing Software to Publish your Data Science Portfolio](http://www.arilamstein.com/blog/2017/01/23/choosing-software-publish-data-science-portfolio/),154,FALSE,NA,### Insights,link,2017-01-30
-+ [R vs Python – a One-on-One Comparison](https://shiring.github.io/r_vs_python/2017/01/22/R_vs_Py_post),104,FALSE,NA,### Insights,link,2017-01-30
-+ [Data Driven Cheatsheets](https://www.r-statistics.com/2017/01/data-driven-cheatsheets/),90,FALSE,NA,### Insights,link,2017-01-30
-+ [A basic reproducible data analysis workflow – principles](http://blog.jom.link/reproducible_analysis_my_principles.html),123,FALSE,NA,### Insights,link,2017-01-30
-+ [New Zealand bank replaces SAS server with R Server](http://blog.revolutionanalytics.com/2017/01/nz-bank-replaces-sas-with-r.html),132,FALSE,NA,### R in Organization,link,2017-01-30
-+ [R Markdown for the Enterprise](https://www.rstudio.com/rviews/2017/01/25/r-markdown-for-the-enterprise/),107,FALSE,NA,### R in Organization,link,2017-01-30
-+ [Building a machine learning model with the MicrosoftML package](http://blog.revolutionanalytics.com/2017/01/microsoftml-taxi-trips.html),139,FALSE,NA,### R in Organization,link,2017-01-30
-+ [Support Vector Machines Simplified using R ](http://www.listendata.com/2017/01/support-vector-machine-in-r-tutorial.html),124,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Principal Component Analysis in R](https://poissonisfish.wordpress.com/2017/01/23/principal-component-analysis-in-r/),120,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Create Parquet Files From R Data Frames With sergeant & Apache Drill (a.k.a. Make Parquet Files Great Again in R)](https://rud.is/b/2017/01/22/create-parquet-files-from-r-data-frames-with-sergeant-apache-drill-a-k-a-make-parquet-files-great-again-in-r/),256,FALSE,NA,### Tutorials,link,2017-01-30
-<!-- !January ’17 Tips and Tricks](https://www.rstudio.com/rviews/2017/01/27/january-17-tips-and-tricks/)-->,108,FALSE,NA,### Tutorials,unid,2017-01-30
-+ [Doing magic and analyzing seasonal time series with GAM (Generalized Additive Model) in R](http://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/),172,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Image Compression with Principal Component Analysis](http://www.aaronschlegel.com/image-compression-principal-component-analysis/),133,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Upgrading to macOS Sierra (nee OSX) for R users](http://www.win-vector.com/blog/2017/01/upgrading-to-macos-sierra-nee-osx-for-r-users/),138,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Finding antipodes using the globe and ggmap packages](http://r.prevos.net/antipodes/),88,FALSE,NA,### Tutorials,link,2017-01-30
-![Finding antipodes using the globe and ggmap packages](https://i0.wp.com/r.prevos.net/wp-content/uploads/sites/11/2017/01/antipodes-1.png?w=582),145,FALSE,NA,### Tutorials,image,2017-01-30
-+ [Extracting and Enriching Ocean Biogeographic Information System (OBIS) Data with R](http://ropensci.org/blog/blog/2017/01/25/obis),133,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Modelling extremes using generalized additive models](http://www.fromthebottomoftheheap.net/2017/01/25/modelling-extremes-with-gams/),136,FALSE,NA,### Tutorials,link,2017-01-30
-+ [A Glimpse into The Daily Life of a Data Scientist](http://omaymas.github.io/Data_Science_Life/),98,FALSE,NA,### Tutorials,link,2017-01-30
-+ [“smooth” package for R. es() function. Part IV. Model selection and combination of forecasts](http://forecasting.svetunkov.ru/en/2017/01/24/smooth-package-for-r-es-function-part-iv-model-selection-and-combination-of-forecasts/),230,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Descriptive Analysis of MLST Data for MRSA](https://eugejjoh.wordpress.com/2017/01/24/descriptive-analysis-of-mlst-data-for-mrsa/),133,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Euler Problem 9 : Special Pythagorean Triple](http://r.prevos.net/euler-problem-9/),86,FALSE,NA,### Tutorials,link,2017-01-30
-"+ [How to do an analysis in R (part 2, visualization and analysis)](http://sharpsightlabs.com/blog/shipping-analysis-r-data-visualization/)",139,FALSE,NA,### Tutorials,link,2017-01-30
-+ [How to use viridis colors with plotly and leaflet?](http://blog.appsilondatascience.com/rstats/2017/01/24/viridis.html),122,FALSE,NA,### Tutorials,link,2017-01-30
-+ [French villages and a sort of resolution](http://maelle.github.io/2017/01/24/kervillebourg/),95,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Creating a “balloon plot” as alternative to a heat map with ggplot2](https://datascience.blog.wzb.eu/2017/01/24/creating-a-balloon-plot-as-alternative-to-a-heat-map-with-ggplot2/),182,FALSE,NA,### Tutorials,link,2017-01-30
-![Creating a “balloon plot” as alternative to a heat map with ggplot2](https://datascience.blog.wzb.eu/wp-content/uploads/10/2017/01/balloon_plot_alt_heatmap.png),162,FALSE,NA,### Tutorials,image,2017-01-30
-+ [Where Cohen went wrong – the proportion of overlap between two normal distributions](http://rpsychologist.com/cohen-d-proportion-overlap),140,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Trumpworld Analysis : Ownership Relations in his Business Network](http://r.prevos.net/trumpworld-analysis/),111,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Speed Up Your Code Part 2: Parallel Processing Financial Data with multidplyr + tidyquant](http://www.mattdancho.com/code-tools/2017/01/21/multidplyr-part2.html),164,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Implementation of a basic reproducible data analysis workflow](http://blog.jom.link/implementation_basic_reproductible_workflow.html),136,FALSE,NA,### Tutorials,link,2017-01-30
-"+ [Visualizing ""The Best""](http://www.maxhumber.com/2017/01/21/THE-BEST.html) - `The Best` is often the wrong question. We’re really just trying to find `The Better`.",166,FALSE,NA,### Tutorials,link,2017-01-30
-+ [A Recipe for Automatically Going From Data to Text to Reveal.js Slides](https://blog.ouseful.info/2017/01/20/a-recipe-for-automatically-going-from-data-to-text-to-reveal-js-slides/),184,FALSE,NA,### Tutorials,link,2017-01-30
-+ [Easily explore a table with shinycsv](https://lcolladotor.github.io/2017/01/20/Easily-explore-a-table-with-shinycsv/),120,FALSE,NA,### Tutorials,link,2017-01-30
-+ [DataChats: An interview with Mine Çetinkaya-Rundel](http://www.datacamp.com/community/blog/datachats-an-interview-with-mine-cetinkaya-rundel),144,FALSE,NA,### Videos and Podcasts,link,2017-01-30
-+ [The R-Podcast Episode 20: More interviews from rstudio::conf with Javier Luraschi and Garrett Grolemund](http://r-podcast.org/posts/the-r-podcast-episode-20-more-interviews-from-rstudioconf-with-javier-luraschi-and-garrett-grolemund.html),241,FALSE,NA,### Videos and Podcasts,link,2017-01-30
-"+ [CRAN now has 10,000 R packages. Here's how to find the ones you need.](http://blog.revolutionanalytics.com/2017/01/cran-10000.html)",134,FALSE,NA,### Resources,link,2017-01-30
-+ [R Cheat Sheet and Guide for Graphical Parameters](http://flowingdata.com/2015/03/17/r-cheat-sheet-for-graphical-parameters/),127,FALSE,NA,### Resources,link,2017-01-30
-+ [Five online R courses in Statistics.com that are starting this week (and a discount code for them)](https://www.r-bloggers.com/five-online-r-courses-in-statistics-com-that-are-starting-this-week-and-a-discount-code-for-them/),228,FALSE,NA,### Resources,link,2017-01-30
-+ [Upcoming R Conferences](http://blog.revolutionanalytics.com/2017/01/upcoming-r-conferences.html),99,FALSE,NA,### Resources,link,2017-01-30
-+ [Free guide to text mining with R](http://blog.revolutionanalytics.com/2017/01/free-guide-to-text-mining-with-r.html),119,FALSE,NA,### Resources,link,2017-01-30
-"+ [ggbash](https://github.com/caprice-j/ggbash) -  A Simpler ggplot2 Syntax, saving half of your typing.",104,FALSE,NA,### New Packages and Tools,link,2017-01-30
-![ggbash](https://cdn.rawgit.com/caprice-j/ggbash/ddd16012/README-func.png),75,FALSE,NA,### New Packages and Tools,image,2017-01-30
-+ [orangetext](https://github.com/hrbrmstr/orangetext) - 🍊📄 : An #rstats project to keep track of The 🍊 One's speeches,118,FALSE,NA,### New Packages and Tools,link,2017-01-30
-+ [benchmarkme](https://csgillespie.wordpress.com/2017/01/22/inputoutput-benchmarks/) -,87,FALSE,NA,### New Packages and Tools,link,2017-01-30
-Crowd sourced benchmarking,26,FALSE,NA,### New Packages and Tools,unid,2017-01-30
-+ [liteq](https://github.com/gaborcsardi/liteq) - Lightweight Portable Message Queue Using 'SQLite'.,100,FALSE,NA,### New Packages and Tools,link,2017-01-30
-+ [fst](http://www.fstpackage.org/) - Lightning Fast Serialization of Data Frames,81,FALSE,NA,### New Packages and Tools,link,2017-01-30
-+ [digest 0.6.12](http://dirk.eddelbuettel.com/blog/2017/01/27#digest_0.6.12) -  hash digests of arbitrary R objects,116,FALSE,NA,### New Releases,link,2017-01-30
-+ [intrval 0.1-1](http://peter.solymos.org/code/2017/01/26/what-is-new-in-the-intrval-r-package.html) - The package simplifies interval related logical operations in R.,168,FALSE,NA,### New Releases,link,2017-01-30
-"+ [xml2 1.1.1](https://blog.rstudio.org/2017/01/24/xml-1-1-1/) - xml2 makes it easy to read, create, and modify XML with R.",123,FALSE,NA,### New Releases,link,2017-01-30
-+ [sparklyr 0.5](https://blog.rstudio.org/2017/01/24/sparklyr-0-5/) - R Interface to Apache Spark,97,FALSE,NA,### New Releases,link,2017-01-30
-+ [rmarkdown-metropolis](http://dirk.eddelbuettel.com/blog/2017/01/21#rmarkdown_beamer_metropolis_updated) - Updated Example Repo for RMarkdown and Metropolis/Mtheme,165,FALSE,NA,### New Releases,link,2017-01-30
-![Updated Example Repo for RMarkdown and Metropolis/Mtheme](https://cdn.rawgit.com/eddelbuettel/samples-rmarkdown-metropolis/master/beamerPresentation.gif),155,FALSE,NA,### New Releases,image,2017-01-30
-+ [RcmdrPlugin.KMggplot 2_0.2-4](http://triadsou.hatenablog.com/entry/2017/01/22/033635) - R Commander Plug-in for Data Visualization with 'ggplot2',148,FALSE,NA,### New Releases,link,2017-01-30
-![RcmdrPlugin.KMggplot2_0.2-4 is on CRAN](https://cdn-ak.f.st-hatena.com/images/fotolife/t/triadsou/20161220/20161220235144.png),128,FALSE,NA,### New Releases,image,2017-01-30
-"+ [tidyquant 0.3.0: ggplot2 Enhancements, Real-Time Data, and More](http://www.mattdancho.com/code-tools/2017/01/22/tidyquant-update-0-3-0.html)",144,FALSE,NA,### New Releases,link,2017-01-30
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,### R Project Updates,unid,2017-01-30
-"+ If a reference class has a validity method, `validObject` will be called automatically from the default initialization method for reference classes.",150,FALSE,NA,### R Project Updates,unid,2017-01-30
-"+ `xtabs()` works more consistently with `NA`s, also in its result no longer setting them to `0`. Further, a new logical option `addNA` allows to count `NA`s where appropriate.",176,FALSE,NA,### R Project Updates,unid,2017-01-30
-+ `dev.capture()` using Quartz Cocoa device (macOS) returned invalid components if the back-end chose to use ARGB instead of RGBA image format.,143,FALSE,NA,### R Project Updates,unid,2017-01-30
-+ Header `Rconfig.h` no longer defines `SUPPORT_OPENMP`; instead use `_OPENMP` (as documented for a long time).,111,FALSE,NA,### R Project Updates,unid,2017-01-30
-+ [EARL 2017: Abstract submissions open for San Francisco and London + San Francisco dates and venue announced](http://www.mango-solutions.com/wp/?p=6475),154,FALSE,NA,### Call for Participation,link,2017-01-30
-+ [satRday Cape Town 2017: Data Visualisation Challenge announced](http://capetown2017.satrdays.org/#visualisation),115,FALSE,NA,### Call for Participation,link,2017-01-30
-"+ [SatRday #2 Conference - Cape Town, South Africa](http://capetown2017.satrdays.org/) **18 Feb, 2017** <br />",110,FALSE,NA,### Upcoming Events,link,2017-01-30
-The R community and some of South Africa's most forward thinking companies have come together to bring satRday to Cape Town.,124,FALSE,NA,### Upcoming Events,unid,2017-01-30
-"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,### Upcoming Events,link,2017-01-30
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,### Upcoming Events,unid,2017-01-30
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Big congratulations to <a href=""https://twitter.com/gbwanderson"">@gbwanderson</a> whose new package &#39;hurricaneexposure&#39; just became package 10,000 on CRAN !! <a href=""https://t.co/34uum2GixY"">https://t.co/34uum2GixY</a></p>&mdash; Dirk Eddelbuettel (@eddelbuettel) <a href=""https://twitter.com/eddelbuettel/status/825140310036578304"">January 28, 2017</a></blockquote>",447,FALSE,NA,### Quotes of the Week,unid,2017-01-30
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2017-01-30
+layout: post,12,FALSE,NA,unid,2017-01-30
+title: R Weekly 2017 Issue 5,28,FALSE,NA,unid,2017-01-30
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2017-01-30
+---,3,FALSE,NA,unid,2017-01-30
++ [Data Driven Cheatsheets](https://www.r-statistics.com/2017/01/data-driven-cheatsheets/),90,FALSE,### Highlight,link,2017-01-30
+<!--Women in the 2016 Stack Overflow Survey](http://juliasilge.com/blog/Women-Survey/)-->,89,FALSE,### Highlight,unid,2017-01-30
++ [Analyzing the US election using Twitter and Meta-Data in R](https://behaviouralthinking.com/2016/07/29/analyzing-the-us-election-using-twitter-and-meta-data-in-r/),166,FALSE,### R in the Real World,link,2017-01-30
++ [IMDB Movie Analysis](https://sw23993.wordpress.com/2017/01/19/imdb-movie-analysis/),86,FALSE,### R in the Real World,link,2017-01-30
++ [Metro Systems Over Time](https://datascienceplus.com/metro-systems-over-time-part-1/) - Metro systems are an interesting way to learn more about the growth of a city over time.,179,FALSE,### R in the Real World,link,2017-01-30
+![Metro Systems Over Time](https://cdn.rawgit.com/rweekly/image/9fc44066/2017-01-30/paris_del.jpg),98,FALSE,### R in the Real World,image,2017-01-30
+"+ [More water, a bit more about saints](http://maelle.github.io/2017/01/26/morewater/) - Visualizing names of French villages",125,FALSE,### R in the Real World,link,2017-01-30
++ [Predicting the Willingen 2017 men’s ski jumping competition](https://sw23993.wordpress.com/2017/01/26/predicting-the-willingen-2017-mens-ski-jumping-competition/),165,FALSE,### R in the Real World,link,2017-01-30
+<!--Women in the 2016 Stack Overflow Survey](http://juliasilge.com/blog/Women-Survey/)-->,89,FALSE,### R in the Real World,unid,2017-01-30
+![Women in the 2016 Stack Overflow Survey](https://cdn.rawgit.com/juliasilge/juliasilge.github.io/6934fb4f/figs/2017-01-19-Women-Survey/counts-1.png),149,FALSE,### R in the Real World,image,2017-01-30
++ [One View of the Impact of the New Immigration Ban (+ freeing PDF data with tabulizer)](https://rud.is/b/2017/01/26/one-view-of-the-impact-of-the-new-immigration-ban-freeing-pdf-data-with-tabulizer/),201,FALSE,### R in the Real World,link,2017-01-30
+![One View of the Impact of the New Immigration Ban (+ freeing PDF data with tabulizer)](https://rud.is/b/wp-content/uploads/2017/01/RStudio.png),145,FALSE,### R in the Real World,image,2017-01-30
++ [Kung Fu R](http://blog.revolutionanalytics.com/2017/01/kung-fu-r.html),73,FALSE,### R in the Real World,link,2017-01-30
++ [A Data Driven Exploration of Kung Fu Films](http://vallandingham.me/shaw_bros_analysis.html),95,FALSE,### R in the Real World,link,2017-01-30
++ [Web scraping UFOs: Gather the Data](https://cameronboy.com/datamusings/2016/01/ufo-1),88,FALSE,### R in the Real World,link,2017-01-30
++ [Choosing Software to Publish your Data Science Portfolio](http://www.arilamstein.com/blog/2017/01/23/choosing-software-publish-data-science-portfolio/),154,FALSE,### Insights,link,2017-01-30
++ [R vs Python – a One-on-One Comparison](https://shiring.github.io/r_vs_python/2017/01/22/R_vs_Py_post),104,FALSE,### Insights,link,2017-01-30
++ [Data Driven Cheatsheets](https://www.r-statistics.com/2017/01/data-driven-cheatsheets/),90,FALSE,### Insights,link,2017-01-30
++ [A basic reproducible data analysis workflow – principles](http://blog.jom.link/reproducible_analysis_my_principles.html),123,FALSE,### Insights,link,2017-01-30
++ [New Zealand bank replaces SAS server with R Server](http://blog.revolutionanalytics.com/2017/01/nz-bank-replaces-sas-with-r.html),132,FALSE,### R in Organization,link,2017-01-30
++ [R Markdown for the Enterprise](https://www.rstudio.com/rviews/2017/01/25/r-markdown-for-the-enterprise/),107,FALSE,### R in Organization,link,2017-01-30
++ [Building a machine learning model with the MicrosoftML package](http://blog.revolutionanalytics.com/2017/01/microsoftml-taxi-trips.html),139,FALSE,### R in Organization,link,2017-01-30
++ [Support Vector Machines Simplified using R ](http://www.listendata.com/2017/01/support-vector-machine-in-r-tutorial.html),124,FALSE,### Tutorials,link,2017-01-30
++ [Principal Component Analysis in R](https://poissonisfish.wordpress.com/2017/01/23/principal-component-analysis-in-r/),120,FALSE,### Tutorials,link,2017-01-30
++ [Create Parquet Files From R Data Frames With sergeant & Apache Drill (a.k.a. Make Parquet Files Great Again in R)](https://rud.is/b/2017/01/22/create-parquet-files-from-r-data-frames-with-sergeant-apache-drill-a-k-a-make-parquet-files-great-again-in-r/),256,FALSE,### Tutorials,link,2017-01-30
+<!-- !January ’17 Tips and Tricks](https://www.rstudio.com/rviews/2017/01/27/january-17-tips-and-tricks/)-->,108,FALSE,### Tutorials,unid,2017-01-30
++ [Doing magic and analyzing seasonal time series with GAM (Generalized Additive Model) in R](http://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/),172,FALSE,### Tutorials,link,2017-01-30
++ [Image Compression with Principal Component Analysis](http://www.aaronschlegel.com/image-compression-principal-component-analysis/),133,FALSE,### Tutorials,link,2017-01-30
++ [Upgrading to macOS Sierra (nee OSX) for R users](http://www.win-vector.com/blog/2017/01/upgrading-to-macos-sierra-nee-osx-for-r-users/),138,FALSE,### Tutorials,link,2017-01-30
++ [Finding antipodes using the globe and ggmap packages](http://r.prevos.net/antipodes/),88,FALSE,### Tutorials,link,2017-01-30
+![Finding antipodes using the globe and ggmap packages](https://i0.wp.com/r.prevos.net/wp-content/uploads/sites/11/2017/01/antipodes-1.png?w=582),145,FALSE,### Tutorials,image,2017-01-30
++ [Extracting and Enriching Ocean Biogeographic Information System (OBIS) Data with R](http://ropensci.org/blog/blog/2017/01/25/obis),133,FALSE,### Tutorials,link,2017-01-30
++ [Modelling extremes using generalized additive models](http://www.fromthebottomoftheheap.net/2017/01/25/modelling-extremes-with-gams/),136,FALSE,### Tutorials,link,2017-01-30
++ [A Glimpse into The Daily Life of a Data Scientist](http://omaymas.github.io/Data_Science_Life/),98,FALSE,### Tutorials,link,2017-01-30
++ [“smooth” package for R. es() function. Part IV. Model selection and combination of forecasts](http://forecasting.svetunkov.ru/en/2017/01/24/smooth-package-for-r-es-function-part-iv-model-selection-and-combination-of-forecasts/),230,FALSE,### Tutorials,link,2017-01-30
++ [Descriptive Analysis of MLST Data for MRSA](https://eugejjoh.wordpress.com/2017/01/24/descriptive-analysis-of-mlst-data-for-mrsa/),133,FALSE,### Tutorials,link,2017-01-30
++ [Euler Problem 9 : Special Pythagorean Triple](http://r.prevos.net/euler-problem-9/),86,FALSE,### Tutorials,link,2017-01-30
+"+ [How to do an analysis in R (part 2, visualization and analysis)](http://sharpsightlabs.com/blog/shipping-analysis-r-data-visualization/)",139,FALSE,### Tutorials,link,2017-01-30
++ [How to use viridis colors with plotly and leaflet?](http://blog.appsilondatascience.com/rstats/2017/01/24/viridis.html),122,FALSE,### Tutorials,link,2017-01-30
++ [French villages and a sort of resolution](http://maelle.github.io/2017/01/24/kervillebourg/),95,FALSE,### Tutorials,link,2017-01-30
++ [Creating a “balloon plot” as alternative to a heat map with ggplot2](https://datascience.blog.wzb.eu/2017/01/24/creating-a-balloon-plot-as-alternative-to-a-heat-map-with-ggplot2/),182,FALSE,### Tutorials,link,2017-01-30
+![Creating a “balloon plot” as alternative to a heat map with ggplot2](https://datascience.blog.wzb.eu/wp-content/uploads/10/2017/01/balloon_plot_alt_heatmap.png),162,FALSE,### Tutorials,image,2017-01-30
++ [Where Cohen went wrong – the proportion of overlap between two normal distributions](http://rpsychologist.com/cohen-d-proportion-overlap),140,FALSE,### Tutorials,link,2017-01-30
++ [Trumpworld Analysis : Ownership Relations in his Business Network](http://r.prevos.net/trumpworld-analysis/),111,FALSE,### Tutorials,link,2017-01-30
++ [Speed Up Your Code Part 2: Parallel Processing Financial Data with multidplyr + tidyquant](http://www.mattdancho.com/code-tools/2017/01/21/multidplyr-part2.html),164,FALSE,### Tutorials,link,2017-01-30
++ [Implementation of a basic reproducible data analysis workflow](http://blog.jom.link/implementation_basic_reproductible_workflow.html),136,FALSE,### Tutorials,link,2017-01-30
+"+ [Visualizing ""The Best""](http://www.maxhumber.com/2017/01/21/THE-BEST.html) - `The Best` is often the wrong question. We’re really just trying to find `The Better`.",166,FALSE,### Tutorials,link,2017-01-30
++ [A Recipe for Automatically Going From Data to Text to Reveal.js Slides](https://blog.ouseful.info/2017/01/20/a-recipe-for-automatically-going-from-data-to-text-to-reveal-js-slides/),184,FALSE,### Tutorials,link,2017-01-30
++ [Easily explore a table with shinycsv](https://lcolladotor.github.io/2017/01/20/Easily-explore-a-table-with-shinycsv/),120,FALSE,### Tutorials,link,2017-01-30
++ [DataChats: An interview with Mine Çetinkaya-Rundel](http://www.datacamp.com/community/blog/datachats-an-interview-with-mine-cetinkaya-rundel),144,FALSE,### Videos and Podcasts,link,2017-01-30
++ [The R-Podcast Episode 20: More interviews from rstudio::conf with Javier Luraschi and Garrett Grolemund](http://r-podcast.org/posts/the-r-podcast-episode-20-more-interviews-from-rstudioconf-with-javier-luraschi-and-garrett-grolemund.html),241,FALSE,### Videos and Podcasts,link,2017-01-30
+"+ [CRAN now has 10,000 R packages. Here's how to find the ones you need.](http://blog.revolutionanalytics.com/2017/01/cran-10000.html)",134,FALSE,### Resources,link,2017-01-30
++ [R Cheat Sheet and Guide for Graphical Parameters](http://flowingdata.com/2015/03/17/r-cheat-sheet-for-graphical-parameters/),127,FALSE,### Resources,link,2017-01-30
++ [Five online R courses in Statistics.com that are starting this week (and a discount code for them)](https://www.r-bloggers.com/five-online-r-courses-in-statistics-com-that-are-starting-this-week-and-a-discount-code-for-them/),228,FALSE,### Resources,link,2017-01-30
++ [Upcoming R Conferences](http://blog.revolutionanalytics.com/2017/01/upcoming-r-conferences.html),99,FALSE,### Resources,link,2017-01-30
++ [Free guide to text mining with R](http://blog.revolutionanalytics.com/2017/01/free-guide-to-text-mining-with-r.html),119,FALSE,### Resources,link,2017-01-30
+"+ [ggbash](https://github.com/caprice-j/ggbash) -  A Simpler ggplot2 Syntax, saving half of your typing.",104,FALSE,### New Packages and Tools,link,2017-01-30
+![ggbash](https://cdn.rawgit.com/caprice-j/ggbash/ddd16012/README-func.png),75,FALSE,### New Packages and Tools,image,2017-01-30
++ [orangetext](https://github.com/hrbrmstr/orangetext) - 🍊📄 : An #rstats project to keep track of The 🍊 One's speeches,118,FALSE,### New Packages and Tools,link,2017-01-30
++ [benchmarkme](https://csgillespie.wordpress.com/2017/01/22/inputoutput-benchmarks/) -,87,FALSE,### New Packages and Tools,link,2017-01-30
+Crowd sourced benchmarking,26,FALSE,### New Packages and Tools,unid,2017-01-30
++ [liteq](https://github.com/gaborcsardi/liteq) - Lightweight Portable Message Queue Using 'SQLite'.,100,FALSE,### New Packages and Tools,link,2017-01-30
++ [fst](http://www.fstpackage.org/) - Lightning Fast Serialization of Data Frames,81,FALSE,### New Packages and Tools,link,2017-01-30
++ [digest 0.6.12](http://dirk.eddelbuettel.com/blog/2017/01/27#digest_0.6.12) -  hash digests of arbitrary R objects,116,FALSE,### New Releases,link,2017-01-30
++ [intrval 0.1-1](http://peter.solymos.org/code/2017/01/26/what-is-new-in-the-intrval-r-package.html) - The package simplifies interval related logical operations in R.,168,FALSE,### New Releases,link,2017-01-30
+"+ [xml2 1.1.1](https://blog.rstudio.org/2017/01/24/xml-1-1-1/) - xml2 makes it easy to read, create, and modify XML with R.",123,FALSE,### New Releases,link,2017-01-30
++ [sparklyr 0.5](https://blog.rstudio.org/2017/01/24/sparklyr-0-5/) - R Interface to Apache Spark,97,FALSE,### New Releases,link,2017-01-30
++ [rmarkdown-metropolis](http://dirk.eddelbuettel.com/blog/2017/01/21#rmarkdown_beamer_metropolis_updated) - Updated Example Repo for RMarkdown and Metropolis/Mtheme,165,FALSE,### New Releases,link,2017-01-30
+![Updated Example Repo for RMarkdown and Metropolis/Mtheme](https://cdn.rawgit.com/eddelbuettel/samples-rmarkdown-metropolis/master/beamerPresentation.gif),155,FALSE,### New Releases,image,2017-01-30
++ [RcmdrPlugin.KMggplot 2_0.2-4](http://triadsou.hatenablog.com/entry/2017/01/22/033635) - R Commander Plug-in for Data Visualization with 'ggplot2',148,FALSE,### New Releases,link,2017-01-30
+![RcmdrPlugin.KMggplot2_0.2-4 is on CRAN](https://cdn-ak.f.st-hatena.com/images/fotolife/t/triadsou/20161220/20161220235144.png),128,FALSE,### New Releases,image,2017-01-30
+"+ [tidyquant 0.3.0: ggplot2 Enhancements, Real-Time Data, and More](http://www.mattdancho.com/code-tools/2017/01/22/tidyquant-update-0-3-0.html)",144,FALSE,### New Releases,link,2017-01-30
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,### R Project Updates,unid,2017-01-30
+"+ If a reference class has a validity method, `validObject` will be called automatically from the default initialization method for reference classes.",150,FALSE,### R Project Updates,unid,2017-01-30
+"+ `xtabs()` works more consistently with `NA`s, also in its result no longer setting them to `0`. Further, a new logical option `addNA` allows to count `NA`s where appropriate.",176,FALSE,### R Project Updates,unid,2017-01-30
++ `dev.capture()` using Quartz Cocoa device (macOS) returned invalid components if the back-end chose to use ARGB instead of RGBA image format.,143,FALSE,### R Project Updates,unid,2017-01-30
++ Header `Rconfig.h` no longer defines `SUPPORT_OPENMP`; instead use `_OPENMP` (as documented for a long time).,111,FALSE,### R Project Updates,unid,2017-01-30
++ [EARL 2017: Abstract submissions open for San Francisco and London + San Francisco dates and venue announced](http://www.mango-solutions.com/wp/?p=6475),154,FALSE,### Call for Participation,link,2017-01-30
++ [satRday Cape Town 2017: Data Visualisation Challenge announced](http://capetown2017.satrdays.org/#visualisation),115,FALSE,### Call for Participation,link,2017-01-30
+"+ [SatRday #2 Conference - Cape Town, South Africa](http://capetown2017.satrdays.org/) **18 Feb, 2017** <br />",110,FALSE,### Upcoming Events,link,2017-01-30
+The R community and some of South Africa's most forward thinking companies have come together to bring satRday to Cape Town.,124,FALSE,### Upcoming Events,unid,2017-01-30
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,### Upcoming Events,link,2017-01-30
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,### Upcoming Events,unid,2017-01-30
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Big congratulations to <a href=""https://twitter.com/gbwanderson"">@gbwanderson</a> whose new package &#39;hurricaneexposure&#39; just became package 10,000 on CRAN !! <a href=""https://t.co/34uum2GixY"">https://t.co/34uum2GixY</a></p>&mdash; Dirk Eddelbuettel (@eddelbuettel) <a href=""https://twitter.com/eddelbuettel/status/825140310036578304"">January 28, 2017</a></blockquote>",447,FALSE,### Quotes of the Week,unid,2017-01-30

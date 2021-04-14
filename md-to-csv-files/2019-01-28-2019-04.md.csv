@@ -1,79 +1,79 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-01-28
-"title: R Weekly 2019-04 Videos, News, Podcast",45,FALSE,NA,NA,unid,2019-01-28
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-01-28
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-01-28
----,3,FALSE,NA,NA,unid,2019-01-28
-+ [rstudio::conf 2019 Videos](https://resources.rstudio.com/rstudio-conf-2019),78,FALSE,NA,###  Highlight,link,2019-01-28
-+ [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/),76,FALSE,NA,###  Highlight,link,2019-01-28
-+ [R-Podcast episode 26: The podcast trifecta](https://r-podcast.org/26) - Eric is joined by podcast hosts Hilary Parker and Nick Tierney to discuss their impressions of `rstudio::conf` 2019 and thoughts on the future of R.  Plus Eric shares his insights from the excellent Advanced R Markdown workshop.,303,FALSE,NA,###  Highlight,link,2019-01-28
-+ [Quick Hit: Automating Production Graphics Uploads in R Markdown Documents with googledrive](https://rud.is/b/2019/01/24/quick-hit-automating-production-graphics-uploads-in-r-markdown-documents-with-googledrive/),214,FALSE,NA,### Insights,link,2019-01-28
-+ [Back from rstudio::conf 2019](https://yihui.name/en/2019/01/rstudio-conf/),77,FALSE,NA,### Insights,link,2019-01-28
-+ [R Conference Costs v2.0](https://www.jumpingrivers.com/blog/r-conference-costs-v2-0/),88,FALSE,NA,### Insights,link,2019-01-28
-![R Conference Costs v2.0](https://raw.githubusercontent.com/rweekly/image/master/2019/conference_costs.jpg),108,FALSE,NA,### Insights,image,2019-01-28
-+ [satRdays Newcastle 2019 Conference is Here!](https://www.jumpingrivers.com/blog/satrdays-newcastle-2019-conference/),119,FALSE,NA,### Insights,link,2019-01-28
-+ [Feeling the rstudio::conf ❤️](https://juliasilge.com/blog/rstudio-conf-2019/),80,FALSE,NA,### Insights,link,2019-01-28
-+ [rstudio::conf 2019 roundup](https://www.mango-solutions.com/blog/rstudioconf-2019),85,FALSE,NA,### Insights,link,2019-01-28
-+ [My Tidyverse Developers Day and RStudio::Conf Reflections!](https://ryo-n7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/),140,FALSE,NA,### Insights,link,2019-01-28
-"<img src = ""https://i.imgur.com/YSND5RZ.jpg"" height = ""200"" />",62,FALSE,NA,### Insights,unid,2019-01-28
-+ [rstudio::conf 2019 Videos](https://resources.rstudio.com/rstudio-conf-2019),78,FALSE,NA,### Insights,link,2019-01-28
-+ [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/),76,FALSE,NA,### Insights,link,2019-01-28
-+ [Which planet is closest to Earth?](https://flother.is/2019/which-planet-is-closest-to-earth/),96,FALSE,NA,### R in the Real World,link,2019-01-28
-![Which planet is closest to Earth?](https://raw.githubusercontent.com/rweekly/image/master/2019/mercury-venus-mars_hu71ea7f907329fb627f401ee3f34bdd2c_184862_1216x0_resize_lanczos_2.png),186,FALSE,NA,### R in the Real World,image,2019-01-28
-+ [Calibrating soccer odds using the caret package ](http://dm13450.github.io/2019/01/10/Odds-and-Winning.html),111,FALSE,NA,### R in the Real World,link,2019-01-28
-+ [Text network analysis of Twitter data on the day of the Colombian peace agreement referendum (plebiscito).  ](https://juanitorduz.github.io/text-mining-networks-and-visualization-plebiscito-tweets/),201,FALSE,NA,### R in the Real World,link,2019-01-28
-"+ [Walkthrough on how to query and visualise OpenStreetMap data on interactive historical maps using osmdata, tidyverse packages and Leaflet.](https://mhermans.net/post/mapping-leuvense-gangen/)",194,FALSE,NA,### R in the Real World,link,2019-01-28
-+ [In thy foul throat thou liest--Playing BS without Lying](http://daranzolin.github.io/2019-01-19-bs-simulation/),114,FALSE,NA,### R in the Real World,link,2019-01-28
-+ [R Studio Conf 2019 - Easing your FOMO with R Resources](https://www.littlemissdata.com/blog/rstudioconf2019),111,FALSE,NA,### R in the Real World,link,2019-01-28
-+ [Climate change: Modeling 140+ years of temperature data with tsibble and fable](http://rethinking.rbind.io/2019/01/21/140-years/),132,FALSE,NA,### R in the Real World,link,2019-01-28
-![Climate change: Modeling 140+ years of temperature data with tsibble and fable](https://raw.githubusercontent.com/rweekly/image/master/2019/fable2-1-140-year.png),164,FALSE,NA,### R in the Real World,image,2019-01-28
-+ [Summer Internships 2019](https://blog.rstudio.com/2019/01/18/summer-internships-2019/),89,FALSE,NA,###  R in Organizations,link,2019-01-28
-+ [R Studio Conf 2019 - Easing your FOMO with R Resources](https://www.littlemissdata.com/blog/rstudioconf2019),111,FALSE,NA,###  Resources,link,2019-01-28
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-01-28
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-01-28
-+ [stringfix](https://guillaumepressiat.github.io//blog/2019/01/stringfix) - string manipulation in a %>% way,109,FALSE,NA,###  New Packages,link,2019-01-28
-+ [isoband](https://github.com/clauswilke/isoband) - R package to generate contour lines and polygons,101,FALSE,NA,###  New Packages,link,2019-01-28
-* [future](https://cran.r-project.org/package=future) 1.11.0 - Unified Parallel and Distributed Processing in R for Everyone,124,FALSE,NA,### Updated Packages,unid,2019-01-28
-* [getTBinR](https://www.samabbott.co.uk/post/gettbinr-5-7/) - Get WHO Tuberculosis Data (now with country level TB reports).,125,FALSE,NA,### Updated Packages,unid,2019-01-28
-![Render a country specific Tuberculosis report](https://www.samabbott.co.uk/img/getTBinR/release-5-7.png),106,FALSE,NA,### Updated Packages,image,2019-01-28
-+ [hrbrthemes 0.6.0](https://rud.is/b/2019/01/21/hrbrthemes-0-6-0-on-cran-other-in-development-package-news/),109,FALSE,NA,### Updated Packages,link,2019-01-28
-"+ [R-Podcast episode 26: The podcast trifecta](https://r-podcast.org/26): In this special episode, Eric is joined by podcast hosts Hilary Parker ([Not So Standard Deviations](http://nssdeviations.com/)) and Nick Tierney ([Credibly Curious](https://soundcloud.com/crediblycurious)) to discuss their impressions of `rstudio::conf` 2019 and thoughts on the future of R.  Plus Eric shares his insights from the excellent Advanced R Markdown workshop.",446,FALSE,NA,###  Videos and Podcasts,link,2019-01-28
-+ [gather() and spread() explained by gt](https://yutani.rbind.io/post/gather-and-spread-explained-by-gt/),106,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [An article on Generative Adversarial Networks (GANs) and how to use them to generate satellite imagery in R. #rstats #DeepLearning #machinelearning #satellite](https://appsilon.com/satellite-imagery-generation-with-gans/),224,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [Exploring the hidden beauty of multiplication tables with R](https://solmos.netlify.com/post/2018-11-06-multiplication-table/multiplication-table-with-r/),157,FALSE,NA,###  Tutorials,link,2019-01-28
-![Exploring the hidden beauty of multiplication table](https://raw.githubusercontent.com/rweekly/image/master/2019/multiple_tables.png),135,FALSE,NA,###  Tutorials,image,2019-01-28
-"+ [ggstraw::geom_straw() is a custom ggplot2 geom for showing deviations from expected values, e.g. actual vs scheduled departure times.](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-25-a-custom-ggplot2-geom-for-deviations/)",237,FALSE,NA,###  Tutorials,link,2019-01-28
-![ggstraw::geom_straw() is a custom ggplot2 geom for showing deviations](https://raw.githubusercontent.com/rweekly/image/master/2019/timetable-plot-ggplot2.png),160,FALSE,NA,###  Tutorials,image,2019-01-28
-+ [Create R Markdown reports and presentations even better with these 3 practical tips](https://jozefhajnala.gitlab.io/r/r909-rmarkdown-tips/),142,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [Fully General Record Transforms with cdata](http://www.win-vector.com/blog/2019/01/fully-general-record-transforms-with-cdata/),130,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [GeoPAT2: Entropy calculations for local landscapes](https://nowosad.github.io/post/geopat-2-ent/),100,FALSE,NA,###  Tutorials,link,2019-01-28
-![GeoPAT2: Entropy calculations](https://raw.githubusercontent.com/rweekly/image/master/2019/geopat.png),104,FALSE,NA,###  Tutorials,image,2019-01-28
-+ [wateRinfo - Downloading tidal data to understand the behaviour of a migrating eel](https://ropensci.org/blog/2019/01/22/waterinfo-tidal-eel/),144,FALSE,NA,###  Tutorials,link,2019-01-28
-![wateRinfo](https://raw.githubusercontent.com/rweekly/image/master/2019/waterinfo.png),87,FALSE,NA,###  Tutorials,image,2019-01-28
-+ [Correlated longitudinal data with varying time intervals](https://www.rdatagen.net/post/correlated-longitudinal-data-with-varying-time-intervals/),149,FALSE,NA,###  Tutorials,link,2019-01-28
-"+ [Tibbles, checking examples, & character encodings](https://www.fromthebottomoftheheap.net/2019/01/22/using-tibbles-and-example-checking/)",140,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [RStudio Server on Azure](https://blog.revolutionanalytics.com/2019/01/rstudio-server-on-azure.html),102,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [How to prepare data for NLP (text classification) with Keras and TensorFlow](https://shirinsplayground.netlify.com/2019/01/text_classification_keras_data_prep/),163,FALSE,NA,###  Tutorials,link,2019-01-28
-"+ [more concentration, everywhere](https://xianblog.wordpress.com/2019/01/25/more-concentration-everywhere/)",108,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [My #TidyverseDevDay and #RStudioConf 2019 Reflections!](http://Ryo-N7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/),135,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [Docker Images for R: r-base versus r-apt](https://datawookie.netlify.com/blog/2019/01/docker-images-for-r-r-base-versus-r-apt/),130,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [Using Word Similarity Graphs to Explore Themes in Text: A Tutorial](https://www.markhw.com/blog/word-similarity-graphs),122,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [Factor Analysis in R with Psych Package: Measuring Consumer Involvement](https://lucidmanager.org/measuring-consumer-involvement/),133,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [Data exploration with alluvial plots - An introduction to easyalluvial](https://www.datisticsblog.com/2018/10/intro_easyalluvial/),133,FALSE,NA,###  Tutorials,link,2019-01-28
-![Data exploration with alluvial plots - An introduction to easyalluvial](https://raw.githubusercontent.com/rweekly/image/master/2019/easyallu.png),147,FALSE,NA,###  Tutorials,image,2019-01-28
-+ [Right Now It’s KDA…Asset Allocation.](https://quantstrattrader.wordpress.com/2019/01/24/right-now-its-kda-asset-allocation/),127,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [Quick Hit: Automating Production Graphics Uploads in R Markdown Documents with googledrive](https://rud.is/b/2019/01/24/quick-hit-automating-production-graphics-uploads-in-r-markdown-documents-with-googledrive/),214,FALSE,NA,###  Tutorials,link,2019-01-28
-+ [What’s the deal with wind chill?](http://www.decisionsciencenews.com/2019/01/22/whats-the-deal-with-wind-chill/),115,FALSE,NA,###  Tutorials,link,2019-01-28
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-01-28
-"n""></div><div class=""post-more-end""></div>-->",45,FALSE,NA,###  Tutorials,unid,2019-01-28
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-01-28
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-01-28
-+ [satRday Paris - 23rd February](https://paris2019.satrdays.org/),66,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-01-28
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-01-28
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-01-28
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-01-28
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-01-28
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Streaming arduino sensor signals right into <a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a>! I wonder if there is really anything <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> can’t do 😎😎😎 <a href=""https://t.co/nT6q6TT6xc"">pic.twitter.com/nT6q6TT6xc</a></p>&mdash; Hao Zhu (@haozhu233) <a href=""https://twitter.com/haozhu233/status/1088851449096880128?ref_src=twsrc%5Etfw"">January 25, 2019</a></blockquote>",545,FALSE,NA,###  Quotes of the Week,unid,2019-01-28
-"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,NA,###  Quotes of the Week,unid,2019-01-28
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">My daughter wants to be <a href=""https://twitter.com/RLadiesGlobal?ref_src=twsrc%5Etfw"">@RLadiesGlobal</a>. She’s 9. Tonight we made mermaid tail scales. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/TBGLtV41sL"">pic.twitter.com/TBGLtV41sL</a></p>&mdash; Jeremy Allen (@jeremy_data) <a href=""https://twitter.com/jeremy_data/status/1088254525197103104?ref_src=twsrc%5Etfw"">January 24, 2019</a></blockquote>",542,FALSE,NA,###  Quotes of the Week,unid,2019-01-28
-"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,NA,###  Quotes of the Week,unid,2019-01-28
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-01-28
+"title: R Weekly 2019-04 Videos, News, Podcast",45,FALSE,NA,unid,2019-01-28
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-01-28
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-01-28
+---,3,FALSE,NA,unid,2019-01-28
++ [rstudio::conf 2019 Videos](https://resources.rstudio.com/rstudio-conf-2019),78,FALSE,###  Highlight,link,2019-01-28
++ [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/),76,FALSE,###  Highlight,link,2019-01-28
++ [R-Podcast episode 26: The podcast trifecta](https://r-podcast.org/26) - Eric is joined by podcast hosts Hilary Parker and Nick Tierney to discuss their impressions of `rstudio::conf` 2019 and thoughts on the future of R.  Plus Eric shares his insights from the excellent Advanced R Markdown workshop.,303,FALSE,###  Highlight,link,2019-01-28
++ [Quick Hit: Automating Production Graphics Uploads in R Markdown Documents with googledrive](https://rud.is/b/2019/01/24/quick-hit-automating-production-graphics-uploads-in-r-markdown-documents-with-googledrive/),214,FALSE,### Insights,link,2019-01-28
++ [Back from rstudio::conf 2019](https://yihui.name/en/2019/01/rstudio-conf/),77,FALSE,### Insights,link,2019-01-28
++ [R Conference Costs v2.0](https://www.jumpingrivers.com/blog/r-conference-costs-v2-0/),88,FALSE,### Insights,link,2019-01-28
+![R Conference Costs v2.0](https://raw.githubusercontent.com/rweekly/image/master/2019/conference_costs.jpg),108,FALSE,### Insights,image,2019-01-28
++ [satRdays Newcastle 2019 Conference is Here!](https://www.jumpingrivers.com/blog/satrdays-newcastle-2019-conference/),119,FALSE,### Insights,link,2019-01-28
++ [Feeling the rstudio::conf ❤️](https://juliasilge.com/blog/rstudio-conf-2019/),80,FALSE,### Insights,link,2019-01-28
++ [rstudio::conf 2019 roundup](https://www.mango-solutions.com/blog/rstudioconf-2019),85,FALSE,### Insights,link,2019-01-28
++ [My Tidyverse Developers Day and RStudio::Conf Reflections!](https://ryo-n7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/),140,FALSE,### Insights,link,2019-01-28
+"<img src = ""https://i.imgur.com/YSND5RZ.jpg"" height = ""200"" />",62,FALSE,### Insights,unid,2019-01-28
++ [rstudio::conf 2019 Videos](https://resources.rstudio.com/rstudio-conf-2019),78,FALSE,### Insights,link,2019-01-28
++ [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/),76,FALSE,### Insights,link,2019-01-28
++ [Which planet is closest to Earth?](https://flother.is/2019/which-planet-is-closest-to-earth/),96,FALSE,### R in the Real World,link,2019-01-28
+![Which planet is closest to Earth?](https://raw.githubusercontent.com/rweekly/image/master/2019/mercury-venus-mars_hu71ea7f907329fb627f401ee3f34bdd2c_184862_1216x0_resize_lanczos_2.png),186,FALSE,### R in the Real World,image,2019-01-28
++ [Calibrating soccer odds using the caret package ](http://dm13450.github.io/2019/01/10/Odds-and-Winning.html),111,FALSE,### R in the Real World,link,2019-01-28
++ [Text network analysis of Twitter data on the day of the Colombian peace agreement referendum (plebiscito).  ](https://juanitorduz.github.io/text-mining-networks-and-visualization-plebiscito-tweets/),201,FALSE,### R in the Real World,link,2019-01-28
+"+ [Walkthrough on how to query and visualise OpenStreetMap data on interactive historical maps using osmdata, tidyverse packages and Leaflet.](https://mhermans.net/post/mapping-leuvense-gangen/)",194,FALSE,### R in the Real World,link,2019-01-28
++ [In thy foul throat thou liest--Playing BS without Lying](http://daranzolin.github.io/2019-01-19-bs-simulation/),114,FALSE,### R in the Real World,link,2019-01-28
++ [R Studio Conf 2019 - Easing your FOMO with R Resources](https://www.littlemissdata.com/blog/rstudioconf2019),111,FALSE,### R in the Real World,link,2019-01-28
++ [Climate change: Modeling 140+ years of temperature data with tsibble and fable](http://rethinking.rbind.io/2019/01/21/140-years/),132,FALSE,### R in the Real World,link,2019-01-28
+![Climate change: Modeling 140+ years of temperature data with tsibble and fable](https://raw.githubusercontent.com/rweekly/image/master/2019/fable2-1-140-year.png),164,FALSE,### R in the Real World,image,2019-01-28
++ [Summer Internships 2019](https://blog.rstudio.com/2019/01/18/summer-internships-2019/),89,FALSE,###  R in Organizations,link,2019-01-28
++ [R Studio Conf 2019 - Easing your FOMO with R Resources](https://www.littlemissdata.com/blog/rstudioconf2019),111,FALSE,###  Resources,link,2019-01-28
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-01-28
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-01-28
++ [stringfix](https://guillaumepressiat.github.io//blog/2019/01/stringfix) - string manipulation in a %>% way,109,FALSE,###  New Packages,link,2019-01-28
++ [isoband](https://github.com/clauswilke/isoband) - R package to generate contour lines and polygons,101,FALSE,###  New Packages,link,2019-01-28
+* [future](https://cran.r-project.org/package=future) 1.11.0 - Unified Parallel and Distributed Processing in R for Everyone,124,FALSE,### Updated Packages,unid,2019-01-28
+* [getTBinR](https://www.samabbott.co.uk/post/gettbinr-5-7/) - Get WHO Tuberculosis Data (now with country level TB reports).,125,FALSE,### Updated Packages,unid,2019-01-28
+![Render a country specific Tuberculosis report](https://www.samabbott.co.uk/img/getTBinR/release-5-7.png),106,FALSE,### Updated Packages,image,2019-01-28
++ [hrbrthemes 0.6.0](https://rud.is/b/2019/01/21/hrbrthemes-0-6-0-on-cran-other-in-development-package-news/),109,FALSE,### Updated Packages,link,2019-01-28
+"+ [R-Podcast episode 26: The podcast trifecta](https://r-podcast.org/26): In this special episode, Eric is joined by podcast hosts Hilary Parker ([Not So Standard Deviations](http://nssdeviations.com/)) and Nick Tierney ([Credibly Curious](https://soundcloud.com/crediblycurious)) to discuss their impressions of `rstudio::conf` 2019 and thoughts on the future of R.  Plus Eric shares his insights from the excellent Advanced R Markdown workshop.",446,FALSE,###  Videos and Podcasts,link,2019-01-28
++ [gather() and spread() explained by gt](https://yutani.rbind.io/post/gather-and-spread-explained-by-gt/),106,FALSE,###  Tutorials,link,2019-01-28
++ [An article on Generative Adversarial Networks (GANs) and how to use them to generate satellite imagery in R. #rstats #DeepLearning #machinelearning #satellite](https://appsilon.com/satellite-imagery-generation-with-gans/),224,FALSE,###  Tutorials,link,2019-01-28
++ [Exploring the hidden beauty of multiplication tables with R](https://solmos.netlify.com/post/2018-11-06-multiplication-table/multiplication-table-with-r/),157,FALSE,###  Tutorials,link,2019-01-28
+![Exploring the hidden beauty of multiplication table](https://raw.githubusercontent.com/rweekly/image/master/2019/multiple_tables.png),135,FALSE,###  Tutorials,image,2019-01-28
+"+ [ggstraw::geom_straw() is a custom ggplot2 geom for showing deviations from expected values, e.g. actual vs scheduled departure times.](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-25-a-custom-ggplot2-geom-for-deviations/)",237,FALSE,###  Tutorials,link,2019-01-28
+![ggstraw::geom_straw() is a custom ggplot2 geom for showing deviations](https://raw.githubusercontent.com/rweekly/image/master/2019/timetable-plot-ggplot2.png),160,FALSE,###  Tutorials,image,2019-01-28
++ [Create R Markdown reports and presentations even better with these 3 practical tips](https://jozefhajnala.gitlab.io/r/r909-rmarkdown-tips/),142,FALSE,###  Tutorials,link,2019-01-28
++ [Fully General Record Transforms with cdata](http://www.win-vector.com/blog/2019/01/fully-general-record-transforms-with-cdata/),130,FALSE,###  Tutorials,link,2019-01-28
++ [GeoPAT2: Entropy calculations for local landscapes](https://nowosad.github.io/post/geopat-2-ent/),100,FALSE,###  Tutorials,link,2019-01-28
+![GeoPAT2: Entropy calculations](https://raw.githubusercontent.com/rweekly/image/master/2019/geopat.png),104,FALSE,###  Tutorials,image,2019-01-28
++ [wateRinfo - Downloading tidal data to understand the behaviour of a migrating eel](https://ropensci.org/blog/2019/01/22/waterinfo-tidal-eel/),144,FALSE,###  Tutorials,link,2019-01-28
+![wateRinfo](https://raw.githubusercontent.com/rweekly/image/master/2019/waterinfo.png),87,FALSE,###  Tutorials,image,2019-01-28
++ [Correlated longitudinal data with varying time intervals](https://www.rdatagen.net/post/correlated-longitudinal-data-with-varying-time-intervals/),149,FALSE,###  Tutorials,link,2019-01-28
+"+ [Tibbles, checking examples, & character encodings](https://www.fromthebottomoftheheap.net/2019/01/22/using-tibbles-and-example-checking/)",140,FALSE,###  Tutorials,link,2019-01-28
++ [RStudio Server on Azure](https://blog.revolutionanalytics.com/2019/01/rstudio-server-on-azure.html),102,FALSE,###  Tutorials,link,2019-01-28
++ [How to prepare data for NLP (text classification) with Keras and TensorFlow](https://shirinsplayground.netlify.com/2019/01/text_classification_keras_data_prep/),163,FALSE,###  Tutorials,link,2019-01-28
+"+ [more concentration, everywhere](https://xianblog.wordpress.com/2019/01/25/more-concentration-everywhere/)",108,FALSE,###  Tutorials,link,2019-01-28
++ [My #TidyverseDevDay and #RStudioConf 2019 Reflections!](http://Ryo-N7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/),135,FALSE,###  Tutorials,link,2019-01-28
++ [Docker Images for R: r-base versus r-apt](https://datawookie.netlify.com/blog/2019/01/docker-images-for-r-r-base-versus-r-apt/),130,FALSE,###  Tutorials,link,2019-01-28
++ [Using Word Similarity Graphs to Explore Themes in Text: A Tutorial](https://www.markhw.com/blog/word-similarity-graphs),122,FALSE,###  Tutorials,link,2019-01-28
++ [Factor Analysis in R with Psych Package: Measuring Consumer Involvement](https://lucidmanager.org/measuring-consumer-involvement/),133,FALSE,###  Tutorials,link,2019-01-28
++ [Data exploration with alluvial plots - An introduction to easyalluvial](https://www.datisticsblog.com/2018/10/intro_easyalluvial/),133,FALSE,###  Tutorials,link,2019-01-28
+![Data exploration with alluvial plots - An introduction to easyalluvial](https://raw.githubusercontent.com/rweekly/image/master/2019/easyallu.png),147,FALSE,###  Tutorials,image,2019-01-28
++ [Right Now It’s KDA…Asset Allocation.](https://quantstrattrader.wordpress.com/2019/01/24/right-now-its-kda-asset-allocation/),127,FALSE,###  Tutorials,link,2019-01-28
++ [Quick Hit: Automating Production Graphics Uploads in R Markdown Documents with googledrive](https://rud.is/b/2019/01/24/quick-hit-automating-production-graphics-uploads-in-r-markdown-documents-with-googledrive/),214,FALSE,###  Tutorials,link,2019-01-28
++ [What’s the deal with wind chill?](http://www.decisionsciencenews.com/2019/01/22/whats-the-deal-with-wind-chill/),115,FALSE,###  Tutorials,link,2019-01-28
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2019-01-28
+"n""></div><div class=""post-more-end""></div>-->",45,FALSE,###  Tutorials,unid,2019-01-28
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-01-28
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-01-28
++ [satRday Paris - 23rd February](https://paris2019.satrdays.org/),66,FALSE,###  Upcoming Events in 3 Months,link,2019-01-28
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-01-28
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-01-28
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-01-28
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-01-28
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Streaming arduino sensor signals right into <a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a>! I wonder if there is really anything <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> can’t do 😎😎😎 <a href=""https://t.co/nT6q6TT6xc"">pic.twitter.com/nT6q6TT6xc</a></p>&mdash; Hao Zhu (@haozhu233) <a href=""https://twitter.com/haozhu233/status/1088851449096880128?ref_src=twsrc%5Etfw"">January 25, 2019</a></blockquote>",545,FALSE,###  Quotes of the Week,unid,2019-01-28
+"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,###  Quotes of the Week,unid,2019-01-28
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">My daughter wants to be <a href=""https://twitter.com/RLadiesGlobal?ref_src=twsrc%5Etfw"">@RLadiesGlobal</a>. She’s 9. Tonight we made mermaid tail scales. <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://t.co/TBGLtV41sL"">pic.twitter.com/TBGLtV41sL</a></p>&mdash; Jeremy Allen (@jeremy_data) <a href=""https://twitter.com/jeremy_data/status/1088254525197103104?ref_src=twsrc%5Etfw"">January 24, 2019</a></blockquote>",542,FALSE,###  Quotes of the Week,unid,2019-01-28
+"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,###  Quotes of the Week,unid,2019-01-28

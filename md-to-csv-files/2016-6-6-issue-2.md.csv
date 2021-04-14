@@ -1,67 +1,67 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2016-6-6
-layout: post,12,FALSE,NA,NA,unid,2016-6-6
-title: Issue 2,14,FALSE,NA,NA,unid,2016-6-6
-description: Weekly News in R Community.,40,FALSE,NA,NA,unid,2016-6-6
----,3,FALSE,NA,NA,unid,2016-6-6
-Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,NA,unid,2016-6-6
-+ [Images as x-axis labels](http://jcarroll.com.au/2016/06/03/images-as-x-axis-labels-updated/),95,FALSE,NA,#### Tutorials,link,2016-6-6
-[![Images as x-axis labels](https://i2.wp.com/jcarroll.com.au/wp-content/uploads/2016/06/GDP_updated.png)](http://jcarroll.com.au/2016/06/03/images-as-x-axis-labels-updated/),174,FALSE,NA,#### Tutorials,unid,2016-6-6
-+ [A demonstration of vtreat data preparation](http://www.win-vector.com/blog/2016/06/a-demonstration-of-vtreat-data-preparation/),130,FALSE,NA,#### Tutorials,link,2016-6-6
-+ [Trisurf Plots in R using Plotly](http://moderndata.plot.ly/trisurf-plots-in-r-using-plotly/),95,FALSE,NA,#### Tutorials,link,2016-6-6
-[![Trisurf Plots in R using Plotly](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Trisurf-Plots-in-R-using-Plotly.png)](http://moderndata.plot.ly/trisurf-plots-in-r-using-plotly/),188,FALSE,NA,#### Tutorials,unid,2016-6-6
-"+ [QGIS, Open Source GIS & R](http://www.arilamstein.com/blog/2016/05/31/qgis-open-source-gis-r/)",97,FALSE,NA,#### Tutorials,link,2016-6-6
-"[![QGIS, Open Source GIS & R](https://i2.wp.com/www.arilamstein.com/wp-content/uploads/2016/05/QGISannotated.jpg?resize=676%2C437)](http://www.arilamstein.com/blog/2016/05/31/qgis-open-source-gis-r/)",199,FALSE,NA,#### Tutorials,unid,2016-6-6
-+ [On ranger respect.unordered.factors](http://www.win-vector.com/blog/2016/05/on-ranger-respect-unordered-factors/),116,FALSE,NA,#### Tutorials,link,2016-6-6
-"+ [Principal Components Regression, Pt. 3: Picking the Number of Components](http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/)",133,FALSE,NA,#### Tutorials,link,2016-6-6
-+ [Visualizing Bootrapped Stepwise Regression in R using Plotly](http://moderndata.plot.ly/visualizing-bootrapped-stepwise-regression-in-r-using-plotly/),153,FALSE,NA,#### Tutorials,link,2016-6-6
-[![Visualizing Bootrapped Stepwise Regression in R using Plotly](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Bootstraped-stepAIC.png)](http://moderndata.plot.ly/visualizing-bootrapped-stepwise-regression-in-r-using-plotly/),234,FALSE,NA,#### Tutorials,unid,2016-6-6
-+ [Intro To Raster](https://geoscripting-wur.github.io/IntroToRaster/),70,FALSE,NA,#### Tutorials,link,2016-6-6
-[![Intro To Raster](https://geoscripting-wur.github.io/IntroToRaster/figs/system_overview_2.png)](https://geoscripting-wur.github.io/IntroToRaster/),148,FALSE,NA,#### Tutorials,unid,2016-6-6
-+ [Getting Started with R and Google Analytics](http://www.lunametrics.com/blog/2016/06/02/getting-started-r-google-analytics/),127,FALSE,NA,#### Tutorials,link,2016-6-6
-+ [lme4 convergence warnings: troubleshooting](https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html),136,FALSE,NA,#### Tutorials,link,2016-6-6
-+ [Introduction to R in IBM SPSS Modeler: A guide for SPSS Users](https://developer.ibm.com/predictiveanalytics/2016/06/01/introduction-to-r-in-ibm-spss-modeler-a-guide-for-spss-users/),185,FALSE,NA,#### Tutorials,link,2016-6-6
-+ [A Complete Tutorial on Tree Based Modeling from Scratch (in R & Python)](http://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/),177,FALSE,NA,#### Tutorials,link,2016-6-6
-+ [Bootstrap and cross-validation for evaluating modelling strategies](https://ellisp.github.io/blog/2016/06/05/bootstrap-cv-strategies),136,FALSE,NA,#### Tutorials,link,2016-6-6
-+ [Visualising Power Curves in R](http://moderndata.plot.ly/power-curves-r-plotly-ggplot2/),91,FALSE,NA,#### Tutorials,link,2016-6-6
-[![Visualising Power Curves in R](https://i.imgur.com/N5K2YSl.png)](http://moderndata.plot.ly/power-curves-r-plotly-ggplot2/),125,FALSE,NA,#### Tutorials,unid,2016-6-6
-"+ [Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)",180,FALSE,NA,#### R in the Real World,link,2016-6-6
-"[![Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Presidential-New-Year-Speeches.png)](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)",272,FALSE,NA,#### R in the Real World,unid,2016-6-6
-+ [Understanding beta binomial regression (using baseball statistics)](http://varianceexplained.org/r/beta_binomial_baseball/),126,FALSE,NA,#### R in the Real World,link,2016-6-6
-+ [Predictive Bookmaker Consensus Model for the UEFA Euro 2016](http://www.r-bloggers.com/predictive-bookmaker-consensus-model-for-the-uefa-euro-2016/),151,FALSE,NA,#### R in the Real World,link,2016-6-6
-"+ [How to use data analysis for machine learning (example, part 1)](http://www.sharpsightlabs.com/data-analysis-machine-learning-example-part1/)",144,FALSE,NA,#### R in the Real World,link,2016-6-6
-+ [From a (set.)seed grows a mighty dataset](http://jcarroll.com.au/2016/05/30/seed/),85,FALSE,NA,#### R in the Real World,link,2016-6-6
-+ [Track your local R scheduled tasks with CommandCenter2000!!!](http://amitkohli.com/track-your-local-r-scheduled-tasks-with-commandcenter2000/),145,FALSE,NA,#### R in the Real World,link,2016-6-6
-+ [Arbitrage in Euro'16 soccer odds?](https://flovv.github.io/Soccer-Odds-EURO16/),82,FALSE,NA,#### R in the Real World,link,2016-6-6
-+ [Actual coverage of confidence intervals for standard deviation](https://ellisp.github.io/blog/2016/05/29/standard-deviation-confidence-intervals),148,FALSE,NA,#### R in the Real World,link,2016-6-6
-+ [Some Impressions from R Finance 2016](http://blog.revolutionanalytics.com/2016/05/r-finance-2016.html),105,FALSE,NA,#### R in the Real World,link,2016-6-6
-+ [Using caret to compare models](http://blog.revolutionanalytics.com/2016/05/using-caret-to-compare-models.html),113,FALSE,NA,#### R in the Real World,link,2016-6-6
-+ [50 Years of Pop Music](http://kaylinwalker.com/50-years-of-pop-music/) - From Boogie to Bitch: Text Mining 50 Years of Pop Music Lyrics.,139,FALSE,NA,#### R in the Real World,link,2016-6-6
-+ [Using the R language to track and predict river flooding](http://blog.revolutionanalytics.com/2016/06/visualizing-a-flood-with-r.html),137,FALSE,NA,#### R in the Real World,link,2016-6-6
-+ [Junctional Traffic](http://www.jiddualexander.com/blog/junctional-traffic-blog/) - Modern day traffic junction analysis.,123,FALSE,NA,#### R in the Real World,link,2016-6-6
-+ [Salaries of Presidential Primary Voters by Candidate and State](http://www.hallwaymathlete.com/2016/05/salaries-of-presidential-primary-voters.html),151,FALSE,NA,#### R in the Real World,link,2016-6-6
-"+ [How Many Researchers?](https://webcache.googleusercontent.com/search?q=cache:kvkVvt3GUD0J:https://nexus.od.nih.gov/all/2016/05/31/how-many-researchers/+&cd=1&hl=en&ct=clnk) - How many scientists, or more specifically how many principal investigators, does NIH fund? And how many scientists (more specifically aspiring principal investigators) want to receive NIH funding?",374,FALSE,NA,#### R in Academia,link,2016-6-6
-+ [R – the ultimate virus](http://www.ingenio-magazine.com/r-the-ultimate-virus/) - Ross Ihaka on how a simple programming language he helped develop to assist students went global.,181,FALSE,NA,#### R in Academia,link,2016-6-6
-+ [R with Highcharts visualisations using Highcharter library](https://www.youtube.com/watch?v=of8ras0Bl8Q),107,FALSE,NA,### Videos & Podcasts,link,2016-6-6
-+ [R Markdown Notebooks](https://www.youtube.com/watch?v=zNzZ1PfUDNk),69,FALSE,NA,### Videos & Podcasts,link,2016-6-6
-+ [Conducting a meta-analysis with R](https://www.youtube.com/watch?v=d1pYHfCKhyA),82,FALSE,NA,### Videos & Podcasts,link,2016-6-6
-+ [methylKit release 0.9.6](http://zvfak.blogspot.my/2016/06/methylkit-v096.html) - A package for DNA methylation analysis with bisulfite-seq data.,147,FALSE,NA,### New Releases,link,2016-6-6
-+ [heatmaply on CRAN](https://github.com/talgalili/heatmaply) - Interactive Heat Maps for R Using plotly.,105,FALSE,NA,### New Packages & Tools,link,2016-6-6
-[![heatmaply](https://i.imgur.com/qdUCKlg.gif)](https://github.com/talgalili/heatmaply),87,FALSE,NA,### New Packages & Tools,unid,2016-6-6
-+ [mscsweblm4r on CRAN](http://blog.revolutionanalytics.com/2016/06/microsoft-cognitive-services.html) - An R package for Microsoft Cognitive Services language APIs,164,FALSE,NA,### New Packages & Tools,link,2016-6-6
-+ [vembedr on CRAN](https://cran.rstudio.com/web/packages/vembedr/) - Help you embed (YouTube/Vimeo) video into R Markdown + Shiny.,131,FALSE,NA,### New Packages & Tools,link,2016-6-6
-+ [pkgcopier on CRAN](https://github.com/haozhu233/pkgcopier) - A pkg helps you easily copy R packages from one computer to another.,132,FALSE,NA,### New Packages & Tools,link,2016-6-6
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,NA,## R Project Updates,unid,2016-6-6
-+ (Windows only) Tcl/Tk version 8.6.4 is now included in the binary builds. The `tcltk*.chm` help file is no longer included; please use URL: http://www.tcl.tk/man/ instead.,173,FALSE,NA,## R Project Updates,unid,2016-6-6
-"+ Illegal factors, e.g., with duplicated levels (illegal but constructable) now give a warning when printed, via new `.valid.factor`.",133,FALSE,NA,## R Project Updates,unid,2016-6-6
-+ `str(<looooooooong_string>)` is no longer very slow; inspired by Mikko Korpela's proposal in [PR#16527](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16527).,166,FALSE,NA,## R Project Updates,unid,2016-6-6
-"+ After seven years of deprecation, duplicated factor levels now produce an error in `levels<-` instead of a warning, and a warning when printed.",145,FALSE,NA,## R Project Updates,unid,2016-6-6
-"+ New option `rstandard(<lm>, type = ""predicted"")` provides the “PRESS”-related leave-one-out cross-validation errors for linear models.",136,FALSE,NA,## R Project Updates,unid,2016-6-6
-"+ `addNA()` is faster now, e.g., when applied twice [PR#16895](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16895).",123,FALSE,NA,## R Project Updates,unid,2016-6-6
-+ [Evolution of the R native interface](http://r.789695.n4.nabble.com/Evolution-of-the-R-native-interface-td4721179.html) - Working group on the future of #rstats ’s native APIs.,178,FALSE,NA,## Call for Participation,link,2016-6-6
-+ [2016 useR! Stanford](http://user2016.org/) - The R User Conference 2016<br /> **June 27 - June 30** <br> The schedule for [#user2016](https://twitter.com/hashtag/user2016) is now live: [http://schedule.user2016.org](http://schedule.user2016.org),248,FALSE,NA,## Upcoming Events,link,2016-6-6
-*No jobs listed for this week.*,31,FALSE,NA,## Jobs,unid,2016-6-6
-[R – the ultimate virus](http://www.ingenio-magazine.com/r-the-ultimate-virus/),79,FALSE,NA,## Quote of the Week,unid,2016-6-6
-"> R changed my opinion of humanity to some extent, to see how people are really willing to freely give of themselves and produce something larger than themselves without any thought of personal glory.",200,FALSE,NA,## Quote of the Week,unid,2016-6-6
-[Twitter @ Hadley Wickham](https://twitter.com/hadleywickham/status/738802081448886272),87,FALSE,NA,## Quote of the Week,unid,2016-6-6
-> An NA is the presence of an absence. Don't forget that some missing values are the absence of a presence #rstats,114,FALSE,NA,## Quote of the Week,unid,2016-6-6
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2016-6-6
+layout: post,12,FALSE,NA,unid,2016-6-6
+title: Issue 2,14,FALSE,NA,unid,2016-6-6
+description: Weekly News in R Community.,40,FALSE,NA,unid,2016-6-6
+---,3,FALSE,NA,unid,2016-6-6
+Hello and welcome to the new issue of **R Weekly**!,51,FALSE,NA,unid,2016-6-6
++ [Images as x-axis labels](http://jcarroll.com.au/2016/06/03/images-as-x-axis-labels-updated/),95,FALSE,#### Tutorials,link,2016-6-6
+[![Images as x-axis labels](https://i2.wp.com/jcarroll.com.au/wp-content/uploads/2016/06/GDP_updated.png)](http://jcarroll.com.au/2016/06/03/images-as-x-axis-labels-updated/),174,FALSE,#### Tutorials,unid,2016-6-6
++ [A demonstration of vtreat data preparation](http://www.win-vector.com/blog/2016/06/a-demonstration-of-vtreat-data-preparation/),130,FALSE,#### Tutorials,link,2016-6-6
++ [Trisurf Plots in R using Plotly](http://moderndata.plot.ly/trisurf-plots-in-r-using-plotly/),95,FALSE,#### Tutorials,link,2016-6-6
+[![Trisurf Plots in R using Plotly](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Trisurf-Plots-in-R-using-Plotly.png)](http://moderndata.plot.ly/trisurf-plots-in-r-using-plotly/),188,FALSE,#### Tutorials,unid,2016-6-6
+"+ [QGIS, Open Source GIS & R](http://www.arilamstein.com/blog/2016/05/31/qgis-open-source-gis-r/)",97,FALSE,#### Tutorials,link,2016-6-6
+"[![QGIS, Open Source GIS & R](https://i2.wp.com/www.arilamstein.com/wp-content/uploads/2016/05/QGISannotated.jpg?resize=676%2C437)](http://www.arilamstein.com/blog/2016/05/31/qgis-open-source-gis-r/)",199,FALSE,#### Tutorials,unid,2016-6-6
++ [On ranger respect.unordered.factors](http://www.win-vector.com/blog/2016/05/on-ranger-respect-unordered-factors/),116,FALSE,#### Tutorials,link,2016-6-6
+"+ [Principal Components Regression, Pt. 3: Picking the Number of Components](http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/)",133,FALSE,#### Tutorials,link,2016-6-6
++ [Visualizing Bootrapped Stepwise Regression in R using Plotly](http://moderndata.plot.ly/visualizing-bootrapped-stepwise-regression-in-r-using-plotly/),153,FALSE,#### Tutorials,link,2016-6-6
+[![Visualizing Bootrapped Stepwise Regression in R using Plotly](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Bootstraped-stepAIC.png)](http://moderndata.plot.ly/visualizing-bootrapped-stepwise-regression-in-r-using-plotly/),234,FALSE,#### Tutorials,unid,2016-6-6
++ [Intro To Raster](https://geoscripting-wur.github.io/IntroToRaster/),70,FALSE,#### Tutorials,link,2016-6-6
+[![Intro To Raster](https://geoscripting-wur.github.io/IntroToRaster/figs/system_overview_2.png)](https://geoscripting-wur.github.io/IntroToRaster/),148,FALSE,#### Tutorials,unid,2016-6-6
++ [Getting Started with R and Google Analytics](http://www.lunametrics.com/blog/2016/06/02/getting-started-r-google-analytics/),127,FALSE,#### Tutorials,link,2016-6-6
++ [lme4 convergence warnings: troubleshooting](https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html),136,FALSE,#### Tutorials,link,2016-6-6
++ [Introduction to R in IBM SPSS Modeler: A guide for SPSS Users](https://developer.ibm.com/predictiveanalytics/2016/06/01/introduction-to-r-in-ibm-spss-modeler-a-guide-for-spss-users/),185,FALSE,#### Tutorials,link,2016-6-6
++ [A Complete Tutorial on Tree Based Modeling from Scratch (in R & Python)](http://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/),177,FALSE,#### Tutorials,link,2016-6-6
++ [Bootstrap and cross-validation for evaluating modelling strategies](https://ellisp.github.io/blog/2016/06/05/bootstrap-cv-strategies),136,FALSE,#### Tutorials,link,2016-6-6
++ [Visualising Power Curves in R](http://moderndata.plot.ly/power-curves-r-plotly-ggplot2/),91,FALSE,#### Tutorials,link,2016-6-6
+[![Visualising Power Curves in R](https://i.imgur.com/N5K2YSl.png)](http://moderndata.plot.ly/power-curves-r-plotly-ggplot2/),125,FALSE,#### Tutorials,unid,2016-6-6
+"+ [Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)",180,FALSE,#### R in the Real World,link,2016-6-6
+"[![Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Presidential-New-Year-Speeches.png)](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)",272,FALSE,#### R in the Real World,unid,2016-6-6
++ [Understanding beta binomial regression (using baseball statistics)](http://varianceexplained.org/r/beta_binomial_baseball/),126,FALSE,#### R in the Real World,link,2016-6-6
++ [Predictive Bookmaker Consensus Model for the UEFA Euro 2016](http://www.r-bloggers.com/predictive-bookmaker-consensus-model-for-the-uefa-euro-2016/),151,FALSE,#### R in the Real World,link,2016-6-6
+"+ [How to use data analysis for machine learning (example, part 1)](http://www.sharpsightlabs.com/data-analysis-machine-learning-example-part1/)",144,FALSE,#### R in the Real World,link,2016-6-6
++ [From a (set.)seed grows a mighty dataset](http://jcarroll.com.au/2016/05/30/seed/),85,FALSE,#### R in the Real World,link,2016-6-6
++ [Track your local R scheduled tasks with CommandCenter2000!!!](http://amitkohli.com/track-your-local-r-scheduled-tasks-with-commandcenter2000/),145,FALSE,#### R in the Real World,link,2016-6-6
++ [Arbitrage in Euro'16 soccer odds?](https://flovv.github.io/Soccer-Odds-EURO16/),82,FALSE,#### R in the Real World,link,2016-6-6
++ [Actual coverage of confidence intervals for standard deviation](https://ellisp.github.io/blog/2016/05/29/standard-deviation-confidence-intervals),148,FALSE,#### R in the Real World,link,2016-6-6
++ [Some Impressions from R Finance 2016](http://blog.revolutionanalytics.com/2016/05/r-finance-2016.html),105,FALSE,#### R in the Real World,link,2016-6-6
++ [Using caret to compare models](http://blog.revolutionanalytics.com/2016/05/using-caret-to-compare-models.html),113,FALSE,#### R in the Real World,link,2016-6-6
++ [50 Years of Pop Music](http://kaylinwalker.com/50-years-of-pop-music/) - From Boogie to Bitch: Text Mining 50 Years of Pop Music Lyrics.,139,FALSE,#### R in the Real World,link,2016-6-6
++ [Using the R language to track and predict river flooding](http://blog.revolutionanalytics.com/2016/06/visualizing-a-flood-with-r.html),137,FALSE,#### R in the Real World,link,2016-6-6
++ [Junctional Traffic](http://www.jiddualexander.com/blog/junctional-traffic-blog/) - Modern day traffic junction analysis.,123,FALSE,#### R in the Real World,link,2016-6-6
++ [Salaries of Presidential Primary Voters by Candidate and State](http://www.hallwaymathlete.com/2016/05/salaries-of-presidential-primary-voters.html),151,FALSE,#### R in the Real World,link,2016-6-6
+"+ [How Many Researchers?](https://webcache.googleusercontent.com/search?q=cache:kvkVvt3GUD0J:https://nexus.od.nih.gov/all/2016/05/31/how-many-researchers/+&cd=1&hl=en&ct=clnk) - How many scientists, or more specifically how many principal investigators, does NIH fund? And how many scientists (more specifically aspiring principal investigators) want to receive NIH funding?",374,FALSE,#### R in Academia,link,2016-6-6
++ [R – the ultimate virus](http://www.ingenio-magazine.com/r-the-ultimate-virus/) - Ross Ihaka on how a simple programming language he helped develop to assist students went global.,181,FALSE,#### R in Academia,link,2016-6-6
++ [R with Highcharts visualisations using Highcharter library](https://www.youtube.com/watch?v=of8ras0Bl8Q),107,FALSE,### Videos & Podcasts,link,2016-6-6
++ [R Markdown Notebooks](https://www.youtube.com/watch?v=zNzZ1PfUDNk),69,FALSE,### Videos & Podcasts,link,2016-6-6
++ [Conducting a meta-analysis with R](https://www.youtube.com/watch?v=d1pYHfCKhyA),82,FALSE,### Videos & Podcasts,link,2016-6-6
++ [methylKit release 0.9.6](http://zvfak.blogspot.my/2016/06/methylkit-v096.html) - A package for DNA methylation analysis with bisulfite-seq data.,147,FALSE,### New Releases,link,2016-6-6
++ [heatmaply on CRAN](https://github.com/talgalili/heatmaply) - Interactive Heat Maps for R Using plotly.,105,FALSE,### New Packages & Tools,link,2016-6-6
+[![heatmaply](https://i.imgur.com/qdUCKlg.gif)](https://github.com/talgalili/heatmaply),87,FALSE,### New Packages & Tools,unid,2016-6-6
++ [mscsweblm4r on CRAN](http://blog.revolutionanalytics.com/2016/06/microsoft-cognitive-services.html) - An R package for Microsoft Cognitive Services language APIs,164,FALSE,### New Packages & Tools,link,2016-6-6
++ [vembedr on CRAN](https://cran.rstudio.com/web/packages/vembedr/) - Help you embed (YouTube/Vimeo) video into R Markdown + Shiny.,131,FALSE,### New Packages & Tools,link,2016-6-6
++ [pkgcopier on CRAN](https://github.com/haozhu233/pkgcopier) - A pkg helps you easily copy R packages from one computer to another.,132,FALSE,### New Packages & Tools,link,2016-6-6
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).,79,FALSE,## R Project Updates,unid,2016-6-6
++ (Windows only) Tcl/Tk version 8.6.4 is now included in the binary builds. The `tcltk*.chm` help file is no longer included; please use URL: http://www.tcl.tk/man/ instead.,173,FALSE,## R Project Updates,unid,2016-6-6
+"+ Illegal factors, e.g., with duplicated levels (illegal but constructable) now give a warning when printed, via new `.valid.factor`.",133,FALSE,## R Project Updates,unid,2016-6-6
++ `str(<looooooooong_string>)` is no longer very slow; inspired by Mikko Korpela's proposal in [PR#16527](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16527).,166,FALSE,## R Project Updates,unid,2016-6-6
+"+ After seven years of deprecation, duplicated factor levels now produce an error in `levels<-` instead of a warning, and a warning when printed.",145,FALSE,## R Project Updates,unid,2016-6-6
+"+ New option `rstandard(<lm>, type = ""predicted"")` provides the “PRESS”-related leave-one-out cross-validation errors for linear models.",136,FALSE,## R Project Updates,unid,2016-6-6
+"+ `addNA()` is faster now, e.g., when applied twice [PR#16895](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16895).",123,FALSE,## R Project Updates,unid,2016-6-6
++ [Evolution of the R native interface](http://r.789695.n4.nabble.com/Evolution-of-the-R-native-interface-td4721179.html) - Working group on the future of #rstats ’s native APIs.,178,FALSE,## Call for Participation,link,2016-6-6
++ [2016 useR! Stanford](http://user2016.org/) - The R User Conference 2016<br /> **June 27 - June 30** <br> The schedule for [#user2016](https://twitter.com/hashtag/user2016) is now live: [http://schedule.user2016.org](http://schedule.user2016.org),248,FALSE,## Upcoming Events,link,2016-6-6
+*No jobs listed for this week.*,31,FALSE,## Jobs,unid,2016-6-6
+[R – the ultimate virus](http://www.ingenio-magazine.com/r-the-ultimate-virus/),79,FALSE,## Quote of the Week,unid,2016-6-6
+"> R changed my opinion of humanity to some extent, to see how people are really willing to freely give of themselves and produce something larger than themselves without any thought of personal glory.",200,FALSE,## Quote of the Week,unid,2016-6-6
+[Twitter @ Hadley Wickham](https://twitter.com/hadleywickham/status/738802081448886272),87,FALSE,## Quote of the Week,unid,2016-6-6
+> An NA is the presence of an absence. Don't forget that some missing values are the absence of a presence #rstats,114,FALSE,## Quote of the Week,unid,2016-6-6

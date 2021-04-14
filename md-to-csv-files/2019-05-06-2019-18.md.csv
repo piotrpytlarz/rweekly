@@ -1,55 +1,55 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-05-06
-"title: R Weekly 2019-18 RMarkdown Driven Development, HIV",57,FALSE,NA,NA,unid,2019-05-06
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-05-06
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-05-06
----,3,FALSE,NA,NA,unid,2019-05-06
-+ [RMarkdown Driven Development](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/),102,FALSE,NA,###  Highlight,link,2019-05-06
-"+ [Analysing the HIV pandemic, Part 1: HIV in sub-Sahara Africa](https://rviews.rstudio.com/2019/04/30/analysing-hiv-pandemic-part-1/)",134,FALSE,NA,###  Highlight,link,2019-05-06
-+ [Naming Software Packages with Common Words](https://yihui.name/en/2019/04/naming-common-words/),98,FALSE,NA,### Insights,link,2019-05-06
-+ [RMarkdown Driven Development](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/),102,FALSE,NA,### Insights,link,2019-05-06
-![RMarkdown Driven Development](https://raw.githubusercontent.com/rweekly/image/master/2019/rmarkdown-driven-development.png),125,FALSE,NA,### Insights,image,2019-05-06
-+ [Generative and Analytical Models for Data Analysis](https://simplystatistics.org/2019/04/29/generative-and-analytical-models-for-data-analysis/),147,FALSE,NA,### Insights,link,2019-05-06
-"+ [August 12, 1991 Review of S-PLUS Statistical Software](https://yihui.name/en/2019/05/review-of-s-plus/)",106,FALSE,NA,### Insights,link,2019-05-06
-"+ [Analysing the HIV pandemic, Part 1: HIV in sub-Sahara Africa](https://rviews.rstudio.com/2019/04/30/analysing-hiv-pandemic-part-1/)",134,FALSE,NA,### R in the Real World,link,2019-05-06
-"![Analysing the HIV pandemic, Part 1: HIV in sub-Sahara Africa](https://raw.githubusercontent.com/rweekly/image/master/2019/hiv-pandemic.png)",141,FALSE,NA,### R in the Real World,image,2019-05-06
-+ [Quebec floodable areas could use an update...](https://www.simoncoulombe.com/2019/04/quebec-floodable/),106,FALSE,NA,### R in the Real World,link,2019-05-06
-+ [What is the scope of NEON lakes data?](https://jsta.rbind.io/blog/what-is-the-scope-of-neon-lakes-data/),107,FALSE,NA,### R in the Real World,link,2019-05-06
-+ [Talk videos & slides from #satRdayJoburg (6 April 2019)](https://joburg2019.satrdays.org/#programme),103,FALSE,NA,###  Resources,link,2019-05-06
-"+ [How Do I? - A searchable list of data tasks referenced in the book ""Practical R for Mass Communication and Journalism""](https://smach.github.io/R4JournalismBook/HowDoI.html)",176,FALSE,NA,###  Resources,link,2019-05-06
-+ [RStudio 1.2 Released](https://blog.rstudio.com/2019/04/30/rstudio-1-2-release/),82,FALSE,NA,###  R in Organizations,link,2019-05-06
-+ [Availability of Microsoft R Open 3.5.2 and 3.5.3](https://blog.revolutionanalytics.com/2019/05/availability-of-microsoft-r-open-352-and-353.html),148,FALSE,NA,###  R in Organizations,link,2019-05-06
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-05-06
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-05-06
-+ [Relaunching the qualtRics package](https://juliasilge.com/blog/qualtrics-relaunch/),86,FALSE,NA,###  New Packages,link,2019-05-06
-+ [inspectdf - Tools for Exploring and Comparing Data Frames](https://github.com/alastairrushworth/inspectdf),109,FALSE,NA,###  New Packages,link,2019-05-06
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-05-06
-+ [runcharter](https://www.johnmackintosh.com/2019-04-30-runcharter/),69,FALSE,NA,###  New Packages,link,2019-05-06
-+ [devout - an ascii graphics output device](https://coolbutuseless.github.io/2019/05/01/introducing-devout-an-ascii-graphics-output-device/),141,FALSE,NA,###  New Packages,link,2019-05-06
-+ [osrm](https://rgeomatic.hypotheses.org/1798),47,FALSE,NA,### Updated Packages,link,2019-05-06
-+ [serrsBayes](https://mattstats.wordpress.com/2019/05/01/serrsbayes-0-4-0/),76,FALSE,NA,### Updated Packages,link,2019-05-06
-+ [RcppArmadillo](http://dirk.eddelbuettel.com/blog/2019/04/29#rcpparmadillo_0.9.400.2.0),89,FALSE,NA,### Updated Packages,link,2019-05-06
-+ [dbplyr](https://www.tidyverse.org/articles/2019/04/dbplyr-1-4-0/),68,FALSE,NA,### Updated Packages,link,2019-05-06
-"+ [Shiny Developer Series Episode 1](https://shinydevseries.com/ep1) - In this special RStudio Community webinar recording, Eric and Curtis Kephart are joined by Winston Chang to discuss the past and future of Shiny, along with Winston's recommendations on how software design principles can greatly enhance developing complex Shiny applications.",346,FALSE,NA,###  Videos and Podcasts,link,2019-05-06
-+ [Dog Breed Popularity Chart](https://luisdva.github.io/rstats/dog-popularity/),80,FALSE,NA,###  Tutorials,link,2019-05-06
-![Dog Breed Popularity Chart](https://raw.githubusercontent.com/rweekly/image/master/2019/dog-popularity.png),109,FALSE,NA,###  Tutorials,image,2019-05-06
-+ [How I Put Logos on ggplot2 Figures](https://www.markhw.com/blog/logos),73,FALSE,NA,###  Tutorials,link,2019-05-06
-+ [Drawing Fractals with grid graphics - part 2](https://coolbutuseless.github.io/2019/04/29/drawing-fractals-with-grid-graphics-part-2/),137,FALSE,NA,###  Tutorials,link,2019-05-06
-+ [Interact with PostGIS from R](https://rtask.thinkr.fr/blog/interact-with-postgis-from-r-with-dbi-and-sf/),108,FALSE,NA,###  Tutorials,link,2019-05-06
-![Interact with PostGIS from R](https://raw.githubusercontent.com/rweekly/image/master/2019/r-postgis.png),106,FALSE,NA,###  Tutorials,image,2019-05-06
-+ [Building a Shiny App as a Package](https://rtask.thinkr.fr/blog/building-a-shiny-app-as-a-package/),102,FALSE,NA,###  Tutorials,link,2019-05-06
-+ [Introducing AzureGraph: an interface to Microsoft Graph](https://blog.revolutionanalytics.com/2019/04/introducing-azuregraph-an-interface-to-microsoft-graph.html),165,FALSE,NA,###  Tutorials,link,2019-05-06
-+ [Set Analysis: A face off between Venn diagrams and UpSet plots](https://www.littlemissdata.com/blog/set-analysis),116,FALSE,NA,###  Tutorials,link,2019-05-06
-![Set Analysis: A face off between Venn diagrams and UpSet plots](https://raw.githubusercontent.com/rweekly/image/master/2019/venn-diagrams-upset-plots.png),156,FALSE,NA,###  Tutorials,image,2019-05-06
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-05-06
-"n></div><div class=""post-more-end""></div>-->",44,FALSE,NA,###  Tutorials,unid,2019-05-06
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),78,FALSE,NA,###  R Project Updates,unid,2019-05-06
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-05-06
-+ [China-R Beijing 24 May - 26 May](https://cosx.org/2019/03/12th-china-r-beijing-announcement/),96,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-06
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-06
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-05-06
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-05-06
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-05-06
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a>: datapasta is SO COOL! Easily copy data from excel (or even html tables from the web) &amp; paste in R as fully-formatted dataframes!<br><br>1. install.packages(&quot;datapasta&quot;)<br>2. Set a useful keyboard paste shortcut<a href=""https://t.co/hq9mHtRj5B"">https://t.co/hq9mHtRj5B</a><br><br>With thanks to <a href=""https://twitter.com/FaustoBustos?ref_src=twsrc%5Etfw"">@FaustoBustos</a> :)<a href=""https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw"">#phdchat</a> <a href=""https://t.co/OqzHHZGsd0"">pic.twitter.com/OqzHHZGsd0</a></p>&mdash; Guy Prochilo 🏳️",738,FALSE,NA,###  Quotes of the Week,unid,2019-05-06
-"🌈 (@GuyProchilo) <a href=""https://twitter.com/GuyProchilo/status/1122651785011789824?ref_src=twsrc%5Etfw"">April 29, 2019</a></blockquote>",137,FALSE,NA,###  Quotes of the Week,unid,2019-05-06
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Ok <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> twitter, which one of you was spotted on 95 near philly yesterday? <a href=""https://t.co/VM7jcIrJ4p"">pic.twitter.com/VM7jcIrJ4p</a></p>&mdash; Alice Walsh PhD (@alicenotalice) <a href=""https://twitter.com/alicenotalice/status/1123205439586480129?ref_src=twsrc%5Etfw"">April 30, 2019</a></blockquote>",463,FALSE,NA,###  Quotes of the Week,unid,2019-05-06
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-05-06
+"title: R Weekly 2019-18 RMarkdown Driven Development, HIV",57,FALSE,NA,unid,2019-05-06
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-05-06
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-05-06
+---,3,FALSE,NA,unid,2019-05-06
++ [RMarkdown Driven Development](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/),102,FALSE,###  Highlight,link,2019-05-06
+"+ [Analysing the HIV pandemic, Part 1: HIV in sub-Sahara Africa](https://rviews.rstudio.com/2019/04/30/analysing-hiv-pandemic-part-1/)",134,FALSE,###  Highlight,link,2019-05-06
++ [Naming Software Packages with Common Words](https://yihui.name/en/2019/04/naming-common-words/),98,FALSE,### Insights,link,2019-05-06
++ [RMarkdown Driven Development](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/),102,FALSE,### Insights,link,2019-05-06
+![RMarkdown Driven Development](https://raw.githubusercontent.com/rweekly/image/master/2019/rmarkdown-driven-development.png),125,FALSE,### Insights,image,2019-05-06
++ [Generative and Analytical Models for Data Analysis](https://simplystatistics.org/2019/04/29/generative-and-analytical-models-for-data-analysis/),147,FALSE,### Insights,link,2019-05-06
+"+ [August 12, 1991 Review of S-PLUS Statistical Software](https://yihui.name/en/2019/05/review-of-s-plus/)",106,FALSE,### Insights,link,2019-05-06
+"+ [Analysing the HIV pandemic, Part 1: HIV in sub-Sahara Africa](https://rviews.rstudio.com/2019/04/30/analysing-hiv-pandemic-part-1/)",134,FALSE,### R in the Real World,link,2019-05-06
+"![Analysing the HIV pandemic, Part 1: HIV in sub-Sahara Africa](https://raw.githubusercontent.com/rweekly/image/master/2019/hiv-pandemic.png)",141,FALSE,### R in the Real World,image,2019-05-06
++ [Quebec floodable areas could use an update...](https://www.simoncoulombe.com/2019/04/quebec-floodable/),106,FALSE,### R in the Real World,link,2019-05-06
++ [What is the scope of NEON lakes data?](https://jsta.rbind.io/blog/what-is-the-scope-of-neon-lakes-data/),107,FALSE,### R in the Real World,link,2019-05-06
++ [Talk videos & slides from #satRdayJoburg (6 April 2019)](https://joburg2019.satrdays.org/#programme),103,FALSE,###  Resources,link,2019-05-06
+"+ [How Do I? - A searchable list of data tasks referenced in the book ""Practical R for Mass Communication and Journalism""](https://smach.github.io/R4JournalismBook/HowDoI.html)",176,FALSE,###  Resources,link,2019-05-06
++ [RStudio 1.2 Released](https://blog.rstudio.com/2019/04/30/rstudio-1-2-release/),82,FALSE,###  R in Organizations,link,2019-05-06
++ [Availability of Microsoft R Open 3.5.2 and 3.5.3](https://blog.revolutionanalytics.com/2019/05/availability-of-microsoft-r-open-352-and-353.html),148,FALSE,###  R in Organizations,link,2019-05-06
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-05-06
+**CRAN**,8,FALSE,###  New Packages,unid,2019-05-06
++ [Relaunching the qualtRics package](https://juliasilge.com/blog/qualtrics-relaunch/),86,FALSE,###  New Packages,link,2019-05-06
++ [inspectdf - Tools for Exploring and Comparing Data Frames](https://github.com/alastairrushworth/inspectdf),109,FALSE,###  New Packages,link,2019-05-06
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-05-06
++ [runcharter](https://www.johnmackintosh.com/2019-04-30-runcharter/),69,FALSE,###  New Packages,link,2019-05-06
++ [devout - an ascii graphics output device](https://coolbutuseless.github.io/2019/05/01/introducing-devout-an-ascii-graphics-output-device/),141,FALSE,###  New Packages,link,2019-05-06
++ [osrm](https://rgeomatic.hypotheses.org/1798),47,FALSE,### Updated Packages,link,2019-05-06
++ [serrsBayes](https://mattstats.wordpress.com/2019/05/01/serrsbayes-0-4-0/),76,FALSE,### Updated Packages,link,2019-05-06
++ [RcppArmadillo](http://dirk.eddelbuettel.com/blog/2019/04/29#rcpparmadillo_0.9.400.2.0),89,FALSE,### Updated Packages,link,2019-05-06
++ [dbplyr](https://www.tidyverse.org/articles/2019/04/dbplyr-1-4-0/),68,FALSE,### Updated Packages,link,2019-05-06
+"+ [Shiny Developer Series Episode 1](https://shinydevseries.com/ep1) - In this special RStudio Community webinar recording, Eric and Curtis Kephart are joined by Winston Chang to discuss the past and future of Shiny, along with Winston's recommendations on how software design principles can greatly enhance developing complex Shiny applications.",346,FALSE,###  Videos and Podcasts,link,2019-05-06
++ [Dog Breed Popularity Chart](https://luisdva.github.io/rstats/dog-popularity/),80,FALSE,###  Tutorials,link,2019-05-06
+![Dog Breed Popularity Chart](https://raw.githubusercontent.com/rweekly/image/master/2019/dog-popularity.png),109,FALSE,###  Tutorials,image,2019-05-06
++ [How I Put Logos on ggplot2 Figures](https://www.markhw.com/blog/logos),73,FALSE,###  Tutorials,link,2019-05-06
++ [Drawing Fractals with grid graphics - part 2](https://coolbutuseless.github.io/2019/04/29/drawing-fractals-with-grid-graphics-part-2/),137,FALSE,###  Tutorials,link,2019-05-06
++ [Interact with PostGIS from R](https://rtask.thinkr.fr/blog/interact-with-postgis-from-r-with-dbi-and-sf/),108,FALSE,###  Tutorials,link,2019-05-06
+![Interact with PostGIS from R](https://raw.githubusercontent.com/rweekly/image/master/2019/r-postgis.png),106,FALSE,###  Tutorials,image,2019-05-06
++ [Building a Shiny App as a Package](https://rtask.thinkr.fr/blog/building-a-shiny-app-as-a-package/),102,FALSE,###  Tutorials,link,2019-05-06
++ [Introducing AzureGraph: an interface to Microsoft Graph](https://blog.revolutionanalytics.com/2019/04/introducing-azuregraph-an-interface-to-microsoft-graph.html),165,FALSE,###  Tutorials,link,2019-05-06
++ [Set Analysis: A face off between Venn diagrams and UpSet plots](https://www.littlemissdata.com/blog/set-analysis),116,FALSE,###  Tutorials,link,2019-05-06
+![Set Analysis: A face off between Venn diagrams and UpSet plots](https://raw.githubusercontent.com/rweekly/image/master/2019/venn-diagrams-upset-plots.png),156,FALSE,###  Tutorials,image,2019-05-06
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2019-05-06
+"n></div><div class=""post-more-end""></div>-->",44,FALSE,###  Tutorials,unid,2019-05-06
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),78,FALSE,###  R Project Updates,unid,2019-05-06
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-05-06
++ [China-R Beijing 24 May - 26 May](https://cosx.org/2019/03/12th-china-r-beijing-announcement/),96,FALSE,###  Upcoming Events in 3 Months,link,2019-05-06
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-05-06
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-05-06
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-05-06
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-05-06
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#Rstats</a>: datapasta is SO COOL! Easily copy data from excel (or even html tables from the web) &amp; paste in R as fully-formatted dataframes!<br><br>1. install.packages(&quot;datapasta&quot;)<br>2. Set a useful keyboard paste shortcut<a href=""https://t.co/hq9mHtRj5B"">https://t.co/hq9mHtRj5B</a><br><br>With thanks to <a href=""https://twitter.com/FaustoBustos?ref_src=twsrc%5Etfw"">@FaustoBustos</a> :)<a href=""https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw"">#phdchat</a> <a href=""https://t.co/OqzHHZGsd0"">pic.twitter.com/OqzHHZGsd0</a></p>&mdash; Guy Prochilo 🏳️",738,FALSE,###  Quotes of the Week,unid,2019-05-06
+"🌈 (@GuyProchilo) <a href=""https://twitter.com/GuyProchilo/status/1122651785011789824?ref_src=twsrc%5Etfw"">April 29, 2019</a></blockquote>",137,FALSE,###  Quotes of the Week,unid,2019-05-06
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Ok <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> twitter, which one of you was spotted on 95 near philly yesterday? <a href=""https://t.co/VM7jcIrJ4p"">pic.twitter.com/VM7jcIrJ4p</a></p>&mdash; Alice Walsh PhD (@alicenotalice) <a href=""https://twitter.com/alicenotalice/status/1123205439586480129?ref_src=twsrc%5Etfw"">April 30, 2019</a></blockquote>",463,FALSE,###  Quotes of the Week,unid,2019-05-06

@@ -1,62 +1,62 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-07-29
-"title: R Weekly 2019-30 SatRDay Paris, Top 40 Packages, golem",61,FALSE,NA,NA,unid,2019-07-29
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-07-29
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-07-29
----,3,FALSE,NA,NA,unid,2019-07-29
-"This week's release was curated by [Eric Nantz](https://twitter.com/thercast), with help from the RWeekly team members and contributors.",136,FALSE,NA,NA,unid,2019-07-29
-Release Date: 2019-07-29,24,FALSE,NA,NA,unid,2019-07-29
-+ [SatRDay Paris 2019 videos](https://www.youtube.com/playlist?list=PLDMpPFwvU_SwdIRsFLuQ1iLOef6hwSv2H),103,FALSE,NA,### Highlight,link,2019-07-29
-"+ [June 2019 ""Top 40"" R Packages](https://rviews.rstudio.com/2019/07/24/june-2019-top-40-r-packages/)",101,FALSE,NA,### Highlight,link,2019-07-29
-"+ [Shiny Developer Series screencast: Hands-on with `golem`](https://shinydevseries.com/post/golem-demo/) - In this screencast, Colin Fay demonstrates how to create a new Shiny application from scratch with `{golem}`! ",218,FALSE,NA,### Highlight,link,2019-07-29
-+ [BeautifulSoup vs. Rvest](https://theautomatic.net/2019/07/23/beautifulsoup-vs-rvest/),88,FALSE,NA,### Insights,link,2019-07-29
-+ [The data deluge means no reasonable expectation of privacy - now what?](https://simplystatistics.org/2019/07/23/the-data-deluge-means-no-reasonable-expectation-of-privacy-no-what/),183,FALSE,NA,### Insights,link,2019-07-29
-+ [useR!2019 Quiz: Test your knowledge of base R and ThinkR](https://rtask.thinkr.fr/blog/user2019-quizz-test-your-knowledge-of-base-r-and-thinkr/),147,FALSE,NA,### Insights,link,2019-07-29
-![thinkr-quiz](https://raw.githubusercontent.com/rweekly/image/master/2019/30/thinkr-quiz.png),94,FALSE,NA,### Insights,image,2019-07-29
-"+ [Machine learning models grow more powerful every week, but they all share the exact same dependency: data quality.  Here are some data verification tips, tricks, and case studies.](https://appsilon.com/data-quality/)",219,FALSE,NA,### R in the Real World,link,2019-07-29
-"+ [A new, straightforward, and  solid way to run R on AWS Lambda](http://enhancedatascience.com/2019/07/09/how-to-use-r-in-aws-lambda/)",135,FALSE,NA,###  R in Organizations,link,2019-07-29
-+ [Using environment variables and parametrized builds for automating R applications with Jenkins](https://jozef.io/r918-jenkins-pipelines/),140,FALSE,NA,###  R in Organizations,link,2019-07-29
-+ [CPAT and the Rényi-Type Statistic; End-of-Sample Change Point Detection in R](https://ntguardian.wordpress.com/2019/07/24/cpat-renyi-type-statistic-end-of-sample-change-point-detection-r/),191,FALSE,NA,###  R in Academia,link,2019-07-29
-"+ [""Real life"" DAG simulation using the simMixedDAG package](https://iyarlin.github.io/2019/07/23/mixed_dag_simulation_using_simmixeddag_package/)",146,FALSE,NA,###  R in Academia,link,2019-07-29
-"+ [June 2019 ""Top 40"" R Packages](https://rviews.rstudio.com/2019/07/24/june-2019-top-40-r-packages/)",101,FALSE,NA,###  Resources,link,2019-07-29
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-07-29
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-07-29
-+ [graph4lg - Build Graphs for Landscape Genetics Analysis](https://cran.r-project.org/package=graph4lg),104,FALSE,NA,###  New Packages,link,2019-07-29
-+ [gitlink - Add 'Git' Links to Your Web Based Assets](https://cran.r-project.org/package=gitlink),98,FALSE,NA,###  New Packages,link,2019-07-29
-+ [tidymargins - Tidy Marginal Functions](https://cran.r-project.org/package=tidymargins),89,FALSE,NA,###  New Packages,link,2019-07-29
-+ [cvGEE - Cross-Validated Predictions from GEE](https://cran.r-project.org/package=cvGEE),90,FALSE,NA,###  New Packages,link,2019-07-29
-+ [imgpalr - Create Color Palettes from Images](https://cran.r-project.org/package=imgpalr),91,FALSE,NA,###  New Packages,link,2019-07-29
-+ [trustedtimestamping - Create Trusted Timestamps of Datasets and Files](https://cran.r-project.org/package=trustedtimestamping),129,FALSE,NA,###  New Packages,link,2019-07-29
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-07-29
-+ [Introducing the `exhibitionist` package for annotating sequences](https://coolbutuseless.github.io/2019/07/24/introducing-the-exhibitionist-package-for-annotating-sequences/),177,FALSE,NA,###  New Packages,link,2019-07-29
-![annotate](https://raw.githubusercontent.com/rweekly/image/master/2019/30/annotate.png),88,FALSE,NA,###  New Packages,image,2019-07-29
-"+ [ymlthis - write YAML for R Markdown, bookdown, blogdown, and more](https://github.com/r-lib/ymlthis)",103,FALSE,NA,###  New Packages,link,2019-07-29
-+ [Two New Testing-themed Addins + One New and One Updated CRAN Package](https://rud.is/b/2019/07/27/two-new-testing-themed-addins-one-new-and-one-updated-cran-package/),169,FALSE,NA,### Updated Packages,link,2019-07-29
-+ [RPushbullet 0.3.2](http://dirk.eddelbuettel.com/blog/2019/07/21#rpushbullet_0.3.2),85,FALSE,NA,### Updated Packages,link,2019-07-29
-+ [Rcpp 1.0.2: Small Polish](http://dirk.eddelbuettel.com/blog/2019/07/25#rcpp_1.0.2),85,FALSE,NA,### Updated Packages,link,2019-07-29
-"+ [Shiny Developer Series screencast: Hands-on with `golem`](https://shinydevseries.com/post/golem-demo/) - In this screencast, Colin Fay demonstrates how to create a new Shiny application from scratch with `{golem}`! ",218,FALSE,NA,###  Videos and Podcasts,link,2019-07-29
-+ [SatRDay Paris 2019 videos](https://www.youtube.com/playlist?list=PLDMpPFwvU_SwdIRsFLuQ1iLOef6hwSv2H),103,FALSE,NA,###  Videos and Podcasts,link,2019-07-29
-"+ [NSSD 85: Old/old](http://nssdeviations.com/85-oldold-with-special-guest-jenna-krall) - Roger welcomes special guest Jenna Krall to discuss cricket, data analysis project organization, and the difficulties in creating a dataset.",230,FALSE,NA,###  Videos and Podcasts,link,2019-07-29
-+ [Collapsible code output for `xaringan`](https://gist.github.com/emitanaka/eaa258bb8471c041797ff377704c8505),110,FALSE,NA,### Gist & Cookbook,link,2019-07-29
-+ [Can `{drake}` RAP?](https://www.rostrum.blog/2019/07/23/can-drake-rap/),74,FALSE,NA,###  Tutorials,link,2019-07-29
-+ [Many similar models - Part 2: Automate model fitting with purrr::map() loops](https://aosmith.rbind.io/2019/07/22/automate-model-fitting-with-loops/),152,FALSE,NA,###  Tutorials,link,2019-07-29
-+ [Generate custom Excel workbooks from Shiny](https://www.tychobra.com/posts/2019_07_22_excel_report_generation/),114,FALSE,NA,###  Tutorials,link,2019-07-29
-+ [A metaanalysis of truthtelling experiments with some nice Shiny apps](http://www.preferencesfortruthtelling.com/),116,FALSE,NA,###  Tutorials,link,2019-07-29
-+ [Talk at Wits – 18/7/2019](http://ronaldrichman.co.za/2019/07/21/talk-at-wits/),81,FALSE,NA,###  Tutorials,link,2019-07-29
-+ [Faster Gridding in R](http://tkelly.org/2019/07/faster-gridding-in-r/),73,FALSE,NA,###  Tutorials,link,2019-07-29
-![Faster Gridding in R](https://raw.githubusercontent.com/rweekly/image/master/2019/30/faster-gridding.png),107,FALSE,NA,###  Tutorials,image,2019-07-29
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-07-29
-"n></div><div class=""post-more-end""></div>-->",44,FALSE,NA,###  Tutorials,unid,2019-07-29
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-07-29
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-07-29
-"+ [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools",166,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-29
-"+ [R/Pharma Conference 2019, August 21 - 23](http://rinpharma.com/)",67,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-29
-"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)",63,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-29
-"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-29
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-29
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-07-29
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-07-29
-+ [lyft level 5 autonomous vehicles data set](https://level5.lyft.com/dataset/),79,FALSE,NA,### Datasets,link,2019-07-29
-+ [eia - API Wrapper for 'US Energy Information Administration' Open Data](https://cran.r-project.org/package=eia),114,FALSE,NA,### Datasets,link,2019-07-29
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-07-29
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a> internship update 🥁 Linear Models! 📈 My <a href=""https://twitter.com/hashtag/Tidyverse?src=hash&amp;ref_src=twsrc%5Etfw"">#Tidyverse</a> inspired blocks based coding language can import CSVs, transform data with <a href=""https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw"">#dplyr</a> verbs, and now graph + stats! 💪 [Using <a href=""https://twitter.com/ashleydavis75?ref_src=twsrc%5Etfw"">@ashleydavis75</a>&#39;s <a href=""https://twitter.com/hashtag/dataforge?src=hash&amp;ref_src=twsrc%5Etfw"">#dataforge</a>, <a href=""https://twitter.com/vega_vis?ref_src=twsrc%5Etfw"">@vega_vis</a>, and my own <a href=""https://twitter.com/hashtag/JavaScript?src=hash&amp;ref_src=twsrc%5Etfw"">#JavaScript</a> magic 🦄] <a href=""https://t.co/dia4gnKMNf"">pic.twitter.com/dia4gnKMNf</a></p>&mdash; Maya Gans (@Mayacelium) <a href=""https://twitter.com/Mayacelium/status/1153455719384936449?ref_src=twsrc%5Etfw"">July 23, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",1149,FALSE,NA,###  Quotes of the Week,unid,2019-07-29
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-07-29
+"title: R Weekly 2019-30 SatRDay Paris, Top 40 Packages, golem",61,FALSE,NA,unid,2019-07-29
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-07-29
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-07-29
+---,3,FALSE,NA,unid,2019-07-29
+"This week's release was curated by [Eric Nantz](https://twitter.com/thercast), with help from the RWeekly team members and contributors.",136,FALSE,NA,unid,2019-07-29
+Release Date: 2019-07-29,24,FALSE,NA,unid,2019-07-29
++ [SatRDay Paris 2019 videos](https://www.youtube.com/playlist?list=PLDMpPFwvU_SwdIRsFLuQ1iLOef6hwSv2H),103,FALSE,### Highlight,link,2019-07-29
+"+ [June 2019 ""Top 40"" R Packages](https://rviews.rstudio.com/2019/07/24/june-2019-top-40-r-packages/)",101,FALSE,### Highlight,link,2019-07-29
+"+ [Shiny Developer Series screencast: Hands-on with `golem`](https://shinydevseries.com/post/golem-demo/) - In this screencast, Colin Fay demonstrates how to create a new Shiny application from scratch with `{golem}`! ",218,FALSE,### Highlight,link,2019-07-29
++ [BeautifulSoup vs. Rvest](https://theautomatic.net/2019/07/23/beautifulsoup-vs-rvest/),88,FALSE,### Insights,link,2019-07-29
++ [The data deluge means no reasonable expectation of privacy - now what?](https://simplystatistics.org/2019/07/23/the-data-deluge-means-no-reasonable-expectation-of-privacy-no-what/),183,FALSE,### Insights,link,2019-07-29
++ [useR!2019 Quiz: Test your knowledge of base R and ThinkR](https://rtask.thinkr.fr/blog/user2019-quizz-test-your-knowledge-of-base-r-and-thinkr/),147,FALSE,### Insights,link,2019-07-29
+![thinkr-quiz](https://raw.githubusercontent.com/rweekly/image/master/2019/30/thinkr-quiz.png),94,FALSE,### Insights,image,2019-07-29
+"+ [Machine learning models grow more powerful every week, but they all share the exact same dependency: data quality.  Here are some data verification tips, tricks, and case studies.](https://appsilon.com/data-quality/)",219,FALSE,### R in the Real World,link,2019-07-29
+"+ [A new, straightforward, and  solid way to run R on AWS Lambda](http://enhancedatascience.com/2019/07/09/how-to-use-r-in-aws-lambda/)",135,FALSE,###  R in Organizations,link,2019-07-29
++ [Using environment variables and parametrized builds for automating R applications with Jenkins](https://jozef.io/r918-jenkins-pipelines/),140,FALSE,###  R in Organizations,link,2019-07-29
++ [CPAT and the Rényi-Type Statistic; End-of-Sample Change Point Detection in R](https://ntguardian.wordpress.com/2019/07/24/cpat-renyi-type-statistic-end-of-sample-change-point-detection-r/),191,FALSE,###  R in Academia,link,2019-07-29
+"+ [""Real life"" DAG simulation using the simMixedDAG package](https://iyarlin.github.io/2019/07/23/mixed_dag_simulation_using_simmixeddag_package/)",146,FALSE,###  R in Academia,link,2019-07-29
+"+ [June 2019 ""Top 40"" R Packages](https://rviews.rstudio.com/2019/07/24/june-2019-top-40-r-packages/)",101,FALSE,###  Resources,link,2019-07-29
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-07-29
+**CRAN**,8,FALSE,###  New Packages,unid,2019-07-29
++ [graph4lg - Build Graphs for Landscape Genetics Analysis](https://cran.r-project.org/package=graph4lg),104,FALSE,###  New Packages,link,2019-07-29
++ [gitlink - Add 'Git' Links to Your Web Based Assets](https://cran.r-project.org/package=gitlink),98,FALSE,###  New Packages,link,2019-07-29
++ [tidymargins - Tidy Marginal Functions](https://cran.r-project.org/package=tidymargins),89,FALSE,###  New Packages,link,2019-07-29
++ [cvGEE - Cross-Validated Predictions from GEE](https://cran.r-project.org/package=cvGEE),90,FALSE,###  New Packages,link,2019-07-29
++ [imgpalr - Create Color Palettes from Images](https://cran.r-project.org/package=imgpalr),91,FALSE,###  New Packages,link,2019-07-29
++ [trustedtimestamping - Create Trusted Timestamps of Datasets and Files](https://cran.r-project.org/package=trustedtimestamping),129,FALSE,###  New Packages,link,2019-07-29
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-07-29
++ [Introducing the `exhibitionist` package for annotating sequences](https://coolbutuseless.github.io/2019/07/24/introducing-the-exhibitionist-package-for-annotating-sequences/),177,FALSE,###  New Packages,link,2019-07-29
+![annotate](https://raw.githubusercontent.com/rweekly/image/master/2019/30/annotate.png),88,FALSE,###  New Packages,image,2019-07-29
+"+ [ymlthis - write YAML for R Markdown, bookdown, blogdown, and more](https://github.com/r-lib/ymlthis)",103,FALSE,###  New Packages,link,2019-07-29
++ [Two New Testing-themed Addins + One New and One Updated CRAN Package](https://rud.is/b/2019/07/27/two-new-testing-themed-addins-one-new-and-one-updated-cran-package/),169,FALSE,### Updated Packages,link,2019-07-29
++ [RPushbullet 0.3.2](http://dirk.eddelbuettel.com/blog/2019/07/21#rpushbullet_0.3.2),85,FALSE,### Updated Packages,link,2019-07-29
++ [Rcpp 1.0.2: Small Polish](http://dirk.eddelbuettel.com/blog/2019/07/25#rcpp_1.0.2),85,FALSE,### Updated Packages,link,2019-07-29
+"+ [Shiny Developer Series screencast: Hands-on with `golem`](https://shinydevseries.com/post/golem-demo/) - In this screencast, Colin Fay demonstrates how to create a new Shiny application from scratch with `{golem}`! ",218,FALSE,###  Videos and Podcasts,link,2019-07-29
++ [SatRDay Paris 2019 videos](https://www.youtube.com/playlist?list=PLDMpPFwvU_SwdIRsFLuQ1iLOef6hwSv2H),103,FALSE,###  Videos and Podcasts,link,2019-07-29
+"+ [NSSD 85: Old/old](http://nssdeviations.com/85-oldold-with-special-guest-jenna-krall) - Roger welcomes special guest Jenna Krall to discuss cricket, data analysis project organization, and the difficulties in creating a dataset.",230,FALSE,###  Videos and Podcasts,link,2019-07-29
++ [Collapsible code output for `xaringan`](https://gist.github.com/emitanaka/eaa258bb8471c041797ff377704c8505),110,FALSE,### Gist & Cookbook,link,2019-07-29
++ [Can `{drake}` RAP?](https://www.rostrum.blog/2019/07/23/can-drake-rap/),74,FALSE,###  Tutorials,link,2019-07-29
++ [Many similar models - Part 2: Automate model fitting with purrr::map() loops](https://aosmith.rbind.io/2019/07/22/automate-model-fitting-with-loops/),152,FALSE,###  Tutorials,link,2019-07-29
++ [Generate custom Excel workbooks from Shiny](https://www.tychobra.com/posts/2019_07_22_excel_report_generation/),114,FALSE,###  Tutorials,link,2019-07-29
++ [A metaanalysis of truthtelling experiments with some nice Shiny apps](http://www.preferencesfortruthtelling.com/),116,FALSE,###  Tutorials,link,2019-07-29
++ [Talk at Wits – 18/7/2019](http://ronaldrichman.co.za/2019/07/21/talk-at-wits/),81,FALSE,###  Tutorials,link,2019-07-29
++ [Faster Gridding in R](http://tkelly.org/2019/07/faster-gridding-in-r/),73,FALSE,###  Tutorials,link,2019-07-29
+![Faster Gridding in R](https://raw.githubusercontent.com/rweekly/image/master/2019/30/faster-gridding.png),107,FALSE,###  Tutorials,image,2019-07-29
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2019-07-29
+"n></div><div class=""post-more-end""></div>-->",44,FALSE,###  Tutorials,unid,2019-07-29
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-07-29
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-07-29
+"+ [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools",166,FALSE,###  Upcoming Events in 3 Months,link,2019-07-29
+"+ [R/Pharma Conference 2019, August 21 - 23](http://rinpharma.com/)",67,FALSE,###  Upcoming Events in 3 Months,link,2019-07-29
+"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)",63,FALSE,###  Upcoming Events in 3 Months,link,2019-07-29
+"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,###  Upcoming Events in 3 Months,link,2019-07-29
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-07-29
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-07-29
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-07-29
++ [lyft level 5 autonomous vehicles data set](https://level5.lyft.com/dataset/),79,FALSE,### Datasets,link,2019-07-29
++ [eia - API Wrapper for 'US Energy Information Administration' Open Data](https://cran.r-project.org/package=eia),114,FALSE,### Datasets,link,2019-07-29
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-07-29
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/rstudio?ref_src=twsrc%5Etfw"">@rstudio</a> internship update 🥁 Linear Models! 📈 My <a href=""https://twitter.com/hashtag/Tidyverse?src=hash&amp;ref_src=twsrc%5Etfw"">#Tidyverse</a> inspired blocks based coding language can import CSVs, transform data with <a href=""https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw"">#dplyr</a> verbs, and now graph + stats! 💪 [Using <a href=""https://twitter.com/ashleydavis75?ref_src=twsrc%5Etfw"">@ashleydavis75</a>&#39;s <a href=""https://twitter.com/hashtag/dataforge?src=hash&amp;ref_src=twsrc%5Etfw"">#dataforge</a>, <a href=""https://twitter.com/vega_vis?ref_src=twsrc%5Etfw"">@vega_vis</a>, and my own <a href=""https://twitter.com/hashtag/JavaScript?src=hash&amp;ref_src=twsrc%5Etfw"">#JavaScript</a> magic 🦄] <a href=""https://t.co/dia4gnKMNf"">pic.twitter.com/dia4gnKMNf</a></p>&mdash; Maya Gans (@Mayacelium) <a href=""https://twitter.com/Mayacelium/status/1153455719384936449?ref_src=twsrc%5Etfw"">July 23, 2019</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script> ",1149,FALSE,###  Quotes of the Week,unid,2019-07-29

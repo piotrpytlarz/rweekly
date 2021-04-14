@@ -1,128 +1,128 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2017-04-17
-layout: post,12,FALSE,NA,NA,unid,2017-04-17
-title: R Weekly 2017 Issue 16,29,FALSE,NA,NA,unid,2017-04-17
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-04-17
-is_podcast: true,16,FALSE,NA,NA,unid,2017-04-17
-podcast_title: 2017:16 dplyr new features,41,FALSE,NA,NA,unid,2017-04-17
-podcast_permalink: https://cloud.rweekly.org/2017-16.mp3,56,FALSE,NA,NA,unid,2017-04-17
-podcast_description: |,22,FALSE,NA,NA,unid,2017-04-17
-  <![CDATA[,11,FALSE,NA,NA,unid,2017-04-17
-"  <p>About dplyr new features, report on the 2017 Society of American Archaeology meeting about R and more. </p>",112,FALSE,NA,NA,unid,2017-04-17
-  <ul>,6,FALSE,NA,NA,unid,2017-04-17
-"  <li>Read <a href=""https://www.rweekly.org/2017-16.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 16</a></li>",116,FALSE,NA,NA,unid,2017-04-17
-  </ul>,7,FALSE,NA,NA,unid,2017-04-17
-  <p></p>,9,FALSE,NA,NA,unid,2017-04-17
-  <ul> ,7,FALSE,NA,NA,unid,2017-04-17
-"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,NA,unid,2017-04-17
-  </ul> ,8,FALSE,NA,NA,unid,2017-04-17
-  <ul>   ,9,FALSE,NA,NA,unid,2017-04-17
-"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>   ",80,FALSE,NA,NA,unid,2017-04-17
-  </ul>,7,FALSE,NA,NA,unid,2017-04-17
-  <ul> ,7,FALSE,NA,NA,unid,2017-04-17
-"  <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>  ",75,FALSE,NA,NA,unid,2017-04-17
-  </ul>,7,FALSE,NA,NA,unid,2017-04-17
-  <ul>,6,FALSE,NA,NA,unid,2017-04-17
-"  <li><a href=""http://freemusicarchive.org/music/gillicuddy/Plays_Guitar_Again/01-adventure-darling"">Music by Gillicuddy</a></li>",129,FALSE,NA,NA,unid,2017-04-17
-  </ul>,7,FALSE,NA,NA,unid,2017-04-17
-  ]]>,5,FALSE,NA,NA,unid,2017-04-17
-podcast_size: 5368226,21,FALSE,NA,NA,unid,2017-04-17
-"podcast_duration: ""3:32""",24,FALSE,NA,NA,unid,2017-04-17
-"podcast_summary: About dplyr new features, report on the 2017 Society of American Archaeology meeting about R and more. https://rweekly.org/2017-16.html",152,FALSE,NA,NA,unid,2017-04-17
-"podcast_keywords: "", ggplot2""",29,FALSE,NA,NA,unid,2017-04-17
-podcast_subtitle: dplyr new features,36,FALSE,NA,NA,unid,2017-04-17
----,3,FALSE,NA,NA,unid,2017-04-17
-+ [dplyr 0.6.0 coming soon!](https://blog.rstudio.org/2017/04/13/dplyr-0-6-0-coming-soon/),90,FALSE,NA,###  Highlight,link,2017-04-17
-+ [Writing an R Package](https://github.com/jalapic/RPackage/blob/master/Writing%20an%20R%20Package.pdf),104,FALSE,NA,###  Highlight,link,2017-04-17
-+ [Basic Regex in R](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf),92,FALSE,NA,###  Resources,link,2017-04-17
-+ [Workshop on Generalized Linear Mixed-Effects Modeling in R ](https://github.com/seananderson/glmm-course),108,FALSE,NA,###  Resources,link,2017-04-17
-"+ [remake-tutorial](https://github.com/krlmlr/remake-tutorial) - A hands-on tutorial for remake, ",97,FALSE,NA,###  Resources,link,2017-04-17
-Make-like declarative workflows in R,36,FALSE,NA,###  Resources,unid,2017-04-17
-+ [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/),84,FALSE,NA,###  Resources,link,2017-04-17
-+ [Writing an R Package](https://github.com/jalapic/RPackage/blob/master/Writing%20an%20R%20Package.pdf),104,FALSE,NA,###  Resources,link,2017-04-17
-+ [R is for Archaeology: A report on the 2017 Society of American Archaeology meeting](http://blog.revolutionanalytics.com/2017/04/r-is-for-archaeology.html),157,FALSE,NA,###  Insights,link,2017-04-17
-+ [Reproducible assignments with R-markdown](http://r-spatial.org//r/2017/04/13/assignments.html),97,FALSE,NA,###  Insights,link,2017-04-17
-+ [R benchmark for High-Performance Analytics and Computing (II): GPU Packages](http://www.parallelr.com/r-hpac-benchmark-analysis-gpu/),136,FALSE,NA,###  Insights,link,2017-04-17
-+ [Statistical Errors in the Medical Literature](http://www.fharrell.com/2017/04/statistical-errors-in-medical-literature.html),127,FALSE,NA,###  Insights,link,2017-04-17
-+ [dplyr 0.6.0 coming soon!](https://blog.rstudio.org/2017/04/13/dplyr-0-6-0-coming-soon/),90,FALSE,NA,###  Insights,link,2017-04-17
-+ [Rcpp now used by 1000 CRAN packages](http://dirk.eddelbuettel.com/blog/2017/04/15#rcpp_1000_packages),104,FALSE,NA,###  R in the Real World,link,2017-04-17
-"+ [Sow the seeds, know the seeds](http://maelle.github.io/2017/04/12/seeds/) - From Github API search endpoint you can get up to 1,000 results corresponding to a query which in the case of set.seed occurrences in R code.",220,FALSE,NA,###  R in the Real World,link,2017-04-17
-<!-- !U.S. Refinery Imports From Saudi Arabia](https://seasmith.github.io/posts/exploring_us_refinery_imports.html)-->,118,FALSE,NA,###  R in the Real World,unid,2017-04-17
-"+ [Data Amp: a major on-line Microsoft event, April 19](http://blog.revolutionanalytics.com/2017/04/data-amp-april-19.html)",123,FALSE,NA,###  R in the Real World,link,2017-04-17
-+ [The Walking Dead TV Series is becoming worse season after season](https://www.reddit.com/r/dataisbeautiful/comments/64oahu/the_walking_dead_tv_series_is_becoming_worse/?sort=old),181,FALSE,NA,###  R in the Real World,link,2017-04-17
-![The Walking Dead TV Series is becoming worse season after season](https://raw.githubusercontent.com/qinwf/doc/gh-pages/temp/walking-dead.png),143,FALSE,NA,###  R in the Real World,image,2017-04-17
-+ [Some Facts about Jeff Leek](https://yihui.name/en/2017/04/jeff-leek-facts/),78,FALSE,NA,###  R in the Real World,link,2017-04-17
-+ [Plotting house price trends with FRED and R](http://lenkiefer.github.io/2017/04/11/Fred-plot),96,FALSE,NA,###  R in the Real World,link,2017-04-17
-"+ [Come Fly With Me (well, not really) — Comparing Involuntary Disembarking Rates Across U.S. Airlines in R](https://rud.is/b/2017/04/13/come-fly-with-me-well-not-really-comparing-involuntary-disembarking-rates-across-u-s-airlines-in-r/)",237,FALSE,NA,###  R in the Real World,link,2017-04-17
-"![Come Fly With Me (well, not really) — Comparing Involuntary Disembarking Rates Across U.S. Airlines in R](https://i2.wp.com/rud.is/b/wp-content/uploads/2017/04/Plot_Zoom.png?resize=780%2C913&ssl=1)",199,FALSE,NA,###  R in the Real World,image,2017-04-17
-+ [Mortgage rates after dark](http://lenkiefer.github.io/2017/04/14/after-dark),79,FALSE,NA,###  R in the Real World,link,2017-04-17
-+ [R Weekly Podcast 2017:16 - dplyr new features](https://youtu.be/Lq00FVduJl8) - [Podcast Feed](https://feeds.feedburner.com/rweeklypodcast?format=xml),152,FALSE,NA,###  Videos and Podcasts,link,2017-04-17
-"+ [8th MilanoR Meeting - Presentations, photos and video](http://www.milanor.net/blog/8th-milanor-meeting-presentations-photos/)",128,FALSE,NA,###  Videos and Podcasts,link,2017-04-17
-+ [NSSD 36 - Ripped From the Headlines](https://soundcloud.com/nssd-podcast/episode-36-ripped-from-the-headlines),113,FALSE,NA,###  Videos and Podcasts,link,2017-04-17
-+ [Open SourceCraft 10 - Interview with Dirk Eddelbuettel](http://codepop.com/open-sourcecraft/episodes/dirk-eddelbuettel/),123,FALSE,NA,###  Videos and Podcasts,link,2017-04-17
-+ [How I learned R - Wie ich R gelernt habe](http://benedict-witzenberger.de/wordpress/2017/04/14/wie-ich-r-gelernt-habe/),122,FALSE,NA,###  R Internationally,link,2017-04-17
-+ [Interactive Graphics for Visually Diagnosing Forest Classifiers in R](https://arxiv.org/abs/1704.02502),106,FALSE,NA,###  R in Academia,link,2017-04-17
-+ [Create a pixel map with R](http://colinfay.me/rstats-create-a-pixel-map-with-r/),83,FALSE,NA,###  Tutorials,link,2017-04-17
-![Create a pixel map with R](https://i0.wp.com/colinfay.me/wp-content/uploads/2017/04/us-pixel-map.png?w=1000),110,FALSE,NA,###  Tutorials,image,2017-04-17
-+ [Data Validation with assertr: Dates and Regular Expressions](https://daranzolin.github.io/articles/2017-04/data-validation-assertr),134,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Plotting house price trends with FRED and R](http://lenkiefer.com/2017/04/11/Fred-plot),90,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [ReinforcementLearning: A package for replicating human behavior in R](http://www.rblog.uni-freiburg.de/2017/04/08/reinforcementlearning-a-package-for-replicating-human-behavior-in-r/),186,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [#4: Simpler shoulders()](http://dirk.eddelbuettel.com/blog/2017/04/08#004_simpler_shoulders),95,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [#5: Easy package information](http://dirk.eddelbuettel.com/blog/2017/04/14#005_easy_package_info),100,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [A Python-Like walk() Function for R](https://matloff.wordpress.com/2017/04/08/a-python-like-walk-function-for-r/),116,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Exploring propensity score matching and weighting](http://ellisp.github.io/blog/2017/04/09/propensity-v-regression),118,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [How to Integrate R with PHP](http://www.listendata.com/2017/04/how-to-integrate-r-with-php.html),99,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Data on tour: Plotting 3D maps and location tracks](https://shiring.github.io/maps/2017/04/09/gran_canaria),110,FALSE,NA,###  Tutorials,link,2017-04-17
-"+ [Test driving Python integration in R, using the 'reticulate' package](https://longhowlam.wordpress.com/2017/04/10/test-driving-python-integration-in-r-using-the-reticulate-package/)",184,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [How and when: ridge regression with glmnet](http://drsimonj.svbtle.com/ridge-regression-with-glmnet),103,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Transaction Costs are Not an Afterthought; Transaction Costs in quantstrat](https://ntguardian.wordpress.com/2017/04/10/transaction-costs-not-an-afterthought-quantstrat/),173,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Plot inspiration via FiveThirtyEight](http://www.austinwehrwein.com/data-visualization/plot-inspiration-via-fivethirtyeight/),128,FALSE,NA,###  Tutorials,link,2017-04-17
-"<p><img style=""height: 300px;"" src=""https://cdn.rawgit.com/rweekly/image/master/2017-03/16-lincolnfinal.svg"" alt=""Plot inspiration via FiveThirtyEight""></p>",156,FALSE,NA,###  Tutorials,unid,2017-04-17
-+ [Teaching pivot / un-pivot](http://www.win-vector.com/blog/2017/04/teaching-pivot-un-pivot/),94,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Prepare real-world data for analysis with the vtreat package](http://blog.revolutionanalytics.com/2017/04/vtreat.html),121,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Web Scraping and Applied Clustering Global Happiness and Social Progress Index](https://datascienceplus.com/web-scraping-and-applied-clustering-global-happiness-and-social-progress-index/),191,FALSE,NA,###  Tutorials,link,2017-04-17
-"+ [pandas ""transform"" using the tidyverse](https://statbandit.wordpress.com/2017/04/11/pandas-transform-using-the-tidyverse/)",125,FALSE,NA,###  Tutorials,link,2017-04-17
-"+ [Copper, Gold and Ten-Year Treasury Notes](https://rviews.rstudio.com/2017/04/12/copper-gold-and-ten-year-treasury-notes/)",124,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Extending existing packages: Rmisc](http://flovv.github.io/Weighted_Mean_Standard_Errors/),93,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [QR Decomposition with Householder Reflections](http://www.aaronschlegel.com/qr-decomposition-householder-reflections/),121,FALSE,NA,###  Tutorials,link,2017-04-17
-"+ [Nuts and Bolts of Quantstrat, Part V](https://quantstrattrader.wordpress.com/2017/04/13/nuts-and-bolts-of-quantstrat-part-v/)",128,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Custom comparison function for sorting data in R](https://logfc.wordpress.com/2017/04/11/custom-comparison-function-for-sorting-data-in-r/),142,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Sakura blossoms in Japan](http://opiateforthemass.es/articles/sakura/),73,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Linear splines with convenient parametrisations](http://bc.bojanorama.pl/2017/04/linear-splines-with-convenient-parametrisations/),133,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Fuzzy string Matching using fuzzywuzzyR and the reticulate package in R](https://mlampros.github.io/2017/04/13/fuzzywuzzyR_package/),135,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Impact of omitted variables on estimating causal effects - simulations](https://ellisp.github.io/blog/2017/04/15/propensity-simulations),139,FALSE,NA,###  Tutorials,link,2017-04-17
-![Impact of omitted variables on estimating causal effects - simulations](https://ellisp.github.io/img/0091-squared-error.svg),126,FALSE,NA,###  Tutorials,image,2017-04-17
-+ [Predicting tides in R](https://beckmw.wordpress.com/2017/04/12/predicting-tides-in-r/),89,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [How to learn R and statistics on your own?](https://www.reddit.com/r/rstats/comments/64g860/how_to_learn_r_and_statistics_on_your_own/),138,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Feature Selection using Voice Gender Data and the #caret package](https://pradeepadhokshaja.wordpress.com/2017/04/14/feature-selection-using-voice-gender-data-and-the-caret-package/),185,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Choosing R packages for mixed effects modelling based on the car you drive](http://www.seascapemodels.org/rstats/2017/04/14/glmm-comparison.html),148,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [CoachellaR - A Cluster Analysis](http://rcharlie.com/2017-04-13-Coachella/),78,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Optimising your blog with R and Google Optimize](http://flovv.github.io/Website_Optimization/),97,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Seeing Theory: Learn Statistics through simulation](http://blog.revolutionanalytics.com/2017/04/seeing-theory.html),118,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Modified Age Bias Plot](http://derekogle.com/fishR/2017-04-14-Modified_AgeBiasPlot),86,FALSE,NA,###  Tutorials,link,2017-04-17
-+ [Hybrid content-based and collaborative filtering recommendations with {ordinal} logistic regression (2): Recommendation as discrete choice](http://www.exactness.net/post/159577222155/hybrid-content-based-and-collaborative-filtering),235,FALSE,NA,###  Tutorials,link,2017-04-17
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink""><i>Go Live for More New Pkgs</i></a></p>",138,FALSE,NA,###  New Packages,unid,2017-04-17
-+ [assertr](http://ropensci.org/blog/blog/2017/04/11/assertr) - Data validation with the assertr package,104,FALSE,NA,###  New Packages,link,2017-04-17
-+ [fastqcR](http://www.sthda.com/english/wiki/fastqcr-an-r-package-facilitating-quality-controls-of-sequencing-data-for-large-numbers-of-samples) - An R Package Facilitating Quality Controls of Sequencing Data for Large Numbers of Samples,238,FALSE,NA,###  New Packages,link,2017-04-17
-+ [ggparliament](https://github.com/leeper/ggparliament) - Simple parliament plots using ggplot2,96,FALSE,NA,###  New Packages,link,2017-04-17
-![ggparliament](https://raw.githubusercontent.com/leeper/ggparliament/master/figure/large-3.png),96,FALSE,NA,###  New Packages,image,2017-04-17
-+ [thankr](https://github.com/dirkschumacher/thankr) - Find out who maintains the R packages you use and say 'thank you' ,121,FALSE,NA,###  New Packages,link,2017-04-17
-+ [March '17 New Package Picks](https://rviews.rstudio.com/2017/04/14/march-17-new-package-picks/),98,FALSE,NA,###  New Packages,link,2017-04-17
-+ [tidyverse updates](https://blog.rstudio.org/2017/04/12/tidyverse-updates/),77,FALSE,NA,###  Package Releases,link,2017-04-17
-+ [checkpoint 0.4.0](http://blog.revolutionanalytics.com/2017/04/checkpoint-new-features.html) - Package Time Machine,117,FALSE,NA,###  Package Releases,link,2017-04-17
-+ [RSiteCatalyst 1.4.12](http://randyzwitch.com/rsitecatalyst-version-1-4-12-release-notes/) - R Client for Adobe Analytics API V1.4,132,FALSE,NA,###  Package Releases,link,2017-04-17
-+ [RcppArmadillo 0.7.800.2.0](http://dirk.eddelbuettel.com/blog/2017/04/13#rcpparmadillo_0.7.800.2.0) - Provides an interface from R to and from Armadillo by utilising the Rcpp R/C++ interface library.,201,FALSE,NA,###  Package Releases,link,2017-04-17
-+ [RStudio Connect 1.4.6](https://blog.rstudio.org/2017/04/11/rstudio-connect-1-4-6/),85,FALSE,NA,###  Package Releases,link,2017-04-17
-+ [Contribute to the R language track on exercism.io](https://jonmcalder.github.io/2017-04-05-r-track-on-exercism/),115,FALSE,NA,###  Call for Participation,link,2017-04-17
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-04-17
-+ `readRDS(url(....))` now works. ,34,FALSE,NA,###  R Project Updates,unid,2017-04-17
-"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,NA,###  Upcoming Events,link,2017-04-17
-"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance. ",177,FALSE,NA,###  Upcoming Events,unid,2017-04-17
-"+ [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />",81,FALSE,NA,###  Upcoming Events,link,2017-04-17
-Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.,224,FALSE,NA,###  Upcoming Events,unid,2017-04-17
-"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,NA,###  Upcoming Events,link,2017-04-17
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events,unid,2017-04-17
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-04-17
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">We are pleased to announce that the <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> conference useR! 2018 will take place in Brisbane, Australia on 10-13 July 2018. Save the date.</p>&mdash; The R Foundation (@_R_Foundation) <a href=""https://twitter.com/_R_Foundation/status/851740634914357248"">April 11, 2017</a></blockquote>",416,FALSE,NA,###  Quotes of the Week,unid,2017-04-17
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> at Google means ... <a href=""https://t.co/1FCtlCOLwU"">pic.twitter.com/1FCtlCOLwU</a></p>&mdash; Matt Dowle (@MattDowle) <a href=""https://twitter.com/MattDowle/status/852203917953912832"">April 12, 2017</a></blockquote>",355,FALSE,NA,###  Quotes of the Week,unid,2017-04-17
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""und"" dir=""ltr"">😂 <a href=""https://t.co/LD4inGCQGW"">pic.twitter.com/LD4inGCQGW</a></p>&mdash; Drew Conway (@drewconway) <a href=""https://twitter.com/drewconway/status/852166151958384640"">April 12, 2017</a></blockquote>",275,FALSE,NA,###  Quotes of the Week,unid,2017-04-17
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2017-04-17
+layout: post,12,FALSE,NA,unid,2017-04-17
+title: R Weekly 2017 Issue 16,29,FALSE,NA,unid,2017-04-17
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2017-04-17
+is_podcast: true,16,FALSE,NA,unid,2017-04-17
+podcast_title: 2017:16 dplyr new features,41,FALSE,NA,unid,2017-04-17
+podcast_permalink: https://cloud.rweekly.org/2017-16.mp3,56,FALSE,NA,unid,2017-04-17
+podcast_description: |,22,FALSE,NA,unid,2017-04-17
+  <![CDATA[,11,FALSE,NA,unid,2017-04-17
+"  <p>About dplyr new features, report on the 2017 Society of American Archaeology meeting about R and more. </p>",112,FALSE,NA,unid,2017-04-17
+  <ul>,6,FALSE,NA,unid,2017-04-17
+"  <li>Read <a href=""https://www.rweekly.org/2017-16.html?pk_campaign=itunes_podcast"">R Weekly 2017 issue 16</a></li>",116,FALSE,NA,unid,2017-04-17
+  </ul>,7,FALSE,NA,unid,2017-04-17
+  <p></p>,9,FALSE,NA,unid,2017-04-17
+  <ul> ,7,FALSE,NA,unid,2017-04-17
+"  <li><a href=""https://www.patreon.com/rweekly"">Support with Patreon</a></li>",77,FALSE,NA,unid,2017-04-17
+  </ul> ,8,FALSE,NA,unid,2017-04-17
+  <ul>   ,9,FALSE,NA,unid,2017-04-17
+"  <li><a href=""https://twitter.com/rweekly_org"">Twitter @rweekly_org</a></li>   ",80,FALSE,NA,unid,2017-04-17
+  </ul>,7,FALSE,NA,unid,2017-04-17
+  <ul> ,7,FALSE,NA,unid,2017-04-17
+"  <li><a href=""https://www.facebook.com/rweekly"">Follow Facebook</a></li>  ",75,FALSE,NA,unid,2017-04-17
+  </ul>,7,FALSE,NA,unid,2017-04-17
+  <ul>,6,FALSE,NA,unid,2017-04-17
+"  <li><a href=""http://freemusicarchive.org/music/gillicuddy/Plays_Guitar_Again/01-adventure-darling"">Music by Gillicuddy</a></li>",129,FALSE,NA,unid,2017-04-17
+  </ul>,7,FALSE,NA,unid,2017-04-17
+  ]]>,5,FALSE,NA,unid,2017-04-17
+podcast_size: 5368226,21,FALSE,NA,unid,2017-04-17
+"podcast_duration: ""3:32""",24,FALSE,NA,unid,2017-04-17
+"podcast_summary: About dplyr new features, report on the 2017 Society of American Archaeology meeting about R and more. https://rweekly.org/2017-16.html",152,FALSE,NA,unid,2017-04-17
+"podcast_keywords: "", ggplot2""",29,FALSE,NA,unid,2017-04-17
+podcast_subtitle: dplyr new features,36,FALSE,NA,unid,2017-04-17
+---,3,FALSE,NA,unid,2017-04-17
++ [dplyr 0.6.0 coming soon!](https://blog.rstudio.org/2017/04/13/dplyr-0-6-0-coming-soon/),90,FALSE,###  Highlight,link,2017-04-17
++ [Writing an R Package](https://github.com/jalapic/RPackage/blob/master/Writing%20an%20R%20Package.pdf),104,FALSE,###  Highlight,link,2017-04-17
++ [Basic Regex in R](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf),92,FALSE,###  Resources,link,2017-04-17
++ [Workshop on Generalized Linear Mixed-Effects Modeling in R ](https://github.com/seananderson/glmm-course),108,FALSE,###  Resources,link,2017-04-17
+"+ [remake-tutorial](https://github.com/krlmlr/remake-tutorial) - A hands-on tutorial for remake, ",97,FALSE,###  Resources,link,2017-04-17
+Make-like declarative workflows in R,36,FALSE,###  Resources,unid,2017-04-17
++ [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/),84,FALSE,###  Resources,link,2017-04-17
++ [Writing an R Package](https://github.com/jalapic/RPackage/blob/master/Writing%20an%20R%20Package.pdf),104,FALSE,###  Resources,link,2017-04-17
++ [R is for Archaeology: A report on the 2017 Society of American Archaeology meeting](http://blog.revolutionanalytics.com/2017/04/r-is-for-archaeology.html),157,FALSE,###  Insights,link,2017-04-17
++ [Reproducible assignments with R-markdown](http://r-spatial.org//r/2017/04/13/assignments.html),97,FALSE,###  Insights,link,2017-04-17
++ [R benchmark for High-Performance Analytics and Computing (II): GPU Packages](http://www.parallelr.com/r-hpac-benchmark-analysis-gpu/),136,FALSE,###  Insights,link,2017-04-17
++ [Statistical Errors in the Medical Literature](http://www.fharrell.com/2017/04/statistical-errors-in-medical-literature.html),127,FALSE,###  Insights,link,2017-04-17
++ [dplyr 0.6.0 coming soon!](https://blog.rstudio.org/2017/04/13/dplyr-0-6-0-coming-soon/),90,FALSE,###  Insights,link,2017-04-17
++ [Rcpp now used by 1000 CRAN packages](http://dirk.eddelbuettel.com/blog/2017/04/15#rcpp_1000_packages),104,FALSE,###  R in the Real World,link,2017-04-17
+"+ [Sow the seeds, know the seeds](http://maelle.github.io/2017/04/12/seeds/) - From Github API search endpoint you can get up to 1,000 results corresponding to a query which in the case of set.seed occurrences in R code.",220,FALSE,###  R in the Real World,link,2017-04-17
+<!-- !U.S. Refinery Imports From Saudi Arabia](https://seasmith.github.io/posts/exploring_us_refinery_imports.html)-->,118,FALSE,###  R in the Real World,unid,2017-04-17
+"+ [Data Amp: a major on-line Microsoft event, April 19](http://blog.revolutionanalytics.com/2017/04/data-amp-april-19.html)",123,FALSE,###  R in the Real World,link,2017-04-17
++ [The Walking Dead TV Series is becoming worse season after season](https://www.reddit.com/r/dataisbeautiful/comments/64oahu/the_walking_dead_tv_series_is_becoming_worse/?sort=old),181,FALSE,###  R in the Real World,link,2017-04-17
+![The Walking Dead TV Series is becoming worse season after season](https://raw.githubusercontent.com/qinwf/doc/gh-pages/temp/walking-dead.png),143,FALSE,###  R in the Real World,image,2017-04-17
++ [Some Facts about Jeff Leek](https://yihui.name/en/2017/04/jeff-leek-facts/),78,FALSE,###  R in the Real World,link,2017-04-17
++ [Plotting house price trends with FRED and R](http://lenkiefer.github.io/2017/04/11/Fred-plot),96,FALSE,###  R in the Real World,link,2017-04-17
+"+ [Come Fly With Me (well, not really) — Comparing Involuntary Disembarking Rates Across U.S. Airlines in R](https://rud.is/b/2017/04/13/come-fly-with-me-well-not-really-comparing-involuntary-disembarking-rates-across-u-s-airlines-in-r/)",237,FALSE,###  R in the Real World,link,2017-04-17
+"![Come Fly With Me (well, not really) — Comparing Involuntary Disembarking Rates Across U.S. Airlines in R](https://i2.wp.com/rud.is/b/wp-content/uploads/2017/04/Plot_Zoom.png?resize=780%2C913&ssl=1)",199,FALSE,###  R in the Real World,image,2017-04-17
++ [Mortgage rates after dark](http://lenkiefer.github.io/2017/04/14/after-dark),79,FALSE,###  R in the Real World,link,2017-04-17
++ [R Weekly Podcast 2017:16 - dplyr new features](https://youtu.be/Lq00FVduJl8) - [Podcast Feed](https://feeds.feedburner.com/rweeklypodcast?format=xml),152,FALSE,###  Videos and Podcasts,link,2017-04-17
+"+ [8th MilanoR Meeting - Presentations, photos and video](http://www.milanor.net/blog/8th-milanor-meeting-presentations-photos/)",128,FALSE,###  Videos and Podcasts,link,2017-04-17
++ [NSSD 36 - Ripped From the Headlines](https://soundcloud.com/nssd-podcast/episode-36-ripped-from-the-headlines),113,FALSE,###  Videos and Podcasts,link,2017-04-17
++ [Open SourceCraft 10 - Interview with Dirk Eddelbuettel](http://codepop.com/open-sourcecraft/episodes/dirk-eddelbuettel/),123,FALSE,###  Videos and Podcasts,link,2017-04-17
++ [How I learned R - Wie ich R gelernt habe](http://benedict-witzenberger.de/wordpress/2017/04/14/wie-ich-r-gelernt-habe/),122,FALSE,###  R Internationally,link,2017-04-17
++ [Interactive Graphics for Visually Diagnosing Forest Classifiers in R](https://arxiv.org/abs/1704.02502),106,FALSE,###  R in Academia,link,2017-04-17
++ [Create a pixel map with R](http://colinfay.me/rstats-create-a-pixel-map-with-r/),83,FALSE,###  Tutorials,link,2017-04-17
+![Create a pixel map with R](https://i0.wp.com/colinfay.me/wp-content/uploads/2017/04/us-pixel-map.png?w=1000),110,FALSE,###  Tutorials,image,2017-04-17
++ [Data Validation with assertr: Dates and Regular Expressions](https://daranzolin.github.io/articles/2017-04/data-validation-assertr),134,FALSE,###  Tutorials,link,2017-04-17
++ [Plotting house price trends with FRED and R](http://lenkiefer.com/2017/04/11/Fred-plot),90,FALSE,###  Tutorials,link,2017-04-17
++ [ReinforcementLearning: A package for replicating human behavior in R](http://www.rblog.uni-freiburg.de/2017/04/08/reinforcementlearning-a-package-for-replicating-human-behavior-in-r/),186,FALSE,###  Tutorials,link,2017-04-17
++ [#4: Simpler shoulders()](http://dirk.eddelbuettel.com/blog/2017/04/08#004_simpler_shoulders),95,FALSE,###  Tutorials,link,2017-04-17
++ [#5: Easy package information](http://dirk.eddelbuettel.com/blog/2017/04/14#005_easy_package_info),100,FALSE,###  Tutorials,link,2017-04-17
++ [A Python-Like walk() Function for R](https://matloff.wordpress.com/2017/04/08/a-python-like-walk-function-for-r/),116,FALSE,###  Tutorials,link,2017-04-17
++ [Exploring propensity score matching and weighting](http://ellisp.github.io/blog/2017/04/09/propensity-v-regression),118,FALSE,###  Tutorials,link,2017-04-17
++ [How to Integrate R with PHP](http://www.listendata.com/2017/04/how-to-integrate-r-with-php.html),99,FALSE,###  Tutorials,link,2017-04-17
++ [Data on tour: Plotting 3D maps and location tracks](https://shiring.github.io/maps/2017/04/09/gran_canaria),110,FALSE,###  Tutorials,link,2017-04-17
+"+ [Test driving Python integration in R, using the 'reticulate' package](https://longhowlam.wordpress.com/2017/04/10/test-driving-python-integration-in-r-using-the-reticulate-package/)",184,FALSE,###  Tutorials,link,2017-04-17
++ [How and when: ridge regression with glmnet](http://drsimonj.svbtle.com/ridge-regression-with-glmnet),103,FALSE,###  Tutorials,link,2017-04-17
++ [Transaction Costs are Not an Afterthought; Transaction Costs in quantstrat](https://ntguardian.wordpress.com/2017/04/10/transaction-costs-not-an-afterthought-quantstrat/),173,FALSE,###  Tutorials,link,2017-04-17
++ [Plot inspiration via FiveThirtyEight](http://www.austinwehrwein.com/data-visualization/plot-inspiration-via-fivethirtyeight/),128,FALSE,###  Tutorials,link,2017-04-17
+"<p><img style=""height: 300px;"" src=""https://cdn.rawgit.com/rweekly/image/master/2017-03/16-lincolnfinal.svg"" alt=""Plot inspiration via FiveThirtyEight""></p>",156,FALSE,###  Tutorials,unid,2017-04-17
++ [Teaching pivot / un-pivot](http://www.win-vector.com/blog/2017/04/teaching-pivot-un-pivot/),94,FALSE,###  Tutorials,link,2017-04-17
++ [Prepare real-world data for analysis with the vtreat package](http://blog.revolutionanalytics.com/2017/04/vtreat.html),121,FALSE,###  Tutorials,link,2017-04-17
++ [Web Scraping and Applied Clustering Global Happiness and Social Progress Index](https://datascienceplus.com/web-scraping-and-applied-clustering-global-happiness-and-social-progress-index/),191,FALSE,###  Tutorials,link,2017-04-17
+"+ [pandas ""transform"" using the tidyverse](https://statbandit.wordpress.com/2017/04/11/pandas-transform-using-the-tidyverse/)",125,FALSE,###  Tutorials,link,2017-04-17
+"+ [Copper, Gold and Ten-Year Treasury Notes](https://rviews.rstudio.com/2017/04/12/copper-gold-and-ten-year-treasury-notes/)",124,FALSE,###  Tutorials,link,2017-04-17
++ [Extending existing packages: Rmisc](http://flovv.github.io/Weighted_Mean_Standard_Errors/),93,FALSE,###  Tutorials,link,2017-04-17
++ [QR Decomposition with Householder Reflections](http://www.aaronschlegel.com/qr-decomposition-householder-reflections/),121,FALSE,###  Tutorials,link,2017-04-17
+"+ [Nuts and Bolts of Quantstrat, Part V](https://quantstrattrader.wordpress.com/2017/04/13/nuts-and-bolts-of-quantstrat-part-v/)",128,FALSE,###  Tutorials,link,2017-04-17
++ [Custom comparison function for sorting data in R](https://logfc.wordpress.com/2017/04/11/custom-comparison-function-for-sorting-data-in-r/),142,FALSE,###  Tutorials,link,2017-04-17
++ [Sakura blossoms in Japan](http://opiateforthemass.es/articles/sakura/),73,FALSE,###  Tutorials,link,2017-04-17
++ [Linear splines with convenient parametrisations](http://bc.bojanorama.pl/2017/04/linear-splines-with-convenient-parametrisations/),133,FALSE,###  Tutorials,link,2017-04-17
++ [Fuzzy string Matching using fuzzywuzzyR and the reticulate package in R](https://mlampros.github.io/2017/04/13/fuzzywuzzyR_package/),135,FALSE,###  Tutorials,link,2017-04-17
++ [Impact of omitted variables on estimating causal effects - simulations](https://ellisp.github.io/blog/2017/04/15/propensity-simulations),139,FALSE,###  Tutorials,link,2017-04-17
+![Impact of omitted variables on estimating causal effects - simulations](https://ellisp.github.io/img/0091-squared-error.svg),126,FALSE,###  Tutorials,image,2017-04-17
++ [Predicting tides in R](https://beckmw.wordpress.com/2017/04/12/predicting-tides-in-r/),89,FALSE,###  Tutorials,link,2017-04-17
++ [How to learn R and statistics on your own?](https://www.reddit.com/r/rstats/comments/64g860/how_to_learn_r_and_statistics_on_your_own/),138,FALSE,###  Tutorials,link,2017-04-17
++ [Feature Selection using Voice Gender Data and the #caret package](https://pradeepadhokshaja.wordpress.com/2017/04/14/feature-selection-using-voice-gender-data-and-the-caret-package/),185,FALSE,###  Tutorials,link,2017-04-17
++ [Choosing R packages for mixed effects modelling based on the car you drive](http://www.seascapemodels.org/rstats/2017/04/14/glmm-comparison.html),148,FALSE,###  Tutorials,link,2017-04-17
++ [CoachellaR - A Cluster Analysis](http://rcharlie.com/2017-04-13-Coachella/),78,FALSE,###  Tutorials,link,2017-04-17
++ [Optimising your blog with R and Google Optimize](http://flovv.github.io/Website_Optimization/),97,FALSE,###  Tutorials,link,2017-04-17
++ [Seeing Theory: Learn Statistics through simulation](http://blog.revolutionanalytics.com/2017/04/seeing-theory.html),118,FALSE,###  Tutorials,link,2017-04-17
++ [Modified Age Bias Plot](http://derekogle.com/fishR/2017-04-14-Modified_AgeBiasPlot),86,FALSE,###  Tutorials,link,2017-04-17
++ [Hybrid content-based and collaborative filtering recommendations with {ordinal} logistic regression (2): Recommendation as discrete choice](http://www.exactness.net/post/159577222155/hybrid-content-based-and-collaborative-filtering),235,FALSE,###  Tutorials,link,2017-04-17
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink""><i>Go Live for More New Pkgs</i></a></p>",138,FALSE,###  New Packages,unid,2017-04-17
++ [assertr](http://ropensci.org/blog/blog/2017/04/11/assertr) - Data validation with the assertr package,104,FALSE,###  New Packages,link,2017-04-17
++ [fastqcR](http://www.sthda.com/english/wiki/fastqcr-an-r-package-facilitating-quality-controls-of-sequencing-data-for-large-numbers-of-samples) - An R Package Facilitating Quality Controls of Sequencing Data for Large Numbers of Samples,238,FALSE,###  New Packages,link,2017-04-17
++ [ggparliament](https://github.com/leeper/ggparliament) - Simple parliament plots using ggplot2,96,FALSE,###  New Packages,link,2017-04-17
+![ggparliament](https://raw.githubusercontent.com/leeper/ggparliament/master/figure/large-3.png),96,FALSE,###  New Packages,image,2017-04-17
++ [thankr](https://github.com/dirkschumacher/thankr) - Find out who maintains the R packages you use and say 'thank you' ,121,FALSE,###  New Packages,link,2017-04-17
++ [March '17 New Package Picks](https://rviews.rstudio.com/2017/04/14/march-17-new-package-picks/),98,FALSE,###  New Packages,link,2017-04-17
++ [tidyverse updates](https://blog.rstudio.org/2017/04/12/tidyverse-updates/),77,FALSE,###  Package Releases,link,2017-04-17
++ [checkpoint 0.4.0](http://blog.revolutionanalytics.com/2017/04/checkpoint-new-features.html) - Package Time Machine,117,FALSE,###  Package Releases,link,2017-04-17
++ [RSiteCatalyst 1.4.12](http://randyzwitch.com/rsitecatalyst-version-1-4-12-release-notes/) - R Client for Adobe Analytics API V1.4,132,FALSE,###  Package Releases,link,2017-04-17
++ [RcppArmadillo 0.7.800.2.0](http://dirk.eddelbuettel.com/blog/2017/04/13#rcpparmadillo_0.7.800.2.0) - Provides an interface from R to and from Armadillo by utilising the Rcpp R/C++ interface library.,201,FALSE,###  Package Releases,link,2017-04-17
++ [RStudio Connect 1.4.6](https://blog.rstudio.org/2017/04/11/rstudio-connect-1-4-6/),85,FALSE,###  Package Releases,link,2017-04-17
++ [Contribute to the R language track on exercism.io](https://jonmcalder.github.io/2017-04-05-r-track-on-exercism/),115,FALSE,###  Call for Participation,link,2017-04-17
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2017-04-17
++ `readRDS(url(....))` now works. ,34,FALSE,###  R Project Updates,unid,2017-04-17
+"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,###  Upcoming Events,link,2017-04-17
+"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance. ",177,FALSE,###  Upcoming Events,unid,2017-04-17
+"+ [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />",81,FALSE,###  Upcoming Events,link,2017-04-17
+Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.,224,FALSE,###  Upcoming Events,unid,2017-04-17
+"+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",65,FALSE,###  Upcoming Events,link,2017-04-17
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,###  Upcoming Events,unid,2017-04-17
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events,unid,2017-04-17
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">We are pleased to announce that the <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> conference useR! 2018 will take place in Brisbane, Australia on 10-13 July 2018. Save the date.</p>&mdash; The R Foundation (@_R_Foundation) <a href=""https://twitter.com/_R_Foundation/status/851740634914357248"">April 11, 2017</a></blockquote>",416,FALSE,###  Quotes of the Week,unid,2017-04-17
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr""><a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> at Google means ... <a href=""https://t.co/1FCtlCOLwU"">pic.twitter.com/1FCtlCOLwU</a></p>&mdash; Matt Dowle (@MattDowle) <a href=""https://twitter.com/MattDowle/status/852203917953912832"">April 12, 2017</a></blockquote>",355,FALSE,###  Quotes of the Week,unid,2017-04-17
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""und"" dir=""ltr"">😂 <a href=""https://t.co/LD4inGCQGW"">pic.twitter.com/LD4inGCQGW</a></p>&mdash; Drew Conway (@drewconway) <a href=""https://twitter.com/drewconway/status/852166151958384640"">April 12, 2017</a></blockquote>",275,FALSE,###  Quotes of the Week,unid,2017-04-17

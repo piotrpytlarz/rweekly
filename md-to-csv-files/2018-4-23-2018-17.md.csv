@@ -1,94 +1,94 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2018-4-23
-"title: R Weekly 2018-17 Successful, Arrow, Maintainers",54,FALSE,NA,NA,unid,2018-4-23
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2018-4-23
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2018-4-23
----,3,FALSE,NA,NA,unid,2018-4-23
-+ [What is a Successful Data Analysis?](https://simplystatistics.org/2018/04/17/what-is-a-successful-data-analysis/),116,FALSE,NA,###  Highlight,link,2018-4-23
-+ [Arrow and beyond: Collaborating on next generation tools for open source data science](https://blog.rstudio.com/2018/04/19/arrow-and-beyond/),144,FALSE,NA,###  Highlight,link,2018-4-23
-+ [How many CRAN package maintainers have been pwned?](https://itsalocke.com/blog/how-many-cran-package-maintainers-have-been-pwned/),133,FALSE,NA,###  Highlight,link,2018-4-23
-+ [Wanted: Your input on the next generation of R-Hub](https://www.r-consortium.org/announcement/2018/04/19/wanted-your-input-on-the-next-generation-of-r-hub),158,FALSE,NA,###  R in Organizations,link,2018-4-23
-+ [What's new with R Consortium funded projects in Q1 2018](https://www.r-consortium.org/blog/2018/04/16/whats-new-with-r-consortium-funded-projects-in-q1-2018),160,FALSE,NA,###  R in Organizations,link,2018-4-23
-+ [The 2018 author and reviewer survey](https://ropensci.org/blog/2018/04/17/author-survey/),92,FALSE,NA,###  R in Organizations,link,2018-4-23
-+ [Summer Interns](https://blog.rstudio.com/2018/04/18/summer-interns/),71,FALSE,NA,###  R in Organizations,link,2018-4-23
-+ [Arrow and beyond: Collaborating on next generation tools for open source data science](https://blog.rstudio.com/2018/04/19/arrow-and-beyond/),144,FALSE,NA,###  R in Organizations,link,2018-4-23
-+ [ggimage 0.1.4](https://guangchuangyu.github.io/2018/04/setting-ggplot2-background-with-ggbackground/) - setting ggplot2 background with ggbackground,151,FALSE,NA,### Package Releases,link,2018-4-23
-![ggimage 0.1.4](https://raw.githubusercontent.com/rweekly/image/master/2018/ggb.png),85,FALSE,NA,### Package Releases,image,2018-4-23
-+ [ggfortify 0.4.4](https://CRAN.R-project.org/package=ggfortify) - Data Visualization Tools for Statistical Analysis Results,125,FALSE,NA,### Package Releases,link,2018-4-23
-"+ [RKWard 0.7.0](https://rkward.kde.org/News#RKWard_0.7.0_-_Split_views.2C_based_on_KF5News) - the R GUI/IDE RKWard for Windows, macOS and GNU/Linux",148,FALSE,NA,### Package Releases,link,2018-4-23
-+ [uncmbb 0.2.0](https://uncmbbtrivia.netlify.com/post/2018/04/17/package-update/) - UNC Men's Basketball Match Results Since 1949-1950 Season,142,FALSE,NA,### Package Releases,link,2018-4-23
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2018-4-23
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2018-4-23
-+ [sealr](https://cran.r-project.org/web/packages/sealr/index.html) - Sealing the R Objects Test and Assert Conditions,118,FALSE,NA,###  New Packages,link,2018-4-23
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2018-4-23
-"+ [Financial Asset Comparison Tool](https://github.com/pmaji/financial-asset-comparison-tool) - compare a myriad of financial assets (equities, crypto-currencies) using a variety of metrics.",190,FALSE,NA,###  New Packages,link,2018-4-23
-+ [collegeballR](https://meysubb.github.io/collegeballR/) - Package for accessing/analyzing college sports stats,112,FALSE,NA,###  New Packages,link,2018-4-23
-+ [An R package for sensitivity analysis (konfound)](https://jrosen48.github.io/blog/an-r-package-for-sensitivity-analysis-konfound/),133,FALSE,NA,###  R in Academia,link,2018-4-23
-+ [Digging deeper: online resources for intermediate to advanced R users](https://edomt.github.io/Intermediate-Advanced-R/),123,FALSE,NA,###  Resources,link,2018-4-23
-+ [git to know git: an 8 minute introduction](http://research.libd.org/rstatsclub/2018/04/17/git-to-know-git/#.WtZuotPwa50),123,FALSE,NA,###  Resources,link,2018-4-23
-+ [#18: Adding Intel MKL easily via a simple script](http://dirk.eddelbuettel.com/blog/2018/04/15#018_mkl_for_debian_ubuntu),124,FALSE,NA,### Insights,link,2018-4-23
-"+ [By Request: Retrieving Your Feedly ""Saved for Later"" Entries](https://rud.is/b/2018/04/16/by-request-retrieving-your-feedly-saved-for-later-entries/)",152,FALSE,NA,### Insights,link,2018-4-23
-+ [Process versus outcome productivity](https://simplystatistics.org/2018/04/19/process-versus-outcome/),104,FALSE,NA,### Insights,link,2018-4-23
-+ [Some web API package development lessons from HIBPwned](https://itsalocke.com/blog/some-web-api-package-development-lessons-from-hibpwned/),142,FALSE,NA,### Insights,link,2018-4-23
-+ [What is a Successful Data Analysis?](https://simplystatistics.org/2018/04/17/what-is-a-successful-data-analysis/),116,FALSE,NA,### Insights,link,2018-4-23
-+ [Examining POTUS Executive Orders](https://rud.is/b/2018/04/18/examining-potus-executive-orders/),99,FALSE,NA,### R in the Real World,link,2018-4-23
-![Examining POTUS Executive](https://raw.githubusercontent.com/rweekly/image/master/2018/president.png),103,FALSE,NA,### R in the Real World,image,2018-4-23
-+ [How many CRAN package maintainers have been pwned?](https://itsalocke.com/blog/how-many-cran-package-maintainers-have-been-pwned/),133,FALSE,NA,### R in the Real World,link,2018-4-23
-+ [Perform web scraping and analysis of 400.000 articles published by newsbeast.gr (one of the main on-line publishers in Greece)](https://www.manosantoniou.com/post/web-scraping-and-analyzing-400-000-articles/),211,FALSE,NA,### R in the Real World,link,2018-4-23
-+ [Animated directional chord diagrams for migration data](https://guyabel.com/post/animated-directional-chord-diagrams/),121,FALSE,NA,### R in the Real World,link,2018-4-23
-+ [Naked – South Africa's Lemonade?](http://ronaldrichman.co.za/2018/04/15/naked-south-africas-lemonade/),105,FALSE,NA,### R in the Real World,link,2018-4-23
-+ [A Recession Before 2020 Is Likely; On the Distribution of Time Between Recessions](https://ntguardian.wordpress.com/2018/04/19/a-recession-before-2020-is-likely-on-the-distribution-of-time-between-recessions/),212,FALSE,NA,### R in the Real World,link,2018-4-23
-+ [Uber overtakes taxis in New York City](http://blog.revolutionanalytics.com/2018/04/uber-overtakes-taxis-in-nyc.html),119,FALSE,NA,### R in the Real World,link,2018-4-23
-+ [rename phylogeny tip labels in treeio](https://guangchuangyu.github.io/2018/04/rename-phylogeny-tip-labels-in-treeio/),121,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [[How to] Write a purrr-like adverb](https://colinfay.me/purrr-adverb-tidyverse/),83,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Monkeying around with Code and Paying it Forward](https://ropensci.org/blog/2018/04/20/monkeydo/),100,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Painless ODBC  + dplyr Connections to Amazon Athena and Apache Drill with R & odbc](https://rud.is/b/2018/04/20/painless-odbc-dplyr-connections-to-amazon-athena-and-apache-drill-with-r-odbc/),194,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Making a GIF of Solar Panel Installations in Minnesota and Wisconsin](http://katiejolly.io/blog/2018-04-17/pv-installations),127,FALSE,NA,###  Tutorials,link,2018-4-23
-![Making a GIF of Solar Panel Installations in Minnesota and Wisconsin](https://raw.githubusercontent.com/rweekly/image/master/2018/pv_install.gif),147,FALSE,NA,###  Tutorials,image,2018-4-23
-+ [Guidelines for making plots for beginners](http://stuartlee.org/2018/04/14/content/post/2018-04-14-rookie-mistakes/),119,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [A short tutorial on how to arrange a irregularly spaced raster stack into a regular time series to be used in the Breaks For Additive Season and Trend (bfast) function.](https://philippgaertner.github.io/2018/04/bfast-preparation/),234,FALSE,NA,###  Tutorials,link,2018-4-23
-"+ [A revisit on the last blog about webscraping and topic modelling, this time with more data and an SVM thrown in as well.](https://annamarbut.blogspot.com/2018/04/web-scraping-and-text-classification.html)",207,FALSE,NA,###  Tutorials,link,2018-4-23
-"+ [Investigating Ranks, Monotonicity, and Spearman's Rho with R](https://tonyelhabr.rbind.io/posts/ranks-monotonicity-spearman-rho-r/)",134,FALSE,NA,###  Tutorials,link,2018-4-23
-![](https://raw.githubusercontent.com/rweekly/image/master/2018/viz_summ_mntc_wcortest-1.png),93,FALSE,NA,###  Tutorials,image,2018-4-23
-+ [Machine learning pipelines for R](https://tlverse.org/2018/04/08/sl3_demo/),78,FALSE,NA,###  Tutorials,link,2018-4-23
-"+ [{pmice}, an experimental package for missing data imputation in parallel using {mice} and {furrr}](http://www.brodrigues.co/blog/2018-04-15-announcing_pmice/)",161,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Dynamic Online Tests with Blackboard and R/exams](http://www.R-exams.org/tutorials/exams2blackboard/),104,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [How do I make my own dplyr-style functions?](https://thisisnic.github.io/2018/04/16/how-do-i-make-my-own-dplyr-style-functions/),131,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [a [Gregorian] calendar riddle](https://xianblog.wordpress.com/2018/04/17/a-gregorian-calendar-riddle/),105,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [R Tip: Use Slices](http://www.win-vector.com/blog/2018/04/r-tip-use-slices/),79,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Reticulated Shiny](https://rviews.rstudio.com/2018/04/17/reticulated-shiny/),79,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Le Monde puzzle [#1049]](https://xianblog.wordpress.com/2018/04/18/le-monde-puzzle-1049/),92,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Draw maps like paintings](https://statnmap.com/2018-04-18-draw-maps-like-paintings/),87,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Testing multiple interventions in a single experiment](https://www.rdatagen.net/post/testing-many-interventions-in-a-single-experiment/),139,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Upcoming speaking engagments](http://www.win-vector.com/blog/2018/04/upcoming-speaking-engagments/),102,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Yet Another Caret Workshop](https://www.gokhan.io/post/caret-workshop/),74,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Adding Zero Catches](http://derekogle.com/fishR/2018-04-19-Adding-Zero-Catches),82,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Latin American R/BioConductor Developers Workshop 2018](http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018/),155,FALSE,NA,###  Tutorials,link,2018-4-23
-"+ [AI, Machine Learning and Data Science Roundup: April 2018](http://blog.revolutionanalytics.com/2018/04/ai-roundup-apr-2018.html)",131,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [Simulate! Simulate! - Part 2: A linear mixed model](https://aosmith.rbind.io/2018/04/23/simulate-simulate-part-2/),117,FALSE,NA,###  Tutorials,link,2018-4-23
-+ [R:case4base - data filtering and ordering with base R](https://jozefhajnala.gitlab.io/r/r002-data-manipulation/),115,FALSE,NA,###  Tutorials,link,2018-4-23
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2018-4-23
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2018-4-23
-+ `removeSource()` now works not only for functions but also for some language objects.,87,FALSE,NA,###  R Project Updates,unid,2018-4-23
-"+ `optim(*, lower = c(-Inf, -Inf))` no longer warns (and switches the method), thanks to a suggestion by John Nash.",115,FALSE,NA,###  R Project Updates,unid,2018-4-23
-"+ `axis()` gets new option `gap.axis = NA` for specifying a multiplication factor for the minimal “gap” (distance) between axis labels drawn. Its default is `1` for labels _parallel_ to the axis, and `0.5` for perpendicular ones.",229,FALSE,NA,###  R Project Updates,unid,2018-4-23
-"+ Calls with an S3 class are no longer evaluated when printed, fixing part of PR#17398, thanks to a patch from Lionel Henry.",124,FALSE,NA,###  R Project Updates,unid,2018-4-23
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-23
-+ [eRum 2018](http://2018.erum.io) **May 14-16** <br />,55,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-23
-"European R Users Meeting @ Budapest, Hungary",44,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-23
-+ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-23
-[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-23
-+ [CascadiaRConf](https://cascadiarconf.com/) **June 2**,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-23
-"Portland, OR, US",16,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-23
-+ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-23
-Rennes - Agrocampus,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-23
-+ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-23
-The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-23
-<!--,4,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-23
-+ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,NA,###  Upcoming Events in 3 Months,link,2018-4-23
-"Buenos Aires, Argentina.",24,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-23
--->,3,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-23
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2018-4-23
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2018-4-23
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Pretty pleased with my new .Rprofile customisation ✨<br><br>😎<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/superpowers?src=hash&amp;ref_src=twsrc%5Etfw"">#superpowers</a> <a href=""https://twitter.com/hashtag/thelittlethings?src=hash&amp;ref_src=twsrc%5Etfw"">#thelittlethings</a><br><br>Wanna customise yours too? 👉 usethis::edit_r_profile() <a href=""https://t.co/wNslgCk1eR"">pic.twitter.com/wNslgCk1eR</a></p>&mdash; annakrystalli (@annakrystalli) <a href=""https://twitter.com/annakrystalli/status/985972442219909121?ref_src=twsrc%5Etfw"">16 d’abril de 2018</a></blockquote>",725,FALSE,NA,###  Quotes of the Week,unid,2018-4-23
-"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">“Turned up to fancy dress party 🎉!  And wished my <a href=""https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw"">#RLadies</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> buddies were there! So I didn’t have to explain my awesome costume choice!” <a href=""https://twitter.com/hashtag/LegoRLady?src=hash&amp;ref_src=twsrc%5Etfw"">#LegoRLady</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> 💜💛😎 <a href=""https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw"">#dplyr</a> <a href=""https://t.co/NcYP1ZXzGs"">pic.twitter.com/NcYP1ZXzGs</a></p>&mdash; LegoRLady (@LEGO_RLady) <a href=""https://twitter.com/LEGO_RLady/status/986661916855754752?ref_src=twsrc%5Etfw"">18 d’abril de 2018</a></blockquote>",880,FALSE,NA,###  Quotes of the Week,unid,2018-4-23
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2018-4-23
+"title: R Weekly 2018-17 Successful, Arrow, Maintainers",54,FALSE,NA,unid,2018-4-23
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2018-4-23
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2018-4-23
+---,3,FALSE,NA,unid,2018-4-23
++ [What is a Successful Data Analysis?](https://simplystatistics.org/2018/04/17/what-is-a-successful-data-analysis/),116,FALSE,###  Highlight,link,2018-4-23
++ [Arrow and beyond: Collaborating on next generation tools for open source data science](https://blog.rstudio.com/2018/04/19/arrow-and-beyond/),144,FALSE,###  Highlight,link,2018-4-23
++ [How many CRAN package maintainers have been pwned?](https://itsalocke.com/blog/how-many-cran-package-maintainers-have-been-pwned/),133,FALSE,###  Highlight,link,2018-4-23
++ [Wanted: Your input on the next generation of R-Hub](https://www.r-consortium.org/announcement/2018/04/19/wanted-your-input-on-the-next-generation-of-r-hub),158,FALSE,###  R in Organizations,link,2018-4-23
++ [What's new with R Consortium funded projects in Q1 2018](https://www.r-consortium.org/blog/2018/04/16/whats-new-with-r-consortium-funded-projects-in-q1-2018),160,FALSE,###  R in Organizations,link,2018-4-23
++ [The 2018 author and reviewer survey](https://ropensci.org/blog/2018/04/17/author-survey/),92,FALSE,###  R in Organizations,link,2018-4-23
++ [Summer Interns](https://blog.rstudio.com/2018/04/18/summer-interns/),71,FALSE,###  R in Organizations,link,2018-4-23
++ [Arrow and beyond: Collaborating on next generation tools for open source data science](https://blog.rstudio.com/2018/04/19/arrow-and-beyond/),144,FALSE,###  R in Organizations,link,2018-4-23
++ [ggimage 0.1.4](https://guangchuangyu.github.io/2018/04/setting-ggplot2-background-with-ggbackground/) - setting ggplot2 background with ggbackground,151,FALSE,### Package Releases,link,2018-4-23
+![ggimage 0.1.4](https://raw.githubusercontent.com/rweekly/image/master/2018/ggb.png),85,FALSE,### Package Releases,image,2018-4-23
++ [ggfortify 0.4.4](https://CRAN.R-project.org/package=ggfortify) - Data Visualization Tools for Statistical Analysis Results,125,FALSE,### Package Releases,link,2018-4-23
+"+ [RKWard 0.7.0](https://rkward.kde.org/News#RKWard_0.7.0_-_Split_views.2C_based_on_KF5News) - the R GUI/IDE RKWard for Windows, macOS and GNU/Linux",148,FALSE,### Package Releases,link,2018-4-23
++ [uncmbb 0.2.0](https://uncmbbtrivia.netlify.com/post/2018/04/17/package-update/) - UNC Men's Basketball Match Results Since 1949-1950 Season,142,FALSE,### Package Releases,link,2018-4-23
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2018-4-23
+**CRAN**,8,FALSE,###  New Packages,unid,2018-4-23
++ [sealr](https://cran.r-project.org/web/packages/sealr/index.html) - Sealing the R Objects Test and Assert Conditions,118,FALSE,###  New Packages,link,2018-4-23
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2018-4-23
+"+ [Financial Asset Comparison Tool](https://github.com/pmaji/financial-asset-comparison-tool) - compare a myriad of financial assets (equities, crypto-currencies) using a variety of metrics.",190,FALSE,###  New Packages,link,2018-4-23
++ [collegeballR](https://meysubb.github.io/collegeballR/) - Package for accessing/analyzing college sports stats,112,FALSE,###  New Packages,link,2018-4-23
++ [An R package for sensitivity analysis (konfound)](https://jrosen48.github.io/blog/an-r-package-for-sensitivity-analysis-konfound/),133,FALSE,###  R in Academia,link,2018-4-23
++ [Digging deeper: online resources for intermediate to advanced R users](https://edomt.github.io/Intermediate-Advanced-R/),123,FALSE,###  Resources,link,2018-4-23
++ [git to know git: an 8 minute introduction](http://research.libd.org/rstatsclub/2018/04/17/git-to-know-git/#.WtZuotPwa50),123,FALSE,###  Resources,link,2018-4-23
++ [#18: Adding Intel MKL easily via a simple script](http://dirk.eddelbuettel.com/blog/2018/04/15#018_mkl_for_debian_ubuntu),124,FALSE,### Insights,link,2018-4-23
+"+ [By Request: Retrieving Your Feedly ""Saved for Later"" Entries](https://rud.is/b/2018/04/16/by-request-retrieving-your-feedly-saved-for-later-entries/)",152,FALSE,### Insights,link,2018-4-23
++ [Process versus outcome productivity](https://simplystatistics.org/2018/04/19/process-versus-outcome/),104,FALSE,### Insights,link,2018-4-23
++ [Some web API package development lessons from HIBPwned](https://itsalocke.com/blog/some-web-api-package-development-lessons-from-hibpwned/),142,FALSE,### Insights,link,2018-4-23
++ [What is a Successful Data Analysis?](https://simplystatistics.org/2018/04/17/what-is-a-successful-data-analysis/),116,FALSE,### Insights,link,2018-4-23
++ [Examining POTUS Executive Orders](https://rud.is/b/2018/04/18/examining-potus-executive-orders/),99,FALSE,### R in the Real World,link,2018-4-23
+![Examining POTUS Executive](https://raw.githubusercontent.com/rweekly/image/master/2018/president.png),103,FALSE,### R in the Real World,image,2018-4-23
++ [How many CRAN package maintainers have been pwned?](https://itsalocke.com/blog/how-many-cran-package-maintainers-have-been-pwned/),133,FALSE,### R in the Real World,link,2018-4-23
++ [Perform web scraping and analysis of 400.000 articles published by newsbeast.gr (one of the main on-line publishers in Greece)](https://www.manosantoniou.com/post/web-scraping-and-analyzing-400-000-articles/),211,FALSE,### R in the Real World,link,2018-4-23
++ [Animated directional chord diagrams for migration data](https://guyabel.com/post/animated-directional-chord-diagrams/),121,FALSE,### R in the Real World,link,2018-4-23
++ [Naked – South Africa's Lemonade?](http://ronaldrichman.co.za/2018/04/15/naked-south-africas-lemonade/),105,FALSE,### R in the Real World,link,2018-4-23
++ [A Recession Before 2020 Is Likely; On the Distribution of Time Between Recessions](https://ntguardian.wordpress.com/2018/04/19/a-recession-before-2020-is-likely-on-the-distribution-of-time-between-recessions/),212,FALSE,### R in the Real World,link,2018-4-23
++ [Uber overtakes taxis in New York City](http://blog.revolutionanalytics.com/2018/04/uber-overtakes-taxis-in-nyc.html),119,FALSE,### R in the Real World,link,2018-4-23
++ [rename phylogeny tip labels in treeio](https://guangchuangyu.github.io/2018/04/rename-phylogeny-tip-labels-in-treeio/),121,FALSE,###  Tutorials,link,2018-4-23
++ [[How to] Write a purrr-like adverb](https://colinfay.me/purrr-adverb-tidyverse/),83,FALSE,###  Tutorials,link,2018-4-23
++ [Monkeying around with Code and Paying it Forward](https://ropensci.org/blog/2018/04/20/monkeydo/),100,FALSE,###  Tutorials,link,2018-4-23
++ [Painless ODBC  + dplyr Connections to Amazon Athena and Apache Drill with R & odbc](https://rud.is/b/2018/04/20/painless-odbc-dplyr-connections-to-amazon-athena-and-apache-drill-with-r-odbc/),194,FALSE,###  Tutorials,link,2018-4-23
++ [Making a GIF of Solar Panel Installations in Minnesota and Wisconsin](http://katiejolly.io/blog/2018-04-17/pv-installations),127,FALSE,###  Tutorials,link,2018-4-23
+![Making a GIF of Solar Panel Installations in Minnesota and Wisconsin](https://raw.githubusercontent.com/rweekly/image/master/2018/pv_install.gif),147,FALSE,###  Tutorials,image,2018-4-23
++ [Guidelines for making plots for beginners](http://stuartlee.org/2018/04/14/content/post/2018-04-14-rookie-mistakes/),119,FALSE,###  Tutorials,link,2018-4-23
++ [A short tutorial on how to arrange a irregularly spaced raster stack into a regular time series to be used in the Breaks For Additive Season and Trend (bfast) function.](https://philippgaertner.github.io/2018/04/bfast-preparation/),234,FALSE,###  Tutorials,link,2018-4-23
+"+ [A revisit on the last blog about webscraping and topic modelling, this time with more data and an SVM thrown in as well.](https://annamarbut.blogspot.com/2018/04/web-scraping-and-text-classification.html)",207,FALSE,###  Tutorials,link,2018-4-23
+"+ [Investigating Ranks, Monotonicity, and Spearman's Rho with R](https://tonyelhabr.rbind.io/posts/ranks-monotonicity-spearman-rho-r/)",134,FALSE,###  Tutorials,link,2018-4-23
+![](https://raw.githubusercontent.com/rweekly/image/master/2018/viz_summ_mntc_wcortest-1.png),93,FALSE,###  Tutorials,image,2018-4-23
++ [Machine learning pipelines for R](https://tlverse.org/2018/04/08/sl3_demo/),78,FALSE,###  Tutorials,link,2018-4-23
+"+ [{pmice}, an experimental package for missing data imputation in parallel using {mice} and {furrr}](http://www.brodrigues.co/blog/2018-04-15-announcing_pmice/)",161,FALSE,###  Tutorials,link,2018-4-23
++ [Dynamic Online Tests with Blackboard and R/exams](http://www.R-exams.org/tutorials/exams2blackboard/),104,FALSE,###  Tutorials,link,2018-4-23
++ [How do I make my own dplyr-style functions?](https://thisisnic.github.io/2018/04/16/how-do-i-make-my-own-dplyr-style-functions/),131,FALSE,###  Tutorials,link,2018-4-23
++ [a [Gregorian] calendar riddle](https://xianblog.wordpress.com/2018/04/17/a-gregorian-calendar-riddle/),105,FALSE,###  Tutorials,link,2018-4-23
++ [R Tip: Use Slices](http://www.win-vector.com/blog/2018/04/r-tip-use-slices/),79,FALSE,###  Tutorials,link,2018-4-23
++ [Reticulated Shiny](https://rviews.rstudio.com/2018/04/17/reticulated-shiny/),79,FALSE,###  Tutorials,link,2018-4-23
++ [Le Monde puzzle [#1049]](https://xianblog.wordpress.com/2018/04/18/le-monde-puzzle-1049/),92,FALSE,###  Tutorials,link,2018-4-23
++ [Draw maps like paintings](https://statnmap.com/2018-04-18-draw-maps-like-paintings/),87,FALSE,###  Tutorials,link,2018-4-23
++ [Testing multiple interventions in a single experiment](https://www.rdatagen.net/post/testing-many-interventions-in-a-single-experiment/),139,FALSE,###  Tutorials,link,2018-4-23
++ [Upcoming speaking engagments](http://www.win-vector.com/blog/2018/04/upcoming-speaking-engagments/),102,FALSE,###  Tutorials,link,2018-4-23
++ [Yet Another Caret Workshop](https://www.gokhan.io/post/caret-workshop/),74,FALSE,###  Tutorials,link,2018-4-23
++ [Adding Zero Catches](http://derekogle.com/fishR/2018-04-19-Adding-Zero-Catches),82,FALSE,###  Tutorials,link,2018-4-23
++ [Latin American R/BioConductor Developers Workshop 2018](http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018/),155,FALSE,###  Tutorials,link,2018-4-23
+"+ [AI, Machine Learning and Data Science Roundup: April 2018](http://blog.revolutionanalytics.com/2018/04/ai-roundup-apr-2018.html)",131,FALSE,###  Tutorials,link,2018-4-23
++ [Simulate! Simulate! - Part 2: A linear mixed model](https://aosmith.rbind.io/2018/04/23/simulate-simulate-part-2/),117,FALSE,###  Tutorials,link,2018-4-23
++ [R:case4base - data filtering and ordering with base R](https://jozefhajnala.gitlab.io/r/r002-data-manipulation/),115,FALSE,###  Tutorials,link,2018-4-23
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2018-4-23
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2018-4-23
++ `removeSource()` now works not only for functions but also for some language objects.,87,FALSE,###  R Project Updates,unid,2018-4-23
+"+ `optim(*, lower = c(-Inf, -Inf))` no longer warns (and switches the method), thanks to a suggestion by John Nash.",115,FALSE,###  R Project Updates,unid,2018-4-23
+"+ `axis()` gets new option `gap.axis = NA` for specifying a multiplication factor for the minimal “gap” (distance) between axis labels drawn. Its default is `1` for labels _parallel_ to the axis, and `0.5` for perpendicular ones.",229,FALSE,###  R Project Updates,unid,2018-4-23
+"+ Calls with an S3 class are no longer evaluated when printed, fixing part of PR#17398, thanks to a patch from Lionel Henry.",124,FALSE,###  R Project Updates,unid,2018-4-23
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-23
++ [eRum 2018](http://2018.erum.io) **May 14-16** <br />,55,FALSE,###  Upcoming Events in 3 Months,link,2018-4-23
+"European R Users Meeting @ Budapest, Hungary",44,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-23
++ R/Finance 2018 **June 1 and 2** <br />,40,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-23
+[Applied Finance with R](http://www.rinfinance.com).,52,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-23
++ [CascadiaRConf](https://cascadiarconf.com/) **June 2**,56,FALSE,###  Upcoming Events in 3 Months,link,2018-4-23
+"Portland, OR, US",16,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-23
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />,84,FALSE,###  Upcoming Events in 3 Months,link,2018-4-23
+Rennes - Agrocampus,19,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-23
++ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />,66,FALSE,###  Upcoming Events in 3 Months,link,2018-4-23
+The annual useR! conference is the main meeting of the international R user and developer community.,100,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-23
+<!--,4,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-23
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />,56,FALSE,###  Upcoming Events in 3 Months,link,2018-4-23
+"Buenos Aires, Argentina.",24,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-23
+-->,3,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-23
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2018-4-23
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2018-4-23
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">Pretty pleased with my new .Rprofile customisation ✨<br><br>😎<a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> <a href=""https://twitter.com/hashtag/superpowers?src=hash&amp;ref_src=twsrc%5Etfw"">#superpowers</a> <a href=""https://twitter.com/hashtag/thelittlethings?src=hash&amp;ref_src=twsrc%5Etfw"">#thelittlethings</a><br><br>Wanna customise yours too? 👉 usethis::edit_r_profile() <a href=""https://t.co/wNslgCk1eR"">pic.twitter.com/wNslgCk1eR</a></p>&mdash; annakrystalli (@annakrystalli) <a href=""https://twitter.com/annakrystalli/status/985972442219909121?ref_src=twsrc%5Etfw"">16 d’abril de 2018</a></blockquote>",725,FALSE,###  Quotes of the Week,unid,2018-4-23
+"<blockquote class=""twitter-tweet"" data-lang=""ca""><p lang=""en"" dir=""ltr"">“Turned up to fancy dress party 🎉!  And wished my <a href=""https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw"">#RLadies</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> buddies were there! So I didn’t have to explain my awesome costume choice!” <a href=""https://twitter.com/hashtag/LegoRLady?src=hash&amp;ref_src=twsrc%5Etfw"">#LegoRLady</a> <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> 💜💛😎 <a href=""https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw"">#dplyr</a> <a href=""https://t.co/NcYP1ZXzGs"">pic.twitter.com/NcYP1ZXzGs</a></p>&mdash; LegoRLady (@LEGO_RLady) <a href=""https://twitter.com/LEGO_RLady/status/986661916855754752?ref_src=twsrc%5Etfw"">18 d’abril de 2018</a></blockquote>",880,FALSE,###  Quotes of the Week,unid,2018-4-23

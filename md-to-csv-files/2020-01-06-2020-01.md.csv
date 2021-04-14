@@ -1,55 +1,55 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2020-01-06
-"title: R Weekly 2020-01 Why I use R, 2019 in Review",51,FALSE,NA,NA,unid,2020-01-06
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2020-01-06
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2020-01-06
----,3,FALSE,NA,NA,unid,2020-01-06
-Release Date: 2020-01-06,24,FALSE,NA,NA,unid,2020-01-06
-+ [Why I use R](https://blog.shotwell.ca/posts/why_i_use_r/),60,FALSE,NA,###  Highlight,link,2020-01-06
-+ [In Review: Your 2019 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-2019/),83,FALSE,NA,###  Highlight,link,2020-01-06
-+ [Writing Frictionless R Package Wrappers — Building A Basic R Package](https://rud.is/b/2020/01/03/writing-frictionless-r-package-wrappers-building-a-basic-r-package/),169,FALSE,NA,###  Highlight,link,2020-01-06
-* [Object Dectection using YOLO ](https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny-yolo-b5a16e50e8a0) .,135,FALSE,NA,### Insights,unid,2020-01-06
-+ [Packages that Sparked Joy in 2019](https://www.rostrum.blog/2019/12/27/pkgs-2019/),85,FALSE,NA,### Insights,link,2020-01-06
-+ [dbplyr : A Path to More Inclusive Data Transformations at the ACLU](https://medium.com/aclu-tech-analytics/dbplyr-a-path-to-more-inclusive-data-transformations-at-the-aclu-5e6af21f4042),188,FALSE,NA,### Insights,link,2020-01-06
-+ [Best TidyTuesday 2019](https://cedricscherer.netlify.com/2019/12/30/best-tidytuesday-2019/),94,FALSE,NA,### Insights,link,2020-01-06
-+ [Why I use R](https://blog.shotwell.ca/posts/why_i_use_r/),60,FALSE,NA,### Insights,link,2020-01-06
-+ [Can Genealogical data be tidy?](https://r-house.netlify.com/2019/12/30/can-genealogical-data-be-tidy/),105,FALSE,NA,### Insights,link,2020-01-06
-+ [Kaggle User Survey Dashboard— 2019](https://towardsdatascience.com/kaggle-user-survey-2019-326e187ff207),107,FALSE,NA,### Insights,link,2020-01-06
-+ [Modeling salary and gender in the tech industry](https://juliasilge.com/blog/salary-gender/),95,FALSE,NA,### R in the Real World,link,2020-01-06
-+ [Access Chez Scheme documentation from the REPL](https://www.travishinkelman.com/post/access-chez-scheme-documentation-from-repl/),132,FALSE,NA,### R in the Real World,link,2020-01-06
-+ [Understanding + classifying genres using Spotify audio features](https://www.kaylinpavlik.com/classifying-songs-genres/),123,FALSE,NA,### R in the Real World,link,2020-01-06
-![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-06/audio-feature-density.png),96,FALSE,NA,### R in the Real World,image,2020-01-06
-+ [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/),81,FALSE,NA,### R in the Real World,link,2020-01-06
-![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-06/emoji-plot.png),85,FALSE,NA,### R in the Real World,image,2020-01-06
-+ [A Bayesian Approach to Ranking English Premier League Teams (using R)](https://tonyelhabr.rbind.io/post/bayesian-statistics-english-premier-league/),151,FALSE,NA,### R in the Real World,link,2020-01-06
-+ [Analyzing My 2019 GitHub Usage in R](https://tbradley1013.github.io/2020/01/02/analyzing-my-2019-github-usage-in-r/),119,FALSE,NA,### R in the Real World,link,2020-01-06
-+ [In Review: Your 2019 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-2019/),83,FALSE,NA,###  Resources,link,2020-01-06
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2020-01-06
-+ [{waiter 0.1.0}](https://waiter.john-coene.com/#/),52,FALSE,NA,### Updated Packages,link,2020-01-06
-+ [{encryptedRmd} — Password protected markdown html reports in R using libsodium](https://github.com/dirkschumacher/encryptedRmd),130,FALSE,NA,### Updated Packages,link,2020-01-06
-+ [{details} — Create Details HTML Tag for Markdown and Package Documentation](https://yonicd.github.io/details/index.html),123,FALSE,NA,### Updated Packages,link,2020-01-06
-+ [96 - R in 10 Years](http://nssdeviations.com/96-r-in-10-years),65,FALSE,NA,###  Videos and Podcasts,link,2020-01-06
-+ [How to write an R package](https://www.infoworld.com/article/3346261/how-to-write-an-r-package.html),103,FALSE,NA,###  Videos and Podcasts,link,2020-01-06
-+ [Releasing and open-sourcing the Using Spark from R for performance with arbitrary code series](https://jozef.io/r206-spark-r-releasing-bookdown/),148,FALSE,NA,### Gist & Cookbook,link,2020-01-06
-+ [Shiny Production with AWS](https://business-science.github.io/shiny-production-with-aws-book/),97,FALSE,NA,### Gist & Cookbook,link,2020-01-06
-+ [Créer des applications Shiny avec {golem}](https://speakerdeck.com/colinfay/creer-des-applications-shiny-avec-golem) 🇫🇷 ,123,FALSE,NA,### R Internationally,link,2020-01-06
-+ [Visualizing Daniel Johnston's Music](https://davidsmale.netlify.com/portfolio/daniel-johnston/),98,FALSE,NA,###  Tutorials,link,2020-01-06
-![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-06/daniel-johnston.png),90,FALSE,NA,###  Tutorials,image,2020-01-06
-+ [Route mapping from GPS files](https://www.meganstodel.com/posts/route-mapping-app/),86,FALSE,NA,###  Tutorials,link,2020-01-06
-"+ [Create a dynamic dashboard with R, flexdashboard, and Shiny](https://www.andrewheiss.com/blog/2020/01/01/flexdashboard-dynamic-data/)",136,FALSE,NA,###  Tutorials,link,2020-01-06
-+ [Playing with post-hoc power with R – why we shouldn’t do it](https://talesofr.wordpress.com/2020/01/04/playing-with-post-hoc-power-with-r-why-we-shouldnt-do-it/),164,FALSE,NA,###  Tutorials,link,2020-01-06
-+ [The birthday paradox puzzle: tidy simulation in R](http://varianceexplained.org/r/birthday-problem/),103,FALSE,NA,###  Tutorials,link,2020-01-06
-![birthday-problem](http://vs://github.com/rweekly/image/raw/master/2020-01ph_groups-1.png),91,FALSE,NA,###  Tutorials,image,2020-01-06
-+ [Writing Frictionless R Package Wrappers — Introduction](https://rud.is/b/2020/01/01/writing-frictionless-r-package-wrappers-introduction/),141,FALSE,NA,###  Tutorials,link,2020-01-06
-+ [Writing Frictionless R Package Wrappers — Building A Basic R Package](https://rud.is/b/2020/01/03/writing-frictionless-r-package-wrappers-building-a-basic-r-package/),169,FALSE,NA,###  Tutorials,link,2020-01-06
-+ [mapply and Map in R](http://theautomatic.net/2019/12/30/mapply-and-map-in-r/),80,FALSE,NA,###  Tutorials,link,2020-01-06
-+ [How to make any plot look better](https://ggplot2tor.com/make_any_plot_look_better/make_any_plot_look_better/),113,FALSE,NA,###  Tutorials,link,2020-01-06
-"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,NA,###  Tutorials,unid,2020-01-06
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2020-01-06
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2020-01-06
-+ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-06
-"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-06
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-06
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)More past events at [R conferences & meetups](https://conf.rweekly.org).,162,FALSE,NA,###  Upcoming Events in 3 Months,link,2020-01-06
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2020-01-06
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">So, what are your 2020 <a href=""https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw"">#RStats</a> goals?</p>&mdash; Colin Fay 🤘 (@_ColinFay) <a href=""https://twitter.com/_ColinFay/status/1212341627081105408?ref_src=twsrc%5Etfw"">January 1, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",418,FALSE,NA,###  Quotes of the Week,unid,2020-01-06
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2020-01-06
+"title: R Weekly 2020-01 Why I use R, 2019 in Review",51,FALSE,NA,unid,2020-01-06
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2020-01-06
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2020-01-06
+---,3,FALSE,NA,unid,2020-01-06
+Release Date: 2020-01-06,24,FALSE,NA,unid,2020-01-06
++ [Why I use R](https://blog.shotwell.ca/posts/why_i_use_r/),60,FALSE,###  Highlight,link,2020-01-06
++ [In Review: Your 2019 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-2019/),83,FALSE,###  Highlight,link,2020-01-06
++ [Writing Frictionless R Package Wrappers — Building A Basic R Package](https://rud.is/b/2020/01/03/writing-frictionless-r-package-wrappers-building-a-basic-r-package/),169,FALSE,###  Highlight,link,2020-01-06
+* [Object Dectection using YOLO ](https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny-yolo-b5a16e50e8a0) .,135,FALSE,### Insights,unid,2020-01-06
++ [Packages that Sparked Joy in 2019](https://www.rostrum.blog/2019/12/27/pkgs-2019/),85,FALSE,### Insights,link,2020-01-06
++ [dbplyr : A Path to More Inclusive Data Transformations at the ACLU](https://medium.com/aclu-tech-analytics/dbplyr-a-path-to-more-inclusive-data-transformations-at-the-aclu-5e6af21f4042),188,FALSE,### Insights,link,2020-01-06
++ [Best TidyTuesday 2019](https://cedricscherer.netlify.com/2019/12/30/best-tidytuesday-2019/),94,FALSE,### Insights,link,2020-01-06
++ [Why I use R](https://blog.shotwell.ca/posts/why_i_use_r/),60,FALSE,### Insights,link,2020-01-06
++ [Can Genealogical data be tidy?](https://r-house.netlify.com/2019/12/30/can-genealogical-data-be-tidy/),105,FALSE,### Insights,link,2020-01-06
++ [Kaggle User Survey Dashboard— 2019](https://towardsdatascience.com/kaggle-user-survey-2019-326e187ff207),107,FALSE,### Insights,link,2020-01-06
++ [Modeling salary and gender in the tech industry](https://juliasilge.com/blog/salary-gender/),95,FALSE,### R in the Real World,link,2020-01-06
++ [Access Chez Scheme documentation from the REPL](https://www.travishinkelman.com/post/access-chez-scheme-documentation-from-repl/),132,FALSE,### R in the Real World,link,2020-01-06
++ [Understanding + classifying genres using Spotify audio features](https://www.kaylinpavlik.com/classifying-songs-genres/),123,FALSE,### R in the Real World,link,2020-01-06
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-06/audio-feature-density.png),96,FALSE,### R in the Real World,image,2020-01-06
++ [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/),81,FALSE,### R in the Real World,link,2020-01-06
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-06/emoji-plot.png),85,FALSE,### R in the Real World,image,2020-01-06
++ [A Bayesian Approach to Ranking English Premier League Teams (using R)](https://tonyelhabr.rbind.io/post/bayesian-statistics-english-premier-league/),151,FALSE,### R in the Real World,link,2020-01-06
++ [Analyzing My 2019 GitHub Usage in R](https://tbradley1013.github.io/2020/01/02/analyzing-my-2019-github-usage-in-r/),119,FALSE,### R in the Real World,link,2020-01-06
++ [In Review: Your 2019 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-2019/),83,FALSE,###  Resources,link,2020-01-06
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2020-01-06
++ [{waiter 0.1.0}](https://waiter.john-coene.com/#/),52,FALSE,### Updated Packages,link,2020-01-06
++ [{encryptedRmd} — Password protected markdown html reports in R using libsodium](https://github.com/dirkschumacher/encryptedRmd),130,FALSE,### Updated Packages,link,2020-01-06
++ [{details} — Create Details HTML Tag for Markdown and Package Documentation](https://yonicd.github.io/details/index.html),123,FALSE,### Updated Packages,link,2020-01-06
++ [96 - R in 10 Years](http://nssdeviations.com/96-r-in-10-years),65,FALSE,###  Videos and Podcasts,link,2020-01-06
++ [How to write an R package](https://www.infoworld.com/article/3346261/how-to-write-an-r-package.html),103,FALSE,###  Videos and Podcasts,link,2020-01-06
++ [Releasing and open-sourcing the Using Spark from R for performance with arbitrary code series](https://jozef.io/r206-spark-r-releasing-bookdown/),148,FALSE,### Gist & Cookbook,link,2020-01-06
++ [Shiny Production with AWS](https://business-science.github.io/shiny-production-with-aws-book/),97,FALSE,### Gist & Cookbook,link,2020-01-06
++ [Créer des applications Shiny avec {golem}](https://speakerdeck.com/colinfay/creer-des-applications-shiny-avec-golem) 🇫🇷 ,123,FALSE,### R Internationally,link,2020-01-06
++ [Visualizing Daniel Johnston's Music](https://davidsmale.netlify.com/portfolio/daniel-johnston/),98,FALSE,###  Tutorials,link,2020-01-06
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-06/daniel-johnston.png),90,FALSE,###  Tutorials,image,2020-01-06
++ [Route mapping from GPS files](https://www.meganstodel.com/posts/route-mapping-app/),86,FALSE,###  Tutorials,link,2020-01-06
+"+ [Create a dynamic dashboard with R, flexdashboard, and Shiny](https://www.andrewheiss.com/blog/2020/01/01/flexdashboard-dynamic-data/)",136,FALSE,###  Tutorials,link,2020-01-06
++ [Playing with post-hoc power with R – why we shouldn’t do it](https://talesofr.wordpress.com/2020/01/04/playing-with-post-hoc-power-with-r-why-we-shouldnt-do-it/),164,FALSE,###  Tutorials,link,2020-01-06
++ [The birthday paradox puzzle: tidy simulation in R](http://varianceexplained.org/r/birthday-problem/),103,FALSE,###  Tutorials,link,2020-01-06
+![birthday-problem](http://vs://github.com/rweekly/image/raw/master/2020-01ph_groups-1.png),91,FALSE,###  Tutorials,image,2020-01-06
++ [Writing Frictionless R Package Wrappers — Introduction](https://rud.is/b/2020/01/01/writing-frictionless-r-package-wrappers-introduction/),141,FALSE,###  Tutorials,link,2020-01-06
++ [Writing Frictionless R Package Wrappers — Building A Basic R Package](https://rud.is/b/2020/01/03/writing-frictionless-r-package-wrappers-building-a-basic-r-package/),169,FALSE,###  Tutorials,link,2020-01-06
++ [mapply and Map in R](http://theautomatic.net/2019/12/30/mapply-and-map-in-r/),80,FALSE,###  Tutorials,link,2020-01-06
++ [How to make any plot look better](https://ggplot2tor.com/make_any_plot_look_better/make_any_plot_look_better/),113,FALSE,###  Tutorials,link,2020-01-06
+"<!--<div class=""post-more-begin></div><div class=""post-more-end""></div>-->",74,FALSE,###  Tutorials,unid,2020-01-06
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2020-01-06
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2020-01-06
++ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/),176,FALSE,###  Upcoming Events in 3 Months,link,2020-01-06
+"+ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)",97,FALSE,###  Upcoming Events in 3 Months,link,2020-01-06
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2020-01-06
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)More past events at [R conferences & meetups](https://conf.rweekly.org).,162,FALSE,###  Upcoming Events in 3 Months,link,2020-01-06
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2020-01-06
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">So, what are your 2020 <a href=""https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw"">#RStats</a> goals?</p>&mdash; Colin Fay 🤘 (@_ColinFay) <a href=""https://twitter.com/_ColinFay/status/1212341627081105408?ref_src=twsrc%5Etfw"">January 1, 2020</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",418,FALSE,###  Quotes of the Week,unid,2020-01-06

@@ -1,64 +1,64 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2016-7-3
-layout: post,12,FALSE,NA,NA,unid,2016-7-3
-title: R Weekly useR! 2016 Edition,34,FALSE,NA,NA,unid,2016-7-3
-"description: useR! 2016 blog posts, slides and related resources.",65,FALSE,NA,NA,unid,2016-7-3
----,3,FALSE,NA,NA,unid,2016-7-3
-Miss your slides? Edit this page on [GitHub](https://github.com/rweekly/rweekly.org/blob/gh-pages/_posts/2016-7-3-user2016.md).,127,FALSE,NA,NA,unid,2016-7-3
-Last Update: 2016-07-04,23,FALSE,NA,NA,unid,2016-7-3
-+ [useR! 2016 Home Page](http://user2016.org/),46,FALSE,NA,## Resources,link,2016-7-3
-+ [Full Schedule](http://schedule.user2016.org/),48,FALSE,NA,## Resources,link,2016-7-3
-+ [Video Stream for June 30](https://mediastream.microsoft.com/events/2016/1606/User2016/player/User2016.html),110,FALSE,NA,## Resources,link,2016-7-3
-+ [Videos on Channel 9 (upcoming)](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016),114,FALSE,NA,## Resources,link,2016-7-3
-+ [The useR! 2016 Tutorials](http://blog.revolutionanalytics.com/2016/06/the-user-2016-tutorials.html),102,FALSE,NA,## Blog Posts,link,2016-7-3
-+ [Using R with the Stanford Digital Repository](https://library.stanford.edu/blogs/digital-library-blog/2016/06/using-r-stanford-digital-repository),149,FALSE,NA,## Blog Posts,link,2016-7-3
-+ [Happy Git and GitHub for the useR](http://user2016.org/tutorials/01.html) - [book](http://happygitwithr.com/),112,FALSE,NA,## Tutorials,link,2016-7-3
-+ [Machine Learning Algorithmic Deep Dive](http://user2016.org/tutorials/10.html) - [resources](https://github.com/ledell/useR-machine-learning-tutorial),153,FALSE,NA,## Tutorials,link,2016-7-3
-+ [Extracting data from the web APIs and beyond](http://user2016.org/tutorials/04.html) - [resources](https://github.com/ropensci/user2016-tutorial),148,FALSE,NA,## Tutorials,link,2016-7-3
-"+ [MoRe than woRds, Text and Context: Language Analytics in Finance with R](http://user2016.org/tutorials/07.html) - [slides](https://github.com/srdas/user2016)",160,FALSE,NA,## Tutorials,link,2016-7-3
-+ [Time-to-Event Modeling as the Foundation of Multi-Channel Revenue Attribution](http://user2016.org/tutorials/08.html) - [resources](http://tinyurl.com/userattribution),170,FALSE,NA,## Tutorials,link,2016-7-3
-+ [Never Tell Me the Odds! Machine Learning with Class Imbalances](http://user2016.org/tutorials/06.html) - [resources](https://github.com/topepo/useR2016),155,FALSE,NA,## Tutorials,link,2016-7-3
-"+ [Genome-Wide Association Analysis and Post-Analytic Interrogation with R](http://user2016.org/tutorials/14.html) - [part 1](http://nbviewer.jupyter.org/urls/www.mtholyoke.edu/courses/afoulkes/UseR2016/UseR2016-Part1.ipynb), [part 2](http://nbviewer.jupyter.org/urls/www.mtholyoke.edu/courses/afoulkes/UseR2016/UseR2016-Part2.ipynb)",333,FALSE,NA,## Tutorials,link,2016-7-3
-+ [Effective Shiny Programming](http://user2016.org/tutorials/02.html) - [resources](https://github.com/jcheng5/user2016-tutorial-shiny),136,FALSE,NA,## Tutorials,link,2016-7-3
-"+ [Handling and Analyzing Spatial, Spatiotemporal and Movement Data](http://user2016.org/tutorials/09.html) - [slides](https://github.com/edzer/UseR2016)",153,FALSE,NA,## Tutorials,link,2016-7-3
-+ [Regression Modeling Strategies and the rms Package](http://user2016.org/tutorials/00.html) -,95,FALSE,NA,## Tutorials,link,2016-7-3
-"  [wiki](http://biostat.mc.vanderbilt.edu/wiki/Main/RmS),",57,FALSE,NA,## Tutorials,unid,2016-7-3
-  [notes](http://biostat.mc.vanderbilt.edu/tmp/course.pdf),58,FALSE,NA,## Tutorials,unid,2016-7-3
-+ [Intermediate R Markdown tutorial](http://user2016.org/tutorials/17.html) -,77,FALSE,NA,## Tutorials,link,2016-7-3
-"  [examples](https://github.com/ijlyttle/user2016_knitr),",57,FALSE,NA,## Tutorials,unid,2016-7-3
-  [etherpad notes](https://public.etherpad-mozilla.org/p/user2016_knitr),72,FALSE,NA,## Tutorials,unid,2016-7-3
-+ [Using R with Jupyter Notebooks for Reproducible Research](http://user2016.org/tutorials/12.html) - [resources](https://github.com/michhar/useR2016-tutorial-jupyter),167,FALSE,NA,## Tutorials,link,2016-7-3
-+ [**Details on useR! 2016 Home Page**](http://user2016.org/#tutorials),71,FALSE,NA,## Tutorials,link,2016-7-3
-+ [shinyjs: improve the user experience in your Shiny apps by Dean Attali](https://github.com/daattali/presentations/blob/master/2016-06-30_shinyjs-user2016.pdf),161,FALSE,NA,#### Visualization,link,2016-7-3
-"+ [rbokeh - A Simple, Flexible, Declarative Framework for Interactive Graphics ](http://slides.com/hafen/rbokeh#/)",114,FALSE,NA,#### Visualization,link,2016-7-3
-+ [Practical tools for exploratory web graphics](https://cpsievert.github.io/talks/20160630/),93,FALSE,NA,#### Visualization,link,2016-7-3
-+ [Chicago food inspection data analysis](https://chicago.github.io/food-inspections-evaluation/),97,FALSE,NA,#### R in the Real World,link,2016-7-3
-+ [Modeling Food Policy Decision Analysis with an Interactive Bayesian Network in Shiny](http://rpubs.com/rachwhatsit/192417),125,FALSE,NA,#### R in the Real World,link,2016-7-3
-+ [Automated Clinical Research Tracking and Assessment Using R-Shiny](https://github.com/haozhu233/presentations/blob/master/useR2016_shiny.pdf),144,FALSE,NA,#### R in the Real World,link,2016-7-3
-+ [Wrap your model in an R package!](https://speakerdeck.com/mrustl/wrap-your-model-in-an-r-package),100,FALSE,NA,#### R in the Real World,link,2016-7-3
-+ [Fry: A Fast Interactive Biological Pathway Miner by Göknur Giner](https://github.com/goknurginer/useR2016),109,FALSE,NA,#### R in the Real World,link,2016-7-3
-+ [Broom: Converting Statistical Models to Tidy Data Frames](http://varianceexplained.org/files/DavidRobinsonBroomUseR2016.pdf),127,FALSE,NA,#### Data,link,2016-7-3
-+ [Data validation infrastructure: the validate package](http://www.slideshare.net/MarkVanDerLoo/data-validation-infrastructure-the-validate-package),149,FALSE,NA,#### Data,link,2016-7-3
-+ [Size of Datasets for Analytics and Implications for R](https://speakerdeck.com/szilard/size-of-datasets-for-analytics-and-implications-for-r-user-conference-stanford-university-june-2016),190,FALSE,NA,#### Data,link,2016-7-3
-+ [Efficient tabular data ingestion and manipulation with MonetDBLite](http://homepages.cwi.nl/~hannes/user-monetdblite-2016.pdf),129,FALSE,NA,#### Data,link,2016-7-3
-+ [Importing Modern Data into R](https://beta.rstudioconnect.com/jluraschi/importing-modern-data/importing-modern-data.html),124,FALSE,NA,#### Data,link,2016-7-3
-+ [Efficient in-memory non-equi joins](https://t.co/Q6yar1TEtz),63,FALSE,NA,#### Data,link,2016-7-3
-+ [Authoring Books with R Markdown](https://t.co/wevwpOSLnu),60,FALSE,NA,#### Tools,link,2016-7-3
-+ [flexdashboards - Easy interactive dashboards for R](https://beta.rstudioconnect.com/jmcphers/flexdashboards/flexdashboards.html),131,FALSE,NA,#### Tools,link,2016-7-3
-+ [A Future for R](http://www.jottr.org/2016/07/a-future-for-r-slides-from-user-2016.html),90,FALSE,NA,#### Tools,link,2016-7-3
-+ [R AnalyticFlow 3: Interactive Data Analysis GUI for R](http://r.analyticflow.com/en/news-tips/41/),101,FALSE,NA,#### Tools,link,2016-7-3
-+ [A first-year undergraduate data science course](https://github.com/mine-cetinkaya-rundel/2016-06-27-first-ds-course-user),124,FALSE,NA,#### Teaching,link,2016-7-3
-+ [Slides from Integrated R labs for high school students #user2016 talk](https://github.com/AmeliaMN/user2016),111,FALSE,NA,#### Teaching,link,2016-7-3
-+ [Can R learn from Julia](https://github.com/janvitek/can_R_learn_from_Julia),78,FALSE,NA,#### R & Other Languages,link,2016-7-3
-+ [Slides and other resources for RcppParallel talk](https://github.com/kevinushey/RcppParallel-user2016-talk),110,FALSE,NA,#### R & Other Languages,link,2016-7-3
-+ [sparklyr Demo for useR! 2016](https://github.com/trestletech/user2016-sparklyr),82,FALSE,NA,#### R & Other Languages,link,2016-7-3
-+ [R Web APIs Intro](https://s3.amazonaws.com/f.cl.ly/items/3g2h2Z0l2X1N0W300N32/01-http.pdf),93,FALSE,NA,#### Web,link,2016-7-3
-+ [Crosstalk Demo by Joe Cheng](https://github.com/jcheng5/crosstalk-demo),74,FALSE,NA,#### Web,link,2016-7-3
-+ [R/qtl: Just barely sustainable](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016_withnotes.pdf),110,FALSE,NA,#### Packages Development,link,2016-7-3
-+ [Deep learning in R using MXNet](http://www.slideshare.net/ssuserdf77c1/mxnet-talk-user2016),94,FALSE,NA,#### Machine Learning and Statistics,link,2016-7-3
-+ [useR! Machine Learning Tutorial](https://github.com/ledell/useR-machine-learning-tutorial),93,FALSE,NA,#### Machine Learning and Statistics,link,2016-7-3
-+ [R in BI and Streaming Applications for useR 2016](http://www.slideshare.net/loubajukyorgan/r-in-bi-and-streaming-applications-for-user-2016),143,FALSE,NA,#### Machine Learning and Statistics,link,2016-7-3
-+ [xgboost: An R package for Fast and Accurate Gradient Boosting](https://github.com/hetong007/useR2016/blob/master/TongHE_xgboost_useR2016.pdf),144,FALSE,NA,#### Machine Learning and Statistics,link,2016-7-3
-+ [Causal inference in social network data](https://github.com/osofr/useR2016_networks),87,FALSE,NA,#### Machine Learning and Statistics,link,2016-7-3
-+ [Simulation and power analysis of generalized linear mixed models](http://educate-r.org/2016/06/29/user2016.html),115,FALSE,NA,#### Machine Learning and Statistics,link,2016-7-3
-+ [mlrMBO: A Toolbox for Model-Based Optimization of Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.pdf),137,FALSE,NA,#### Machine Learning and Statistics,link,2016-7-3
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2016-7-3
+layout: post,12,FALSE,NA,unid,2016-7-3
+title: R Weekly useR! 2016 Edition,34,FALSE,NA,unid,2016-7-3
+"description: useR! 2016 blog posts, slides and related resources.",65,FALSE,NA,unid,2016-7-3
+---,3,FALSE,NA,unid,2016-7-3
+Miss your slides? Edit this page on [GitHub](https://github.com/rweekly/rweekly.org/blob/gh-pages/_posts/2016-7-3-user2016.md).,127,FALSE,NA,unid,2016-7-3
+Last Update: 2016-07-04,23,FALSE,NA,unid,2016-7-3
++ [useR! 2016 Home Page](http://user2016.org/),46,FALSE,## Resources,link,2016-7-3
++ [Full Schedule](http://schedule.user2016.org/),48,FALSE,## Resources,link,2016-7-3
++ [Video Stream for June 30](https://mediastream.microsoft.com/events/2016/1606/User2016/player/User2016.html),110,FALSE,## Resources,link,2016-7-3
++ [Videos on Channel 9 (upcoming)](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016),114,FALSE,## Resources,link,2016-7-3
++ [The useR! 2016 Tutorials](http://blog.revolutionanalytics.com/2016/06/the-user-2016-tutorials.html),102,FALSE,## Blog Posts,link,2016-7-3
++ [Using R with the Stanford Digital Repository](https://library.stanford.edu/blogs/digital-library-blog/2016/06/using-r-stanford-digital-repository),149,FALSE,## Blog Posts,link,2016-7-3
++ [Happy Git and GitHub for the useR](http://user2016.org/tutorials/01.html) - [book](http://happygitwithr.com/),112,FALSE,## Tutorials,link,2016-7-3
++ [Machine Learning Algorithmic Deep Dive](http://user2016.org/tutorials/10.html) - [resources](https://github.com/ledell/useR-machine-learning-tutorial),153,FALSE,## Tutorials,link,2016-7-3
++ [Extracting data from the web APIs and beyond](http://user2016.org/tutorials/04.html) - [resources](https://github.com/ropensci/user2016-tutorial),148,FALSE,## Tutorials,link,2016-7-3
+"+ [MoRe than woRds, Text and Context: Language Analytics in Finance with R](http://user2016.org/tutorials/07.html) - [slides](https://github.com/srdas/user2016)",160,FALSE,## Tutorials,link,2016-7-3
++ [Time-to-Event Modeling as the Foundation of Multi-Channel Revenue Attribution](http://user2016.org/tutorials/08.html) - [resources](http://tinyurl.com/userattribution),170,FALSE,## Tutorials,link,2016-7-3
++ [Never Tell Me the Odds! Machine Learning with Class Imbalances](http://user2016.org/tutorials/06.html) - [resources](https://github.com/topepo/useR2016),155,FALSE,## Tutorials,link,2016-7-3
+"+ [Genome-Wide Association Analysis and Post-Analytic Interrogation with R](http://user2016.org/tutorials/14.html) - [part 1](http://nbviewer.jupyter.org/urls/www.mtholyoke.edu/courses/afoulkes/UseR2016/UseR2016-Part1.ipynb), [part 2](http://nbviewer.jupyter.org/urls/www.mtholyoke.edu/courses/afoulkes/UseR2016/UseR2016-Part2.ipynb)",333,FALSE,## Tutorials,link,2016-7-3
++ [Effective Shiny Programming](http://user2016.org/tutorials/02.html) - [resources](https://github.com/jcheng5/user2016-tutorial-shiny),136,FALSE,## Tutorials,link,2016-7-3
+"+ [Handling and Analyzing Spatial, Spatiotemporal and Movement Data](http://user2016.org/tutorials/09.html) - [slides](https://github.com/edzer/UseR2016)",153,FALSE,## Tutorials,link,2016-7-3
++ [Regression Modeling Strategies and the rms Package](http://user2016.org/tutorials/00.html) -,95,FALSE,## Tutorials,link,2016-7-3
+"  [wiki](http://biostat.mc.vanderbilt.edu/wiki/Main/RmS),",57,FALSE,## Tutorials,unid,2016-7-3
+  [notes](http://biostat.mc.vanderbilt.edu/tmp/course.pdf),58,FALSE,## Tutorials,unid,2016-7-3
++ [Intermediate R Markdown tutorial](http://user2016.org/tutorials/17.html) -,77,FALSE,## Tutorials,link,2016-7-3
+"  [examples](https://github.com/ijlyttle/user2016_knitr),",57,FALSE,## Tutorials,unid,2016-7-3
+  [etherpad notes](https://public.etherpad-mozilla.org/p/user2016_knitr),72,FALSE,## Tutorials,unid,2016-7-3
++ [Using R with Jupyter Notebooks for Reproducible Research](http://user2016.org/tutorials/12.html) - [resources](https://github.com/michhar/useR2016-tutorial-jupyter),167,FALSE,## Tutorials,link,2016-7-3
++ [**Details on useR! 2016 Home Page**](http://user2016.org/#tutorials),71,FALSE,## Tutorials,link,2016-7-3
++ [shinyjs: improve the user experience in your Shiny apps by Dean Attali](https://github.com/daattali/presentations/blob/master/2016-06-30_shinyjs-user2016.pdf),161,FALSE,#### Visualization,link,2016-7-3
+"+ [rbokeh - A Simple, Flexible, Declarative Framework for Interactive Graphics ](http://slides.com/hafen/rbokeh#/)",114,FALSE,#### Visualization,link,2016-7-3
++ [Practical tools for exploratory web graphics](https://cpsievert.github.io/talks/20160630/),93,FALSE,#### Visualization,link,2016-7-3
++ [Chicago food inspection data analysis](https://chicago.github.io/food-inspections-evaluation/),97,FALSE,#### R in the Real World,link,2016-7-3
++ [Modeling Food Policy Decision Analysis with an Interactive Bayesian Network in Shiny](http://rpubs.com/rachwhatsit/192417),125,FALSE,#### R in the Real World,link,2016-7-3
++ [Automated Clinical Research Tracking and Assessment Using R-Shiny](https://github.com/haozhu233/presentations/blob/master/useR2016_shiny.pdf),144,FALSE,#### R in the Real World,link,2016-7-3
++ [Wrap your model in an R package!](https://speakerdeck.com/mrustl/wrap-your-model-in-an-r-package),100,FALSE,#### R in the Real World,link,2016-7-3
++ [Fry: A Fast Interactive Biological Pathway Miner by Göknur Giner](https://github.com/goknurginer/useR2016),109,FALSE,#### R in the Real World,link,2016-7-3
++ [Broom: Converting Statistical Models to Tidy Data Frames](http://varianceexplained.org/files/DavidRobinsonBroomUseR2016.pdf),127,FALSE,#### Data,link,2016-7-3
++ [Data validation infrastructure: the validate package](http://www.slideshare.net/MarkVanDerLoo/data-validation-infrastructure-the-validate-package),149,FALSE,#### Data,link,2016-7-3
++ [Size of Datasets for Analytics and Implications for R](https://speakerdeck.com/szilard/size-of-datasets-for-analytics-and-implications-for-r-user-conference-stanford-university-june-2016),190,FALSE,#### Data,link,2016-7-3
++ [Efficient tabular data ingestion and manipulation with MonetDBLite](http://homepages.cwi.nl/~hannes/user-monetdblite-2016.pdf),129,FALSE,#### Data,link,2016-7-3
++ [Importing Modern Data into R](https://beta.rstudioconnect.com/jluraschi/importing-modern-data/importing-modern-data.html),124,FALSE,#### Data,link,2016-7-3
++ [Efficient in-memory non-equi joins](https://t.co/Q6yar1TEtz),63,FALSE,#### Data,link,2016-7-3
++ [Authoring Books with R Markdown](https://t.co/wevwpOSLnu),60,FALSE,#### Tools,link,2016-7-3
++ [flexdashboards - Easy interactive dashboards for R](https://beta.rstudioconnect.com/jmcphers/flexdashboards/flexdashboards.html),131,FALSE,#### Tools,link,2016-7-3
++ [A Future for R](http://www.jottr.org/2016/07/a-future-for-r-slides-from-user-2016.html),90,FALSE,#### Tools,link,2016-7-3
++ [R AnalyticFlow 3: Interactive Data Analysis GUI for R](http://r.analyticflow.com/en/news-tips/41/),101,FALSE,#### Tools,link,2016-7-3
++ [A first-year undergraduate data science course](https://github.com/mine-cetinkaya-rundel/2016-06-27-first-ds-course-user),124,FALSE,#### Teaching,link,2016-7-3
++ [Slides from Integrated R labs for high school students #user2016 talk](https://github.com/AmeliaMN/user2016),111,FALSE,#### Teaching,link,2016-7-3
++ [Can R learn from Julia](https://github.com/janvitek/can_R_learn_from_Julia),78,FALSE,#### R & Other Languages,link,2016-7-3
++ [Slides and other resources for RcppParallel talk](https://github.com/kevinushey/RcppParallel-user2016-talk),110,FALSE,#### R & Other Languages,link,2016-7-3
++ [sparklyr Demo for useR! 2016](https://github.com/trestletech/user2016-sparklyr),82,FALSE,#### R & Other Languages,link,2016-7-3
++ [R Web APIs Intro](https://s3.amazonaws.com/f.cl.ly/items/3g2h2Z0l2X1N0W300N32/01-http.pdf),93,FALSE,#### Web,link,2016-7-3
++ [Crosstalk Demo by Joe Cheng](https://github.com/jcheng5/crosstalk-demo),74,FALSE,#### Web,link,2016-7-3
++ [R/qtl: Just barely sustainable](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016_withnotes.pdf),110,FALSE,#### Packages Development,link,2016-7-3
++ [Deep learning in R using MXNet](http://www.slideshare.net/ssuserdf77c1/mxnet-talk-user2016),94,FALSE,#### Machine Learning and Statistics,link,2016-7-3
++ [useR! Machine Learning Tutorial](https://github.com/ledell/useR-machine-learning-tutorial),93,FALSE,#### Machine Learning and Statistics,link,2016-7-3
++ [R in BI and Streaming Applications for useR 2016](http://www.slideshare.net/loubajukyorgan/r-in-bi-and-streaming-applications-for-user-2016),143,FALSE,#### Machine Learning and Statistics,link,2016-7-3
++ [xgboost: An R package for Fast and Accurate Gradient Boosting](https://github.com/hetong007/useR2016/blob/master/TongHE_xgboost_useR2016.pdf),144,FALSE,#### Machine Learning and Statistics,link,2016-7-3
++ [Causal inference in social network data](https://github.com/osofr/useR2016_networks),87,FALSE,#### Machine Learning and Statistics,link,2016-7-3
++ [Simulation and power analysis of generalized linear mixed models](http://educate-r.org/2016/06/29/user2016.html),115,FALSE,#### Machine Learning and Statistics,link,2016-7-3
++ [mlrMBO: A Toolbox for Model-Based Optimization of Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.pdf),137,FALSE,#### Machine Learning and Statistics,link,2016-7-3

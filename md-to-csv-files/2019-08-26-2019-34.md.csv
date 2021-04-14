@@ -1,76 +1,76 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2019-08-26
-"title: R Weekly 2019-34 LondonR, gargle, Pokémon",48,FALSE,NA,NA,unid,2019-08-26
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2019-08-26
-image: https://rweekly.org/public/facebook.png,46,FALSE,NA,NA,unid,2019-08-26
----,3,FALSE,NA,NA,unid,2019-08-26
-+ [LondonR: Hadley Wickham & tidyverse's greatest hits](https://martinctc.github.io/blog/londonr-hadley-wickham-and-tidyverse-greatest-hits/),141,FALSE,NA,###  Highlight,link,2019-08-26
-+ [What Types Should You Have on Your Pokémon Team? Efficient Simulation with Matrices in R!](https://hookedondata.org/pokemon-type-combinations/),146,FALSE,NA,###  Highlight,link,2019-08-26
-"+ [$50,000 in New Grants Approved](https://www.r-consortium.org/blog/2019/08/23/50000-in-new-grants-approved)",109,FALSE,NA,###  Highlight,link,2019-08-26
-+ [{gargle}: The goal of gargle is to take some of the agonizing pain out of working with Google APIs](https://www.tidyverse.org/articles/2019/08/gargle-hello-world/),166,FALSE,NA,###  Highlight,link,2019-08-26
-+ [What Types Should You Have on Your Pokémon Team? Efficient Simulation with Matrices in R!](https://hookedondata.org/pokemon-type-combinations/),146,FALSE,NA,### Insights,link,2019-08-26
-+ [PassSonar: Visualizing Player Interactions in Soccer Analytics](https://medium.com/nightingale/passsonar-visualizing-player-interactions-in-soccer-analytics-7708e1d94afc),173,FALSE,NA,### Insights,link,2019-08-26
-![PassSonar: Visualizing Player Interactions in Soccer Analytics](https://raw.githubusercontent.com/rweekly/image/master/2019/34/medium-night.png),146,FALSE,NA,### Insights,image,2019-08-26
-+ [LondonR: Hadley Wickham & tidyverse's greatest hits](https://martinctc.github.io/blog/londonr-hadley-wickham-and-tidyverse-greatest-hits/),141,FALSE,NA,### Insights,link,2019-08-26
-"+ [Visualizing Soccer with StatsBomb Data and R, Part 1: Simple xG and Pass Partner Plots!](https://ryo-n7.github.io/2019-08-21-visualize-soccer-statsbomb-part-1/)",163,FALSE,NA,### R in the Real World,link,2019-08-26
-"![Visualizing Soccer with StatsBomb Data and R, Part 1: Simple xG and Pass Partner Plots!](https://raw.githubusercontent.com/rweekly/image/master/2019/34/soccer-statsbomb.png)",175,FALSE,NA,### R in the Real World,image,2019-08-26
-"+ [Generating Oxford Comma triples, and sequenced BibTeX entries using the Tidyverse](https://www.shamindras.com/posts/2019-07-15-shrotriya2019tidyfunpt1/)",155,FALSE,NA,### R in the Real World,link,2019-08-26
-+ [Rcpp now used by 1750 CRAN packages](http://dirk.eddelbuettel.com/blog/2019/08/21#rcpp_1750_packages),104,FALSE,NA,### R in the Real World,link,2019-08-26
-![Rcpp now used by 1750 CRAN packages](https://raw.githubusercontent.com/rweekly/image/master/2019/34/rcpp-1750.png),116,FALSE,NA,### R in the Real World,image,2019-08-26
-"+ [$50,000 in New Grants Approved](https://www.r-consortium.org/blog/2019/08/23/50000-in-new-grants-approved)",109,FALSE,NA,###  R in Organizations,link,2019-08-26
-+ [Introducing Open Forensic Science in R](https://ropensci.org/blog/2019/08/20/forensic-science/),98,FALSE,NA,###  R in Organizations,link,2019-08-26
-+ [Organize Why R? 2019 pre-meeting in your city](http://r-addict.com/2019/08/23/WhyR-2019-Premeetings.html),108,FALSE,NA,###  R in Organizations,link,2019-08-26
-![Organize Why R? 2019 pre-meeting in your city](https://raw.githubusercontent.com/rweekly/image/master/2019/34/whyr.png),121,FALSE,NA,###  R in Organizations,image,2019-08-26
-"+ [Elevated blood lead level test results (St. Louis, MO) visualizations](https://github.com/slu-soc1120/STL_HEALTH_Lead)",121,FALSE,NA,###  Resources,link,2019-08-26
-+ [ggplot2 book 3rd edition](https://ggplot2-book.org),54,FALSE,NA,###  Resources,link,2019-08-26
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2019-08-26
-**CRAN**,8,FALSE,NA,###  New Packages,unid,2019-08-26
-+ [{clean}: cleaning and checking data columns in a fast and easy way!](https://github.com/msberends/clean),107,FALSE,NA,###  New Packages,link,2019-08-26
-+ [{tidycells}: Read Tabular Data from Diverse Sources and Easily Make Them Tidy!](https://github.com/r-rudra/tidycells),120,FALSE,NA,###  New Packages,link,2019-08-26
-+ [{gargle}: The goal of gargle is to take some of the agonizing pain out of working with Google APIs](https://www.tidyverse.org/articles/2019/08/gargle-hello-world/),166,FALSE,NA,###  New Packages,link,2019-08-26
-+ [{ragg}: AGG library for R](https://ragg.r-lib.org/),54,FALSE,NA,###  New Packages,link,2019-08-26
-**GitHub or Bitbucket**,23,FALSE,NA,###  New Packages,unid,2019-08-26
-+ [{pinpoint}: Interactively explore and compare a distribution of numeric points](https://github.com/daranzolin/pinpoint),122,FALSE,NA,###  New Packages,link,2019-08-26
-![{pinpoint}: Interactively explore and compare a distribution of numeric points](https://raw.githubusercontent.com/rweekly/image/master/2019/34/pinpoint.gif),158,FALSE,NA,###  New Packages,image,2019-08-26
-+ [{googledrive 1.0.0}](https://www.tidyverse.org/articles/2019/08/googledrive-1-0-0/),86,FALSE,NA,### Updated Packages,link,2019-08-26
-+ [{RcppQuantuccia} 0.0.3](http://dirk.eddelbuettel.com/blog/2019/08/19#rcppquantuccia_0.0.3),93,FALSE,NA,### Updated Packages,link,2019-08-26
-+ [{RSwitch} 1.3.0](https://rud.is/b/2019/08/23/improvements-to-rswitch-in-v1-3-0/),83,FALSE,NA,### Updated Packages,link,2019-08-26
-+ [{RcppExamples} 0.1.9](http://dirk.eddelbuettel.com/blog/2019/08/24#rcppexamples_0.1.9),89,FALSE,NA,### Updated Packages,link,2019-08-26
-+ [{clean} 1.1.0 Fast and Easy Data Cleaning](https://msberends.github.io/clean/),81,FALSE,NA,### Updated Packages,link,2019-08-26
-+ [Learn to purrr](http://www.rebeccabarter.com/blog/2019-08-19_purrr/),71,FALSE,NA,###  Tutorials,link,2019-08-26
-"+ [Fun with progress bars: Fish, daggers and the Star Wars trench run](http://gradientdescending.com/fun-with-progress-bars-fish-daggers-and-the-star-wars-trench-run/)",167,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [A New Website by Noam Ross](https://www.noamross.net/2019/08/09/a-new-website/),82,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [ggplot visualization of conditional inference trees](https://luisdva.github.io/rstats/plotting-recursive-partitioning-trees/),128,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Visualizing the relationship between multiple variables](https://statisticaloddsandends.wordpress.com/2019/08/24/visualizing-the-relationship-between-multiple-variables/),173,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Tutorial on processing volcano video data using the imagefx package.  ](https://cran.r-project.org/web/packages/imagefx/vignettes/extract_volcano_plume_tutorial.html),169,FALSE,NA,###  Tutorials,link,2019-08-26
-![Tutorial on processing volcano video data using the imagefx package. ](https://raw.githubusercontent.com/rweekly/image/master/2019/34/volcano.png),148,FALSE,NA,###  Tutorials,image,2019-08-26
-+ [Spurious correlations and random walks](https://fabiandablander.com/r/Spurious-Correlation.html),99,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Geographic projections and transformations](https://geocompr.github.io/post/2019/crs-projections-transformations/),117,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Changing the variable inside an R formula](https://statisticaloddsandends.wordpress.com/2019/08/24/changing-the-variable-inside-an-r-formula/),145,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Where do p-values come from? Fundamental concepts and simulation approach](https://alemorales.info/post/introduction-sampling-distribution/),143,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Modern Reporting or R with Dash.](https://moderndata.plot.ly/modern-reporting-for-r-with-dash/),98,FALSE,NA,###  Tutorials,link,2019-08-26
-![Modern Reporting or R with Dash.](https://raw.githubusercontent.com/rweekly/image/master/2019/34/plot_dash.gif),113,FALSE,NA,###  Tutorials,image,2019-08-26
-+ [How to setup a blog using the distill RStudio package](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/),127,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Detecting outlier samples in PCA](https://privefl.github.io/blog/detecting-outlier-samples-in-pca/),102,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Dash with golem: First contact](https://rtask.thinkr.fr/dash-with-golem-the-beginning/),90,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [How to get an AUC confidence interval](https://theautomatic.net/2019/08/20/how-to-get-an-auc-confidence-interval/),117,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [How to Use CSS to Style Your R Shiny Projects](https://appsilon.com/howto-css-and-shiny/),92,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Notes on Becoming an RStudio Certified Trainer](https://arilamstein.com/blog/2019/08/20/notes-on-becoming-an-rstudio-certified-trainer/),139,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Quick Hit: A new 64-bit Swift 5 RSwitch App](https://rud.is/b/2019/08/22/quick-hit-a-new-64-bit-swift-5-rswitch-app/),120,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Eliminating Tail Calls in Python Using Exceptions](http://www.win-vector.com/blog/2019/08/eliminating-tail-calls-in-python-using-exceptions/),144,FALSE,NA,###  Tutorials,link,2019-08-26
-"+ [Polyglot FizzBuzz in R (Plus: ""Why Can't Johnny Code?"")](https://rud.is/b/2019/08/23/polyglot-fizzbuzz-in-r-plus-why-cant-johnny-code/)",138,FALSE,NA,###  Tutorials,link,2019-08-26
-+ [Inferring a continuous distribution from binned data](http://freerangestats.info/blog/2019/08/25/fitting-bins),113,FALSE,NA,###  Tutorials,link,2019-08-26
-"<!--<div class=""post-more-begi",30,FALSE,NA,###  Tutorials,unid,2019-08-26
-"n></div><div class=""post-more-end""></div>-->",44,FALSE,NA,###  Tutorials,unid,2019-08-26
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2019-08-26
-Events in 3 Months:,19,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-08-26
-"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)",63,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-26
-"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-26
-+ [Why R? 2019 Conference - Warsaw 26-29 September 2019](http://whyr.pl/2019/),78,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-26
-"+ [rOpenSci OzUnconf (Sydney, Australia), December 11 - 13 2019](https://ozunconf19.ropensci.org/)",98,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-26
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-26
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,NA,###  Upcoming Events in 3 Months,link,2019-08-26
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events in 3 Months,unid,2019-08-26
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Call for Participation,unid,2019-08-26
-"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Added an <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> pep talk to my syllabus to assuage fears <a href=""https://t.co/EciFlMuUza"">pic.twitter.com/EciFlMuUza</a></p>&mdash; Andrew Heiss, PhD (@andrewheiss) <a href=""https://twitter.com/andrewheiss/status/1165310391750189063?ref_src=twsrc%5Etfw"">August 24, 2019</a></blockquote>",427,FALSE,NA,###  Quotes of the Week,unid,2019-08-26
-"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,NA,###  Quotes of the Week,unid,2019-08-26
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2019-08-26
+"title: R Weekly 2019-34 LondonR, gargle, Pokémon",48,FALSE,NA,unid,2019-08-26
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2019-08-26
+image: https://rweekly.org/public/facebook.png,46,FALSE,NA,unid,2019-08-26
+---,3,FALSE,NA,unid,2019-08-26
++ [LondonR: Hadley Wickham & tidyverse's greatest hits](https://martinctc.github.io/blog/londonr-hadley-wickham-and-tidyverse-greatest-hits/),141,FALSE,###  Highlight,link,2019-08-26
++ [What Types Should You Have on Your Pokémon Team? Efficient Simulation with Matrices in R!](https://hookedondata.org/pokemon-type-combinations/),146,FALSE,###  Highlight,link,2019-08-26
+"+ [$50,000 in New Grants Approved](https://www.r-consortium.org/blog/2019/08/23/50000-in-new-grants-approved)",109,FALSE,###  Highlight,link,2019-08-26
++ [{gargle}: The goal of gargle is to take some of the agonizing pain out of working with Google APIs](https://www.tidyverse.org/articles/2019/08/gargle-hello-world/),166,FALSE,###  Highlight,link,2019-08-26
++ [What Types Should You Have on Your Pokémon Team? Efficient Simulation with Matrices in R!](https://hookedondata.org/pokemon-type-combinations/),146,FALSE,### Insights,link,2019-08-26
++ [PassSonar: Visualizing Player Interactions in Soccer Analytics](https://medium.com/nightingale/passsonar-visualizing-player-interactions-in-soccer-analytics-7708e1d94afc),173,FALSE,### Insights,link,2019-08-26
+![PassSonar: Visualizing Player Interactions in Soccer Analytics](https://raw.githubusercontent.com/rweekly/image/master/2019/34/medium-night.png),146,FALSE,### Insights,image,2019-08-26
++ [LondonR: Hadley Wickham & tidyverse's greatest hits](https://martinctc.github.io/blog/londonr-hadley-wickham-and-tidyverse-greatest-hits/),141,FALSE,### Insights,link,2019-08-26
+"+ [Visualizing Soccer with StatsBomb Data and R, Part 1: Simple xG and Pass Partner Plots!](https://ryo-n7.github.io/2019-08-21-visualize-soccer-statsbomb-part-1/)",163,FALSE,### R in the Real World,link,2019-08-26
+"![Visualizing Soccer with StatsBomb Data and R, Part 1: Simple xG and Pass Partner Plots!](https://raw.githubusercontent.com/rweekly/image/master/2019/34/soccer-statsbomb.png)",175,FALSE,### R in the Real World,image,2019-08-26
+"+ [Generating Oxford Comma triples, and sequenced BibTeX entries using the Tidyverse](https://www.shamindras.com/posts/2019-07-15-shrotriya2019tidyfunpt1/)",155,FALSE,### R in the Real World,link,2019-08-26
++ [Rcpp now used by 1750 CRAN packages](http://dirk.eddelbuettel.com/blog/2019/08/21#rcpp_1750_packages),104,FALSE,### R in the Real World,link,2019-08-26
+![Rcpp now used by 1750 CRAN packages](https://raw.githubusercontent.com/rweekly/image/master/2019/34/rcpp-1750.png),116,FALSE,### R in the Real World,image,2019-08-26
+"+ [$50,000 in New Grants Approved](https://www.r-consortium.org/blog/2019/08/23/50000-in-new-grants-approved)",109,FALSE,###  R in Organizations,link,2019-08-26
++ [Introducing Open Forensic Science in R](https://ropensci.org/blog/2019/08/20/forensic-science/),98,FALSE,###  R in Organizations,link,2019-08-26
++ [Organize Why R? 2019 pre-meeting in your city](http://r-addict.com/2019/08/23/WhyR-2019-Premeetings.html),108,FALSE,###  R in Organizations,link,2019-08-26
+![Organize Why R? 2019 pre-meeting in your city](https://raw.githubusercontent.com/rweekly/image/master/2019/34/whyr.png),121,FALSE,###  R in Organizations,image,2019-08-26
+"+ [Elevated blood lead level test results (St. Louis, MO) visualizations](https://github.com/slu-soc1120/STL_HEALTH_Lead)",121,FALSE,###  Resources,link,2019-08-26
++ [ggplot2 book 3rd edition](https://ggplot2-book.org),54,FALSE,###  Resources,link,2019-08-26
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2019-08-26
+**CRAN**,8,FALSE,###  New Packages,unid,2019-08-26
++ [{clean}: cleaning and checking data columns in a fast and easy way!](https://github.com/msberends/clean),107,FALSE,###  New Packages,link,2019-08-26
++ [{tidycells}: Read Tabular Data from Diverse Sources and Easily Make Them Tidy!](https://github.com/r-rudra/tidycells),120,FALSE,###  New Packages,link,2019-08-26
++ [{gargle}: The goal of gargle is to take some of the agonizing pain out of working with Google APIs](https://www.tidyverse.org/articles/2019/08/gargle-hello-world/),166,FALSE,###  New Packages,link,2019-08-26
++ [{ragg}: AGG library for R](https://ragg.r-lib.org/),54,FALSE,###  New Packages,link,2019-08-26
+**GitHub or Bitbucket**,23,FALSE,###  New Packages,unid,2019-08-26
++ [{pinpoint}: Interactively explore and compare a distribution of numeric points](https://github.com/daranzolin/pinpoint),122,FALSE,###  New Packages,link,2019-08-26
+![{pinpoint}: Interactively explore and compare a distribution of numeric points](https://raw.githubusercontent.com/rweekly/image/master/2019/34/pinpoint.gif),158,FALSE,###  New Packages,image,2019-08-26
++ [{googledrive 1.0.0}](https://www.tidyverse.org/articles/2019/08/googledrive-1-0-0/),86,FALSE,### Updated Packages,link,2019-08-26
++ [{RcppQuantuccia} 0.0.3](http://dirk.eddelbuettel.com/blog/2019/08/19#rcppquantuccia_0.0.3),93,FALSE,### Updated Packages,link,2019-08-26
++ [{RSwitch} 1.3.0](https://rud.is/b/2019/08/23/improvements-to-rswitch-in-v1-3-0/),83,FALSE,### Updated Packages,link,2019-08-26
++ [{RcppExamples} 0.1.9](http://dirk.eddelbuettel.com/blog/2019/08/24#rcppexamples_0.1.9),89,FALSE,### Updated Packages,link,2019-08-26
++ [{clean} 1.1.0 Fast and Easy Data Cleaning](https://msberends.github.io/clean/),81,FALSE,### Updated Packages,link,2019-08-26
++ [Learn to purrr](http://www.rebeccabarter.com/blog/2019-08-19_purrr/),71,FALSE,###  Tutorials,link,2019-08-26
+"+ [Fun with progress bars: Fish, daggers and the Star Wars trench run](http://gradientdescending.com/fun-with-progress-bars-fish-daggers-and-the-star-wars-trench-run/)",167,FALSE,###  Tutorials,link,2019-08-26
++ [A New Website by Noam Ross](https://www.noamross.net/2019/08/09/a-new-website/),82,FALSE,###  Tutorials,link,2019-08-26
++ [ggplot visualization of conditional inference trees](https://luisdva.github.io/rstats/plotting-recursive-partitioning-trees/),128,FALSE,###  Tutorials,link,2019-08-26
++ [Visualizing the relationship between multiple variables](https://statisticaloddsandends.wordpress.com/2019/08/24/visualizing-the-relationship-between-multiple-variables/),173,FALSE,###  Tutorials,link,2019-08-26
++ [Tutorial on processing volcano video data using the imagefx package.  ](https://cran.r-project.org/web/packages/imagefx/vignettes/extract_volcano_plume_tutorial.html),169,FALSE,###  Tutorials,link,2019-08-26
+![Tutorial on processing volcano video data using the imagefx package. ](https://raw.githubusercontent.com/rweekly/image/master/2019/34/volcano.png),148,FALSE,###  Tutorials,image,2019-08-26
++ [Spurious correlations and random walks](https://fabiandablander.com/r/Spurious-Correlation.html),99,FALSE,###  Tutorials,link,2019-08-26
++ [Geographic projections and transformations](https://geocompr.github.io/post/2019/crs-projections-transformations/),117,FALSE,###  Tutorials,link,2019-08-26
++ [Changing the variable inside an R formula](https://statisticaloddsandends.wordpress.com/2019/08/24/changing-the-variable-inside-an-r-formula/),145,FALSE,###  Tutorials,link,2019-08-26
++ [Where do p-values come from? Fundamental concepts and simulation approach](https://alemorales.info/post/introduction-sampling-distribution/),143,FALSE,###  Tutorials,link,2019-08-26
++ [Modern Reporting or R with Dash.](https://moderndata.plot.ly/modern-reporting-for-r-with-dash/),98,FALSE,###  Tutorials,link,2019-08-26
+![Modern Reporting or R with Dash.](https://raw.githubusercontent.com/rweekly/image/master/2019/34/plot_dash.gif),113,FALSE,###  Tutorials,image,2019-08-26
++ [How to setup a blog using the distill RStudio package](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/),127,FALSE,###  Tutorials,link,2019-08-26
++ [Detecting outlier samples in PCA](https://privefl.github.io/blog/detecting-outlier-samples-in-pca/),102,FALSE,###  Tutorials,link,2019-08-26
++ [Dash with golem: First contact](https://rtask.thinkr.fr/dash-with-golem-the-beginning/),90,FALSE,###  Tutorials,link,2019-08-26
++ [How to get an AUC confidence interval](https://theautomatic.net/2019/08/20/how-to-get-an-auc-confidence-interval/),117,FALSE,###  Tutorials,link,2019-08-26
++ [How to Use CSS to Style Your R Shiny Projects](https://appsilon.com/howto-css-and-shiny/),92,FALSE,###  Tutorials,link,2019-08-26
++ [Notes on Becoming an RStudio Certified Trainer](https://arilamstein.com/blog/2019/08/20/notes-on-becoming-an-rstudio-certified-trainer/),139,FALSE,###  Tutorials,link,2019-08-26
++ [Quick Hit: A new 64-bit Swift 5 RSwitch App](https://rud.is/b/2019/08/22/quick-hit-a-new-64-bit-swift-5-rswitch-app/),120,FALSE,###  Tutorials,link,2019-08-26
++ [Eliminating Tail Calls in Python Using Exceptions](http://www.win-vector.com/blog/2019/08/eliminating-tail-calls-in-python-using-exceptions/),144,FALSE,###  Tutorials,link,2019-08-26
+"+ [Polyglot FizzBuzz in R (Plus: ""Why Can't Johnny Code?"")](https://rud.is/b/2019/08/23/polyglot-fizzbuzz-in-r-plus-why-cant-johnny-code/)",138,FALSE,###  Tutorials,link,2019-08-26
++ [Inferring a continuous distribution from binned data](http://freerangestats.info/blog/2019/08/25/fitting-bins),113,FALSE,###  Tutorials,link,2019-08-26
+"<!--<div class=""post-more-begi",30,FALSE,###  Tutorials,unid,2019-08-26
+"n></div><div class=""post-more-end""></div>-->",44,FALSE,###  Tutorials,unid,2019-08-26
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2019-08-26
+Events in 3 Months:,19,FALSE,###  Upcoming Events in 3 Months,unid,2019-08-26
+"+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)",63,FALSE,###  Upcoming Events in 3 Months,link,2019-08-26
+"+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D",126,FALSE,###  Upcoming Events in 3 Months,link,2019-08-26
++ [Why R? 2019 Conference - Warsaw 26-29 September 2019](http://whyr.pl/2019/),78,FALSE,###  Upcoming Events in 3 Months,link,2019-08-26
+"+ [rOpenSci OzUnconf (Sydney, Australia), December 11 - 13 2019](https://ozunconf19.ropensci.org/)",98,FALSE,###  Upcoming Events in 3 Months,link,2019-08-26
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html),95,FALSE,###  Upcoming Events in 3 Months,link,2019-08-26
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl),90,FALSE,###  Upcoming Events in 3 Months,link,2019-08-26
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events in 3 Months,unid,2019-08-26
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Call for Participation,unid,2019-08-26
+"<blockquote class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Added an <a href=""https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw"">#rstats</a> pep talk to my syllabus to assuage fears <a href=""https://t.co/EciFlMuUza"">pic.twitter.com/EciFlMuUza</a></p>&mdash; Andrew Heiss, PhD (@andrewheiss) <a href=""https://twitter.com/andrewheiss/status/1165310391750189063?ref_src=twsrc%5Etfw"">August 24, 2019</a></blockquote>",427,FALSE,###  Quotes of the Week,unid,2019-08-26
+"<script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>",85,FALSE,###  Quotes of the Week,unid,2019-08-26

@@ -1,101 +1,101 @@
-value,nchar,section_lookup,section_title,section,type,issue
----,3,FALSE,NA,NA,unid,2017-05-08
-layout: post,12,FALSE,NA,NA,unid,2017-05-08
-"title: R Weekly 2017-19 Mining CRAN, GSOC2017, DataSci & Public&nbsp;Good",73,FALSE,NA,NA,unid,2017-05-08
-description: Weekly News in the R Community.,44,FALSE,NA,NA,unid,2017-05-08
----,3,FALSE,NA,NA,unid,2017-05-08
-<!--Mining CRAN DESCRIPTION files](http://juliasilge.com/blog/Mining-CRAN-DESCRIPTION/)-->,90,FALSE,NA,###  Highlight,unid,2017-05-08
-+ [BrailleR](https://github.com/ajrgodfrey/BrailleR) - Improving R for blind users.,83,FALSE,NA,###  Highlight,link,2017-05-08
-+ [Google Summer of Code 2017](https://summerofcode.withgoogle.com/organizations/4947241283354624/),99,FALSE,NA,###  Highlight,link,2017-05-08
-"+ [sqlite, feather, and fst](http://kbroman.org/blog/2017/04/30/sqlite-feather-and-fst/)",88,FALSE,NA,###  Insights,link,2017-05-08
-"+ [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)",186,FALSE,NA,###  Insights,link,2017-05-08
-"![Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://raw.githubusercontent.com/rweekly/image/master/2017-03/AllDinosGrey_1_scale.png)",217,FALSE,NA,###  Insights,image,2017-05-08
-+ [Recreating the Datasaurus Dozen Using tweenr and ggplot2](https://wjakethompson.github.io/post/datasaurus-dozen/),116,FALSE,NA,###  Insights,link,2017-05-08
-+ [The making of datasauRus](https://itsalocke.com/the-making-of-datasaurus/),77,FALSE,NA,###  Insights,link,2017-05-08
-+ [Soma Water Filters Are Worthless: How I Used R To Win An Argument With My Wife](http://tylermw.com/soma-water-filters-are-worthless-how-i-used-r-to-win-an-argument-with-my-wife/),181,FALSE,NA,###  Insights,link,2017-05-08
-![Soma Water Filters Are Worthless: How I Used R To Win An Argument With My Wife](https://raw.githubusercontent.com/rweekly/image/master/2017-03/experimentruns-1.png),166,FALSE,NA,###  Insights,image,2017-05-08
-+ [Key Takeaways from OpenVisConf 2017](http://tcbanalytics.com/2017/05/03/key-takeaways-from-openvisconf-2017-2/),114,FALSE,NA,###  Insights,link,2017-05-08
-+ [Statistician ranked as best job in 2017 by CareerCast ](http://blog.revolutionanalytics.com/2017/05/best-job-i2017-statistican.html),135,FALSE,NA,###  Insights,link,2017-05-08
-<!--Mining CRAN DESCRIPTION files](http://juliasilge.com/blog/Mining-CRAN-DESCRIPTION/)-->,90,FALSE,NA,###  R in the Real World,unid,2017-05-08
-![Mining CRAN DESCRIPTION files](https://raw.githubusercontent.com/juliasilge/juliasilge.github.io/master/figs/2017-05-04-Mining-CRAN-DESCRIPTION/practices-1.png),162,FALSE,NA,###  R in the Real World,image,2017-05-08
-"+ [Using the Hydro Network-Linked Data Index, add river features to your next R map](https://owi.usgs.gov/blog/nldi-intro/)",123,FALSE,NA,###  R in the Real World,link,2017-05-08
-+ [Analysis of Inaugural Speech Data: Part 1](https://pradeepadhokshaja.wordpress.com/2017/05/01/analysis-of-inaugural-speech-data-part-1/),139,FALSE,NA,###  R in the Real World,link,2017-05-08
-+ [House price visualizations](http://lenkiefer.github.io/2017/05/02/house-price-viz),85,FALSE,NA,###  R in the Real World,link,2017-05-08
-+ ['And the winner is...' Textmining Award Nominations](https://daranzolin.github.io/articles/2017-04/nomination-mining),120,FALSE,NA,###  R in the Real World,link,2017-05-08
-+ [Visualizing Tennis Grand Slam Winners Performances](https://datascienceplus.com/visualizing-tennis-grand-slam-winners-performances/),135,FALSE,NA,###  R in the Real World,link,2017-05-08
-![Visualizing Tennis Grand Slam Winners Performances](https://datascienceplus.com/wp-content/uploads/2017/04/barplot_facet.png),127,FALSE,NA,###  R in the Real World,image,2017-05-08
-+ [House price growth and employment trends](http://lenkiefer.github.io/2017/05/03/house-price-emp-trends),106,FALSE,NA,###  R in the Real World,link,2017-05-08
-+ [Estimating the Size of a Demonstration](http://staff.math.su.se/hoehle/blog/2017/05/04/crowdsize.html),105,FALSE,NA,###  R in the Real World,link,2017-05-08
-+ [Some default and debt restructuring data](http://simplystats.github.io/2017/05/04/debt-haircuts/),100,FALSE,NA,###  R in the Real World,link,2017-05-08
-+ [Roger Peng - Data Science for the Public Good: A Case Study in Environmental Health](https://www.stolaf.edu/multimedia/play/?e=1935),135,FALSE,NA,###  Videos and Podcasts,link,2017-05-08
-+ [Text Analysis R Developers' Workshop 2017](http://ropensci.org/blog/blog/2017/05/03/textworkshop17),102,FALSE,NA,###  R in Organizations,link,2017-05-08
-+ [Chat with the rOpenSci team at upcoming meetings](http://ropensci.org/blog/blog/2017/05/01/ropensci-at-meetings),115,FALSE,NA,###  R in Organizations,link,2017-05-08
-+ [Shiny in Medicine](https://rviews.rstudio.com/2017/05/03/shiny-in-medicine/),79,FALSE,NA,###  R in Organizations,link,2017-05-08
-+ [Premiers pas en Machine Learning avec R. Volume 2 : la classification](http://www.thinkr.fr/premiers-pas-en-machine-learning-avec-r-volume-2-la-classification/) — [English - Autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/premiers-pas-en-machine-learning-avec-r-volume-2-la-classification/) ,338,FALSE,NA,###  R Internationally,link,2017-05-08
-+ [Des recours différents à la procuration](http://coulmont.com/blog/2017/05/04/quartier-procuration/) — [English - Autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://coulmont.com/blog/2017/05/04/quartier-procuration/)  ,247,FALSE,NA,###  R Internationally,link,2017-05-08
-+ [Google Summer of Code 2017](https://summerofcode.withgoogle.com/organizations/4947241283354624/) - [Noninvasive source code formatting](https://summerofcode.withgoogle.com/projects/#5106168436359168),202,FALSE,NA,###  R in Academia,link,2017-05-08
-+ [plotly for R workshop at plotcon '17](https://github.com/cpsievert/plotcon17),80,FALSE,NA,###  Resources,link,2017-05-08
-+ [A Psychologist's Guide to R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R),94,FALSE,NA,###  Resources,link,2017-05-08
-"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,NA,###  Resources,unid,2017-05-08
-"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,NA,###  New Packages,unid,2017-05-08
-+ [BrailleR](https://github.com/ajrgodfrey/BrailleR) - Improving R for blind users.,83,FALSE,NA,###  New Packages,link,2017-05-08
-+ [decapitated](https://github.com/hrbrmstr/decapitated) - Headless 'Chrome' Orchestration in R,95,FALSE,NA,###  New Packages,link,2017-05-08
-+ [casebase](https://github.com/sahirbhatnagar/casebase) - Fit Flexible Smooth-in-Time Hazards and Risk Functions via Logistic and Multinomial Regression,153,FALSE,NA,###  New Packages,link,2017-05-08
-![casebase](https://raw.githubusercontent.com/sahirbhatnagar/casebase/master/docs/intro_files/figure-markdown/unnamed-chunk-25-1.png),133,FALSE,NA,###  New Packages,image,2017-05-08
-+ [timekit](http://www.business-science.io/code-tools/2017/05/02/timekit-0-2-0.html) - Time Series Forecast Applications Using Data Mining,138,FALSE,NA,###  New Packages,link,2017-05-08
-+ [desctable](https://github.com/maximewack/desctable) -  An R package to produce descriptive and comparative tables,116,FALSE,NA,###  New Packages,link,2017-05-08
-+ [Sinew](http://r-posts.com/adding-sinew-to-roxygen2-skeletons/) - Create self-populating roxygen2 skeletons,109,FALSE,NA,###  New Packages,link,2017-05-08
-+ [Technical Foundations of Informatics: A modern introduction to R ](http://blog.revolutionanalytics.com/2017/05/technical-foundations-of-informatics.html),156,FALSE,NA,###  Tutorials,link,2017-05-08
-"+ [crayon colors, simplified](http://kbroman.org/blog/2017/05/02/crayon-colors-simplified/)",91,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Monthly seasonality](http://robjhyndman.com/hyndsight/monthly-seasonality/),78,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [A note on AIC scores for quasi-families in #rstats](http://www.christopherlortie.info/a-note-on-aic-scores-for-quasi-families-in-rstats/),140,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [caching blogdown](http://kbroman.org/blog/2017/05/01/caching-blogdown/),74,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Scrapeover Friday — a.k.a. Another R Scraping Makeover](https://rud.is/b/2017/05/05/scrapeover-friday-a-k-a-another-r-scraping-makeover/),140,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Billboard 1964-2015 Songs + Lyrics](https://www.kaggle.com/stansilas/d/rakannimer/billboard-lyrics/love-lasts-forever/code),126,FALSE,NA,###  Tutorials,link,2017-05-08
-![Billboard 1964-2015 Songs + Lyrics](https://www.kaggle.io/svf/1118691/0be278bb3fec820401626ae7c2e2e42d/songs_blbrd.gif),121,FALSE,NA,###  Tutorials,image,2017-05-08
-+ [How to Establish a Web Presence as an R User and Why It's Important ](https://rviews.rstudio.com/2017/05/05/web_presence/),125,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Autoencoders and anomaly detection with machine learning in fraud analytics](https://shirinG.github.io/machine_learning/2017/05/01/fraud),140,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [R plotmath functions combined with variable values ](http://lukemiller.org/index.php/2017/05/r-plotmath-functions-combined-with-variable-values/),148,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Prediction intervals for GLMs part I](http://www.fromthebottomoftheheap.net/2017/05/01/glm-prediction-intervals-i/) - [part II](http://www.fromthebottomoftheheap.net/2017/05/01/glm-prediction-intervals-ii/),209,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Updating R](https://lcolladotor.github.io/2017/05/04/Updating-R/),68,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Figure Aesthetics or Overlays?](https://blog.ouseful.info/2017/05/02/figure-aesthetics-or-overlays/),103,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Race Track Concordance Charts](https://blog.ouseful.info/2017/05/01/track-concordance-charts/),97,FALSE,NA,###  Tutorials,link,2017-05-08
-![https://blog.ouseful.info/2017/05/01/track-concordance-charts/](https://ouseful.files.wordpress.com/2017/05/botconctest.png),126,FALSE,NA,###  Tutorials,image,2017-05-08
-+ [twidlr: data.frame-based API for model and predict functons](http://drsimonj.svbtle.com/twidlr-data-frame-based-api-for-model-and-predict-functons),150,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Why to use wrapr::let()](http://www.win-vector.com/blog/2017/05/why-to-use-wraprlet/),88,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Extracting data from Twitter for #machinelearningflashcards](http://jasdumas.github.io/2017-05-02-twitter-ml-flashcards/),124,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Update to autoencoders and anomaly detection with machine learning in fraud analytics](https://shirinG.github.io/machine_learning/2017/05/02/fraud_2),152,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [End-to-End Scenarios Enabled by the Data Science Virtual Machine: Webinar Video](https://blogs.technet.microsoft.com/machinelearning/2017/05/02/end-to-end-scenarios-enabled-by-the-data-science-virtual-machine-video/),219,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Taking control of animations in R and demystifying them in the process](http://www.data-imaginist.com/2017/Animating-the-logo/),130,FALSE,NA,###  Tutorials,link,2017-05-08
-![Taking control of animations in R and demystifying them in the process](https://raw.githubusercontent.com/thomasp85/thomasp85.github.io/master/assets/images/2017-05-02-Animating-the-logo/unnamed-chunk-8-.gif),210,FALSE,NA,###  Tutorials,image,2017-05-08
-+ [Adding Sinew to Roxygen2 Skeletons](http://r-posts.com/adding-sinew-to-roxygen2-skeletons/),94,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [A tribute to Lucy D'Agostino McGowan's git commit emoji game](http://maelle.github.io/2017/05/03/lucysemojis/),113,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Workout Wednesday with pollstR](http://www.austinwehrwein.com/data-visualization/workout-wednesday-pollstr/),111,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Real-time scoring with Microsoft R Server 9.1](http://blog.revolutionanalytics.com/2017/05/real-time-scoring-with-mrs-91.html),129,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Machine Learning Forecasting Numeric Data with Multiple Linear Regression (Medical Expenses)](http://datarvalue.blogspot.com/2017/05/machine-learning-forecasting-numeric.html),178,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Fitting count and zero-inflated count GLMMs with mgcv](http://www.fromthebottomoftheheap.net/2017/05/04/compare-mgcv-with-glmmTMB/),134,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Everyone knows that loops in R are to be avoided but vectorization is not always possible](http://r-posts.com/everyone-knows-that-loops-in-r-are-to-be-avoided-but-vectorization-is-not-always-possible/),204,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Building Shiny App for Alcohol Consumption Data Set](https://pradeepadhokshaja.wordpress.com/2017/05/05/building-shiny-app-for/),131,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [Modelling individual party vote from the 2014 New Zealand election study](http://ellisp.github.io/blog/2017/05/06/nz-first),126,FALSE,NA,###  Tutorials,link,2017-05-08
-![Modelling individual party vote from the 2014 New Zealand election study](https://ellisp.github.io/img/0096-svyglm-boot.svg),126,FALSE,NA,###  Tutorials,image,2017-05-08
-"+ [Modeling Face Images with Nonnegative Matrix Factorization (NMF), Kmeans with Vector Quantization (VQ) and Singular Value Decompostion (SVD) in R](https://sandipanweb.wordpress.com/2017/04/29/modeling-face-images-with-nonnegative-matrix-factorization-nmf-kmeans-with-vector-quantization-vq-and-singular-value-decompostion-svd/)",330,FALSE,NA,###  Tutorials,link,2017-05-08
-+ [A Semi-Supervised Classification Algorithm using Markov Chain and Random Walk in R](https://sandipanweb.wordpress.com/2017/04/09/a-semi-supervised-classification-algorithm-using-markov-chain-and-random-walk-in-r/),216,FALSE,NA,###  Tutorials,link,2017-05-08
-"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,NA,###  Tutorials,unid,2017-05-08
-+ [RcppEigen 0.3.3.3.0](http://dirk.eddelbuettel.com/blog/2017/05/05#rcppeigen_0.3.3.3.0) - 'Rcpp' Integration for the 'Eigen' Templated Linear Algebra Library,159,FALSE,NA,###  Package Releases,link,2017-05-08
-+ [RInside 0.2.14](http://dirk.eddelbuettel.com/blog/2017/05/07#rinside_0.2.14) - Provides a set of convenience classes which facilitate embedding of R inside of C++ applications ,179,FALSE,NA,###  Package Releases,link,2017-05-08
-+ [x13binary 1.1.39-1](http://dirk.eddelbuettel.com/blog/2017/05/06#x13binary_1.1.39-1) - Provide the 'x13ashtml' Seasonal Adjustment Binary,140,FALSE,NA,###  Package Releases,link,2017-05-08
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,NA,###  R Project Updates,unid,2017-05-08
-"+  Connections are now written correctly with encoding `""UTF-16LE""`. ",69,FALSE,NA,###  R Project Updates,unid,2017-05-08
-"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,NA,###  Upcoming Events,link,2017-05-08
-"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance.",176,FALSE,NA,###  Upcoming Events,unid,2017-05-08
-"+ [R in Insurance 2017](https://rininsurance17.sciencesconf.org/) **June 8, 2017** <br />",89,FALSE,NA,###  Upcoming Events,link,2017-05-08
-"This one-day conference will focus on applications in insurance and actuarial science that use R, the lingua franca for statistical computation.",144,FALSE,NA,###  Upcoming Events,unid,2017-05-08
-"+ [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />",81,FALSE,NA,###  Upcoming Events,link,2017-05-08
-Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.,224,FALSE,NA,###  Upcoming Events,unid,2017-05-08
-"+ [angletR 2017](http://angletr2017.com/) **June 28 - 30, 2017** <br/>",70,FALSE,NA,###  Upcoming Events,link,2017-05-08
-"angletR aims to provide a national forum to exchange and share ideas on the use of R in different subjects such as visualisation, applied statistics, biostatistics and bioinformatics, Bayesian statistics, data analysis, Big Data, modelling, machine learning, high performance computing, etc.",291,FALSE,NA,###  Upcoming Events,unid,2017-05-08
-"<!-- !useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",68,FALSE,NA,###  Upcoming Events,unid,2017-05-08
-The annual useR! conference is the main meeting of the international R user and developer community.-->,103,FALSE,NA,###  Upcoming Events,unid,2017-05-08
-More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,NA,###  Upcoming Events,unid,2017-05-08
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Making the most of an airport terminal. geom_sankey (to be included in <a href=""https://twitter.com/hashtag/ggforce?src=hash"">#ggforce</a>)<a href=""https://twitter.com/hashtag/ggplot2?src=hash"">#ggplot2</a> <a href=""https://twitter.com/hashtag/dataviz?src=hash"">#dataviz</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://t.co/Vp62LoXF1a"">pic.twitter.com/Vp62LoXF1a</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href=""https://twitter.com/thomasp85/status/860349452841697280"">May 5, 2017</a></blockquote>",616,FALSE,NA,###  Quotes of the Week,unid,2017-05-08
-"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">What would it be for <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a>? Maybe<br><br>R: What if statisticians wrote a programming language?<br><br>shared by <a href=""https://twitter.com/sempf"">@sempf</a> <a href=""https://t.co/RTPTajlLsl"">pic.twitter.com/RTPTajlLsl</a></p>&mdash; Clark Fitzgerald (@clarkfitzg) <a href=""https://twitter.com/clarkfitzg/status/860168573343236096"">May 4, 2017</a></blockquote>",494,FALSE,NA,###  Quotes of the Week,unid,2017-05-08
+value,nchar,section_lookup,section_title,type,issue
+---,3,FALSE,NA,unid,2017-05-08
+layout: post,12,FALSE,NA,unid,2017-05-08
+"title: R Weekly 2017-19 Mining CRAN, GSOC2017, DataSci & Public&nbsp;Good",73,FALSE,NA,unid,2017-05-08
+description: Weekly News in the R Community.,44,FALSE,NA,unid,2017-05-08
+---,3,FALSE,NA,unid,2017-05-08
+<!--Mining CRAN DESCRIPTION files](http://juliasilge.com/blog/Mining-CRAN-DESCRIPTION/)-->,90,FALSE,###  Highlight,unid,2017-05-08
++ [BrailleR](https://github.com/ajrgodfrey/BrailleR) - Improving R for blind users.,83,FALSE,###  Highlight,link,2017-05-08
++ [Google Summer of Code 2017](https://summerofcode.withgoogle.com/organizations/4947241283354624/),99,FALSE,###  Highlight,link,2017-05-08
+"+ [sqlite, feather, and fst](http://kbroman.org/blog/2017/04/30/sqlite-feather-and-fst/)",88,FALSE,###  Insights,link,2017-05-08
+"+ [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)",186,FALSE,###  Insights,link,2017-05-08
+"![Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://raw.githubusercontent.com/rweekly/image/master/2017-03/AllDinosGrey_1_scale.png)",217,FALSE,###  Insights,image,2017-05-08
++ [Recreating the Datasaurus Dozen Using tweenr and ggplot2](https://wjakethompson.github.io/post/datasaurus-dozen/),116,FALSE,###  Insights,link,2017-05-08
++ [The making of datasauRus](https://itsalocke.com/the-making-of-datasaurus/),77,FALSE,###  Insights,link,2017-05-08
++ [Soma Water Filters Are Worthless: How I Used R To Win An Argument With My Wife](http://tylermw.com/soma-water-filters-are-worthless-how-i-used-r-to-win-an-argument-with-my-wife/),181,FALSE,###  Insights,link,2017-05-08
+![Soma Water Filters Are Worthless: How I Used R To Win An Argument With My Wife](https://raw.githubusercontent.com/rweekly/image/master/2017-03/experimentruns-1.png),166,FALSE,###  Insights,image,2017-05-08
++ [Key Takeaways from OpenVisConf 2017](http://tcbanalytics.com/2017/05/03/key-takeaways-from-openvisconf-2017-2/),114,FALSE,###  Insights,link,2017-05-08
++ [Statistician ranked as best job in 2017 by CareerCast ](http://blog.revolutionanalytics.com/2017/05/best-job-i2017-statistican.html),135,FALSE,###  Insights,link,2017-05-08
+<!--Mining CRAN DESCRIPTION files](http://juliasilge.com/blog/Mining-CRAN-DESCRIPTION/)-->,90,FALSE,###  R in the Real World,unid,2017-05-08
+![Mining CRAN DESCRIPTION files](https://raw.githubusercontent.com/juliasilge/juliasilge.github.io/master/figs/2017-05-04-Mining-CRAN-DESCRIPTION/practices-1.png),162,FALSE,###  R in the Real World,image,2017-05-08
+"+ [Using the Hydro Network-Linked Data Index, add river features to your next R map](https://owi.usgs.gov/blog/nldi-intro/)",123,FALSE,###  R in the Real World,link,2017-05-08
++ [Analysis of Inaugural Speech Data: Part 1](https://pradeepadhokshaja.wordpress.com/2017/05/01/analysis-of-inaugural-speech-data-part-1/),139,FALSE,###  R in the Real World,link,2017-05-08
++ [House price visualizations](http://lenkiefer.github.io/2017/05/02/house-price-viz),85,FALSE,###  R in the Real World,link,2017-05-08
++ ['And the winner is...' Textmining Award Nominations](https://daranzolin.github.io/articles/2017-04/nomination-mining),120,FALSE,###  R in the Real World,link,2017-05-08
++ [Visualizing Tennis Grand Slam Winners Performances](https://datascienceplus.com/visualizing-tennis-grand-slam-winners-performances/),135,FALSE,###  R in the Real World,link,2017-05-08
+![Visualizing Tennis Grand Slam Winners Performances](https://datascienceplus.com/wp-content/uploads/2017/04/barplot_facet.png),127,FALSE,###  R in the Real World,image,2017-05-08
++ [House price growth and employment trends](http://lenkiefer.github.io/2017/05/03/house-price-emp-trends),106,FALSE,###  R in the Real World,link,2017-05-08
++ [Estimating the Size of a Demonstration](http://staff.math.su.se/hoehle/blog/2017/05/04/crowdsize.html),105,FALSE,###  R in the Real World,link,2017-05-08
++ [Some default and debt restructuring data](http://simplystats.github.io/2017/05/04/debt-haircuts/),100,FALSE,###  R in the Real World,link,2017-05-08
++ [Roger Peng - Data Science for the Public Good: A Case Study in Environmental Health](https://www.stolaf.edu/multimedia/play/?e=1935),135,FALSE,###  Videos and Podcasts,link,2017-05-08
++ [Text Analysis R Developers' Workshop 2017](http://ropensci.org/blog/blog/2017/05/03/textworkshop17),102,FALSE,###  R in Organizations,link,2017-05-08
++ [Chat with the rOpenSci team at upcoming meetings](http://ropensci.org/blog/blog/2017/05/01/ropensci-at-meetings),115,FALSE,###  R in Organizations,link,2017-05-08
++ [Shiny in Medicine](https://rviews.rstudio.com/2017/05/03/shiny-in-medicine/),79,FALSE,###  R in Organizations,link,2017-05-08
++ [Premiers pas en Machine Learning avec R. Volume 2 : la classification](http://www.thinkr.fr/premiers-pas-en-machine-learning-avec-r-volume-2-la-classification/) — [English - Autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/premiers-pas-en-machine-learning-avec-r-volume-2-la-classification/) ,338,FALSE,###  R Internationally,link,2017-05-08
++ [Des recours différents à la procuration](http://coulmont.com/blog/2017/05/04/quartier-procuration/) — [English - Autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://coulmont.com/blog/2017/05/04/quartier-procuration/)  ,247,FALSE,###  R Internationally,link,2017-05-08
++ [Google Summer of Code 2017](https://summerofcode.withgoogle.com/organizations/4947241283354624/) - [Noninvasive source code formatting](https://summerofcode.withgoogle.com/projects/#5106168436359168),202,FALSE,###  R in Academia,link,2017-05-08
++ [plotly for R workshop at plotcon '17](https://github.com/cpsievert/plotcon17),80,FALSE,###  Resources,link,2017-05-08
++ [A Psychologist's Guide to R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R),94,FALSE,###  Resources,link,2017-05-08
+"<p class=""hide-support added-hostname support-rweekly"" style=""text-align: center;font-weight: bold;"">Your <a class=""non-visited externalLink"" href=""https://www.patreon.com/rweekly"" onclick=""pas(this)"">support</a> will keep R Weekly team moving! 💡</p>",250,FALSE,###  Resources,unid,2017-05-08
+"<p class=""added-hostname""><a href=""https://rweekly.org/live"" target=""_blank"" class=""externalLink"">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>",142,FALSE,###  New Packages,unid,2017-05-08
++ [BrailleR](https://github.com/ajrgodfrey/BrailleR) - Improving R for blind users.,83,FALSE,###  New Packages,link,2017-05-08
++ [decapitated](https://github.com/hrbrmstr/decapitated) - Headless 'Chrome' Orchestration in R,95,FALSE,###  New Packages,link,2017-05-08
++ [casebase](https://github.com/sahirbhatnagar/casebase) - Fit Flexible Smooth-in-Time Hazards and Risk Functions via Logistic and Multinomial Regression,153,FALSE,###  New Packages,link,2017-05-08
+![casebase](https://raw.githubusercontent.com/sahirbhatnagar/casebase/master/docs/intro_files/figure-markdown/unnamed-chunk-25-1.png),133,FALSE,###  New Packages,image,2017-05-08
++ [timekit](http://www.business-science.io/code-tools/2017/05/02/timekit-0-2-0.html) - Time Series Forecast Applications Using Data Mining,138,FALSE,###  New Packages,link,2017-05-08
++ [desctable](https://github.com/maximewack/desctable) -  An R package to produce descriptive and comparative tables,116,FALSE,###  New Packages,link,2017-05-08
++ [Sinew](http://r-posts.com/adding-sinew-to-roxygen2-skeletons/) - Create self-populating roxygen2 skeletons,109,FALSE,###  New Packages,link,2017-05-08
++ [Technical Foundations of Informatics: A modern introduction to R ](http://blog.revolutionanalytics.com/2017/05/technical-foundations-of-informatics.html),156,FALSE,###  Tutorials,link,2017-05-08
+"+ [crayon colors, simplified](http://kbroman.org/blog/2017/05/02/crayon-colors-simplified/)",91,FALSE,###  Tutorials,link,2017-05-08
++ [Monthly seasonality](http://robjhyndman.com/hyndsight/monthly-seasonality/),78,FALSE,###  Tutorials,link,2017-05-08
++ [A note on AIC scores for quasi-families in #rstats](http://www.christopherlortie.info/a-note-on-aic-scores-for-quasi-families-in-rstats/),140,FALSE,###  Tutorials,link,2017-05-08
++ [caching blogdown](http://kbroman.org/blog/2017/05/01/caching-blogdown/),74,FALSE,###  Tutorials,link,2017-05-08
++ [Scrapeover Friday — a.k.a. Another R Scraping Makeover](https://rud.is/b/2017/05/05/scrapeover-friday-a-k-a-another-r-scraping-makeover/),140,FALSE,###  Tutorials,link,2017-05-08
++ [Billboard 1964-2015 Songs + Lyrics](https://www.kaggle.com/stansilas/d/rakannimer/billboard-lyrics/love-lasts-forever/code),126,FALSE,###  Tutorials,link,2017-05-08
+![Billboard 1964-2015 Songs + Lyrics](https://www.kaggle.io/svf/1118691/0be278bb3fec820401626ae7c2e2e42d/songs_blbrd.gif),121,FALSE,###  Tutorials,image,2017-05-08
++ [How to Establish a Web Presence as an R User and Why It's Important ](https://rviews.rstudio.com/2017/05/05/web_presence/),125,FALSE,###  Tutorials,link,2017-05-08
++ [Autoencoders and anomaly detection with machine learning in fraud analytics](https://shirinG.github.io/machine_learning/2017/05/01/fraud),140,FALSE,###  Tutorials,link,2017-05-08
++ [R plotmath functions combined with variable values ](http://lukemiller.org/index.php/2017/05/r-plotmath-functions-combined-with-variable-values/),148,FALSE,###  Tutorials,link,2017-05-08
++ [Prediction intervals for GLMs part I](http://www.fromthebottomoftheheap.net/2017/05/01/glm-prediction-intervals-i/) - [part II](http://www.fromthebottomoftheheap.net/2017/05/01/glm-prediction-intervals-ii/),209,FALSE,###  Tutorials,link,2017-05-08
++ [Updating R](https://lcolladotor.github.io/2017/05/04/Updating-R/),68,FALSE,###  Tutorials,link,2017-05-08
++ [Figure Aesthetics or Overlays?](https://blog.ouseful.info/2017/05/02/figure-aesthetics-or-overlays/),103,FALSE,###  Tutorials,link,2017-05-08
++ [Race Track Concordance Charts](https://blog.ouseful.info/2017/05/01/track-concordance-charts/),97,FALSE,###  Tutorials,link,2017-05-08
+![https://blog.ouseful.info/2017/05/01/track-concordance-charts/](https://ouseful.files.wordpress.com/2017/05/botconctest.png),126,FALSE,###  Tutorials,image,2017-05-08
++ [twidlr: data.frame-based API for model and predict functons](http://drsimonj.svbtle.com/twidlr-data-frame-based-api-for-model-and-predict-functons),150,FALSE,###  Tutorials,link,2017-05-08
++ [Why to use wrapr::let()](http://www.win-vector.com/blog/2017/05/why-to-use-wraprlet/),88,FALSE,###  Tutorials,link,2017-05-08
++ [Extracting data from Twitter for #machinelearningflashcards](http://jasdumas.github.io/2017-05-02-twitter-ml-flashcards/),124,FALSE,###  Tutorials,link,2017-05-08
++ [Update to autoencoders and anomaly detection with machine learning in fraud analytics](https://shirinG.github.io/machine_learning/2017/05/02/fraud_2),152,FALSE,###  Tutorials,link,2017-05-08
++ [End-to-End Scenarios Enabled by the Data Science Virtual Machine: Webinar Video](https://blogs.technet.microsoft.com/machinelearning/2017/05/02/end-to-end-scenarios-enabled-by-the-data-science-virtual-machine-video/),219,FALSE,###  Tutorials,link,2017-05-08
++ [Taking control of animations in R and demystifying them in the process](http://www.data-imaginist.com/2017/Animating-the-logo/),130,FALSE,###  Tutorials,link,2017-05-08
+![Taking control of animations in R and demystifying them in the process](https://raw.githubusercontent.com/thomasp85/thomasp85.github.io/master/assets/images/2017-05-02-Animating-the-logo/unnamed-chunk-8-.gif),210,FALSE,###  Tutorials,image,2017-05-08
++ [Adding Sinew to Roxygen2 Skeletons](http://r-posts.com/adding-sinew-to-roxygen2-skeletons/),94,FALSE,###  Tutorials,link,2017-05-08
++ [A tribute to Lucy D'Agostino McGowan's git commit emoji game](http://maelle.github.io/2017/05/03/lucysemojis/),113,FALSE,###  Tutorials,link,2017-05-08
++ [Workout Wednesday with pollstR](http://www.austinwehrwein.com/data-visualization/workout-wednesday-pollstr/),111,FALSE,###  Tutorials,link,2017-05-08
++ [Real-time scoring with Microsoft R Server 9.1](http://blog.revolutionanalytics.com/2017/05/real-time-scoring-with-mrs-91.html),129,FALSE,###  Tutorials,link,2017-05-08
++ [Machine Learning Forecasting Numeric Data with Multiple Linear Regression (Medical Expenses)](http://datarvalue.blogspot.com/2017/05/machine-learning-forecasting-numeric.html),178,FALSE,###  Tutorials,link,2017-05-08
++ [Fitting count and zero-inflated count GLMMs with mgcv](http://www.fromthebottomoftheheap.net/2017/05/04/compare-mgcv-with-glmmTMB/),134,FALSE,###  Tutorials,link,2017-05-08
++ [Everyone knows that loops in R are to be avoided but vectorization is not always possible](http://r-posts.com/everyone-knows-that-loops-in-r-are-to-be-avoided-but-vectorization-is-not-always-possible/),204,FALSE,###  Tutorials,link,2017-05-08
++ [Building Shiny App for Alcohol Consumption Data Set](https://pradeepadhokshaja.wordpress.com/2017/05/05/building-shiny-app-for/),131,FALSE,###  Tutorials,link,2017-05-08
++ [Modelling individual party vote from the 2014 New Zealand election study](http://ellisp.github.io/blog/2017/05/06/nz-first),126,FALSE,###  Tutorials,link,2017-05-08
+![Modelling individual party vote from the 2014 New Zealand election study](https://ellisp.github.io/img/0096-svyglm-boot.svg),126,FALSE,###  Tutorials,image,2017-05-08
+"+ [Modeling Face Images with Nonnegative Matrix Factorization (NMF), Kmeans with Vector Quantization (VQ) and Singular Value Decompostion (SVD) in R](https://sandipanweb.wordpress.com/2017/04/29/modeling-face-images-with-nonnegative-matrix-factorization-nmf-kmeans-with-vector-quantization-vq-and-singular-value-decompostion-svd/)",330,FALSE,###  Tutorials,link,2017-05-08
++ [A Semi-Supervised Classification Algorithm using Markov Chain and Random Walk in R](https://sandipanweb.wordpress.com/2017/04/09/a-semi-supervised-classification-algorithm-using-markov-chain-and-random-walk-in-r/),216,FALSE,###  Tutorials,link,2017-05-08
+"<!--<div class=""post-more-begin""></div><div class=""post-more-end""></div>-->",75,FALSE,###  Tutorials,unid,2017-05-08
++ [RcppEigen 0.3.3.3.0](http://dirk.eddelbuettel.com/blog/2017/05/05#rcppeigen_0.3.3.3.0) - 'Rcpp' Integration for the 'Eigen' Templated Linear Algebra Library,159,FALSE,###  Package Releases,link,2017-05-08
++ [RInside 0.2.14](http://dirk.eddelbuettel.com/blog/2017/05/07#rinside_0.2.14) - Provides a set of convenience classes which facilitate embedding of R inside of C++ applications ,179,FALSE,###  Package Releases,link,2017-05-08
++ [x13binary 1.1.39-1](http://dirk.eddelbuettel.com/blog/2017/05/06#x13binary_1.1.39-1) - Provide the 'x13ashtml' Seasonal Adjustment Binary,140,FALSE,###  Package Releases,link,2017-05-08
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):,79,FALSE,###  R Project Updates,unid,2017-05-08
+"+  Connections are now written correctly with encoding `""UTF-16LE""`. ",69,FALSE,###  R Project Updates,unid,2017-05-08
+"+ [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />",78,FALSE,###  Upcoming Events,link,2017-05-08
+"From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance.",176,FALSE,###  Upcoming Events,unid,2017-05-08
+"+ [R in Insurance 2017](https://rininsurance17.sciencesconf.org/) **June 8, 2017** <br />",89,FALSE,###  Upcoming Events,link,2017-05-08
+"This one-day conference will focus on applications in insurance and actuarial science that use R, the lingua franca for statistical computation.",144,FALSE,###  Upcoming Events,unid,2017-05-08
+"+ [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />",81,FALSE,###  Upcoming Events,link,2017-05-08
+Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.,224,FALSE,###  Upcoming Events,unid,2017-05-08
+"+ [angletR 2017](http://angletr2017.com/) **June 28 - 30, 2017** <br/>",70,FALSE,###  Upcoming Events,link,2017-05-08
+"angletR aims to provide a national forum to exchange and share ideas on the use of R in different subjects such as visualisation, applied statistics, biostatistics and bioinformatics, Bayesian statistics, data analysis, Big Data, modelling, machine learning, high performance computing, etc.",291,FALSE,###  Upcoming Events,unid,2017-05-08
+"<!-- !useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />",68,FALSE,###  Upcoming Events,unid,2017-05-08
+The annual useR! conference is the main meeting of the international R user and developer community.-->,103,FALSE,###  Upcoming Events,unid,2017-05-08
+More past events at [R conferences & meetups](https://conf.rweekly.org).,72,FALSE,###  Upcoming Events,unid,2017-05-08
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">Making the most of an airport terminal. geom_sankey (to be included in <a href=""https://twitter.com/hashtag/ggforce?src=hash"">#ggforce</a>)<a href=""https://twitter.com/hashtag/ggplot2?src=hash"">#ggplot2</a> <a href=""https://twitter.com/hashtag/dataviz?src=hash"">#dataviz</a> <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a> <a href=""https://t.co/Vp62LoXF1a"">pic.twitter.com/Vp62LoXF1a</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href=""https://twitter.com/thomasp85/status/860349452841697280"">May 5, 2017</a></blockquote>",616,FALSE,###  Quotes of the Week,unid,2017-05-08
+"<blockquote class=""twitter-tweet"" data-lang=""en""><p lang=""en"" dir=""ltr"">What would it be for <a href=""https://twitter.com/hashtag/rstats?src=hash"">#rstats</a>? Maybe<br><br>R: What if statisticians wrote a programming language?<br><br>shared by <a href=""https://twitter.com/sempf"">@sempf</a> <a href=""https://t.co/RTPTajlLsl"">pic.twitter.com/RTPTajlLsl</a></p>&mdash; Clark Fitzgerald (@clarkfitzg) <a href=""https://twitter.com/clarkfitzg/status/860168573343236096"">May 4, 2017</a></blockquote>",494,FALSE,###  Quotes of the Week,unid,2017-05-08
